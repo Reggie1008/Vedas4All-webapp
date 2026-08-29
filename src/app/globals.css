@@ -1,0 +1,209 @@
+@import "@fontsource/noto-serif-devanagari/400.css";
+@import "@fontsource/noto-serif-devanagari/600.css";
+@import "@fontsource/noto-serif-devanagari/700.css";
+@import "@fontsource/plus-jakarta-sans/400.css";
+@import "@fontsource/plus-jakarta-sans/500.css";
+@import "@fontsource/plus-jakarta-sans/600.css";
+@import "@fontsource/plus-jakarta-sans/800.css";
+@import "@fontsource/kaushan-script/400.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Gentium Plus, self-hosted unsubsetted (not via @fontsource): the
+   Google Fonts web pipeline strips the rare combining diacritics this
+   project's Vedic transliteration depends on — U+0331 anudātta,
+   U+030D svarita, U+030E double svarita — so every subsetted build of
+   the same font silently drops them. It also carries a GPOS table,
+   which is what actually positions a mark over ā rather than letting
+   it drift. No unicode-range: Gentium covers every character the IAST
+   uses except the Devanagari daṇḍa, which falls through to Noto Serif
+   Devanagari below. */
+@font-face {
+  font-family: "Gentium Plus";
+  src: url("/fonts/GentiumPlus-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Gentium Plus";
+  src: url("/fonts/GentiumPlus-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* ---------------------------------------------------------------- */
+/* Theme tokens                                                      */
+/* ---------------------------------------------------------------- */
+
+:root {
+  /* Dark is the default: it matches the cinematic chant artwork and
+     lets each chant's accent colour carry the page. */
+  --canvas: #080b10;
+  --elevated: #0e131b;
+  --surface: rgb(255 255 255 / 4.5%);
+  --surface-hi: rgb(255 255 255 / 8%);
+  --hairline: rgb(255 255 255 / 10%);
+  --hairline-hi: rgb(255 255 255 / 20%);
+  --ink: #eef2f6;
+  --ink-2: rgb(238 242 246 / 66%);
+  --ink-3: rgb(238 242 246 / 42%);
+  --scrim: 8, 11, 16;
+
+  --accent: #dda83f;
+  --font-scale: 1;
+
+  color-scheme: dark;
+}
+
+[data-theme="light"] {
+  --canvas: #fbfaf7;
+  --elevated: #ffffff;
+  --surface: #ffffff;
+  --surface-hi: #f4f6f9;
+  --hairline: rgb(43 87 115 / 14%);
+  --hairline-hi: rgb(43 87 115 / 28%);
+  --ink: #12202c;
+  --ink-2: rgb(18 32 44 / 68%);
+  --ink-3: rgb(18 32 44 / 45%);
+  --scrim: 255, 255, 255;
+
+  color-scheme: light;
+}
+
+* {
+  border-color: var(--hairline);
+}
+
+/* Several chant accents are pale (Śānti's cream-gold, Gāyatrī's sunrise)
+   and fail contrast as text on the light canvas. --accent-ink is the
+   text-safe form: identical in dark, darkened in light. It is declared
+   on `*` deliberately, so it recomputes against each element's own
+   inherited --accent rather than freezing to the :root fallback. */
+* {
+  --accent-ink: var(--accent);
+}
+[data-theme="light"] * {
+  /* 45/55 rather than a lighter mix so even the palest accent clears
+     4.5:1 on the light canvas at small label sizes. */
+  --accent-ink: color-mix(in srgb, var(--accent) 45%, #0f1e2a);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--canvas);
+  color: var(--ink);
+  font-family: "Plus Jakarta Sans", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--accent);
+  color: #08111a;
+}
+
+:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* ---------------------------------------------------------------- */
+/* Sacred text                                                       */
+/* ---------------------------------------------------------------- */
+
+/* Devanagari needs generous line-height and top padding so svara marks
+   (anudatta below, svarita above, the compound double-svarita, and the
+   Vedic anusvara) never get clipped by adjacent lines. */
+.devanagari-text {
+  font-family: "Noto Serif Devanagari", serif;
+  line-height: 2.5;
+  padding-top: 0.35em;
+  padding-bottom: 0.15em;
+  font-size: calc(1.6rem * var(--font-scale));
+  word-spacing: 0.14em;
+  color: var(--ink);
+}
+
+/* IAST shown as the secondary line, beneath Devanagari. */
+.iast-text {
+  font-family: "Gentium Plus", "Noto Serif Devanagari", serif;
+  font-size: calc(1.05rem * var(--font-scale));
+  line-height: 2;
+  color: var(--ink-2);
+}
+
+/* IAST as the primary reading text (Devanagari hidden): larger and
+   full-contrast, since it carries the verse alone. */
+.iast-text-primary {
+  font-family: "Gentium Plus", "Noto Serif Devanagari", serif;
+  font-size: calc(1.375rem * var(--font-scale));
+  line-height: 2.05;
+  color: var(--ink);
+}
+
+.scalable-text {
+  font-size: calc(1rem * var(--font-scale));
+}
+
+/* ---------------------------------------------------------------- */
+/* Components                                                        */
+/* ---------------------------------------------------------------- */
+
+.glass {
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  backdrop-filter: blur(12px);
+}
+
+/* Ambient wash of the active chant's accent, used behind heroes. */
+.accent-glow {
+  background: radial-gradient(
+    60% 60% at 50% 0%,
+    color-mix(in srgb, var(--accent) 26%, transparent) 0%,
+    transparent 70%
+  );
+}
+
+.eyebrow {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+}
+
+/* Echoes the "Learn to Chant" lettering on the video thumbnails. Those
+   use Above the Beyond, which is commercially licensed and can't be
+   bundled — Kaushan Script is the closest open-licensed signature. */
+.script-accent {
+  font-family: "Kaushan Script", cursive;
+  color: var(--accent-ink);
+  font-size: clamp(1.25rem, 1rem + 1vw, 1.6rem);
+  line-height: 1.3;
+}
+
+.hide-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.hide-scrollbar {
+  scrollbar-width: none;
+}

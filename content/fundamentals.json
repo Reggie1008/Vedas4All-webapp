@@ -1,0 +1,145 @@
+[
+  {
+    "id": "pronunciation",
+    "order": 1,
+    "module": "Module 1",
+    "title": "Learning Pronunciations",
+    "subtitle": "The Science of Sound",
+    "summary": "The fifty mother sounds, where each one is formed in the mouth, and why the difference matters.",
+    "quote": {
+      "text": "The Vedas come from certain fundamental sounds, and their variations. The slightest modification of the sound changes the meaning.",
+      "attribution": "Śrī Bhagavān"
+    },
+    "blocks": [
+      {
+        "type": "levels",
+        "heading": "Mantras are vibrations",
+        "intro": "A sound does not begin at the lips. It rises through four levels before it is heard.",
+        "items": [
+          { "sanskrit": "Parā", "english": "Unmanifest", "seat": "Naval" },
+          { "sanskrit": "Paśyanti", "english": "Perceived", "seat": "Heart" },
+          { "sanskrit": "Madhyamā", "english": "Medium", "seat": "Throat" },
+          { "sanskrit": "Vaikharī", "english": "Language", "seat": "Mouth, tongue, lips, nasal" }
+        ]
+      },
+      {
+        "type": "verse",
+        "heading": "Sound perfection: step one",
+        "iast": "oṃ yad-akṣara¹ pada² bhraṣṭaṃ mātrā³hīnantu yadbhavet | tat sarvaṃ kṣamyatān deva nārāyaṇa namostute ||",
+        "notes": [
+          { "term": "¹ akṣara", "meaning": "root sounds and their pronunciation" },
+          { "term": "² pada", "meaning": "combination of those sounds as in a word" },
+          { "term": "³ mātrā", "meaning": "duration, or time taken to utter the sounds" }
+        ]
+      },
+      {
+        "type": "articulation",
+        "heading": "The fifty mother sounds",
+        "intro": "Mātṛika, or varṇa. Fourteen need no aid — the vowels. Thirty-six are formed with aid — the consonants. Every one belongs to a place in the mouth. Choose a place to see its sounds.",
+        "places": [
+          {
+            "id": "guttural",
+            "label": "Guttural",
+            "where": "At the throat",
+            "vowels": ["a", "ā"],
+            "varga": ["ka", "kha", "ga", "gha", "ṅa"],
+            "other": [{ "sound": "ha", "kind": "aspirate", "example": "deha" }],
+            "counts": { "vowels": 2, "consonants": 5 }
+          },
+          {
+            "id": "palatal",
+            "label": "Palatal",
+            "where": "Tongue against the hard palate",
+            "vowels": ["i", "ī", "e", "ai"],
+            "varga": ["ca", "cha", "ja", "jha", "ña"],
+            "other": [
+              { "sound": "ya", "kind": "semivowel" },
+              { "sound": "śa", "kind": "sibilant", "example": "Śaṅkara" }
+            ],
+            "counts": { "vowels": 4, "consonants": 6 }
+          },
+          {
+            "id": "cerebral",
+            "label": "Cerebral",
+            "where": "Tongue curled to the roof",
+            "vowels": ["ṛ", "ṝ"],
+            "varga": ["ṭa", "ṭha", "ḍa", "ḍha", "ṇa"],
+            "other": [
+              { "sound": "ra", "kind": "semivowel" },
+              { "sound": "ṣa", "kind": "sibilant", "example": "Ṣaṇmukha" }
+            ],
+            "counts": { "vowels": 2, "consonants": 6 }
+          },
+          {
+            "id": "dental",
+            "label": "Dental",
+            "where": "Tongue at the teeth",
+            "vowels": ["ḷ", "ḹ"],
+            "varga": ["ta", "tha", "da", "dha", "na"],
+            "other": [
+              { "sound": "la", "kind": "semivowel" },
+              { "sound": "sa", "kind": "sibilant", "example": "Sahasra" }
+            ],
+            "counts": { "vowels": 2, "consonants": 6 }
+          },
+          {
+            "id": "labial",
+            "label": "Labial",
+            "where": "At the lips",
+            "vowels": ["u", "ū", "o", "au"],
+            "varga": ["pa", "pha", "ba", "bha", "ma"],
+            "other": [{ "sound": "va", "kind": "semivowel" }],
+            "counts": { "vowels": 4, "consonants": 5 }
+          }
+        ],
+        "footnotes": [
+          "Short vowels take one unit of time; long vowels take two.",
+          "The combination vowels are built from the simple ones: e = a + i, o = a + u, ai = a + ī, au = a + ū.",
+          "Fourteen vowels in all, and twenty-eight of the thirty-six consonants sit in these five places."
+        ]
+      },
+      {
+        "type": "aspirated",
+        "heading": "The force of chanting",
+        "intro": "Each varga pairs an unaspirated sound with an aspirated one. The aspirated sound carries a push of breath, and losing it changes the word.",
+        "pairs": [
+          { "sound": "kha", "example": "khalyāya" },
+          { "sound": "gha", "example": "jaghanyāya" },
+          { "sound": "cha", "example": "yacchañ ca" },
+          { "sound": "ṭha", "example": "nīlaka̱ṇṭhāya" },
+          { "sound": "ḍha", "example": "mīḍhuṣe" },
+          { "sound": "tha", "example": "rathebhyo" },
+          { "sound": "dha", "example": "dharma" },
+          { "sound": "pha", "example": "phenyāya" },
+          { "sound": "bha", "example": "kulālebhyaḥ" }
+        ]
+      },
+      {
+        "type": "practice",
+        "heading": "Practice",
+        "intro": "Words drawn from the chants, each turning on a vowel you have just met.",
+        "words": [
+          { "word": "namo", "focus": "o" },
+          { "word": "bhagavate", "focus": "e" },
+          { "word": "rudrāya", "focus": "ā" },
+          { "word": "iṣave", "focus": "i" },
+          { "word": "īmahe", "focus": "ī" },
+          { "word": "hṛdaya", "focus": "ṛ" },
+          { "word": "utainaṁ", "focus": "ai" },
+          { "word": "kḷptañ ca me", "focus": "ḷ" },
+          { "word": "asau", "focus": "au" },
+          { "word": "babhūva", "focus": "ū" }
+        ]
+      },
+      {
+        "type": "next",
+        "heading": "Next module",
+        "items": [
+          { "sound": "aḥ", "label": "Visarga", "place": "Guttural" },
+          { "sound": "aṁ", "label": "Bindu, or dot", "place": "Labial, nasal" }
+        ]
+      }
+    ],
+    "source": "Vedas4All — VedaStudy: The Science of Sound, module 1"
+  }
+]

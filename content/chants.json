@@ -1,0 +1,2440 @@
+[
+  {
+    "id": "ganapati-prarthana",
+    "title": {
+      "sanskrit": "गणपति प्रार्थना",
+      "iast": "Gaṇapati Prārthanā",
+      "english": "Opening Invocation"
+    },
+    "category": "Opening Prayer",
+    "order": 1,
+    "note": "Traditionally, Veda recitation begins with the Ganapati Prarthana.",
+    "verses": [
+      {
+        "devanagari": "ॐ ग॒णाना॓न्त्वा ग॒णप॑तिꣳ हवामहे",
+        "iast": "oṃ ga̱ṇānā̎ntvā ga̱ṇapa̍tiṃ havāmahe"
+      },
+      {
+        "devanagari": "क॒विं॓ कवी॒नामु॑प॒मश्र॑वस्तमम् ।",
+        "iast": "ka̱viṃ̎ kavī̱nāmu̍pa̱maśra̍vastamam |"
+      },
+      {
+        "devanagari": "ज्ये॒ष्ठरा॒जं ब्रह्म॑णां ब्रह्मणस्पत",
+        "iast": "jye̱ṣṭharā̱jaṃ brahma̍ṇāṃ brahmaṇaspata"
+      },
+      {
+        "devanagari": "आ नः॑ शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ॥",
+        "iast": "ā na̍ḥ śṛ̱ṇvannū̱tibhi̍ssīda̱ sāda̍nam ||"
+      },
+      {
+        "devanagari": "प्रणो॑ दे॒वी सर॑स्वती । वाजे॓भिर्वा॒जिनी॑वती ।",
+        "iast": "praṇo̍ de̱vī sara̍svatī | vāje̎bhirvā̱jinī̍vatī |"
+      },
+      {
+        "devanagari": "धी॒नाम॑वि॒त्र्य॑वतु ॥",
+        "iast": "dhī̱nāma̍vi̱trya̍vatu ||"
+      },
+      {
+        "devanagari": "गणेशाय नमः । सरस्वत्यै नमः । श्री गुरुभ्यो नमः । हरिः ॐ ॥",
+        "iast": "gaṇeśāya namaḥ | sarasvatyai namaḥ | śrī gurubhyo namaḥ | hariḥ oṃ ||"
+      }
+    ],
+    "overview": "I invoke that energy which is the master of all my senses. Please come and be present before us, and listen to what we are saying. The supreme consciousness is always present — but are we aware of it? By reciting this mantra we make ourselves aware of it. Then: may that supreme consciousness flow through me. Just as current flowing through a bulb lights it up, the intellect is the bulb and consciousness is the current. When that current flows, the intellect is illumined.",
+    "wordMeanings": [
+      {
+        "word": "Gaṇapati",
+        "meaning": "master of all the senses"
+      },
+      {
+        "word": "Kaviṃ kavīnām",
+        "meaning": "the knower of the knowers — the supreme consciousness"
+      },
+      {
+        "word": "Jyeṣṭharājaṃ brahmaṇām",
+        "meaning": "the foremost among those who know the Absolute"
+      },
+      {
+        "word": "Sarasvatī",
+        "meaning": "the flow of consciousness"
+      },
+      {
+        "word": "Devī",
+        "meaning": "that which gives energy"
+      },
+      {
+        "word": "Vājebhir vājinīvatī",
+        "meaning": "the one who gives energy to the energies"
+      },
+      {
+        "word": "Dhī / dhīnām",
+        "meaning": "the intellect"
+      },
+      {
+        "word": "Avitryavatu",
+        "meaning": "illumined and energised by the flow of consciousness"
+      }
+    ],
+    "universalReflection": "Before we speak, we ask to be worth listening to. Every act of learning begins by admitting we do not yet know.",
+    "parallels": [
+      {
+        "tradition": "Sikhism",
+        "text": "Waheguru is a focal word around which every activity of a Sikh revolves. Waheguru Simran serves as a constant expression of internal awareness of the Divine, and the term is carried into daily vocabulary as a social expression of Divine consciousness.",
+        "source": "sikhnet.com"
+      }
+    ],
+    "audio": {
+      "slow": "/audio/ganapati-prarthana-slow.mp3",
+      "normal": "/audio/ganapati-prarthana.mp3",
+      "source": ""
+    },
+    "youtubeId": "o6yXSnynWGc",
+    "booklet": "Sai Atirudram"
+  },
+  {
+    "id": "gayatri-mantra",
+    "title": {
+      "sanskrit": "गायत्री मन्त्र",
+      "iast": "Gāyatrī Mantra",
+      "english": "Gayatri Mantra"
+    },
+    "category": "",
+    "order": 2,
+    "note": "Chanted three times.",
+    "verses": [
+      {
+        "devanagari": "ॐ भू॒र्भुव॒स्सुवः॑ ।",
+        "iast": "oṁ bhūr bhuva̱s suva̍ḥ |"
+      },
+      {
+        "devanagari": "तत्स॑वि॒तुर्वरे॓ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।",
+        "iast": "tat-sa̍vi̱turvare̎ṇya̱m bhargo̍ de̱vasya̍ dhīmahi |"
+      },
+      {
+        "devanagari": "धियो॒ यो नः॑ प्रचो॒दया॓त् ॥",
+        "iast": "dhiyo̱ yo na̍ḥ(f) praco̱dayā̎t ||"
+      },
+      {
+        "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
+        "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+        "source": "Ṛg Veda 3.62.10"
+      }
+    ],
+    "overview": "We meditate on THAT divine, life-sustaining, resplendent effulgence, pervading the gross, the subtle and the causal. May THAT supreme intelligence illuminate our intellects.",
+    "structure": "The Gayatri has three parts — adoration, meditation, and prayer. First the Divine is praised, then meditated upon in reverence, and finally an appeal is made to awaken and strengthen the intellect, the discriminating faculty of the human being. (Sri Sathya Sai Baba)",
+    "wordMeanings": [
+      {
+        "word": "Tat",
+        "meaning": "That"
+      },
+      {
+        "word": "Savitur",
+        "meaning": "life-sustaining"
+      },
+      {
+        "word": "Vareṇyaṃ",
+        "meaning": "resplendent"
+      },
+      {
+        "word": "Bhargaḥ",
+        "meaning": "effulgence"
+      },
+      {
+        "word": "Devasya",
+        "meaning": "divine"
+      },
+      {
+        "word": "Dhīmahi",
+        "meaning": "meditating on that supreme intelligence"
+      },
+      {
+        "word": "Dhiyaḥ",
+        "meaning": "the intellect"
+      },
+      {
+        "word": "Yaḥ",
+        "meaning": "that"
+      },
+      {
+        "word": "Naḥ",
+        "meaning": "ours"
+      },
+      {
+        "word": "Pracodayāt",
+        "meaning": "be propelled, be illumined"
+      },
+      {
+        "word": "Bhūḥ",
+        "meaning": "gross / earth / now / waking state"
+      },
+      {
+        "word": "Bhuvaḥ",
+        "meaning": "subtle / atmosphere / past / dream state"
+      },
+      {
+        "word": "Suvaḥ",
+        "meaning": "causal / sky / future / deep sleep state"
+      }
+    ],
+    "universalReflection": "The prayer does not ask for wealth, safety or victory. It asks only that our thinking be made clear. Everything else follows from that.",
+    "quotes": [
+      {
+        "text": "The Gayatri is considered the essence of the Vedas. Veda means knowledge, and this prayer fosters and sharpens the knowledge-yielding faculty.",
+        "attribution": "Sri Sathya Sai Baba"
+      },
+      {
+        "text": "The Gayatri is a universal prayer enshrined in the Vedas. It is addressed to the Immanent and Transcendent Divine, given the name 'Savita' — that from which all this is born.",
+        "attribution": "Sri Sathya Sai Baba"
+      }
+    ],
+    "parallels": [
+      {
+        "tradition": "Islam",
+        "text": "We pray to You alone and seek help from You alone. Show us the righteous path — the path of those blessed with Your light and grace.",
+        "source": "Qur'an, Sūrah al-Fātiḥah"
+      },
+      {
+        "tradition": "Buddhism",
+        "text": "Surrender to Buddha — enlightened awareness. Surrender to Dhamma — inner righteousness. Surrender to Sangha — collective consciousness.",
+        "source": "Diksha Mantra, Trisharanam"
+      },
+      {
+        "tradition": "Judaism",
+        "text": "Guide me on the path of righteousness; show me Your way, which is straight, noble and perfect.",
+        "source": "Old Testament"
+      },
+      {
+        "tradition": "Japanese teaching",
+        "text": "Our eyes may see indecent things, but our hearts should be free of impurity. Our ears may hear what is profane, but our hearts should perceive nothing unholy.",
+        "source": "Japanese preaching"
+      }
+    ],
+    "audio": {
+      "slow": "",
+      "normal": "",
+      "source": ""
+    },
+    "youtubeId": "FmFBqrEBv40",
+    "booklet": "Sai Atirudram"
+  },
+  {
+    "id": "shanti-mantra",
+    "title": {
+      "sanskrit": "शान्ति मन्त्र",
+      "iast": "Śānti Mantra",
+      "english": "Prayer for Peace"
+    },
+    "category": "Closing Prayer",
+    "order": 3,
+    "note": "The final line is chanted three times.",
+    "verses": [
+      {
+        "devanagari": "स्वस्तिः॑ प्र॒जाभ्यः॑ परिपालयन्तां॒",
+        "iast": "svasti̍ḥ pra̱jābhya̍ḥ paripālayantā̱ṃ"
+      },
+      {
+        "devanagari": "न्याय्येन मार्गेण महीं महीशाः॒ ।",
+        "iast": "nyāyyena mārgeṇa mahīṃ mahīśā̱ḥ |"
+      },
+      {
+        "devanagari": "गो ब्राह्मणेभ्यः॑ शुभमस्तु नित्यं॒",
+        "iast": "go brāhmaṇebhya̍ḥ śubhamastu nitya̱ṃ"
+      },
+      {
+        "devanagari": "स॒मस्त लो॒काः सुखि॒नो भवन्तु॒ ॥",
+        "iast": "sa̱masta lo̱kāḥ | sukhi̱no bhavantu̱ ||"
+      },
+      {
+        "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
+        "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||"
+      }
+    ],
+    "overview": "May the people be governed and nourished well by those who rule. May there be happiness and peace among them. May those who govern the land tread the path of justice. May knowledge, and those who carry knowledge, ever be well. May all the worlds be happy.",
+    "wordMeanings": [
+      {
+        "word": "Svasti",
+        "meaning": "happiness, well-being, peace"
+      },
+      {
+        "word": "Prajābhyaḥ",
+        "meaning": "for the people, the common citizens"
+      },
+      {
+        "word": "Paripālayantām",
+        "meaning": "may they be protected and nourished"
+      },
+      {
+        "word": "Nyāyyena mārgeṇa",
+        "meaning": "by the path of justice"
+      },
+      {
+        "word": "Mahīm",
+        "meaning": "the land, the earth"
+      },
+      {
+        "word": "Mahīśāḥ",
+        "meaning": "those who rule"
+      },
+      {
+        "word": "Go",
+        "meaning": "cows; also the rays of knowledge"
+      },
+      {
+        "word": "Brāhmaṇebhyaḥ",
+        "meaning": "those who carry and teach knowledge"
+      },
+      {
+        "word": "Nityaṃ",
+        "meaning": "ever, always"
+      },
+      {
+        "word": "Samasta lokāḥ",
+        "meaning": "all the worlds"
+      },
+      {
+        "word": "Sukhino bhavantu",
+        "meaning": "may they be happy"
+      }
+    ],
+    "universalReflection": "A prayer for good government, honest leadership, protected knowledge and a cared-for earth — asked for everyone, not for oneself. It is one of the few prayers in any tradition that contains no request for the person praying.",
+    "teachingNote": "In late 2008, Bhagawan directed that we should henceforward chant Samasta Lokāḥ Sukhino Bhavantu rather than Lokāḥ Samastā Sukhino Bhavantu. The earlier form referred only to this world; the revised form refers to all the worlds, and is broader in outlook.",
+    "quotes": [
+      {
+        "text": "Peace is a shoreless ocean. It is the light that illumines the world. Having peace amounts to having everything. It confers knowledge of both this world and the other.",
+        "attribution": "Sri Sathya Sai Baba"
+      }
+    ],
+    "parallels": [
+      {
+        "tradition": "Islam",
+        "text": "The root of the word Islam is silm, meaning peace. A hadith records that a Muslim is one from whose tongue and hands people live safely — one who harms no one by word or deed.",
+        "source": "Sahih al-Bukhari"
+      },
+      {
+        "tradition": "Christianity",
+        "text": "Now may the Lord of peace himself give you peace at all times in every way.",
+        "source": "2 Thessalonians 3:16"
+      },
+      {
+        "tradition": "Sikhism",
+        "text": "The Giver of peace is eternally blissful. Through the Guru's teachings, we are absorbed in intuitive peace.",
+        "source": "Guru Granth Sahib"
+      }
+    ],
+    "audio": {
+      "slow": "/audio/shanti-mantra-slow.mp3",
+      "normal": "/audio/shanti-mantra.mp3",
+      "source": ""
+    },
+    "youtubeId": "ZrUL84CAF7E",
+    "booklet": "Sai Atirudram"
+  },
+  {
+    "id": "kshama-prarthana",
+    "title": {
+      "sanskrit": "क्षमा प्रार्थना",
+      "iast": "Kṣamā Prārthana",
+      "english": "Prayer for Forgiveness"
+    },
+    "category": "Closing Prayer",
+    "order": 4,
+    "note": "Traditionally, Veda recitation ends with the Kshama Prarthana — a prayer of forgiveness for any error made while chanting, offering its fruits to the Lord.",
+    "verses": [
+      {
+        "devanagari": "ॐ । यदक्षर पदभ्रष्टं मात्राहीनन्तु यद्भवेत् । तत्सर्वं क्षम्यतां देव नारायण नमोस्तुते ॥",
+        "iast": "oṃ | yada̍kṣara̍pada̱-bhraṣṭa̍ṃ mā̱trā-hī̱nantu ya̍dbhavet । tatsa̍rvaṅ kṣa̍myatā̱n deva̍nā̱rāya̱ṇa namo̍stute ॥"
+      },
+      {
+        "devanagari": "विसर्ग बिंदु मात्राणि पदपादाक्षराणि च । न्यूनानि चातिरिक्तानि क्षमस्व सायीश्वर ॥",
+        "iast": "visa̍rga bi̍ndu mā̱trāṇi̍ pa̱da pā̱dākṣarā̍ṇi ca । nyūnā̍ni cā̍tiri̱ktāni̍ kṣa̱masva̱ sāyī̍śvara ॥"
+      },
+      {
+        "devanagari": "अपराध सहस्राणि क्रियन्तेऽहर्निशं मया । दासोऽयमितिमां मत्वा क्षमस्व सायीश्वर ॥",
+        "iast": "a̱pa̱rā̱dha sa̍ha̱srāṇi̍ kri̱yante̱'harniśa̍ṃ mayā । dāso̍'yami̍timā̱ṃ matvā̍ kṣa̱masva̱ sāyī̍śvara ॥"
+      },
+      {
+        "devanagari": "अन्यथा शरणं नास्ति त्वमेव शरणं मम । तस्मात्कारुण्यभावेन रक्ष रक्ष सायीश्वर ॥",
+        "iast": "a̱nya̱thā̱ śara̍ṇa̱n nāsti̍ tva̱meva̱ śaraṇa̍ṃ mama । tasmā̍-tkāru̍ṇya-bhā̱vena̍ ra̱kṣa ra̱kṣa sāyī̍śvara ॥"
+      },
+      {
+        "devanagari": "हरिः । ॐ । तत्सत् श्री सायीश्वरार्पणमस्तु ॥",
+        "iast": "hari̍ḥ | oṁ | tatsat śrī sāyīśvarā-rpa̍ṇama̱stu ॥"
+      }
+    ],
+    "overview": "Whichever sound or word has been corrupted, whichever timing has run too long or too short — for all of that, please forgive me, O Deva Nārāyaṇa; my salutations to you. Whether the fault was in visarga, in bindu, in timing, in word or in syllable, whether it was longer or shorter than it should have been, forgive me, O Sāyīśvara. I have committed offences by the thousand, day and night — knowing me as your servant, forgive me, O Sāyīśvara. Elsewhere I have no refuge; you alone are my refuge. Out of your compassion, protect me, protect me, O Sāyīśvara. Hariḥ Om — that is the truth. This is all surrendered at the feet of Sāyīśvara.",
+    "wordMeanings": [
+      {
+        "word": "Yadakṣara / pada",
+        "meaning": "whichever sound / word"
+      },
+      {
+        "word": "Bhraṣṭaṃ",
+        "meaning": "corrupted, fallen short"
+      },
+      {
+        "word": "Mātrā",
+        "meaning": "timing, syllable-length"
+      },
+      {
+        "word": "Kṣamyatāṃ / kṣamasva",
+        "meaning": "may it be forgiven / forgive"
+      },
+      {
+        "word": "Nārāyaṇa",
+        "meaning": "a name of the Divine"
+      },
+      {
+        "word": "Sāyīśvara",
+        "meaning": "Sai as the Lord"
+      },
+      {
+        "word": "Visarga, bindu",
+        "meaning": "phonetic marks of correct Vedic pronunciation"
+      },
+      {
+        "word": "Aparādha sahasrāṇi",
+        "meaning": "offences by the thousand"
+      },
+      {
+        "word": "Aharniśaṃ",
+        "meaning": "day and night"
+      },
+      {
+        "word": "Dāsaḥ",
+        "meaning": "servant"
+      },
+      {
+        "word": "Anyathā śaraṇaṃ nāsti",
+        "meaning": "elsewhere there is no refuge"
+      },
+      {
+        "word": "Kāruṇya",
+        "meaning": "compassion"
+      },
+      {
+        "word": "Rakṣa rakṣa",
+        "meaning": "protect, protect"
+      },
+      {
+        "word": "Hariḥ oṁ tatsat",
+        "meaning": "Hari is Om, that is the truth"
+      },
+      {
+        "word": "Arpaṇam astu",
+        "meaning": "let it be offered"
+      }
+    ],
+    "universalReflection": "This prayer does not ask to be spared the consequence of error — it asks only to be forgiven for having erred while trying. It trusts that sincere effort, offered honestly, is enough.",
+    "quotes": [
+      {
+        "text": "Forbearance and forgiveness are the qualities that should be fostered by all individuals. You must be able to forgive even your enemies.",
+        "attribution": "Sri Sathya Sai Baba"
+      }
+    ],
+    "parallels": [
+      {
+        "tradition": "Buddhism",
+        "text": "Forgive others not because they deserve forgiveness, but because you deserve peace.",
+        "source": "attributed to the Buddha"
+      },
+      {
+        "tradition": "Islam",
+        "text": "Forgive them, even if they are not sorry.",
+        "source": "Qur'an 24:22"
+      },
+      {
+        "tradition": "Christianity",
+        "text": "For if you forgive other people when they sin against you, your heavenly Father will also forgive you.",
+        "source": "Matthew 6:14–15"
+      }
+    ],
+    "audio": {
+      "slow": "",
+      "normal": "",
+      "source": ""
+    },
+    "youtubeId": "Y0rw4l0FL84",
+    "booklet": ""
+  },
+  {
+    "id": "mantrapushpam",
+    "title": {
+      "sanskrit": "मन्त्रपुष्पं",
+      "iast": "Mantrapuṣpaṃ",
+      "english": "The Truth of Creation"
+    },
+    "category": "Closing Prayer",
+    "order": 5,
+    "note": "This hymn is also the emblem of the Sri Sathya Sai Organisation.",
+    "verses": [
+      {
+        "devanagari": "ॐ । योऽपाम् पुष्पं वेद । पुष्पवान् प्रजावान् पशुमान् भवति । चन्द्रमा वा । अपाम् पुष्पं । पुष्पवान् प्रजावान् पशुमान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ १ ॥",
+        "iast": "oṁ | yo̍'pām puṣpa̱ṁ veda̍ । puṣpa̍vān pra̱jāvān paśu̱mān bha̍vati । ca̱ndramā̱ vā | a̱pām puṣpa̎ṃ । puṣpa̍vān pra̱jāvān paśu̱mān bha̍vati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 1 ॥",
+        "meaning": "One who knows the flower of the waters becomes possessed of flowers, of progeny and of cattle. The moon indeed is the flower of the waters. One who knows this, and who knows the abode of the waters, becomes established in that abode. Read with Āpaḥ as Love: the one who understands the inner significance of Love, and its relationship to the mind, reaches the highest abode.",
+        "words": [
+          {
+            "word": "Puṣpam",
+            "meaning": "flower; its inner significance"
+          },
+          {
+            "word": "Candramāḥ",
+            "meaning": "the moon — read as the mind"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "अग्निर्वा । अपामायतनं । आयतनवान् भवति । योऽग्नेरायतनं वेद । आयतनवान् भवति । आपो वा । अग्नेरायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ २ ॥",
+        "iast": "a̱gnirvā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yo̎'gnerā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vā | a̱gnerā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 2 ॥",
+        "meaning": "Fire is the abode of the waters. One who knows the abode of fire becomes established in that abode. This verse means the one who understands the significance of the sacrificial fire reaches the highest abode.",
+        "words": [
+          {
+            "word": "Agniḥ",
+            "meaning": "fire"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "वायुर्वा । अपामायतनं । आयतनवान् भवति । यो वायोरायतनं वेद । आयतनवान् भवति । आपो वै वायोरायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ३ ॥",
+        "iast": "vā̱yurvā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yo vā̱yorā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vai vā̱yorā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 3 ॥",
+        "meaning": "Wind is the abode of the waters. One who knows the abode of the wind becomes established in that abode.",
+        "words": [
+          {
+            "word": "Vāyuḥ",
+            "meaning": "wind, breath"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "असौ वै तपन्नपामायतनं । आयतनवान् भवति । योऽमुष्य तपत । आयतनं वेद । आयतनवान् भवति । आपो वा । अमुष्य तपत । आयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ४ ॥",
+        "iast": "a̱sau vai tapa̍nna̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yo̍'muṣya̱ tapa̍ta । ā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vā | a̱muṣya̱ tapa̍ta । ā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 4 ॥",
+        "meaning": "Yonder sun that burns is the abode of the waters. One who knows its abode becomes established in that abode. The scorching sun stands for the pain by which the ego is undone — the one who understands the connection between Love and the annihilation of the ego reaches the supreme abode.",
+        "words": [
+          {
+            "word": "Asau vai tapan",
+            "meaning": "yonder burning one — the scorching sun"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "चन्द्रमा वा । अपामायतनं । आयतनवान् भवति । यश्चन्द्रमस । आयतनं वेद । आयतनवान् भवति । आपो वै चन्द्रमस । आयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ५ ॥",
+        "iast": "ca̱ndramā̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yaśca̱ndrama̍sa । ā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vai ca̱ndrama̍sa । ā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 5 ॥",
+        "meaning": "The moon is the abode of the waters. One who knows the abode of the moon becomes established in that abode. The changes of the moon answer to the changes of the mind — the one who understands the connection between a mind of fixed faith and Love reaches the highest abode.",
+        "words": [
+          {
+            "word": "Candramāḥ",
+            "meaning": "the moon — read as the mind"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "नक्षत्राणि वा । अपामायतनं । आयतनवान् भवति । यो नक्षत्राणामायतनं वेद । आयतनवान् भवति । आपो वै नक्षत्राणामायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ६ ॥",
+        "iast": "nakṣa̍trāṇi̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yo nakṣa̍trāṇāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vai nakṣa̍trāṇāmā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 6 ॥",
+        "meaning": "The stars are the abode of the waters. One who knows their abode becomes established in that abode. The star stands for all-pervading consciousness — the one who recognises the grandeur of the omniscient, omnipresent and omnipotent Loving Lord reaches the highest abode.",
+        "words": [
+          {
+            "word": "Nakṣatrāṇi",
+            "meaning": "the stars"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "पर्जन्यो वा । अपामायतनं । आयतनवान् भवति । यः पर्जन्यस्यायतनं वेद । आयतनवान् भवति । आपो वै पर्जन्यस्याऽऽयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ७ ॥",
+        "iast": "pa̱rjanyo̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yaḥ pa̱rjanya̍syā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vai pa̱rjanya̍syā̱''yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati ॥ 7 ॥",
+        "meaning": "The rain-cloud is the abode of the waters. One who knows its abode becomes established in that abode.",
+        "words": [
+          {
+            "word": "Parjanyaḥ",
+            "meaning": "the rain-cloud"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "संवत्सरो वा । अपामायतनं । आयतनवान् भवति । यः संवत्सरस्यायतनं वेद । आयतनवान् भवति । आपो वै संवत्सरस्यायतनं । आयतनवान् भवति । य । एवं वेद । योऽप्सु नावं प्रतिष्ठितां वेद । प्रत्येव तिष्ठति ॥ ८ ॥",
+        "iast": "sa̱ṁva̱tsa̱ro vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān bhavati । yas sa̍ṁvatsa̱rasyā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān bhavati । āpo̱ vai sa̍ṁvatsa̱rasyā̱yata̍naṁ । ā̱yata̍navān bhavati । ya | e̱vaṁ veda̍ । yo̎'psu nāva̱m prati̍ṣṭhitā̱ṁ veda̍ । pratye̱va ti̍ṣṭhati ॥ 8 ॥",
+        "meaning": "The year is the abode of the waters. One who knows its abode becomes established in that abode. One who knows the boat set in the waters — that one stands firm. The year stands for time: the one who understands the interrelationship between Love and Time reaches the highest abode.",
+        "words": [
+          {
+            "word": "Saṃvatsaraḥ",
+            "meaning": "the year; time"
+          },
+          {
+            "word": "Nāvaṃ pratiṣṭhitām",
+            "meaning": "the boat set firm in the waters"
+          },
+          {
+            "word": "Āpaḥ",
+            "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+          },
+          {
+            "word": "Āyatanam",
+            "meaning": "abode, basis, foundation"
+          },
+          {
+            "word": "Veda",
+            "meaning": "knows, understands"
+          },
+          {
+            "word": "Āyatanavān bhavati",
+            "meaning": "becomes established in that abode"
+          }
+        ]
+      },
+      {
+        "devanagari": "ॐ । राजाधिराजाय प्रसह्य साहिने । नमो वयं वैश्रवणाय कुर्महे । स मे कामान्काम कामाय मह्यम् । कामेश्वरो वैश्रवणो ददातु । कुबेराय वैश्रवणाय । महाराजाय नमः ॥",
+        "iast": "oṃ | rā̱jā̱dhi̱rā̱jāya̍ prasahya sā̱hine̎ । namo̍ va̱yaṁ vai̎śrava̱ṇāya̍ kurmahe । sa me̱ kāmā̱n kāma̱ kāmā̍ya̱ mahyam̎ । kā̱me̱śva̱ro vai̎śrava̱ṇo da̍dātu । ku̱be̱rāya̍ vaiśrava̱ṇāya̍ । ma̱hā̱rājāya̱ nama̍ḥ ॥",
+        "meaning": "Om. To the King of kings, the mighty and victorious one, we make our salutation. May he, the lord of desires, grant me my desires. Salutations to Kubera, the great king.",
+        "words": [
+          {
+            "word": "Rājādhirājāya",
+            "meaning": "to the King of kings"
+          },
+          {
+            "word": "Kāmeśvaraḥ",
+            "meaning": "lord of desires"
+          },
+          {
+            "word": "Kuberāya vaiśravaṇāya",
+            "meaning": "to Kubera, son of Viśravas"
+          },
+          {
+            "word": "Namaḥ",
+            "meaning": "salutations"
+          }
+        ]
+      },
+      {
+        "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
+        "iast": "|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||",
+        "meaning": "Om. Peace, peace, peace.",
+        "words": [
+          {
+            "word": "Śāntiḥ",
+            "meaning": "peace"
+          }
+        ]
+      }
+    ],
+    "overview": "The one who understands the flowers (puṣpam) of the waters (āpaḥ), and their relationship to the moon (candramāḥ), reaches the highest abode. Bhagawan Sri Sathya Sai Baba explains that āpaḥ — the waters of life — is Love. Read this way, the hymn says: the one who understands the inner significance of Love, and its relationship to the mind, reaches the highest abode. This is all there is to know — the one illumined by Love attains the highest abode.",
+    "wordMeanings": [
+      {
+        "word": "Āpaḥ",
+        "meaning": "the waters — read by Sri Sathya Sai Baba as Love"
+      },
+      {
+        "word": "Puṣpam",
+        "meaning": "flower; its inner significance"
+      },
+      {
+        "word": "Veda",
+        "meaning": "knows, understands"
+      },
+      {
+        "word": "Āyatanam",
+        "meaning": "abode, basis, foundation"
+      },
+      {
+        "word": "Candramāḥ",
+        "meaning": "the moon — read as the mind"
+      },
+      {
+        "word": "Agniḥ",
+        "meaning": "fire"
+      },
+      {
+        "word": "Vāyuḥ",
+        "meaning": "wind, breath"
+      },
+      {
+        "word": "Nakṣatrāṇi",
+        "meaning": "the stars"
+      },
+      {
+        "word": "Parjanyaḥ",
+        "meaning": "the rain-cloud"
+      },
+      {
+        "word": "Saṃvatsaraḥ",
+        "meaning": "the year; time"
+      },
+      {
+        "word": "Śāntiḥ",
+        "meaning": "peace"
+      }
+    ],
+    "universalReflection": "The truth is one; the wise call it by many names. Each stanza names a different pillar of creation — fire, wind, moon, star, rain, time — and ties it back to the same single source.",
+    "quotes": [
+      {
+        "text": "Listen to the primeval Pranava resounding in your heart as well as in the heart of the Universe.",
+        "attribution": "Sri Sathya Sai Baba"
+      },
+      {
+        "text": "There is only one religion, the religion of Love.",
+        "attribution": "Sri Sathya Sai Baba"
+      }
+    ],
+    "audio": {
+      "slow": "",
+      "normal": "/audio/mantrapushpam.mp3",
+      "source": ""
+    },
+    "youtubeId": "8v_weg7_Juw",
+    "booklet": "",
+    "sarvadharma": {
+      "emblem": "/brand/sarvadharma.webp",
+      "intro": "The Mantrapuṣpaṃ elucidates several aspects of creation which are the basis for several religious faiths. It relates to all the religions represented in the Sarvadharma symbol, which depicts the essence of Universal Love. This mantra points the way beyond the confines of religion to universal human experience.",
+      "source": "Adapted from the Sri Sathya Sai Media Centre article on Mantrapushpam, as presented in the Vedas4All Mantra Pushpam booklet.",
+      "entries": [
+        {
+          "tradition": "Zoroastrianism",
+          "stanza": 2,
+          "keyword": "Agni — the sacred fire",
+          "text": "This verse means the one who understands the significance of the sacrificial fire reaches the highest abode. 'Agni' means the fire. The fundamental basis of Zoroastrianism is the sacrificial fire.",
+          "saiQuote": "Offer all bitterness in the sacred fire and emerge grand, great, and godly.",
+          "chant": "mazdâ at môye vahishtâ sravâoschâ shodhanâchâ vavochâ tâ-tû vohû manandahâ ashâchâ ishuudem ratûtô xshmâkâ xshathrâ ahurâ fershêm vasnâ haishyêm dâo aham.",
+          "chantMeaning": "And in response to my request in praises, Wise One, tell me now the best words and deeds through good mind. Make life truly renovated with Your sovereignty as You wish."
+        },
+        {
+          "tradition": "Christianity",
+          "stanza": 4,
+          "keyword": "Asau vai tapan — the scorching sun",
+          "text": "'Asau vai tapan' means the scorching sun. The Cross is symbolic of the pain and suffering of the scorching sun. Annihilation of the ego and the body consciousness on the cross is the essence of Christianity. The Love of Jesus for his fellow beings aids us in conquering body consciousness.",
+          "saiQuote": "Cut the 'I' feeling clean across and let your ego die on the cross to endow on you eternity.",
+          "chant": "Kyrie Eleison, Kyrie Eleison | Christe Eleison, Christe Eleison | Kyrie Eleison, Kyrie Eleison",
+          "chantMeaning": "Lord have mercy on us. Christ have mercy on us."
+        },
+        {
+          "tradition": "Islam",
+          "stanza": 5,
+          "keyword": "Candra — the moon",
+          "text": "'Chandra' means the moon. The changes of the moon are interconnected to the vagaries of the mind. Fixing the mind that is filled with Love on the supreme Lord captures the spirit of Islam. This verse means the one who understands the connection between the mind of fixed faith and Love reaches the highest abode.",
+          "saiQuote": "Be like the star which never wavers from the crescent but is steady in fixed faith.",
+          "chant": "BismiAllahi rrahmani rraheem | Qul huwa Allahu ahad | Allahu ssamad | Lam yalid | Wa lam yulad | Wa lam yakul lahu kufuwan ahad",
+          "chantMeaning": "In the Name of Allah, the Caring and Kind. Tell everyone: 'He is One God; Allah, Who is forever. He doesn't have children and He was never born, and there is nothing the same as Him.'"
+        },
+        {
+          "tradition": "Judaism",
+          "stanza": 6,
+          "keyword": "Nakṣatra — the star",
+          "text": "'Nakshatram' means star. The Star is symbolic of the all-pervading consciousness and the soul of Judaism. Thus this verse means the one who recognises the grandeur of the omniscient, omnipresent and omnipotent Loving Lord reaches the highest abode.",
+          "saiQuote": "Trust in God who rules over all six directions — east, west, north, south, up and down — symbolised by the six points of the star.",
+          "chant": "Sh'ma Yisra-eil, Adonai Eloheinu, Adonai Echad. Baruch sheim k'vod malchuto l'olam va-ed.",
+          "chantMeaning": "Hear, Israel, the Lord is our God, the Lord is One. Blessed be the Name of His glorious kingdom for ever and ever."
+        },
+        {
+          "tradition": "Buddhism",
+          "stanza": 8,
+          "keyword": "Saṃvatsara — the year, time",
+          "text": "'Samvatsara' (year) represents time. The Buddhist wheel is symbolic of the Dharma, which is related to the time of cause and consequence. Love in action is Dharma, which is beyond time. So this verse means the one who understands the interrelationship between Love and Time reaches the highest abode.",
+          "saiQuote": "Remember the wheel of cause and consequence and the wheel of dharma that rights them all.",
+          "chant": "Buddhaṃ saraṇaṃ gacchāmi | Dhammaṃ saraṇaṃ gacchāmi | Saṅghaṃ saraṇaṃ gacchāmi",
+          "chantMeaning": "I go to the Buddha as my refuge. I go to the Dhamma — His Doctrine — as my refuge. I go to the Sangha — His Holy Order — as my refuge."
+        },
+        {
+          "tradition": "Hinduism",
+          "stanza": 8,
+          "keyword": "The closing lines",
+          "text": "This is all there is to know. The one who knows this is stable like a boat on the ocean of Love, and will come to know the Self, which is all there is to know. The sound of creation and the beginning of knowledge is 'Om'.",
+          "saiQuote": "Listen to the primeval Pranava resounding in your heart as well as in the heart of the Universe.",
+          "chant": "Ekam sat viprā bahudhā vadanti",
+          "chantMeaning": "The Truth is One; the wise call it by many names."
+        }
+      ],
+      "closing": "The various faiths express the same immortal message of the love and righteousness of the Lord in diverse ways, through culturally specific traditions. The message of the more recent religions is in no way different to the most ancient of scriptures, the Vedas.",
+      "closingQuote": {
+        "text": "There is only one religion, the religion of Love.",
+        "attribution": "Sri Sathya Sai Baba"
+      }
+    }
+  },
+  {
+    "id": "sai-gayatri",
+    "title": {
+      "sanskrit": "साई गायत्री",
+      "iast": "Sāi Gāyatrī",
+      "english": "Sai Gayatri"
+    },
+    "category": "Closing Prayer",
+    "order": 6,
+    "note": "A Gayatri addressed to Sai as the Divine Truth, chanted three times.",
+    "verses": [
+      {
+        "devanagari": "ॐ सायीश्वराय विद्महे ।",
+        "iast": "oṃ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ "
+      },
+      {
+        "devanagari": "सत्यदेवाय धीमहि ।",
+        "iast": "sa̱tyade̱vāya̍ dhīmahi ।"
+      },
+      {
+        "devanagari": "तन्नः सर्वः प्रचोदयात् ॥ (३)",
+        "iast": "ta̱nna̍s sarva̍ḥ praco̱dayā̎t ॥"
+      },
+      {
+        "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
+        "iast": "|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||"
+      }
+    ],
+    "overview": "We meditate on Sai as the Divine Truth. May that awaken and illumine all our faculties.",
+    "wordMeanings": [
+      {
+        "word": "Sāyīśvarāya",
+        "meaning": "to Sai, the Lord"
+      },
+      {
+        "word": "Vidmahe",
+        "meaning": "we know, we meditate upon"
+      },
+      {
+        "word": "Satyadevāya",
+        "meaning": "to the God of Truth"
+      },
+      {
+        "word": "Dhīmahi",
+        "meaning": "we meditate"
+      },
+      {
+        "word": "Tannaḥ",
+        "meaning": "may that (intelligence) of ours"
+      },
+      {
+        "word": "Pracodayāt",
+        "meaning": "be awakened, be impelled"
+      }
+    ],
+    "universalReflection": "Like the Gayatri Mantra it is patterned on, this prayer asks for nothing but clarity — addressed here to Truth itself as the divine.",
+    "audio": {
+      "slow": "",
+      "normal": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": ""
+  },
+  {
+    "id": "shivopasana",
+    "title": {
+      "sanskrit": "शिवोपासन मन्त्रः",
+      "iast": "Śivopāsana Mantraḥ",
+      "english": "To be rooted in Shiva Consciousness"
+    },
+    "category": "",
+    "order": 7,
+    "note": "Holding the liṅgam in the hand, these twenty-two mantras are recited to consecrate and install it. The five faces of the liṅgam are then worshipped in the verses that follow.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "oṃ । nidha̍napataye̱ namaḥ । nidha̍napatāntikāya̱ namaḥ ।",
+        "meaning": "Salutations to the Lord (pataye) of the dissolution of the universe. Salutations to Shiva, who puts an end to the Lord of death (patāntikāya) by granting us immortality.",
+        "words": [
+          {
+            "word": "Nidhana",
+            "meaning": "dissolution, the end of the universe"
+          },
+          {
+            "word": "Pataye",
+            "meaning": "to the Lord"
+          },
+          {
+            "word": "Namaḥ",
+            "meaning": "salutations"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "ūrdhvāya̱ namaḥ । ūrdhvaliṅgāya̱ namaḥ ।",
+        "meaning": "The liṅgam is the symbol of infinity. Salutations to the highest (ūrdhva) principle. Salutations to that liṅgam which is the embodiment of ūrdhva.",
+        "words": [
+          {
+            "word": "Ūrdhva",
+            "meaning": "the highest, the upward principle"
+          },
+          {
+            "word": "Liṅga",
+            "meaning": "the symbol of infinity"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "hiraṇyāya̱ namaḥ । hiraṇyaliṅgāya̱ namaḥ ।",
+        "meaning": "Hiraṇya means golden — the one who is beneficial and charming to creatures. Salutations to the one who is both beneficial and charming to creatures. Salutations to the one who is visualised as a liṅga made of gold.",
+        "words": [
+          {
+            "word": "Hiraṇya",
+            "meaning": "golden; beneficial and charming to creatures"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "suvarṇāya̱ namaḥ । suvarṇaliṅgāya̱ namaḥ ।",
+        "meaning": "Suvarṇa is the one who is endowed with attractive splendour. Salutations to that liṅgam which is the embodiment of splendour.",
+        "words": [
+          {
+            "word": "Suvarṇa",
+            "meaning": "endowed with attractive splendour"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "divyāya̱ namaḥ । divyaliṅgāya̱ namaḥ ।",
+        "meaning": "Divya is the source of bliss in heaven. Divine salutations to the one who is the source of bliss in heaven; divine salutations to the Divya Liṅga.",
+        "words": [
+          {
+            "word": "Divya",
+            "meaning": "source of bliss in heaven; divine"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "bhavāya̱ namaḥ । bhavaliṅgāya̱ namaḥ ।",
+        "meaning": "Bhava is the source of the universe, of the cycle of birth and death. Salutations to the one who destroys the cycle of birth and death. Salutations to that liṅgam which is the embodiment of bhava.",
+        "words": [
+          {
+            "word": "Bhava",
+            "meaning": "the source of the universe; the cycle of birth and death"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "śarvāya̱ namaḥ । śarvaliṅgāya̱ namaḥ ।",
+        "meaning": "Śarva is the one who causes the final dissolution of the universe. Salutations to the one who is the suppressor of the universe at the time of dissolution. Salutations to that liṅgam which is the embodiment of Śarva.",
+        "words": [
+          {
+            "word": "Śarva",
+            "meaning": "the one who causes the final dissolution"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "śivāya̱ namaḥ । śivaliṅgāya̱ namaḥ ।",
+        "meaning": "Śiva is the one who is most auspicious. Salutations to the one who is most auspicious of all. Salutations to that liṅgam which is the embodiment of auspiciousness.",
+        "words": [
+          {
+            "word": "Śiva",
+            "meaning": "the most auspicious; positive, serene, untouched by negativity"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "jvalāya̱ namaḥ । jvalaliṅgāya̱ namaḥ ।",
+        "meaning": "Jvala is the one who is as radiant as a flame. Salutations to the one who is as splendorous as a flame. Salutations to that liṅgam which is the embodiment of splendour.",
+        "words": [
+          {
+            "word": "Jvala",
+            "meaning": "as radiant as a flame"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "ātmāya̱ namaḥ । ātmaliṅgāya̱ namaḥ ।",
+        "meaning": "Ātma is the one who resides as the inner self of all beings. Salutations to the one who is the spirit dwelling in all beings. Salutations to the ātma liṅga, concealed in the heart of all beings as their innermost self.",
+        "words": [
+          {
+            "word": "Ātma",
+            "meaning": "the inner self of all beings"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "paramāya̱ namaḥ । paramaliṅgāya̱ namaḥ ।",
+        "meaning": "Parama is the one who is unsurpassed. Salutations to the one who is unsurpassed. Salutations to that liṅgam which is the supreme Lord of bliss and liberation.",
+        "words": [
+          {
+            "word": "Parama",
+            "meaning": "unsurpassed, supreme"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "etatsomasya̍ sūrya̱sya̱ sarvaliṅgagṁ sthāpa̱ya̱ti̱ pāṇimantraṃ̍ pavi̱tram ॥",
+        "meaning": "Holding the liṅgam in the hand, these twenty-two mantras are recited to consecrate (pavitram) and install (sthāpayati) the liṅgam. This liṅgam embodies the sun (sūryasya) and the moon (somasya).",
+        "words": [
+          {
+            "word": "Somasya",
+            "meaning": "of the moon"
+          },
+          {
+            "word": "Sūryasya",
+            "meaning": "of the sun"
+          },
+          {
+            "word": "Sthāpayati",
+            "meaning": "installs, establishes"
+          },
+          {
+            "word": "Pavitram",
+            "meaning": "consecrated, purifying"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "sa̱dyojā̱tam pra̍padyā̱mi̱ sa̱dyojā̱tāya̱ vai namo̱ nama̍ḥ ।",
+        "meaning": "Prayer to the Western face — Sadyojāta. I take refuge in Sadyojāta, who is the source of all existence. Verily (vai) I salute Sadyojāta again and again.",
+        "words": [
+          {
+            "word": "Sadyojāta",
+            "meaning": "the source of all existence; the Western face"
+          },
+          {
+            "word": "Prapadyāmi",
+            "meaning": "I take refuge"
+          },
+          {
+            "word": "Vai",
+            "meaning": "verily"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "bha̱vebha̍ve̱ nāti̍bhave bhavasva̱ mām, bha̱vodbha̍vāya̱ nama̍ḥ ॥",
+        "meaning": "Do not consign me (mām) to repeated birth (bhava).",
+        "words": [
+          {
+            "word": "Bhave bhave",
+            "meaning": "in birth after birth"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "vā̱ma̱de̱vāya̱ namo̎ jye̱ṣṭhāya̱ nama̍ś śre̱ṣṭhāya̱ namo̍ ru̱drāya̱ nama̱ḥ kālā̍ya̱ nama̱ḥ kala̍vikaraṇāya̱ namo̱ bala̍vikaraṇāya̱ namo̱ balā̍ya̱ namo̱ bala̍pramathanāya̱ nama̱s sarva̍bhūtadamanāya̱ namo̍ ma̱nonma̍nāya̱ nama̍ḥ ॥",
+        "meaning": "Prayer to the Northern face — Vāmadeva, who is beautiful and effulgent.",
+        "words": [
+          {
+            "word": "Vāmadeva",
+            "meaning": "beautiful, effulgent; the Northern face"
+          },
+          {
+            "word": "Jyeṣṭha",
+            "meaning": "the eldest — ever in existence, even before creation"
+          },
+          {
+            "word": "Śreṣṭha",
+            "meaning": "the best — noble, most worthy and excellent"
+          },
+          {
+            "word": "Rudra",
+            "meaning": "who causes beings to weep at dissolution; who makes problems melt away"
+          },
+          {
+            "word": "Kāla",
+            "meaning": "lord of time; one who transcends time"
+          },
+          {
+            "word": "Kalavikaraṇa",
+            "meaning": "who causes the many changes in the evolution of the universe"
+          },
+          {
+            "word": "Balavikaraṇa",
+            "meaning": "source of the many varieties and degrees of strength"
+          },
+          {
+            "word": "Bala",
+            "meaning": "source of all strength"
+          },
+          {
+            "word": "Balapramathana",
+            "meaning": "who suppresses all power at the time of dissolution"
+          },
+          {
+            "word": "Sarvabhūtadamana",
+            "meaning": "ruler of all created beings"
+          },
+          {
+            "word": "Manonmana",
+            "meaning": "who kindles the light of the soul"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "a̱ghore̎bhyo'tha̱ ghore̎bhyo̱ ghora̱ghora̍tarebhyaḥ ॥",
+        "meaning": "Prayer to the Southern face. My salutations to all forms of Rudra — ghora (terrifying), aghora (not terrifying) and ghora-tara (very terrifying). Ghora and aghora represent the two aspects of Shiva: creation and dissolution of the universe.",
+        "words": [
+          {
+            "word": "Ghora",
+            "meaning": "terrifying"
+          },
+          {
+            "word": "Aghora",
+            "meaning": "not terrifying"
+          },
+          {
+            "word": "Ghoratara",
+            "meaning": "very terrifying"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "sarve̎bhyas sarva̱śarve̎bhyo̱ nama̍ste । astu ru̱drarū̍pebhyaḥ ।",
+        "meaning": "To all these forms — benign, splendid and destructive — at all times and in all places, I surrender."
+      },
+      {
+        "devanagari": "",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ mahāde̱vāya̍ dhīmahi ।",
+        "meaning": "Prayer to the Eastern face. May we know (vidmahe) or realise that supreme being (tatpuruṣa). For that, may we meditate (dhīmahi) on Lord Mahādeva.",
+        "words": [
+          {
+            "word": "Tatpuruṣa",
+            "meaning": "that supreme being; the Eastern face"
+          },
+          {
+            "word": "Vidmahe",
+            "meaning": "may we know, may we realise"
+          },
+          {
+            "word": "Dhīmahi",
+            "meaning": "may we meditate"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "tanno̍ rudraḥ(f) praco̱dayā̎t ॥",
+        "meaning": "May Lord Rudra illumine our intellect.",
+        "words": [
+          {
+            "word": "Pracodayāt",
+            "meaning": "may he illumine, may he impel"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "īśānas sarva̍vidyā̱nā̱m īśvaras sarva̍bhūtā̱nā̱m brahmādhi̍pati̱rbrahma̱ṇo'dhi̍pati̱rbrahmā̍ śi̱vo me̍ । astu sadāśi̱vom ॥",
+        "meaning": "Prayer to the upward-facing Īśāna. The supreme is ruler of all knowledge and controller of all created beings. The supreme is the Lord (adhipati) of the Vedas (brahmā) and of those who impart the knowledge of the Vedas (brahmaṇo). May that supreme being be benign (śiva) to me. I am the sadāśiva, described thus and denoted by OM.",
+        "words": [
+          {
+            "word": "Īśāna",
+            "meaning": "the ruler of all knowledge; the upward face"
+          },
+          {
+            "word": "Sarvavidyānām",
+            "meaning": "of all knowledge"
+          },
+          {
+            "word": "Adhipati",
+            "meaning": "the Lord, the presiding one"
+          },
+          {
+            "word": "Sadāśiva",
+            "meaning": "the ever-auspicious, denoted by OM"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "namo hiraṇyabāhave hiraṇyavarṇāya hiraṇyarūpāya hiraṇyapatayembikāpataya । umāpataye paśupataye̍ namo̱ namaḥ ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "ṛ̱tagṁ sa̱tyam pa̍ram bra̱hma̱ pu̱ruṣa̍ṅ kṛṣṇa̱piṅga̍laṃ ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "ū̱rdhvare̍taṃ(u) vi̍rūpā̱kṣa̱ṃ(u) vi̱śvarū̍pāya̱ vai namo̱ nama̍ḥ ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "sarvo̱ vai̍ ru̱drastasmai̍ ru̱drāya̱ namo̍ । astu ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "puru̍ṣo̱ vai ru̱dras sanma̱ho namo̱ nama̍ḥ ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "viśva̍m bhū̱tam bhuva̍nañ ci̱tram ba̍hu̱dhā jā̱tañ jāya̍mānañ ca̱ yat ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "sarvo̱ hye̍ṣa ru̱drastasmai̍ ru̱drāya̱ namo̍ । astu ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "kadru̱drāya̱ prace̍tase mī̱ḍhuṣṭa̍māya̱ tavya̍se ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "vo̱cema̱ śanta̍magṁ hṛ̱de ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "sarvo̱ hye̍ṣa ru̱drastasmai̍ ru̱drāya̱ namo̍ । astu ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥"
+      }
+    ],
+    "overview": "Śiva means positive, auspicious, serene — the one who is not affected by any kind of negativity. Upāsana comes from upa (close) and āsana (sitting): sitting close to Him. Śivopāsana therefore means being rooted in the consciousness and awareness of Shiva. That consciousness is fundamentally the breath of the entire universe; when we breathe in and breathe out Shiva, we are in Śivopāsana.",
+    "structure": "Holding the liṅgam, twenty-two mantras consecrate and install it. The five faces of the liṅgam are then worshipped in turn: Sadyojāta facing west, Vāmadeva north, Aghora south, Tatpuruṣa east, and Īśāna facing upward.",
+    "wordMeanings": [
+      {
+        "word": "Śiva",
+        "meaning": "positive, auspicious, serene; untouched by negativity"
+      },
+      {
+        "word": "Upāsana",
+        "meaning": "upa (close) + āsana (sitting) — sitting close to Him"
+      },
+      {
+        "word": "Śivopāsana",
+        "meaning": "being rooted in the consciousness and awareness of Shiva"
+      },
+      {
+        "word": "Liṅga",
+        "meaning": "the symbol of infinity"
+      },
+      {
+        "word": "Namaḥ",
+        "meaning": "salutations"
+      },
+      {
+        "word": "Rudra",
+        "meaning": "who makes problems melt away"
+      },
+      {
+        "word": "Śāntiḥ",
+        "meaning": "peace"
+      }
+    ],
+    "universalReflection": "In the story, Shiva sits in the burial ground and smears himself with its ash — drawing the negativity of that place onto himself so that others are spared it. Whatever one believes, that is a recognisable human ideal: to be the person who absorbs difficulty rather than passing it on.",
+    "audio": {
+      "slow": "",
+      "normal": "/audio/shivopasana.mp3",
+      "source": ""
+    },
+    "booklet": "Vedas4All — Shivopasana Mantra (Krishna Yajur Veda, Mahā Nārāyaṇa Upaniṣad)",
+    "videos": [
+      {
+        "id": "pT5Dm4aqJ0Q",
+        "label": "Part 1"
+      },
+      {
+        "id": "JW5GfF7WBKw",
+        "label": "Part 2"
+      },
+      {
+        "id": "AsfVSbFbfVU",
+        "label": "Part 3"
+      }
+    ]
+  },
+  {
+    "id": "krimi-nashaka",
+    "title": {
+      "sanskrit": "कृमि संहारक सूक्तं",
+      "iast": "Kṛmi Saṁhāraka Sūktaṁ",
+      "english": "Krimi Nashaka — Prayer for Cleansing"
+    },
+    "category": "",
+    "order": 8,
+    "note": "A hymn from the Krishna Yajur Veda (Taittirīya Āraṇyaka 4.36.1), traditionally chanted to destroy harmful germs and illnesses, invoking Divine energy to neutralise disease-causing agents.",
+    "verses": [
+      {
+        "devanagari": "अत्रि॑णा त्वा क्रिमे हन्मि ।",
+        "iast": "atri̍ṇā tvā kṛme hanmi ।",
+        "meaning": "O germ, O worm! I invoke the power of this mantra, revealed by the great Rishis Atri, Kanva and Jamadagni, to bring about your destruction."
+      },
+      {
+        "devanagari": "कण्वे॑न ज॒मद॑ग्निना ।",
+        "iast": "kaṇve̍na ja̱mada̍gninā ।"
+      },
+      {
+        "devanagari": "वि॒श्वाव॑सो॒र्ब्रह्म॑णा ह॒तः ।",
+        "iast": "vi̱śvāva̍so̱rbrahma̍ṇā ha̱taḥ ।",
+        "meaning": "Through this sacred chant, Viśvāvasu strikes down the Gandharva who rules over your kind."
+      },
+      {
+        "devanagari": "क्रिमी॑णा॒ग्ं॒ राजा᳚ ।",
+        "iast": "kṛmī̍ṇā̱gṁ rājā̎ ।",
+        "meaning": "The remaining chieftains of the germ clan shall likewise perish, and their mother and father be annihilated."
+      },
+      {
+        "devanagari": "अप्ये॑षाग् स्थ॒पति॑र् ह॒तः ।",
+        "iast": "apye̍ṣāg stha̱pati̍rha̱taḥ ।"
+      },
+      {
+        "devanagari": "अथो॑ मा॒ता-ऽथो॑ पि॒ता ।",
+        "iast": "atho̍ mā̱tā'tho̍ pi̱tā ।"
+      },
+      {
+        "devanagari": "अथो᳚ स्थू॒रा अथो᳚ क्षु॒द्राः ।",
+        "iast": "atho̎ sthū̱rā | atho̎ kṣu̱drāḥ ।",
+        "meaning": "Germs of every sort — great or small, black or white — are slain without exception."
+      },
+      {
+        "devanagari": "अथो॑ कृ॒ष्णा अथो᳚ श्वे॒ताः ।",
+        "iast": "atho̍ kṛ̱ṣṇā | atho̎ śve̱tāḥ ।"
+      },
+      {
+        "devanagari": "अथो॑ आ॒शाति॑का ह॒ताः ।",
+        "iast": "atho̍ | ā̱śāti̍kā ha̱tāḥ ।"
+      },
+      {
+        "devanagari": "श्वे॒ताभि॑स्स॒ह सर्वे॑ ह॒ताः ॥ 36",
+        "iast": "śve̱tābhi̍s sa̱ha sarve̍ ha̱tāḥ ॥ 36",
+        "meaning": "Those inhabiting livestock, such as cows and horses, are not spared."
+      },
+      {
+        "devanagari": "आह॒राव॑द्य ।",
+        "iast": "āha̱rāva̍dya ।",
+        "meaning": "As in the sacrificial fire, when the log is split and the oblation is offered with the sacred chant, so too, O enemy, present your offering and meet your end."
+      },
+      {
+        "devanagari": "शृ॒तस्य॑ ह॒विषो॒ यथा᳚ ।",
+        "iast": "śṛ̱tasya̍ ha̱viṣo̱ yathā̎ ।"
+      },
+      {
+        "devanagari": "तत्स॒त्यम् ।",
+        "iast": "tatsa̱tyam ।"
+      },
+      {
+        "devanagari": "यद॒मुं-यँ॒मस्य॒ जम्भ॑योः ।",
+        "iast": "yada̱muṃ-ya̱masya̱ jambha̍yoḥ ।",
+        "meaning": "And in like manner, this mantra binds all these germ-enemies within the crushing jaws of Yama, the Lord of death, their destruction resounding in the crack and hiss of his divine mouth."
+      },
+      {
+        "devanagari": "आद॑धामि॒ तथा॒ हि तत् ।",
+        "iast": "āda̍dhāmi̱ tathā̱ hi tat ।"
+      },
+      {
+        "devanagari": "खण्फण्म्रसि॑ ॥ 37",
+        "iast": "khaṇphaṇmrasi̍ ॥ 37"
+      },
+      {
+        "devanagari": "ॐ शान्ति-श्शान्ति-श्शान्तिः ।",
+        "iast": "oṃ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
+        "meaning": "All mantras end with an invocation of peace, made for the purpose of averting all evil. It allows one to be at peace with oneself and the universe, to have calmness and concentration. The three repetitions address the three sources of disturbance: ādhyātmika (from within oneself — mind, body, emotions), ādhibhautika (from other living beings) and ādhidaivika (from natural and cosmic forces)."
+      }
+    ],
+    "overview": "The word kṛmi works on two levels at once, and this dual meaning is the heart of the hymn's relevance. Literally, it was chanted with precise intention toward the elimination of pests, parasites and disease-causing organisms that threatened crops, livestock and human health. Read inwardly, kṛmi represents anything that eats away at our wellbeing from within — the repetitive thought patterns that erode our peace, the jealousy, anger, fear and greed that infect relationships, the toxic habits that quietly consume our health and time, and the disharmony that spreads through a community like a contagion.",
+    "teachingNote": "When first translated into English these words can sound startling, even violent — germs are 'slain', their chieftains and parents 'annihilated'. In the ancient world, long before microscopes, the seers already understood that the body, the home and the environment could be invaded by unseen harmful forces. They called these kṛmi, and the language of the hymn is the language of driving them out.",
+    "wordMeanings": [
+      {
+        "word": "Kṛmi",
+        "meaning": "germ, worm; also whatever eats away at wellbeing from within"
+      },
+      {
+        "word": "Saṁhāraka",
+        "meaning": "that which destroys or dissolves"
+      },
+      {
+        "word": "Sūktaṁ",
+        "meaning": "a hymn, a well-spoken thing"
+      },
+      {
+        "word": "Atri, Kaṇva, Jamadagni",
+        "meaning": "the Rishis to whom the mantra was revealed"
+      },
+      {
+        "word": "Viśvāvasu",
+        "meaning": "the Gandharva invoked to strike down the germ-ruler"
+      },
+      {
+        "word": "Hataḥ / hatāḥ",
+        "meaning": "struck down, destroyed"
+      },
+      {
+        "word": "Yama",
+        "meaning": "the Lord of death"
+      },
+      {
+        "word": "Śāntiḥ",
+        "meaning": "peace"
+      },
+      {
+        "word": "Ādhyātmika",
+        "meaning": "disturbance from within oneself — mind, body, emotions"
+      },
+      {
+        "word": "Ādhibhautika",
+        "meaning": "disturbance from other living beings"
+      },
+      {
+        "word": "Ādhidaivika",
+        "meaning": "disturbance from natural or cosmic forces"
+      }
+    ],
+    "universalReflection": "Just as we keep our homes physically clean, our ancestors understood that we must also keep our minds, our words and our shared environment clean — free from the unseen, corrosive forces of negativity. This is as relevant in a Cape Town apartment or a Durban household today as it was in a forest ashram thousands of years ago. Whether someone calls it prayer, meditation, affirmation or sound therapy, the underlying human need — to protect our inner and outer world from what diminishes it — is universal.",
+    "audio": {
+      "normal": "/audio/krimi-nashaka.mp3",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "2ocyFfhC8vY",
+    "booklet": "Krishna Yajur Veda, Taittirīya Āraṇyaka 4.36.1)"
+  },
+  {
+    "id": "saha-na-vavatu",
+    "title": {
+      "sanskrit": "सह नाववतु",
+      "iast": "Saha Nāvavatu",
+      "english": "Prayer Before Study"
+    },
+    "category": "",
+    "order": 9,
+    "note": "A śānti mantra traditionally chanted by teacher and student together before study begins.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "oṃ | sa̱ha nā̍vavatu ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "sa̱ha nau̍ bhunaktu ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "sa̱ha vī̱rya̍ṅkaravāvahai ।"
+      },
+      {
+        "devanagari": "",
+        "iast": "te̱ja̱svinā̱vadhī̍tamastu̱ mā vi̍dviṣā̱vahai̎ ॥"
+      }
+    ],
+    "overview": "Let us all be together. Let us all be nourished together. Let us all work together in great vigour. Let our studies illumine and shine our intellects. May we not hate each other. Let there be peace, peace and peace.",
+    "wordMeanings": [
+      {
+        "word": "Saha",
+        "meaning": "together"
+      },
+      {
+        "word": "Nau",
+        "meaning": "us two — teacher and student"
+      },
+      {
+        "word": "Avatu",
+        "meaning": "may it protect"
+      },
+      {
+        "word": "Bhunaktu",
+        "meaning": "may it nourish"
+      },
+      {
+        "word": "Vīryaṃ karavāvahai",
+        "meaning": "may we work together with vigour"
+      },
+      {
+        "word": "Tejasvi",
+        "meaning": "illumined, radiant"
+      },
+      {
+        "word": "Adhītam",
+        "meaning": "what has been studied"
+      },
+      {
+        "word": "Mā vidviṣāvahai",
+        "meaning": "may we not hate one another"
+      }
+    ],
+    "universalReflection": "It is a prayer said by teacher and student together, and it asks for the same thing on both their behalf — protection, nourishment, clear thinking, and no ill will between them. Nothing in it is asked for one and not the other.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "Vedas4All — Saha Naa Vavatu"
+  },
+  {
+    "id": "sarvadevata-gayatri",
+    "title": {
+      "sanskrit": "सर्वदेवता गायत्री मन्त्रः",
+      "iast": "Sarvadevatā Gāyatrī Mantraḥ",
+      "english": "Gayatri to All the Deities"
+    },
+    "category": "",
+    "order": 10,
+    "note": "A garland of Gāyatrīs, each addressed to a different form of the Divine. The booklet numbers them 1 to 12 and then 18; the numbering here follows the booklet exactly.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "॥ śrī̱ sā̱yī̱śva̱rā̱ya namaḥ । hari̍ḥ oṁ ॥"
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ | puru̍ṣasya vidma sahasrā̱kṣasya̍ mahāde̱vasya̍ dhīmahi । tanno̍ rudraḥ(f) praco̱dayā̎t ॥ 1 ॥",
+        "number": "1",
+        "meaning": "We know the Puruṣa, the thousand-eyed; we meditate on Mahādeva. May Rudra impel us."
+      },
+      {
+        "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ mahāde̱vāya̍ dhīmahi । tanno̍ rudraḥ(f) praco̱dayā̎t ॥ 2 ॥",
+        "number": "2",
+        "meaning": "We know that Puruṣa; we meditate on Mahādeva. May Rudra impel us."
+      },
+      {
+        "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ दन्तिः प्रचो॒दया᳚त् ॥",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ vakratu̱ṇḍāya̍ dhīmahi । tanno̍ dantiḥ(f) praco̱dayā̎t ॥ 3 ॥",
+        "number": "3",
+        "meaning": "We know that Puruṣa; we meditate on Vakratuṇḍa, the curved-trunked one. May Danti, the tusked one, impel us."
+      },
+      {
+        "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ चक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ नन्दिः प्रचो॒दया᳚त् ॥",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ cakratu̱ṇḍāya̍ dhīmahi । tanno̍ nandiḥ(f) praco̱dayā̎t ॥ 4 ॥",
+        "number": "4",
+        "meaning": "We know that Puruṣa; we meditate on Cakratuṇḍa. May Nandi impel us."
+      },
+      {
+        "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ महासे॒नाय॑ धीमहि । तन्न-ष्षण्मुखः प्रचो॒दया᳚त् ॥",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ mahāse̱nāya̍ dhīmahi । tannaṣ ṣaṇmukhaḥ(f) praco̱dayā̎t ॥ 5 ॥",
+        "number": "5",
+        "meaning": "We know that Puruṣa; we meditate on Mahāsena, the great commander. May Ṣaṇmukha, the six-faced one, impel us."
+      },
+      {
+        "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ सुवर्णप॒क्षाय॑ धीमहि । तन्नो॑ गरुडः प्रचो॒दया᳚त् ॥",
+        "iast": "tatpuru̍ṣāya vi̱dmahe̍ suvarṇapa̱kṣāya̍ dhīmahi । tanno̍ garuḍaḥ(f) praco̱dayā̎t ॥ 6 ॥",
+        "number": "6",
+        "meaning": "We know that Puruṣa; we meditate on the golden-winged one. May Garuḍa impel us."
+      },
+      {
+        "devanagari": "ॐ-वेँ॒दा॒त्म॒नाय॑ वि॒द्महे॑ हिरण्यग॒र्भाय॑ धीमहि । तन्नो॑ ब्रह्मः प्रचो॒दया᳚त् ॥",
+        "iast": "ve̱dā̱tma̱nāya̍ vi̱dmahe̍ hiraṇyaga̱rbhāya̍ dhīmahi । tanno̎ brahma praco̱dayā̎t ॥ 7 ॥",
+        "number": "7",
+        "meaning": "We know the Self of the Vedas; we meditate on Hiraṇyagarbha, the golden womb. May Brahmā impel us."
+      },
+      {
+        "devanagari": "ओ-न्ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥",
+        "iast": "nā̱rā̱ya̱ṇāya̍ vi̱dmahe̍ vā̱su̱de̱vāya̍ dhīmahi । tanno̍ viṣṇuḥ(f) praco̱dayā̎t ॥ 8 ॥",
+        "number": "8",
+        "meaning": "We know Nārāyaṇa; we meditate on Vāsudeva. May Viṣṇu impel us."
+      },
+      {
+        "devanagari": "ॐ-वँ॒ज्र॒न॒खाय वि॒द्महे॑ तीक्ष्णद॒ग्ग्-ष्ट्राय॑ धीमहि । तन्नो॑ नारसिग्ंहः प्रचो॒दया᳚त् ॥",
+        "iast": "va̱jra̱na̱khāya̍ vi̱dmahe̍ tīkṣṇada̱gṁṣṭrāya̍ dhīmahi । tanno̍ nārasigṁhaḥ(f) praco̱dayā̎t ॥ 9 ॥",
+        "number": "9",
+        "meaning": "We know the one with adamantine claws; we meditate on the sharp-fanged one. May Narasiṁha impel us."
+      },
+      {
+        "devanagari": "ओ-म्भा॒स्क॒राय॑ वि॒द्महे॑ महद्द्युतिक॒राय॑ धीमहि । तन्नो॑ आदित्यः प्रचो॒दया᳚त् ॥",
+        "iast": "bhā̱ska̱rāya̍ vi̱dmahe̍ mahadyutika̱rāya̍ dhīmahi । tanno̍ | ādityaḥ(f) praco̱dayā̎t ॥ 10 ॥",
+        "number": "10",
+        "meaning": "We know the light-maker; we meditate on the one of great radiance. May Āditya, the sun, impel us."
+      },
+      {
+        "devanagari": "ॐ-वैँ॒श्वा॒न॒राय॑ वि॒द्महे॑ लाली॒लाय धीमहि । तन्नो॑ अग्निः प्रचो॒दया᳚त् ॥",
+        "iast": "vai̱śvā̱na̱rāya̍ vi̱dmahe̍ lālī̱lāya dhīmahi । tanno̍ | agniḥ(f) praco̱dayā̎t ॥ 11 ॥",
+        "number": "11",
+        "meaning": "We know Vaiśvānara, the fire in all beings; we meditate on Lālīla. May Agni impel us."
+      },
+      {
+        "devanagari": "ओ-ङ्का॒त्या॒य॒नाय॑ वि॒द्महे॑ कन्यकु॒मारि॑ धीमहि । तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥",
+        "iast": "kā̱tyā̱ya̱nāya̍ vi̱dmahe̍ kanyaku̱māri̍ dhīmahi । tanno̍ durgiḥ(f) praco̱dayā̎t ॥ 12 ॥",
+        "number": "12",
+        "meaning": "We know Kātyāyanī; we meditate on Kanyākumārī. May Durgā impel us."
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ satyade̱vāya̍ dhīmahi । tanna̍s sarvaḥ(f) praco̱dayā̎t ॥ 18 ॥",
+        "number": "18",
+        "meaning": "We know Sāyīśvara; we meditate on Satyadeva, the God of Truth. May that All impel us."
+      },
+      {
+        "devanagari": "",
+        "iast": "॥ oṁ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
+        "meaning": "Om. Peace, peace, peace."
+      }
+    ],
+    "overview": "Every verse follows the same three-part Gāyatrī pattern: we know (vidmahe) one name of the Divine, we meditate (dhīmahi) on another, and we ask that a third impel or illumine us (pracodayāt). Only the names change — Rudra, Danti, Nandi, Ṣaṇmukha, Garuḍa, Brahmā, Viṣṇu, Narasiṁha, Āditya, Agni, Durgā, and finally Sāyīśvara as Satyadeva, the God of Truth.",
+    "structure": "The pattern is the same as the Gāyatrī Mantra itself — adoration, meditation, then the appeal that the intellect be awakened — repeated for each form of the Divine in turn.",
+    "wordMeanings": [
+      {
+        "word": "Vidmahe",
+        "meaning": "we know, we realise"
+      },
+      {
+        "word": "Dhīmahi",
+        "meaning": "we meditate upon"
+      },
+      {
+        "word": "Pracodayāt",
+        "meaning": "may it impel, may it illumine"
+      },
+      {
+        "word": "Tanno / tannas",
+        "meaning": "may that, for us"
+      },
+      {
+        "word": "Sarvadevatā",
+        "meaning": "all the deities, every form of the Divine"
+      }
+    ],
+    "universalReflection": "Thirteen names, one prayer. Each verse asks for exactly the same thing — that the mind be awakened — and only the name it is addressed to changes. The form of address turns out to matter less than what is being asked for.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "Sarvadevatā Gāyatrī Mantraḥ (SB IAST)"
+  },
+  {
+    "id": "food-prayer",
+    "title": {
+      "sanskrit": "अन्न प्रार्थना",
+      "iast": "Anna Prārthanā",
+      "english": "The Food Prayer"
+    },
+    "category": "",
+    "order": 11,
+    "note": "The food prayer is taken from two verses of the divine scripture of the Bhagavad Gita.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "Brahmārpaṇaṃ Brahmahavir-brahmāgnau Brahmaṇāhutaṃ |",
+        "number": "1",
+        "meaning": "The fire in the belly consumes, and that is the Brahman. The material is Brahman, the one who is consuming is Brahman, it is consumed by the Brahman, it is converted into the energy of the Brahman, and that energy helps us to do the work of the Brahman.",
+        "words": [
+          {
+            "word": "Brahmārpaṇaṃ",
+            "meaning": "offered to the Brahman within"
+          },
+          {
+            "word": "Brahmāgnau",
+            "meaning": "in the fire of Brahman"
+          },
+          {
+            "word": "Brahmaiva tena gantavyam",
+            "meaning": "consumed by the Brahman, the fire within me"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "Brahmaiva Tena Gantavyam Brahmakarma Samadhinā ||",
+        "number": "1",
+        "source": "Bhagavad Gītā 4.24"
+      },
+      {
+        "devanagari": "",
+        "iast": "Ahaṃ Vaiśvānaro Bhūtvā Prāṇinān Dehamāśritaḥ |",
+        "number": "2",
+        "meaning": "I am going to take what you have provided, both solid and liquid, and convert that into the life force within you. I will balance the life forces within you.",
+        "words": [
+          {
+            "word": "Ahaṃ",
+            "meaning": "I am"
+          },
+          {
+            "word": "Vaiśvānaro bhūtvā",
+            "meaning": "present within you as the fire named Vaiśvānara"
+          },
+          {
+            "word": "Prāṇinān dehamāśritaḥ",
+            "meaning": "present in all the bodies of all beings"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "Prāṇāpāna Samāyuktaḥ Pacāmyannañ Caturvidhaṃ ||",
+        "number": "2",
+        "source": "Bhagavad Gītā 15.14"
+      }
+    ],
+    "overview": "The fire in the belly consumes, and that is the Brahman. Consuming the Brahman Himself, the energy that is produced is the Brahman, and that energy is used to do the work of the Brahman. The second verse is the Lord's own answer: I am present within you as the fire named Vaiśvānara, present in the bodies of all beings, and I convert what you take — both solid and liquid — into the life force within you.",
+    "wordMeanings": [
+      {
+        "word": "Brahmārpaṇaṃ",
+        "meaning": "offered to the Brahman within"
+      },
+      {
+        "word": "Brahmāgnau",
+        "meaning": "in the fire of Brahman"
+      },
+      {
+        "word": "Brahmaiva tena gantavyam",
+        "meaning": "consumed by the Brahman, the fire within me"
+      },
+      {
+        "word": "Ahaṃ",
+        "meaning": "I am"
+      },
+      {
+        "word": "Vaiśvānaro bhūtvā",
+        "meaning": "present within you as the fire named Vaiśvānara"
+      },
+      {
+        "word": "Prāṇinān dehamāśritaḥ",
+        "meaning": "present in all the bodies of all beings"
+      }
+    ],
+    "universalReflection": "Said before eating, it removes every separation in the act: what is eaten, the one eating, the fire that digests and the work the energy goes on to do are all named as one and the same thing.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "Vedas4All — Food Prayer (Bhagavad Gītā 4.24 and 15.14)"
+  },
+  {
+    "id": "purusha-suktam",
+    "title": {
+      "sanskrit": "पुरुष सूक्तम्",
+      "iast": "Puruṣa Sūktam",
+      "english": "Hymn of the Cosmic Person"
+    },
+    "category": "",
+    "order": 12,
+    "note": "Chanted in two anuvākas, opened and closed by the same śānti. The verse numbers restart at 1 in the second anuvāka, as the booklet prints them.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "॥ śrī̱ sā̱yī̱śva̱rā̱ya namaḥ । hari̍ḥ | oṁ ॥"
+      },
+      {
+        "devanagari": "ओ-न्तच्छं॒-योँरावृ॑णीमहे । गा॒तुं-यँ॒ज्ञाय॑ । गा॒तुं-यँ॒ज्ञप॑तये । दैवी᳚ स्व॒स्तिर॑स्तु नः । स्व॒स्तिर्मानु॑षेभ्यः । ऊ॒र्ध्व-ञ्जि॑गातु भेष॒जम् । श-न्नो॑ अस्तु द्वि॒पदे᳚ । श-ञ्चतु॑ष्पदे ।",
+        "iast": "oṁ | tacha̱ṁi yorāvṛ̍ṇīmahe । gā̱tuṁi ya̱jñāya̍ । gā̱tuṁi ya̱jña pa̍taye । daivī̎ sva̱stira̍stu naḥ । sva̱stir mānu̍ṣebhyaḥ । ū̱rdhvañ ji̍gātu bheṣa̱jam । śan no̍ | astu dvi̱pade̎ । śañ catu̍ṣpade ॥",
+        "number": "ॐ"
+      },
+      {
+        "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
+        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥"
+      },
+      {
+        "devanagari": "स॒हस्र॑शीर् षा॒ पुरु॑षः । स॒ह॒स्रा॒क्ष-स्स॒हस्र॑पात् । स भूमिं॑-विँ॒श्वतो॑ वृ॒त्वा । अत्य॑तिष्ठद्दशाङ्गु॒लम् ॥",
+        "iast": "sa̱hasra̍śīr·ṣā̱ puru̍ṣaḥ । sa̱ha̱srā̱kṣas sa̱hasra̍pāt । sa bhūmi̍ṁu vi̱śvato̍ vṛ̱tvā । atya̍tiṣṭhaddaśāṅgu̱lam ॥ 1 ॥",
+        "number": "I.1"
+      },
+      {
+        "devanagari": "पुरु॑ष ए॒वेदग्ं सर्वम्᳚ । यद्भू॒तं-यँच्च॒ भव्यम्᳚ । उ॒तामृ॑त॒त्व स्येशा॑नः । यदन्ने॑नाति॒रोह॑ति ॥",
+        "iast": "puru̍ṣa | e̱veda gṁ sarvam̎ । yadbhū̱taṁi yacca̱ bhavyam̎ । u̱tāmṛ̍ta̱tvasyeśā̍naḥ । yadanne̍nāti̱roha̍ti ॥ 2 ॥",
+        "number": "I.2"
+      },
+      {
+        "devanagari": "ए॒तावा॑नस्य महि॒मा । अतो॒ ज्यायाग्॑श्च॒ पूरु॑षः । पादो᳚-ऽस्य॒ विश्वा॑ भू॒तानि॑ । त्रि॒पाद॑स्या॒मृत॑-न्दि॒वि ॥",
+        "iast": "e̱tāvā̍nasya mahi̱mā । ato̱ jyāyā̍gśca̱ pūru̍ṣaḥ । pādo̎'sya̱ viśvā̍ bhū̱tāni̍ । tri̱pāda̍syā̱mṛta̍n di̱vi ॥ 3 ॥",
+        "number": "I.3"
+      },
+      {
+        "devanagari": "त्रि॒पादू॒र्ध्व उदै॒त्पुरु॑षः । पादो᳚-ऽस्ये॒हा-ऽऽभ॑वा॒त्पुनः॑ । ततो॒ विष्व॒ङ् व्य॑क्रामत् । सा॒श॒ना॒न॒श॒ने अ॒भि ॥",
+        "iast": "tri̱pādū̱rdhva | udai̱tpuru̍ṣaḥ । pādo̎'sye̱hā''bha̍vā̱tpuna̍ḥ । tato̱ viṣva̱ṁu vya̍krāmat । sā̱śa̱nā̱na̱śa̱ne | a̱bhi ॥ 4 ॥",
+        "number": "I.4"
+      },
+      {
+        "devanagari": "तस्मा᳚द्वि॒राड॑जायत । वि॒राजो॒ अधि॒ पूरु॑षः । स जा॒तो अत्य॑रिच्यत । प॒श्चाद्भूमि॒मथो॑ पु॒रः ॥",
+        "iast": "tasmā̎dvi̱rāḍa̍jāyata । vi̱rājo̱ | adhi̱ pūru̍ṣaḥ । sa jā̱to | atya̍ricyata । pa̱ścādbhūmi̱matho̍ pu̱raḥ ॥ 5 ॥",
+        "number": "I.5"
+      },
+      {
+        "devanagari": "यत्पुरु॑षेण ह॒विषा᳚ । दे॒वा य॒ज्ञमत॑न्वत । व॒स॒न्तो अ॑स्यासी॒दाज्यम्᳚ । ग्री॒ष्म इ॒ध्मश्श॒रध्ध॒विः ॥",
+        "iast": "yatpuru̍ṣeṇa ha̱viṣā̎ । de̱vā ya̱jñamata̍nvata । va̱sa̱nto | a̍syā''sī̱dājyam̎ । grī̱ṣma | i̱dhmaś śa̱raddha̱viḥ ॥ 6 ॥",
+        "number": "I.6"
+      },
+      {
+        "devanagari": "स॒प्तास्या॑सन्परि॒धयः॑ । त्रि-स्स॒प्त स॒मिधः॑ कृ॒ताः । दे॒वा यद्य॒ज्ञ-न्त॑न्वा॒नाः । अब॑ध्न॒न्-पुरु॑ष-म्प॒शुम् ॥",
+        "iast": "sa̱ptāsyā̍sanpari̱dhaya̍ḥ । tris sa̱pta sa̱midha̍ḥ kṛ̱tāḥ । de̱vā yadya̱jñan ta̍nvā̱nāḥ । aba̍dhna̱npuru̍ṣam pa̱śum ॥ 7 ॥",
+        "number": "I.7"
+      },
+      {
+        "devanagari": "तं-यँ॒ज्ञ-म्ब॒र्॒हिषि॒ प्रौक्षन्॑ । पुरु॑ष-ञ्जा॒तम॑ग्र॒तः । तेन॑ दे॒वा अय॑जन्त । सा॒ध्या ऋष॑यश्च॒ ये ॥",
+        "iast": "taṁi ya̱jñam ba̱rhiṣi̱ praukṣan̍ । puru̍ṣañ jā̱tama̍gra̱taḥ । tena̍ de̱vā | aya̍janta । sā̱dhyā | ṛṣa̍yaś ca̱ ye ॥ 8 ॥",
+        "number": "I.8"
+      },
+      {
+        "devanagari": "तस्मा᳚द्य॒ज्ञाथ्स॑र्व॒हुतः॑ । सम्भृ॑त-म्पृषदा॒ज्यम् । प॒शूग्-स्ताग्-श्च॑क्रे वाय॒व्यान्॑ । आ॒र॒ण्यान्-ग्रा॒म्याश्च॒ ये ॥",
+        "iast": "tasmā̎dya̱jñātsa̍rva̱huta̍ḥ । sambhṛ̍tam pṛṣadā̱jyam । pa̱śūgstāgśca̍kre vāya̱vyān̍ । ā̱ra̱ṇyāngrā̱myāśca̱ ye ॥ 9 ॥",
+        "number": "I.9"
+      },
+      {
+        "devanagari": "तस्मा᳚द्य॒ज्ञाथ्स॑र्व॒हुतः॑ । ऋच॒-स्सामा॑नि जज्ञिरे । छन्दाग्ं॑सि जज्ञिरे॒ तस्मा᳚त् । यजु॒स्तस्मा॑दजायत ॥",
+        "iast": "tasmā̎dya̱jñātsa̍rva̱huta̍ḥ । ṛca̱s sāmā̍ni jajñire । chandā̍gṁsi jajñire̱ tasmā̎t । yaju̱s tasmā̍dajāyata ॥ 10 ॥",
+        "number": "I.10"
+      },
+      {
+        "devanagari": "तस्मा॒दश्वा॑ अजायन्त । ये के चो॑भ॒याद॑तः । गावो॑ ह जज्ञिरे॒ तस्मा᳚त् । तस्मा᳚ज्जा॒ता अ॑जा॒वयः॑ ॥",
+        "iast": "tasmā̱daśvā̍ | ajāyanta । ye ke co̍bha̱yāda̍taḥ । gāvo̍ ha jajñire̱ tasmā̎t । tasmā̎jjā̱tā | a̍jā̱vaya̍ḥ ॥ 11 ॥",
+        "number": "I.11"
+      },
+      {
+        "devanagari": "यत्पुरु॑षं॒-व्यँ॑दधुः । क॒ति॒था व्य॑कल्पयन्न् । मुख॒-ङ्किम॑स्य॒ कौ बा॒हू । कावू॒रू पादा॑वुच्येते ॥",
+        "iast": "yatpuru̍ṣa̱ṁu vya̍dadhuḥ । ka̱ti̱dhā vya̍kalpayan । mukha̱ṅ kima̍sya̱ kau bā̱hū । kāvū̱rū pādā̍vucyete ॥ 12 ॥",
+        "number": "I.12"
+      },
+      {
+        "devanagari": "ब्रा॒ह्म॒णो᳚-ऽस्य॒ मुख॑मासीत् । बा॒हू रा॑ज॒न्यः॑ कृ॒तः । ऊ॒रू तद॑स्य॒ यद्वैश्यः॑ । प॒द्भ्याग्ं शू॒द्रो अ॑जायत ॥",
+        "iast": "brā̱hma̱ṇo̎'sya̱ mukha̍māsīt । bā̱hū rā̍ja̱nya̍ḥ kṛ̱taḥ । ū̱rū tada̍sya̱ yadvaiśya̍ḥ । pa̱dbhyāgṁ śū̱dro | a̍jāyata ॥ 13 ॥",
+        "number": "I.13"
+      },
+      {
+        "devanagari": "च॒न्द्रमा॒ मन॑सो जा॒तः । चक्षो॒-स्सूर्यो॑ अजायत । मुखा॒दिन्द्र॑श्चा॒ग्निश्च॑ । प्रा॒णाद्वा॒युर॑जायत ॥",
+        "iast": "ca̱ndramā̱ mana̍so jā̱taḥ । cakṣo̱s sūryo̍ | ajāyata । mukhā̱dindra̍ścā̱gniśca̍ । prā̱ṇādvā̱yura̍jāyata ॥ 14 ॥",
+        "number": "I.14"
+      },
+      {
+        "devanagari": "नाभ्या॑ आसीद॒न्तरि॑क्षम् । शी॒र् ष्णो द्यौ-स्सम॑वर्तत । प॒द्भ्या-म्भूमि॒र्दिश॒-श्श्रोत्रा᳚त् । तथा॑ लो॒काग्ं अ॑कल्पयन्न् ॥",
+        "iast": "nābhyā̍ | āsīda̱ntari̍kṣam । śī̱rṣṇo dyaus sama̍vartata । pa̱dbhyām bhūmi̱rdiśa̱ś śrotrā̎t । tathā̍ lo̱kāgṁ a̍kalpayan ॥ 15 ॥",
+        "number": "I.15"
+      },
+      {
+        "devanagari": "वेदा॒हमे॒त-म्पुरु॑ष-म्म॒हान्तम्᳚ । आ॒दि॒त्यव॑र्ण॒-न्तम॑स॒स्तु पा॒रे । सर्वा॑णि रू॒पाणि॑ वि॒चित्य॒ धीरः॑ । नामा॑नि कृ॒त्वा-ऽभि॒वद॒न्॒, यदा-ऽऽस्ते᳚ ॥",
+        "iast": "vedā̱hame̱tam puru̍ṣam ma̱hāntam̎ । ā̱di̱tya va̍rṇa̱n tama̍sa̱stu pā̱re । sarvā̍ṇi rū̱pāṇi̍ vi̱citya̱ dhīra̍ḥ । nāmā̍ni kṛ̱tvā'bhi̱vada̱n yadāste̎ ॥ 16 ॥",
+        "number": "I.16"
+      },
+      {
+        "devanagari": "धा॒ता पु॒रस्ता॒द्यमु॑दाज॒हार॑ । श॒क्रः प्रवि॒द्वा-न्प्र॒दिश॒श्चत॑स्रः । तमे॒वं-विँ॒द्वान॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॒ अय॑नाय विद्यते ॥",
+        "iast": "dhā̱tā pu̱rastā̱dyamu̍dāja̱hāra̍ । śa̱kraḥ(f) pravi̱dvānpra̱diśa̱ścata̍sraḥ । tame̱vaṁu vi̱dvāna̱mṛta̍ | i̱ha bha̍vati । nānyaḥ(f) panthā̱ | aya̍nāya vidyate ॥ 17 ॥",
+        "number": "I.17"
+      },
+      {
+        "devanagari": "य॒ज्ञेन॑ य॒ज्ञम॑यजन्त दे॒वाः । तानि॒ धर्मा॑णि प्रथ॒मान्या॑सन्न् । ते ह॒ नाक॑-म्महि॒मानः॑ सचन्ते । यत्र॒ पूर्वे॑ सा॒ध्या-स्सन्ति॑ दे॒वाः ॥",
+        "iast": "ya̱jñena̍ ya̱jñama̍yajanta de̱vāḥ । tāni̱ dharmā̍ṇi pratha̱mānyā̍san । te ha̱ nāka̍ṁ, mahi̱māna̍s sacante । yatra̱ pūrve̍ sā̱dhyās santi̍ de̱vāḥ ॥ 18 ॥",
+        "number": "I.18"
+      },
+      {
+        "devanagari": "अ॒द्भ्य-स्सम्भू॑तः पृथि॒व्यै रसा᳚च्च । वि॒श्वक॑र्मण॒-स्सम॑वर्त॒ताधि॑ । तस्य॒ त्वष्टा॑ वि॒दध॑द्रू॒पमे॑ति । तत्पुरु॑षस्य॒ विश्व॒माजा॑न॒मग्रे᳚ ॥",
+        "iast": "a̱dbhyas sambhū̍taḥ(f) pṛthi̱vyai rasā̎cca । vi̱śvaka̍rmaṇa̱s sama̍varta̱tādhi̍ । tasya̱ tvaṣṭā̍ vi̱dadha̍drū̱pame̍ti । tatpuru̍ṣasya̱ viśva̱mājā̍na̱magre̎ ॥ 1 ॥",
+        "number": "II.1"
+      },
+      {
+        "devanagari": "वेदा॒हमे॒त-म्पुरु॑ष-म्म॒हान्तम्᳚ । आ॒दि॒त्यव॑र्ण॒-न्तम॑सः॒ पर॑स्तात् । तमे॒वं-विँ॒द्वान॒मृत॑ इ॒ह भ॑वति । नान्यः पन्था॑ विद्य॒ते-ऽय॑नाय ॥",
+        "iast": "vedā̱hame̱tam puru̍ṣam ma̱hāntam̎ । ā̱di̱tyava̍rṇa̱n tama̍sa̱ḥ(f) para̍stāt । tame̱vaṁu vi̱dvāna̱mṛta̍ | i̱ha bha̍vati । nānyaḥ(f) panthā̍ vidya̱te'ya̍nāya ॥ 2 ॥",
+        "number": "II.2"
+      },
+      {
+        "devanagari": "प्र॒जाप॑तिश्चरति॒ गर्भे॑ अ॒न्तः । अ॒जाय॑मानो बहु॒धा विजा॑यते । तस्य॒ धीराः॒ परि॑जानन्ति॒ योनिम्᳚ । मरी॑चीना-म्प॒दमि॑च्छन्ति वे॒धसः॑ ॥",
+        "iast": "pra̱jāpa̍tiścarati̱ garbhe̍ | a̱ntaḥ । a̱jāya̍māno bahu̱dhā vijā̍yate । tasya̱ dhīrā̱ḥ(f) pari̍jānanti̱ yonim̎ । marī̍cīnām pa̱dami̍cchanti ve̱dhasa̍ḥ ॥ 3 ॥",
+        "number": "II.3"
+      },
+      {
+        "devanagari": "यो दे॒वेभ्य॒ आत॑पति । यो दे॒वाना᳚-म्पु॒रोहि॑तः । पूर्वो॒ यो दे॒वेभ्यो॑ जा॒तः । नमो॑ रु॒चाय॒ ब्राह्म॑ये ॥",
+        "iast": "yo de̱vebhya̱ | āta̍pati । yo de̱vānā̎m pu̱rohi̍taḥ । pūrvo̱ yo de̱vebhyo̍ jā̱taḥ । namo̍ ru̱cāya̱ brāhma̍ye ॥ 4 ॥",
+        "number": "II.4"
+      },
+      {
+        "devanagari": "रुच॑-म्ब्रा॒ह्म-ञ्ज॒नय॑न्तः । दे॒वा अग्रे॒ तद॑ब्रुवन्न् । यस्त्वै॒व-म्ब्रा᳚ह्म॒णो वि॒द्यात् । तस्य॑ दे॒वा अस॒न् वशे᳚ ॥",
+        "iast": "ruca̍m brā̱hmañ ja̱naya̍ntaḥ । de̱vā | agre̱ tada̍bruvan । yastvai̱vam brā̎hma̱ṇo vi̱dyāt । tasya̍ de̱vā | asa̱nvaśe̎ ॥ 5 ॥",
+        "number": "II.5"
+      },
+      {
+        "devanagari": "ह्रीश्च॑ ते ल॒क्ष्मीश्च॒ पत्न्यौ᳚ । अ॒हो॒रा॒त्रे पा॒र् श्वे । नक्ष॑त्राणि रू॒पम् । अ॒श्विनौ॒ व्यात्तम्᳚ । इ॒ष्ट-म्म॑निषाण । अ॒मु-म्म॑निषाण । सर्व॑-म्मनिषाण ॥",
+        "iast": "hrīśca̍ te la̱kṣmīśca̱ patnyau̎ । a̱ho̱rā̱tre pā̱r·śve । nakṣa̍trāṇi rū̱pam । a̱śvinau̱ vyāttam̎ । i̱ṣṭam ma̍niṣāṇa । a̱mum ma̍niṣāṇa । sarva̍m maniṣāṇa ॥ 6 ॥",
+        "number": "II.6"
+      },
+      {
+        "devanagari": "तच्छं॒-योँरावृ॑णीमहे । गा॒तुं-यँ॒ज्ञाय॑ । गा॒तुं-यँ॒ज्ञप॑तये । दैवी᳚ स्व॒स्तिर॑स्तु नः । स्व॒स्तिर्मानु॑षेभ्यः । ऊ॒र्ध्व-ञ्जि॑गातु भेष॒जम् । श-न्नो॑ अस्तु द्वि॒पदे᳚ । श-ञ्चतु॑ष्पदे ।",
+        "iast": "oṁ | tacha̱ṁi yorāvṛ̍ṇīmahe । gā̱tuṁi ya̱jñāya̍ । gā̱tuṁi ya̱jña pa̍taye । daivī̎ sva̱stira̍stu naḥ । sva̱stir mānu̍ṣebhyaḥ । ū̱rdhvañ ji̍gātu bheṣa̱jam । śan no̍ | astu dvi̱pade̎ । śañ catu̍ṣpade ॥",
+        "number": "ॐ",
+        "source": "samāptāśīrvācanam — the closing stanza"
+      },
+      {
+        "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
+        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥"
+      }
+    ],
+    "overview": "The Puruṣa Sūktam describes the Cosmic Person — thousand-headed, thousand-eyed, thousand-footed — who pervades the earth entirely and extends beyond it. It sets out creation as a yajña in which the Puruṣa is at once the offering, the fire and the one to whom it is offered, and from which the Vedas, the creatures, the elements and the worlds all arise.",
+    "structure": "Two anuvākas. The first has eighteen verses, the second six. Both are framed by the same śānti — śaṁ yorāvṛṇīmahe — which opens the recitation and closes it again as the samāptāśīrvācanam.",
+    "wordMeanings": [
+      {
+        "word": "Puruṣa",
+        "meaning": "the Cosmic Person"
+      },
+      {
+        "word": "Sahasraśīrṣā",
+        "meaning": "thousand-headed"
+      },
+      {
+        "word": "Sahasrākṣa",
+        "meaning": "thousand-eyed"
+      },
+      {
+        "word": "Sahasrapāt",
+        "meaning": "thousand-footed"
+      },
+      {
+        "word": "Yajña",
+        "meaning": "the sacrifice, the offering"
+      },
+      {
+        "word": "Anuvāka",
+        "meaning": "a section of recitation"
+      },
+      {
+        "word": "Śāntiḥ",
+        "meaning": "peace"
+      }
+    ],
+    "universalReflection": "The hymn describes a whole in which nothing stands outside: the offering, the fire, the one offering and what is made from it are all the same Person. Everything that follows in it is a description of one thing seen from different sides.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "॥ puruṣa sūktam ॥ SB IAST"
+  },
+  {
+    "id": "sri-rudram",
+    "title": {
+      "sanskrit": "श्री रुद्रम्",
+      "iast": "Śrī Rudram",
+      "english": "Namakam and Chamakam"
+    },
+    "category": "",
+    "order": 13,
+    "note": "Kṛṣṇa Yajur Veda, Taittirīya Saṃhitā. Recited in two halves — Namakam and Chamakam — of eleven anuvākas each. Choose a half, then an anuvāka.",
+    "verses": [],
+    "sections": [
+      {
+        "id": "namakam",
+        "label": "Namakam",
+        "note": "Taittirīya Saṃhitā, fourth kāṇḍa, fifth prapāṭhaka.",
+        "anuvakas": [
+          {
+            "n": 1,
+            "label": "Prathamo'nuvākaḥ",
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "॥ oṁ | namo bhagavate̍ rudrā̱ya ॥"
+              },
+              {
+                "devanagari": "",
+                "number": "1",
+                "iast": "oṁ | nama̍ste rudra ma̱nyava̍ | u̱tota̱ | iṣa̍ve̱ nama̍ḥ । nama̍ste | astu̱ dhanva̍ne bā̱hubhyā̍mu̱ta te̱ nama̍ḥ ॥ 1"
+              },
+              {
+                "devanagari": "",
+                "number": "2",
+                "iast": "yā ta̱ | iṣu̍ś śi̱vata̍mā śi̱vam ba̱bhūva̍ te̱ dhanu̍ḥ । śi̱vā śa̍ra̱vyā̍ yā tava̱ tayā̍ no rudra mṛḍaya ॥ 2"
+              },
+              {
+                "devanagari": "",
+                "number": "3",
+                "iast": "yā te̍ rudra śi̱vā ta̱nūragho̱rā'pā̍pakāśinī । tayā̍ nasta̱nuvā̱ śanta̍mayā̱ giri̍śantā̱bhi cā̍kaśīḥ ॥ 3"
+              },
+              {
+                "devanagari": "",
+                "number": "4",
+                "iast": "yāmiṣu̍ṅ giriśanta̱ haste̱ bibha̱rṣyasta̍ve । śi̱vāṅ gi̍ritra̱ tāṅ ku̍ru̱ mā hi̍gṁsī̱ḥ(f) puru̍ṣa̱ñ jaga̍t ॥ 4"
+              },
+              {
+                "devanagari": "",
+                "number": "5",
+                "iast": "śi̱vena̱ vaca̍sā tvā̱ giri̱śācchā̍vadāmasi । yathā̍ na̱s sarva̱mijjaga̍daya̱kṣma gṁ su̱manā̱ | asa̍t ॥ 5"
+              },
+              {
+                "devanagari": "",
+                "number": "6",
+                "iast": "adhya̍vocadadhiva̱ktā pra̍tha̱mo daivyo̍ bhi̱ṣak । ahī̍gśca̱ sarvā̎ñ ja̱mbhaya̱nth sarvā̎śca yātudhā̱nya̍ḥ ॥ 6"
+              },
+              {
+                "devanagari": "",
+                "number": "7",
+                "iast": "a̱sau yastā̱mro | a̍ru̱ṇa | u̱ta ba̱bhrus su̍ma̱ṅgala̍ḥ । ye ce̱mā gṁ ru̱drā | a̱bhito̍ di̱kṣu śri̱tās sa̍hasra̱śo'vai̍ṣā̱gṁ heḍa̍ | īmahe ॥ 7"
+              },
+              {
+                "devanagari": "",
+                "number": "8",
+                "iast": "a̱sau yo̍'va̱sarpa̍ti̱ nīla̍grīvo̱ vilo̍hitaḥ । u̱taina̍ṅ go̱pā | a̍dṛśa̱nnadṛ̍śannudahā̱rya̍ḥ । u̱taina̱ṁu viśvā̍ bhū̱tāni̱ sa dṛ̱ṣṭo mṛ̍ḍayāti naḥ ॥ 8"
+              },
+              {
+                "devanagari": "",
+                "number": "9",
+                "iast": "namo̍ | astu̱ nīla̍grīvāya sahasrā̱kṣāya̍ mī̱ḍhuṣe̎ । atho̱ ye | a̍sya̱ satvā̍no̱'han tebhyo̍'kara̱n nama̍ḥ ॥ 9"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/rudram-namakam-01.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 2,
+            "label": "Dvitīyo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-02.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 3,
+            "label": "Tṛtīyo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-03.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 4,
+            "label": "Caturtho'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-04.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 5,
+            "label": "Pañcamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-05.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 6,
+            "label": "Ṣaṣṭo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-06.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 7,
+            "label": "Saptamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-07.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 8,
+            "label": "Aṣṭamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-08.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 9,
+            "label": "Navamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-09.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 10,
+            "label": "Daśamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-10.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 11,
+            "label": "Ekādaśo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-namakam-11.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          }
+        ]
+      },
+      {
+        "id": "camakam",
+        "label": "Chamakam",
+        "note": "Taittirīya Saṃhitā, fourth kāṇḍa, seventh prapāṭhaka.",
+        "anuvakas": [
+          {
+            "n": 1,
+            "label": "Prathamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-01.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 2,
+            "label": "Dvitīyo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-02.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 3,
+            "label": "Tṛtīyo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-03.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 4,
+            "label": "Caturtho'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-04.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 5,
+            "label": "Pañcamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-05.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 6,
+            "label": "Ṣaṣṭo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-06.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 7,
+            "label": "Saptamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-07.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 8,
+            "label": "Aṣṭamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-08.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 9,
+            "label": "Navamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-09.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 10,
+            "label": "Daśamo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-10.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          },
+          {
+            "n": 11,
+            "label": "Ekādaśo'nuvākaḥ",
+            "verses": [],
+            "audio": {
+              "normal": "/audio/rudram-camakam-11.mp3",
+              "slow": "",
+              "source": ""
+            },
+            "videoId": ""
+          }
+        ]
+      }
+    ],
+    "overview": "Śrī Rudram is the central hymn to Rudra in the Kṛṣṇa Yajur Veda. Its first half, the Namakam, is named for the word namaḥ — salutations — which recurs throughout as Rudra is saluted in every form and in every place. Its second half, the Chamakam, is named for the phrase ca me — and for me — in which each verse asks that some good be granted.",
+    "structure": "Eleven anuvākas in each half, chanted in sequence. Classes usually work through one anuvāka at a time, which is how the anuvākas are presented here.",
+    "wordMeanings": [
+      {
+        "word": "Namaḥ",
+        "meaning": "salutations — the word that names the Namakam"
+      },
+      {
+        "word": "Ca me",
+        "meaning": "and for me — the phrase that names the Chamakam"
+      },
+      {
+        "word": "Anuvāka",
+        "meaning": "a section of recitation"
+      },
+      {
+        "word": "Rudra",
+        "meaning": "who makes problems melt away"
+      }
+    ],
+    "universalReflection": "The Namakam salutes Rudra in everything without exception — in what is pleasant and in what is feared, in the settled and in the wild. Nothing is left outside the salutation.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "॥ Sri Rudram ॥ IAST SB (ARMY 2024 Daily Sadhana)"
+  },
+  {
+    "id": "durga-suktam",
+    "title": {
+      "sanskrit": "दुर्गा सूक्तम्",
+      "iast": "Durgā Sūktam",
+      "english": "Hymn to Durgā"
+    },
+    "category": "",
+    "order": 14,
+    "note": "Kṛṣṇa Yajur Veda, Taittirīya Āraṇyaka 10.2 (Mahānārāyaṇopaniṣat, dvitīyo'nuvākaḥ).",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "। śrī sāyīśvarāya namaḥ । hariḥ oṁ ।"
+      },
+      {
+        "devanagari": "जा॒तवे॑दसे सुनवाम॒ सोम॑ मरातीय॒तो निद॑हाति॒ वेदः॑ । स नः॑ पर्-ष॒दति॑ दु॒र्गाणि॒ विश्वा॑ ना॒वेव॒ सिन्धु॑-न्दुरि॒ता-ऽत्य॒ग्निः ॥",
+        "iast": "jā̱tave̍dase sunavāma̱ soma̍marātīya̱to nida̍hāti̱ veda̍ḥ । sa na̍ḥ(f) parṣa̱dati̍ du̱rgāṇi̱ viśvā̍ nā̱veva̱ sindhu̍n duri̱tā'tya̱gniḥ ॥",
+        "number": "1"
+      },
+      {
+        "devanagari": "ताम॒ग्निव॑र्णा॒-न्तप॑सा ज्वल॒न्तीं-वैँ॑रोच॒नी-ङ्क॑र्मफ॒लेषु॒ जुष्टा᳚म् । दु॒र्गा-न्दे॒वीग्ं शर॑णम॒ह-म्प्रप॑द्ये सु॒तर॑सि तरसे॒ नमः॑ ॥",
+        "iast": "tāma̱gniva̍rṇā̱n tapa̍sā jvala̱ntīṁu vai̍roca̱nīṅ ka̍rmapha̱leṣu̱ juṣṭā̎m । du̱rgān de̱vī gṁ śara̍ṇama̱haṁ prapa̍dye su̱tara̍si tarase̱ nama̍ḥ ॥",
+        "number": "2"
+      },
+      {
+        "devanagari": "अग्ने॒ त्व-म्पा॑रया॒ नव्यो॑ अ॒स्मान् थ्स्व॒स्तिभि॒रति॑ दु॒र्गाणि॒ विश्वा᳚ । पूश्च॑ पृ॒थ्वी ब॑हु॒ला न॑ उ॒र्वी भवा॑ तो॒काय॒ तन॑याय॒ शं योँः ॥",
+        "iast": "agne̱ tvam pā̍rayā̱ navyo̍ | a̱smānthsva̱stibhi̱rati̍ du̱rgāṇi̱ viśvā̎ । pūśca̍ pṛ̱thvī ba̍hu̱lā na̍ | u̱rvī bhavā̍ to̱kāya̱ tana̍yāya̱ śaṁiyoḥ ॥",
+        "number": "3"
+      },
+      {
+        "devanagari": "विश्वा॑नि नो दु॒र्गहा॑ जातवेद॒-स्सिन्धु॒न्न ना॒वा दु॑रि॒ता-ऽति॑पर्-षि । अग्ने॑ अत्रि॒वन्मन॑सा गृणा॒नो᳚-ऽस्माक॑-म्बोध्यवि॒ता त॒नूना᳚म् ॥",
+        "iast": "viśvā̍ni no du̱rgahā̍ jātaveda̱s sindhu̱nna nā̱vā du̍ri̱tā'ti̍parṣi । agne̍ | atri̱vanmana̍sā gṛṇā̱no̎'smāka̍m bodhyavi̱tā ta̱nūnā̎m ॥",
+        "number": "4"
+      },
+      {
+        "devanagari": "पृ॒त॒ना॒ जित॒ग्ं॒ सह॑मानमु॒ग्रम॒ग्निग्ं हु॑वेम पर॒माथ्स॒धस्था᳚त् । स नः॑ पर्-ष॒दति॑ दु॒र्गाणि॒ विश्वा॒ क्षाम॑द्दे॒वो अति॑ दुरि॒ता-ऽत्य॒ग्निः ॥",
+        "iast": "pṛ̱ta̱nā̱jita̱gṁ saha̍mānamu̱grama̱gni gṁ hu̍vema para̱māthsa̱dhasthā̎t । sa na̍ḥ(f) parṣa̱dati̍ du̱rgāṇi̱ viśvā̱ kṣāma̍dde̱vo | ati̍ duri̱tā'tya̱gniḥ ॥",
+        "number": "5"
+      },
+      {
+        "devanagari": "प्र॒त्नोषि॑ क॒मीड्यो॑ अध्व॒रेषु॑ स॒नाच्च॒ होता॒ नव्य॑श्च॒ सत्सि॑ । स्वाञ्चा᳚-ऽग्ने त॒नुव॑-म्पि॒प्रय॑स्वा॒स्मभ्य॑-ञ्च॒ सौभ॑ग॒माय॑जस्व ॥",
+        "iast": "pra̱tnoṣi̍ ka̱mīḍyo̍ | adhva̱reṣu̍ sa̱nācca̱ hotā̱ navya̍śca̱ sathsi̍ । svāñcā̎gne ta̱nuva̍m pi̱ praya̍svā̱smabhya̍ñ ca̱ saubha̍ga̱māya̍jasva ॥",
+        "number": "6"
+      },
+      {
+        "devanagari": "गोभि॒र्जुष्ट॑मयुजो॒ निषि॑क्त॒-न्तवे᳚न्द्र विष्णो॒रनु॒सञ्च॑रेम । नाक॑स्य पृ॒ष्ठम॒भि सं॒ वँसा॑नो॒ वैष्ण॑वीं-लोँ॒क इ॒ह मा॑दयन्ताम् ॥",
+        "iast": "gobhi̱rjuṣṭa̍ma̱yujo̱ niṣi̍kta̱n tave̎ndra viṣṇo̱ranusañca̍rema । nāka̍sya pṛ̱ṣṭhama̱bhi saṁuvasā̍no̱ vaiṣṇa̍vīṁl lo̱ka | i̱ha mā̍ dayantām ॥",
+        "number": "7"
+      },
+      {
+        "devanagari": "ओ-ङ्का॒त्या॒य॒नाय॑ वि॒द्महे॑ कन्यकु॒मारि॑ धीमहि । तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥",
+        "iast": "kā̱tyā̱ya̱nāya̍ vi̱dmahe̍ kanyaku̱māri̍ dhīmahi । tanno̍ durgiḥ(f) praco̱dayā̎t ॥"
+      },
+      {
+        "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
+        "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥"
+      }
+    ],
+    "overview": "A hymn to Durgā as the fire that carries one across difficulty. Durgāṇi means hard places or straits, and the refrain asks Agni — jātavedas, knower of all that is born — to ferry us over them as a boat carries one over a river. It closes with the Kātyāyanī Gāyatrī.",
+    "wordMeanings": [
+      {
+        "word": "Durgā",
+        "meaning": "she who carries one across difficulty"
+      },
+      {
+        "word": "Durgāṇi",
+        "meaning": "hard places, straits, difficulties"
+      },
+      {
+        "word": "Jātavedas",
+        "meaning": "knower of all that is born — a name of Agni"
+      },
+      {
+        "word": "Nāveva sindhum",
+        "meaning": "as a boat across a river"
+      },
+      {
+        "word": "Śaraṇam ahaṁ prapadye",
+        "meaning": "I take refuge"
+      },
+      {
+        "word": "Kātyāyanī",
+        "meaning": "a name of the Goddess"
+      },
+      {
+        "word": "Kanyākumārī",
+        "meaning": "the maiden — a name of the Goddess"
+      }
+    ],
+    "universalReflection": "The image it returns to is not rescue but passage — a boat over a river, a fire that carries one across. It does not ask for the hard place to be removed, only to be brought through it.",
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": ""
+    },
+    "youtubeId": "",
+    "booklet": "॥ Sri Rudram ॥ IAST SB — Durgā Sūktam (Taittirīya Āraṇyaka 10.2)"
+  }
+]

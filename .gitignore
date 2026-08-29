@@ -1,0 +1,17 @@
+# dependencies
+/node_modules
+
+# build output
+/.next
+/out
+
+# original booklets, PDFs and raw audio exports.
+# Kept local: they are third-party publications, not ours to redistribute,
+# and they are not needed to build the site.
+/Source
+
+# macOS
+.DS_Store
+
+# local env
+.env*.local
