@@ -976,5 +976,231 @@
       }
     ],
     "source": "Learning Continuity (Visarga) — VedaStudy, The Science of Sound"
+  },
+  {
+    "id": "pauses-holdings",
+    "order": 4,
+    "module": "Module 4",
+    "title": "Discontinuity — Pauses & Holdings",
+    "subtitle": "The Science of Sound",
+    "summary": "Where to stop, where never to stop, and how long to hold a sound — what keeps a group chanting as one voice.",
+    "blocks": [
+      {
+        "type": "points",
+        "heading": "This module",
+        "intro": "So far we have covered purpose, meter (*chandas*), sounds (*varṇa*), duration (*mātra*), and continuity — visarga and bindu — both **within** words (*pada*) and **between** them (*pāda*).",
+        "items": [
+          "Pauses.",
+          "Holdings.",
+          "Focusing on syllables, with śloka examples.",
+          "Attention to common flaws in chanting."
+        ]
+      },
+      {
+        "type": "guides",
+        "heading": "Pauses",
+        "intro": "The written marks tell you where a line ends. The rest you have to hear.",
+        "items": [
+          {
+            "label": "Single vertical line ।",
+            "text": "Indicates a line break.",
+            "examples": [
+              "yā ta̱ | iṣuś śi̱vatamā śi̱vam ba̱bhūva te̱ dhanuḥ ।"
+            ]
+          },
+          {
+            "label": "Double vertical line ॥",
+            "text": "Indicates completion of the śloka or mantra — ṛk or yajus.",
+            "examples": [
+              "śivā śaravyā yā tava tayā no rudra mṛḍaya ॥"
+            ]
+          },
+          {
+            "label": "Short pause",
+            "text": "Between two words, where the first ends and the second begins with short vowels.",
+            "examples": [
+              "yā ta | iṣuś śi̱vatamā śi̱vam ba̱bhūva te̱ dhanuḥ ।"
+            ]
+          },
+          {
+            "label": "One unit time pause",
+            "text": "When a word ends with a long vowel and the next starts with a short vowel.",
+            "examples": [
+              "yo ru̱dro | a̱gnau yo | a̱psu ya | oṣa̍dhīṣu̱"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "guides",
+        "heading": "Pauses within words",
+        "items": [
+          {
+            "label": "Pause ḥ:a",
+            "text": "When a visarga is followed by a compounded consonant such as *kṣa*.",
+            "examples": [
+              "namaḥ:a kṣattṛbhya | ma̱hadbhyaḥ:a kṣulla̱kebhyaśca"
+            ]
+          },
+          {
+            "label": "Short pause within a word",
+            "text": "When an anusvāra is followed by a compounded consonant.",
+            "examples": [
+              "saṁ-jñanaṁ | saṁ-kṣemaṁ"
+            ]
+          },
+          {
+            "label": "Short pause after oṁ",
+            "text": "After chanting oṁ or a bījākṣara.",
+            "examples": [
+              "॥ oṁ | namo bhagavate rudrāya ॥"
+            ]
+          },
+          {
+            "label": "Short pause at a half-consonant",
+            "text": "When a word ends with a half-consonant within a line.",
+            "examples": [
+              "tayā'smān, viśvatastvamayakṣmayā"
+            ]
+          }
+        ],
+        "footnotes": [
+          "Overall, pauses help with **breath management** during chanting."
+        ]
+      },
+      {
+        "type": "guides",
+        "heading": "Breaks not allowed",
+        "intro": "Some places look like a pause and are not. Breaking here changes the meaning.",
+        "items": [
+          {
+            "label": "Within a word",
+            "text": "Never break inside a word."
+          },
+          {
+            "label": "At an avagraha",
+            "text": "Marked ' in IAST, or ऽ in Devanāgarī. **A break at the avagraha distorts the meaning.**",
+            "examples": [
+              "त̱नूरघो̱राऽपा̍पकाशिनी  |  tanūraghorā'pāpakāśinī",
+              "उ̱च्चै र्घो̍षायाऽऽक्र̱न्दय̍ते  |  u̱ccairgho̍ṣāyā''kra̱ndaya̍te"
+            ]
+          },
+          {
+            "label": "At a conjunction with visarga or anusvāra",
+            "text": "Shown by the blue letters in the chant documents — the sound carries straight through.",
+            "examples": [
+              "stenānām pataye",
+              "iṣavaḥf parā tā"
+            ]
+          }
+        ]
+      },
+      {
+        "type": "figures",
+        "heading": "Holdings",
+        "intro": "Holding the sounds — *akṣara* — is what gives a group its **timing and synchronicity**. A short holding follows a short vowel, marked as a thin rectangle in IAST and a single ͂ in Devanāgarī. A long holding follows a long vowel, marked as a thick rectangle, or ͌ in Devanāgarī.",
+        "items": [
+          {
+            "src": "/fundamentals/holding-short-iast.webp",
+            "alt": "yāmiṣuṅ giriśanta haste bibharṣyastave, with thin rectangles marking short holdings",
+            "caption": "Short holding — the thin rectangles"
+          },
+          {
+            "src": "/fundamentals/holding-short-devanagari.webp",
+            "alt": "The same line in Devanāgarī, with single marks above the syllables"
+          },
+          {
+            "src": "/fundamentals/holding-long-iast.webp",
+            "alt": "śivāṅ giritra tāṅ kuru mā hiṁgṁsīḥ puruṣañ jagat, with thick rectangles marking long holdings",
+            "caption": "Long holding — the thick rectangles"
+          },
+          {
+            "src": "/fundamentals/holding-long-devanagari.webp",
+            "alt": "The same line in Devanāgarī, with double marks above the syllables"
+          }
+        ],
+        "footnotes": [
+          "These marks have no character of their own in the fonts, so they are shown here exactly as they appear in the teaching deck."
+        ]
+      },
+      {
+        "type": "figures",
+        "heading": "Counting syllables",
+        "intro": "Sixteen syllables — **Anuṣṭup chandas**. The green boxes mark the syllables; the blue superscripts are the anusvāra changes from Module 2, carried into a real verse.",
+        "items": [
+          {
+            "src": "/fundamentals/syllables-suklambara.webp",
+            "alt": "śuklām baradharaṁ viṣṇuṁ śaśi varṇañ caturbhujam | prasanna vadanan dhyāyet sarva vighno-paśāntaye ||, with each syllable boxed",
+            "caption": "śuklām baradharaṁ viṣṇuṁ śaśi varṇañ caturbhujam ॥"
+          }
+        ],
+        "footnotes": [
+          "The first line has 15 short and 1 long syllable. At 0.17 seconds for a short syllable and 2.5 for a long one, that is about **5 seconds**.",
+          "The second line has 12 short and 4 long syllables — about **12 seconds**.",
+          "**Syllable chanting is critical in timing.**"
+        ]
+      },
+      {
+        "type": "guides",
+        "heading": "A second example",
+        "intro": "Sixteen syllables again, Anuṣṭup chandas. The eighth syllable in each line has a long vowel, which creates a pause pattern.",
+        "items": [
+          {
+            "label": "Line by line",
+            "examples": [
+              "śrī mātā, śrī mahārājñī, śrīmat-siṃhāsanēśvarī ।",
+              "chidagni kuṇḍasambhūtā, dēvakāryasamudyatā ॥",
+              "aṣṭamī chandra vibhrāja daḻikasthala śōbhitā ।",
+              "mukhachandra kaḻaṅkābha mṛganābhi viśēṣakā ॥"
+            ]
+          }
+        ],
+        "footnotes": [
+          "**This is not a rhythm.** One has to pay attention to the short vowels and not pause there."
+        ]
+      },
+      {
+        "type": "guides",
+        "heading": "Flaws in chanting",
+        "items": [
+          {
+            "label": "Singing",
+            "text": "The Vedas have explicit *svara* and should be chanted accordingly."
+          },
+          {
+            "label": "Too fast",
+            "text": "Too fast is incorrect. Practise at lower speed. Listen and experience the total vibration — pronunciation, intonation, duration, force, consistency, and continuity."
+          },
+          {
+            "label": "Shaking the head, and the whole body",
+            "text": "Use hand movement if needed for the svaras. Not the whole body."
+          },
+          {
+            "label": "Reading from a book",
+            "text": "This is a tough one. Memorise and chant by heart. Remember: **HE + ART = HEART**."
+          },
+          {
+            "label": "Chanting without understanding the meaning",
+            "text": "At least make an earnest effort to study the mantra and its application to self-transformation."
+          },
+          {
+            "label": "Chanting feebly, or too loud",
+            "text": "Neither carries."
+          }
+        ]
+      },
+      {
+        "type": "next",
+        "heading": "Next module",
+        "items": [
+          {
+            "sound": "॑",
+            "label": "Intonations, or Svara",
+            "place": "The Science of Sound"
+          }
+        ]
+      }
+    ],
+    "source": "Discontinuity — Pauses / Holdings — VedaStudy, The Science of Sound"
   }
 ]

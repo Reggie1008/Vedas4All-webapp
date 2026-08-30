@@ -31,6 +31,8 @@ export type Block =
   | { type: "rule"; heading: string; intro?: string; transforms?: { from: string; to: string; note?: string }[]; examples?: { text: string; note?: string }[]; footnotes?: string[] }
   | { type: "points"; heading: string; intro?: string; forms?: { glyph: string; label: string }[]; items: string[] }
   | { type: "recap"; heading: string; intro?: string; stats: { value: string; label: string }[] }
+  | { type: "guides"; heading: string; intro?: string; items: { label: string; text?: string; examples?: string[] }[]; footnotes?: string[] }
+  | { type: "figures"; heading: string; intro?: string; items: { src: string; alt: string; caption?: string }[]; footnotes?: string[] }
   | { type: "next"; heading: string; items: { sound: string; label: string; place: string }[] };
 
 export interface Module {

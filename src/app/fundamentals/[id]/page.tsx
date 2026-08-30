@@ -225,6 +225,62 @@ export default async function ModulePage({
               </>
             )}
 
+            {b.type === "guides" && (
+              <>
+                <ol className="space-y-2.5">
+                  {b.items.map((it, j) => (
+                    <li key={j} className="rounded-xl border border-hairline px-4 py-3">
+                      <p className="font-medium text-ink">{rich(it.label)}</p>
+                      {it.text && (
+                        <p className="mt-1 text-sm leading-relaxed text-ink-2">{rich(it.text)}</p>
+                      )}
+                      {it.examples && (
+                        <ul className="mt-2.5 space-y-1">
+                          {it.examples.map((ex, k) => (
+                            <li
+                              key={k}
+                              className="iast-text border-l-2 border-[color-mix(in_srgb,var(--accent)_45%,transparent)] pl-3 font-serif text-base text-ink-2"
+                            >
+                              {ex}
+                            </li>
+                          ))}
+                        </ul>
+                      )}
+                    </li>
+                  ))}
+                </ol>
+                <Footnotes items={b.footnotes} />
+              </>
+            )}
+
+            {b.type === "figures" && (
+              <>
+                <div className="space-y-3">
+                  {b.items.map((it, j) => (
+                    <figure key={j}>
+                      {/* These marks have no character in the bundled fonts, so
+                          they come across from the deck as pictures. The light
+                          panel keeps the black lettering legible in both themes. */}
+                      <div className="overflow-x-auto rounded-xl border border-hairline bg-white p-1">
+                        {/* eslint-disable-next-line @next/next/no-img-element */}
+                        <img
+                          src={it.src}
+                          alt={it.alt}
+                          loading="lazy"
+                          decoding="async"
+                          className="h-auto w-full min-w-[520px]"
+                        />
+                      </div>
+                      {it.caption && (
+                        <figcaption className="mt-1.5 text-xs text-ink-3">{it.caption}</figcaption>
+                      )}
+                    </figure>
+                  ))}
+                </div>
+                <Footnotes items={b.footnotes} />
+              </>
+            )}
+
             {b.type === "recap" && (
               <div className="flex flex-wrap gap-2">
                 {b.stats.map((s, j) => (

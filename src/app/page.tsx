@@ -12,10 +12,11 @@ export default function HomePage() {
         <div className="accent-glow pointer-events-none absolute inset-x-0 -top-24 h-72" />
         <div className="relative mx-auto max-w-6xl px-4 pb-10 pt-8 sm:px-6 sm:pt-12">
           <h1 className="max-w-4xl text-balance text-4xl font-extrabold leading-[1.05] tracking-tight text-ink sm:text-6xl">
-            Vedas4All
-            {/* The script face has no bold, and its descenders need the extra
-                room that the tight display leading takes away. */}
-            <span className="mt-1 block bg-gradient-to-r from-gold-bright to-gold bg-clip-text pb-1.5 font-script text-[0.78em] font-normal leading-[1.35] tracking-normal text-transparent">
+            Vedas4All{" "}
+            {/* Plain inline, so it sits beside the wordmark and wraps with it
+                rather than dropping to a line of its own. The script face has
+                no bold and runs wide, hence the slight step down. */}
+            <span className="bg-gradient-to-r from-gold-bright to-gold bg-clip-text font-script text-[0.82em] font-normal tracking-normal text-transparent">
               Learn to Chant
             </span>
           </h1>

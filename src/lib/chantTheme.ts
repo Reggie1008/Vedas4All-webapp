@@ -22,12 +22,12 @@ const THEMES: Record<string, ChantTheme> = {
   "sai-gayatri": { thumbnail: null, accent: "#35C46E" },
   shivopasana: { thumbnail: "shivopasana", accent: "#8B9BF0" },
   "krimi-nashaka": { thumbnail: "krimi-nashaka", accent: "#5CC8DC" },
-  "saha-na-vavatu": { thumbnail: null, accent: "#F0857E" },
-  "sarvadevata-gayatri": { thumbnail: null, accent: "#C79BF5" },
+  "saha-na-vavatu": { thumbnail: "saha-na-vavatu", accent: "#EDC55B" },
+  "sarvadevata-gayatri": { thumbnail: "sarvadevata-gayatri", accent: "#A98AE8" },
   "food-prayer": { thumbnail: null, accent: "#F2A65A" },
   "purusha-suktam": { thumbnail: null, accent: "#6FD3B8" },
   "sri-rudram": { thumbnail: null, accent: "#E4645B" },
-  "durga-suktam": { thumbnail: null, accent: "#F2607A" },
+  "durga-suktam": { thumbnail: "durga-suktam", accent: "#E09250" },
 };
 
 const FALLBACK: ChantTheme = { thumbnail: null, accent: "#DDA83F" };

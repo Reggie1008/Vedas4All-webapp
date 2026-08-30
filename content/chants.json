@@ -85,7 +85,7 @@
     "audio": {
       "slow": "/audio/ganapati-prarthana-slow.mp3",
       "normal": "/audio/ganapati-prarthana.mp3",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "o6yXSnynWGc",
     "booklet": "Sai Atirudram"
@@ -211,7 +211,7 @@
     "audio": {
       "slow": "",
       "normal": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "FmFBqrEBv40",
     "booklet": "Sai Atirudram"
@@ -323,7 +323,7 @@
     "audio": {
       "slow": "/audio/shanti-mantra-slow.mp3",
       "normal": "/audio/shanti-mantra.mp3",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "ZrUL84CAF7E",
     "booklet": "Sai Atirudram"
@@ -450,7 +450,7 @@
     "audio": {
       "slow": "",
       "normal": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "Y0rw4l0FL84",
     "booklet": ""
@@ -786,7 +786,7 @@
     "audio": {
       "slow": "",
       "normal": "/audio/mantrapushpam.mp3",
-      "source": ""
+      "source": "Sai Atirudram, Sekhar Boddupalli"
     },
     "youtubeId": "8v_weg7_Juw",
     "booklet": "",
@@ -916,7 +916,7 @@
     "audio": {
       "slow": "",
       "normal": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": ""
@@ -1327,7 +1327,7 @@
     "audio": {
       "slow": "",
       "normal": "/audio/shivopasana.mp3",
-      "source": ""
+      "source": "Sai Atirudram, Sekhar Boddupalli"
     },
     "booklet": "Vedas4All — Shivopasana Mantra (Krishna Yajur Veda, Mahā Nārāyaṇa Upaniṣad)",
     "videos": [
@@ -1485,7 +1485,7 @@
     "audio": {
       "normal": "/audio/krimi-nashaka.mp3",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "2ocyFfhC8vY",
     "booklet": "Krishna Yajur Veda, Taittirīya Āraṇyaka 4.36.1)"
@@ -1557,7 +1557,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "Vedas4All — Saha Naa Vavatu"
@@ -1689,7 +1689,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "Sarvadevatā Gāyatrī Mantraḥ (SB IAST)"
@@ -1789,7 +1789,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "Vedas4All — Food Prayer (Bhagavad Gītā 4.24 and 15.14)"
@@ -1985,7 +1985,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "॥ puruṣa sūktam ॥ SB IAST"
@@ -2064,7 +2064,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-01.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2075,7 +2075,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-02.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2086,7 +2086,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-03.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2097,7 +2097,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-04.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2108,7 +2108,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-05.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2119,7 +2119,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-06.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2130,7 +2130,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-07.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2141,7 +2141,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-08.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2152,7 +2152,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-09.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2163,7 +2163,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-10.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2174,7 +2174,7 @@
             "audio": {
               "normal": "/audio/rudram-namakam-11.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           }
@@ -2192,7 +2192,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-01.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2203,7 +2203,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-02.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2214,7 +2214,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-03.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2225,7 +2225,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-04.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2236,7 +2236,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-05.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2247,7 +2247,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-06.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2258,7 +2258,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-07.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2269,7 +2269,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-08.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2280,7 +2280,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-09.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2291,7 +2291,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-10.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           },
@@ -2302,7 +2302,7 @@
             "audio": {
               "normal": "/audio/rudram-camakam-11.mp3",
               "slow": "",
-              "source": ""
+              "source": "Vedas4All"
             },
             "videoId": ""
           }
@@ -2333,7 +2333,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "॥ Sri Rudram ॥ IAST SB (ARMY 2024 Daily Sadhana)"
@@ -2432,7 +2432,7 @@
     "audio": {
       "normal": "",
       "slow": "",
-      "source": ""
+      "source": "Vedas4All"
     },
     "youtubeId": "",
     "booklet": "॥ Sri Rudram ॥ IAST SB — Durgā Sūktam (Taittirīya Āraṇyaka 10.2)",
