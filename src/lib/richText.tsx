@@ -49,3 +49,22 @@ export function rich(text: string | undefined | null): React.ReactNode {
   if (last < text.length) out.push(text.slice(last));
   return out.length === 1 ? out[0] : out;
 }
+
+/**
+ * The same subset, but for fields long enough to be written in
+ * paragraphs. A blank line in the JSON starts a new one. Returns the
+ * paragraphs themselves, so the caller must not wrap this in a <p>.
+ */
+export function prose(
+  text: string | undefined | null,
+  className?: string
+): React.ReactNode {
+  if (!text) return null;
+  const paras = text.split(/\n{2,}/).map((p) => p.trim()).filter(Boolean);
+  if (paras.length <= 1) return <p className={className}>{rich(text)}</p>;
+  return paras.map((p, i) => (
+    <p key={i} className={className}>
+      {rich(p)}
+    </p>
+  ));
+}

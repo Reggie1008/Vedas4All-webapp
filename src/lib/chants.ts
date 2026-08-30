@@ -72,6 +72,21 @@ export interface ChantSection {
   anuvakas: Anuvaka[];
 }
 
+/**
+ * A sustained reading of one chant against the life of a single figure —
+ * distinct from `parallels`, which collects short quotations from many
+ * traditions. The emblem is drawn once for the whole section.
+ */
+export interface FigureParallel {
+  /** Drives the emblem, e.g. "Judaism". */
+  tradition: string;
+  figure: string;
+  heading: string;
+  intro?: string;
+  items: { title: string; text: string }[];
+  source?: string;
+}
+
 export interface Chant {
   id: string;
   title: {
@@ -90,6 +105,8 @@ export interface Chant {
   universalReflection: string;
   quotes?: Quote[];
   parallels?: Parallel[];
+  /** A sustained parallel with one figure, e.g. Durgā Sūktam and Moses. */
+  figureParallel?: FigureParallel;
   sarvadharma?: Sarvadharma;
   /** Present only for chants recited in sections of anuvākas (Śrī Rudram). */
   sections?: ChantSection[];

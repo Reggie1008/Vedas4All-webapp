@@ -12,7 +12,7 @@ import ScriptToggleButton from "@/components/ScriptToggleButton";
 import TraditionSymbol from "@/components/TraditionSymbol";
 import VersesBlock from "@/components/VersesBlock";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
-import { rich } from "@/lib/richText";
+import { rich, prose } from "@/lib/richText";
 
 export function generateStaticParams() {
   return chants.map((chant) => ({ id: chant.id }));
@@ -117,7 +117,7 @@ export default async function ChantPage({
             <div className="scalable-text min-w-0 space-y-9">
               <section>
                 <SectionHeading>Overview of the meaning</SectionHeading>
-                <p className="leading-relaxed text-ink-2">{rich(chant.overview)}</p>
+                <div className="space-y-3">{prose(chant.overview, "leading-relaxed text-ink-2")}</div>
                 {chant.structure && (
                   <p className="mt-3 leading-relaxed text-ink-2">{rich(chant.structure)}</p>
                 )}
@@ -152,9 +152,9 @@ export default async function ChantPage({
                 />
                 <div className="relative">
                   <SectionHeading>A reflection for today</SectionHeading>
-                  <p className="text-pretty leading-relaxed text-ink">
-                    {rich(chant.universalReflection)}
-                  </p>
+                  <div className="space-y-3">
+                    {prose(chant.universalReflection, "text-pretty leading-relaxed text-ink")}
+                  </div>
                 </div>
               </section>
 
@@ -171,6 +171,56 @@ export default async function ChantPage({
                       </footer>
                     </blockquote>
                   ))}
+                </section>
+              )}
+
+              {chant.figureParallel && (
+                <section>
+                  <SectionHeading>{chant.figureParallel.heading}</SectionHeading>
+
+                  <div className="mb-4 flex items-center gap-2 text-accent-ink">
+                    <TraditionSymbol
+                      tradition={chant.figureParallel.tradition}
+                      className="h-[18px] w-[18px] shrink-0"
+                    />
+                    <p className="text-xs font-semibold uppercase tracking-wider">
+                      {chant.figureParallel.figure}
+                    </p>
+                  </div>
+
+                  {chant.figureParallel.intro && (
+                    <div className="mb-5 space-y-3">
+                      {prose(chant.figureParallel.intro, "leading-relaxed text-ink-2")}
+                    </div>
+                  )}
+
+                  <ol className="space-y-3">
+                    {chant.figureParallel.items.map((it, i) => (
+                      <li
+                        key={i}
+                        className="rounded-xl border border-hairline p-4 transition-colors hover:bg-surface"
+                      >
+                        <div className="flex items-baseline gap-2.5">
+                          <span
+                            aria-hidden
+                            className="font-serif text-sm text-[var(--accent)]"
+                          >
+                            {i + 1}
+                          </span>
+                          <h3 className="font-serif text-lg leading-snug text-ink">
+                            {it.title}
+                          </h3>
+                        </div>
+                        <p className="mt-1.5 text-sm leading-relaxed text-ink-2">
+                          {rich(it.text)}
+                        </p>
+                      </li>
+                    ))}
+                  </ol>
+
+                  {chant.figureParallel.source && (
+                    <p className="mt-3 text-xs text-ink-3">{chant.figureParallel.source}</p>
+                  )}
                 </section>
               )}
 
