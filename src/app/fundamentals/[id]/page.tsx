@@ -3,6 +3,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { modules, getModuleById, FUNDAMENTALS_ACCENT } from "@/lib/fundamentals";
 import ArticulationChart from "@/components/ArticulationChart";
+import SandhiChart from "@/components/SandhiChart";
 import FontSizeControl from "@/components/FontSizeControl";
 import { rich } from "@/lib/richText";
 
@@ -35,6 +36,22 @@ function Heading({ children }: { children: React.ReactNode }) {
       <span aria-hidden className="h-px w-6 shrink-0 bg-[var(--accent)]" />
       {children}
     </h2>
+  );
+}
+
+function Footnotes({ items }: { items?: string[] }) {
+  if (!items || items.length === 0) return null;
+  return (
+    <ul className="mt-4 space-y-1.5">
+      {items.map((f, j) => (
+        <li key={j} className="flex gap-2 text-sm leading-relaxed text-ink-3">
+          <span aria-hidden className="text-[var(--accent)]">
+            ·
+          </span>
+          {rich(f)}
+        </li>
+      ))}
+    </ul>
   );
 }
 
@@ -131,19 +148,95 @@ export default async function ModulePage({
             {b.type === "articulation" && (
               <>
                 <ArticulationChart places={b.places} />
-                {b.footnotes && (
-                  <ul className="mt-4 space-y-1.5">
-                    {b.footnotes.map((f, j) => (
-                      <li key={j} className="flex gap-2 text-sm leading-relaxed text-ink-3">
-                        <span aria-hidden className="text-[var(--accent)]">
-                          ·
+                <Footnotes items={b.footnotes} />
+              </>
+            )}
+
+            {b.type === "sandhi" && (
+              <>
+                <SandhiChart groups={b.groups} />
+                <Footnotes items={b.footnotes} />
+              </>
+            )}
+
+            {b.type === "rule" && (
+              <>
+                {b.transforms && (
+                  <div className="space-y-2">
+                    {b.transforms.map((t, j) => (
+                      <div
+                        key={j}
+                        className="flex flex-wrap items-baseline gap-x-3 gap-y-1 rounded-xl border border-[color-mix(in_srgb,var(--accent)_40%,transparent)] bg-[color-mix(in_srgb,var(--accent)_10%,transparent)] px-4 py-3"
+                      >
+                        <span className="iast-text font-serif text-lg text-ink-2 line-through decoration-ink-3/40">
+                          {t.from}
                         </span>
-                        {f}
+                        <span aria-hidden className="text-[var(--accent)]">
+                          →
+                        </span>
+                        <span className="iast-text font-serif text-lg font-semibold text-ink">
+                          {t.to}
+                        </span>
+                        {t.note && <span className="text-xs text-ink-3">{t.note}</span>}
+                      </div>
+                    ))}
+                  </div>
+                )}
+                {b.examples && (
+                  <ul className={`space-y-1.5 ${b.transforms ? "mt-4" : ""}`}>
+                    {b.examples.map((ex, j) => (
+                      <li
+                        key={j}
+                        className="flex flex-wrap items-baseline gap-x-3 rounded-xl border border-hairline px-4 py-2.5"
+                      >
+                        <span className="iast-text font-serif text-lg text-ink">{ex.text}</span>
+                        {ex.note && <span className="text-xs text-ink-3">{ex.note}</span>}
                       </li>
                     ))}
                   </ul>
                 )}
+                <Footnotes items={b.footnotes} />
               </>
+            )}
+
+            {b.type === "points" && (
+              <>
+                {b.forms && (
+                  <div className="mb-5 flex flex-wrap gap-2">
+                    {b.forms.map((f, j) => (
+                      <span
+                        key={j}
+                        className="inline-flex flex-col items-center rounded-xl border border-[color-mix(in_srgb,var(--accent)_40%,transparent)] bg-[color-mix(in_srgb,var(--accent)_10%,transparent)] px-5 py-3"
+                      >
+                        <span className="font-serif text-2xl leading-none text-ink">{f.glyph}</span>
+                        <span className="mt-1.5 text-[0.65rem] text-ink-3">{f.label}</span>
+                      </span>
+                    ))}
+                  </div>
+                )}
+                <ul className="space-y-1.5">
+                  {b.items.map((it, j) => (
+                    <li key={j} className="flex gap-2.5 leading-relaxed text-ink-2">
+                      <span aria-hidden className="mt-[0.55em] h-1 w-1 shrink-0 rounded-full bg-[var(--accent)]" />
+                      <span>{rich(it)}</span>
+                    </li>
+                  ))}
+                </ul>
+              </>
+            )}
+
+            {b.type === "recap" && (
+              <div className="flex flex-wrap gap-2">
+                {b.stats.map((s, j) => (
+                  <div
+                    key={j}
+                    className="flex-1 basis-32 rounded-xl border border-hairline px-4 py-3"
+                  >
+                    <span className="font-serif text-2xl text-[var(--accent)]">{s.value}</span>
+                    <p className="mt-0.5 text-xs text-ink-3">{s.label}</p>
+                  </div>
+                ))}
+              </div>
             )}
 
             {b.type === "aspirated" && (

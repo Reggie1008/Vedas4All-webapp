@@ -16,10 +16,26 @@
         "heading": "Mantras are vibrations",
         "intro": "A sound does not begin at the lips. It rises through four levels before it is heard.",
         "items": [
-          { "sanskrit": "Parā", "english": "Unmanifest", "seat": "Naval" },
-          { "sanskrit": "Paśyanti", "english": "Perceived", "seat": "Heart" },
-          { "sanskrit": "Madhyamā", "english": "Medium", "seat": "Throat" },
-          { "sanskrit": "Vaikharī", "english": "Language", "seat": "Mouth, tongue, lips, nasal" }
+          {
+            "sanskrit": "Parā",
+            "english": "Unmanifest",
+            "seat": "Naval"
+          },
+          {
+            "sanskrit": "Paśyanti",
+            "english": "Perceived",
+            "seat": "Heart"
+          },
+          {
+            "sanskrit": "Madhyamā",
+            "english": "Medium",
+            "seat": "Throat"
+          },
+          {
+            "sanskrit": "Vaikharī",
+            "english": "Language",
+            "seat": "Mouth, tongue, lips, nasal"
+          }
         ]
       },
       {
@@ -27,9 +43,18 @@
         "heading": "Sound perfection: step one",
         "iast": "oṃ yad-akṣara¹ pada² bhraṣṭaṃ mātrā³hīnantu yadbhavet | tat sarvaṃ kṣamyatān deva nārāyaṇa namostute ||",
         "notes": [
-          { "term": "¹ akṣara", "meaning": "root sounds and their pronunciation" },
-          { "term": "² pada", "meaning": "combination of those sounds as in a word" },
-          { "term": "³ mātrā", "meaning": "duration, or time taken to utter the sounds" }
+          {
+            "term": "¹ akṣara",
+            "meaning": "root sounds and their pronunciation"
+          },
+          {
+            "term": "² pada",
+            "meaning": "combination of those sounds as in a word"
+          },
+          {
+            "term": "³ mātrā",
+            "meaning": "duration, or time taken to utter the sounds"
+          }
         ]
       },
       {
@@ -41,55 +66,151 @@
             "id": "guttural",
             "label": "Guttural",
             "where": "At the throat",
-            "vowels": ["a", "ā"],
-            "varga": ["ka", "kha", "ga", "gha", "ṅa"],
-            "other": [{ "sound": "ha", "kind": "aspirate", "example": "deha" }],
-            "counts": { "vowels": 2, "consonants": 5 }
+            "vowels": [
+              "a",
+              "ā"
+            ],
+            "varga": [
+              "ka",
+              "kha",
+              "ga",
+              "gha",
+              "ṅa"
+            ],
+            "other": [
+              {
+                "sound": "ha",
+                "kind": "aspirate",
+                "example": "deha"
+              }
+            ],
+            "counts": {
+              "vowels": 2,
+              "consonants": 5
+            }
           },
           {
             "id": "palatal",
             "label": "Palatal",
             "where": "Tongue against the hard palate",
-            "vowels": ["i", "ī", "e", "ai"],
-            "varga": ["ca", "cha", "ja", "jha", "ña"],
-            "other": [
-              { "sound": "ya", "kind": "semivowel" },
-              { "sound": "śa", "kind": "sibilant", "example": "Śaṅkara" }
+            "vowels": [
+              "i",
+              "ī",
+              "e",
+              "ai"
             ],
-            "counts": { "vowels": 4, "consonants": 6 }
+            "varga": [
+              "ca",
+              "cha",
+              "ja",
+              "jha",
+              "ña"
+            ],
+            "other": [
+              {
+                "sound": "ya",
+                "kind": "semivowel"
+              },
+              {
+                "sound": "śa",
+                "kind": "sibilant",
+                "example": "Śaṅkara"
+              }
+            ],
+            "counts": {
+              "vowels": 4,
+              "consonants": 6
+            }
           },
           {
             "id": "cerebral",
             "label": "Cerebral",
             "where": "Tongue curled to the roof",
-            "vowels": ["ṛ", "ṝ"],
-            "varga": ["ṭa", "ṭha", "ḍa", "ḍha", "ṇa"],
-            "other": [
-              { "sound": "ra", "kind": "semivowel" },
-              { "sound": "ṣa", "kind": "sibilant", "example": "Ṣaṇmukha" }
+            "vowels": [
+              "ṛ",
+              "ṝ"
             ],
-            "counts": { "vowels": 2, "consonants": 6 }
+            "varga": [
+              "ṭa",
+              "ṭha",
+              "ḍa",
+              "ḍha",
+              "ṇa"
+            ],
+            "other": [
+              {
+                "sound": "ra",
+                "kind": "semivowel"
+              },
+              {
+                "sound": "ṣa",
+                "kind": "sibilant",
+                "example": "Ṣaṇmukha"
+              }
+            ],
+            "counts": {
+              "vowels": 2,
+              "consonants": 6
+            }
           },
           {
             "id": "dental",
             "label": "Dental",
             "where": "Tongue at the teeth",
-            "vowels": ["ḷ", "ḹ"],
-            "varga": ["ta", "tha", "da", "dha", "na"],
-            "other": [
-              { "sound": "la", "kind": "semivowel" },
-              { "sound": "sa", "kind": "sibilant", "example": "Sahasra" }
+            "vowels": [
+              "ḷ",
+              "ḹ"
             ],
-            "counts": { "vowels": 2, "consonants": 6 }
+            "varga": [
+              "ta",
+              "tha",
+              "da",
+              "dha",
+              "na"
+            ],
+            "other": [
+              {
+                "sound": "la",
+                "kind": "semivowel"
+              },
+              {
+                "sound": "sa",
+                "kind": "sibilant",
+                "example": "Sahasra"
+              }
+            ],
+            "counts": {
+              "vowels": 2,
+              "consonants": 6
+            }
           },
           {
             "id": "labial",
             "label": "Labial",
             "where": "At the lips",
-            "vowels": ["u", "ū", "o", "au"],
-            "varga": ["pa", "pha", "ba", "bha", "ma"],
-            "other": [{ "sound": "va", "kind": "semivowel" }],
-            "counts": { "vowels": 4, "consonants": 5 }
+            "vowels": [
+              "u",
+              "ū",
+              "o",
+              "au"
+            ],
+            "varga": [
+              "pa",
+              "pha",
+              "ba",
+              "bha",
+              "ma"
+            ],
+            "other": [
+              {
+                "sound": "va",
+                "kind": "semivowel"
+              }
+            ],
+            "counts": {
+              "vowels": 4,
+              "consonants": 5
+            }
           }
         ],
         "footnotes": [
@@ -103,15 +224,42 @@
         "heading": "The force of chanting",
         "intro": "Each varga pairs an unaspirated sound with an aspirated one. The aspirated sound carries a push of breath, and losing it changes the word.",
         "pairs": [
-          { "sound": "kha", "example": "khalyāya" },
-          { "sound": "gha", "example": "jaghanyāya" },
-          { "sound": "cha", "example": "yacchañ ca" },
-          { "sound": "ṭha", "example": "nīlaka̱ṇṭhāya" },
-          { "sound": "ḍha", "example": "mīḍhuṣe" },
-          { "sound": "tha", "example": "rathebhyo" },
-          { "sound": "dha", "example": "dharma" },
-          { "sound": "pha", "example": "phenyāya" },
-          { "sound": "bha", "example": "kulālebhyaḥ" }
+          {
+            "sound": "kha",
+            "example": "khalyāya"
+          },
+          {
+            "sound": "gha",
+            "example": "jaghanyāya"
+          },
+          {
+            "sound": "cha",
+            "example": "yacchañ ca"
+          },
+          {
+            "sound": "ṭha",
+            "example": "nīlaka̱ṇṭhāya"
+          },
+          {
+            "sound": "ḍha",
+            "example": "mīḍhuṣe"
+          },
+          {
+            "sound": "tha",
+            "example": "rathebhyo"
+          },
+          {
+            "sound": "dha",
+            "example": "dharma"
+          },
+          {
+            "sound": "pha",
+            "example": "phenyāya"
+          },
+          {
+            "sound": "bha",
+            "example": "kulālebhyaḥ"
+          }
         ]
       },
       {
@@ -119,27 +267,714 @@
         "heading": "Practice",
         "intro": "Words drawn from the chants, each turning on a vowel you have just met.",
         "words": [
-          { "word": "namo", "focus": "o" },
-          { "word": "bhagavate", "focus": "e" },
-          { "word": "rudrāya", "focus": "ā" },
-          { "word": "iṣave", "focus": "i" },
-          { "word": "īmahe", "focus": "ī" },
-          { "word": "hṛdaya", "focus": "ṛ" },
-          { "word": "utainaṁ", "focus": "ai" },
-          { "word": "kḷptañ ca me", "focus": "ḷ" },
-          { "word": "asau", "focus": "au" },
-          { "word": "babhūva", "focus": "ū" }
+          {
+            "word": "namo",
+            "focus": "o"
+          },
+          {
+            "word": "bhagavate",
+            "focus": "e"
+          },
+          {
+            "word": "rudrāya",
+            "focus": "ā"
+          },
+          {
+            "word": "iṣave",
+            "focus": "i"
+          },
+          {
+            "word": "īmahe",
+            "focus": "ī"
+          },
+          {
+            "word": "hṛdaya",
+            "focus": "ṛ"
+          },
+          {
+            "word": "utainaṁ",
+            "focus": "ai"
+          },
+          {
+            "word": "kḷptañ ca me",
+            "focus": "ḷ"
+          },
+          {
+            "word": "asau",
+            "focus": "au"
+          },
+          {
+            "word": "babhūva",
+            "focus": "ū"
+          }
         ]
       },
       {
         "type": "next",
         "heading": "Next module",
         "items": [
-          { "sound": "aḥ", "label": "Visarga", "place": "Guttural" },
-          { "sound": "aṁ", "label": "Bindu, or dot", "place": "Labial, nasal" }
+          {
+            "sound": "aḥ",
+            "label": "Visarga",
+            "place": "Guttural"
+          },
+          {
+            "sound": "aṁ",
+            "label": "Bindu, or dot",
+            "place": "Labial, nasal"
+          }
         ]
       }
     ],
     "source": "Vedas4All — VedaStudy: The Science of Sound, module 1"
+  },
+  {
+    "id": "continuity-anusvara",
+    "order": 2,
+    "module": "Module 2",
+    "title": "Continuity — Anusvāra",
+    "subtitle": "The Science of Sound",
+    "summary": "The dot that is never itself. How ṁ takes the colour of whatever sound follows it, and why chanting flows because of it.",
+    "blocks": [
+      {
+        "type": "recap",
+        "heading": "Where we left off",
+        "intro": "Module 1 laid out the fifty mother sounds and gave every one of them a place in the mouth. Those same five places are what this module turns on.",
+        "stats": [
+          {
+            "value": "14",
+            "label": "Vowels — formed with no aid"
+          },
+          {
+            "value": "28",
+            "label": "Consonants across the five places"
+          },
+          {
+            "value": "5",
+            "label": "Places: guttural, palatal, cerebral, dental, labial"
+          }
+        ]
+      },
+      {
+        "type": "points",
+        "heading": "This module: the dot",
+        "intro": "*Anusvāra* is the **bindu** — the dot. In IAST it is written ṁ; in Devanāgarī it is a dot placed above the letter. It is a nasal sound, and on its own it has no fixed identity.",
+        "forms": [
+          {
+            "glyph": "aṁ",
+            "label": "IAST"
+          },
+          {
+            "glyph": "मं",
+            "label": "Devanāgarī"
+          },
+          {
+            "glyph": "ॐ",
+            "label": "in oṁ"
+          }
+        ],
+        "items": [
+          "The dot is not a letter you pronounce the same way every time.",
+          "What it becomes is decided entirely by the sound that comes **after** it.",
+          "Getting this right is what makes chanting continuous rather than a string of separate words."
+        ]
+      },
+      {
+        "type": "sandhi",
+        "heading": "When ṁ meets a consonant",
+        "intro": "When an ṁ meets a consonant it changes into a nasal sound according to the place of articulation, specific for each group of consonants. The nasal sounds are pronounced like the other consonants at the same place, using the tongue in the same position — but the sound comes out through the nose instead of the mouth.",
+        "groups": [
+          {
+            "id": "guttural",
+            "label": "Guttural",
+            "result": "ṅa",
+            "rules": [
+              {
+                "from": "ṁ + k",
+                "to": "ṅ k"
+              },
+              {
+                "from": "ṁ + g",
+                "to": "ṅ g"
+              }
+            ],
+            "examples": [
+              {
+                "text": "śi̱vāṅ gi̍ritra̱ tāṅ ku̍ru̱"
+              },
+              {
+                "text": "yāmiṣu̍ṅ giriśanta̱"
+              },
+              {
+                "text": "u̱taina̍ṅ go̱pā"
+              },
+              {
+                "text": "e̍ṣā̱ṅ kiñca̱nāma̍mat"
+              }
+            ]
+          },
+          {
+            "id": "palatal",
+            "label": "Palatal",
+            "result": "ña",
+            "rules": [
+              {
+                "from": "ṁ + c",
+                "to": "ñ c"
+              },
+              {
+                "from": "ṁ + j",
+                "to": "ñ j"
+              }
+            ],
+            "examples": [
+              {
+                "text": "nakta̱ñ cara̍dbhya"
+              },
+              {
+                "text": "pramu̍ñca̱"
+              },
+              {
+                "text": "ādhī̍tañ ca"
+              },
+              {
+                "text": "puru̍ṣa̱ñ jaga̍t"
+              },
+              {
+                "text": "sarvā̎ñ ja̱mbhaya̱nt"
+              }
+            ],
+            "note": "Several examples run all through the Camakam."
+          },
+          {
+            "id": "cerebral",
+            "label": "Cerebral",
+            "result": "ṇa",
+            "rules": [
+              {
+                "from": "ṁ + ṭh",
+                "to": "ṇ ṭh"
+              },
+              {
+                "from": "ṁ + ḍ",
+                "to": "ṇ ḍ"
+              }
+            ],
+            "examples": [
+              {
+                "text": "nīlaka̱ṇṭhāya"
+              },
+              {
+                "text": "gaṇapati"
+              },
+              {
+                "text": "ca̱ṇḍa ko̱daṇḍa"
+              }
+            ]
+          },
+          {
+            "id": "dental",
+            "label": "Dental",
+            "result": "na",
+            "rules": [
+              {
+                "from": "ṁ + t",
+                "to": "n t"
+              },
+              {
+                "from": "ṁ + d",
+                "to": "n d"
+              }
+            ],
+            "examples": [
+              {
+                "text": "bā̱hubhyā̱n tava̱"
+              },
+              {
+                "text": "ga̱ṇānā̎n tvā"
+              },
+              {
+                "text": "vijya̱n dhanu̍ḥ"
+              }
+            ]
+          },
+          {
+            "id": "labial",
+            "label": "Labial",
+            "result": "ma",
+            "rules": [
+              {
+                "from": "ṁ + p",
+                "to": "m p"
+              },
+              {
+                "from": "ṁ + b",
+                "to": "m b"
+              }
+            ],
+            "examples": [
+              {
+                "text": "paśū̱nām pata̍ye̱",
+                "note": "2nd Anuvākam"
+              },
+              {
+                "text": "śi̱vam ba̱bhūva̍"
+              },
+              {
+                "text": "śalyānām mukhā"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "sandhi",
+        "heading": "When ṁ meets a semivowel",
+        "intro": "Before y, l and v the dot does not become a nasal consonant. It keeps its own nasal hum and carries a trace of the following sound into it.",
+        "groups": [
+          {
+            "id": "ya",
+            "label": "Before y",
+            "result": "ṁi",
+            "rules": [
+              {
+                "from": "ṁ + y",
+                "to": "ṁi + y"
+              }
+            ],
+            "examples": [
+              {
+                "text": "ga̍rta̱sada̱ṁi yuvā̍nam"
+              },
+              {
+                "text": "trya̍mbakaṁi yajāmahe"
+              }
+            ]
+          },
+          {
+            "id": "la",
+            "label": "Before l",
+            "result": "ṁl",
+            "rules": [
+              {
+                "from": "ṁ + l",
+                "to": "ṁl + l"
+              }
+            ],
+            "examples": [
+              {
+                "text": "vaiṣṇa̍vīṁl lo̱ka"
+              }
+            ]
+          },
+          {
+            "id": "va",
+            "label": "Before v",
+            "result": "ṁu",
+            "rules": [
+              {
+                "from": "ṁ + v",
+                "to": "ṁu + v"
+              }
+            ],
+            "examples": [
+              {
+                "text": "u̱taina̱ṁu viśvā̍"
+              },
+              {
+                "text": "kṛtti̱ṁu vasā̍na̱"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "The gṁ sound",
+        "intro": "Before a sibilant, the dot hardens into a distinct **gṁ**.",
+        "transforms": [
+          {
+            "from": "bāṇavān utā",
+            "to": "bāṇavāgṁ utā"
+          }
+        ],
+        "examples": [
+          {
+            "text": "ye ce̱māgṁ ru̱drā"
+          },
+          {
+            "text": "i̱māgṁ ru̱drāya̍"
+          },
+          {
+            "text": "tēṣhāgṁ sahasra"
+          },
+          {
+            "text": "ganapati gṁ havamahe"
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "The g and gg sounds",
+        "intro": "Which one you get depends on the length of the vowel before the dot.",
+        "transforms": [
+          {
+            "from": "kalpatāṁ śrotraṁ",
+            "to": "kalptāg śrotraṁ",
+            "note": "long vowel → g"
+          },
+          {
+            "from": "sarvalingaṁ sthāpayati",
+            "to": "sarvalingagg sthāpayati",
+            "note": "short vowel → gg"
+          }
+        ],
+        "examples": [
+          {
+            "text": "vayaggsyāma"
+          }
+        ],
+        "footnotes": [
+          "**Long** vowel followed by ṁ (or n) + sibilant + consonant or semi-consonant gives **g**.",
+          "**Short** vowel followed by ṁ (or n) + sibilant + consonant or semi-consonant gives **gg**."
+        ]
+      },
+      {
+        "type": "points",
+        "heading": "Complete anusvāra",
+        "intro": "In a *bījākṣara* — a seed syllable — the dot is not modified by anything. It stays a pure ṁ.",
+        "forms": [
+          {
+            "glyph": "ṁ",
+            "label": "pure nasal"
+          }
+        ],
+        "items": [
+          "oṁ, and the other bījākṣara.",
+          "oṁ | namo bhagavate",
+          "saṁjñānam"
+        ]
+      },
+      {
+        "type": "points",
+        "heading": "Summary",
+        "items": [
+          "Before a **consonant** — the dot becomes that place's **nasal**: ṅa, ña, ṇa, na, ma.",
+          "Before a **semivowel** — it carries a trace vowel: **i** before y, **l** before l, **u** before v.",
+          "Before a **sibilant** — it hardens: **gṁ**, **g**, or **gg**.",
+          "In a **bījākṣara** — it stays a pure **ṁ**, unchanged."
+        ]
+      },
+      {
+        "type": "next",
+        "heading": "Next module",
+        "items": [
+          {
+            "sound": "aḥ",
+            "label": "Visarga",
+            "place": "Continuity, part two"
+          }
+        ]
+      }
+    ],
+    "source": "Learning Continuity (Anusvāra) — VedaStudy, The Science of Sound"
+  },
+  {
+    "id": "continuity-visarga",
+    "order": 3,
+    "module": "Module 3",
+    "title": "Continuity — Visarga",
+    "subtitle": "The Science of Sound",
+    "summary": "The breath that is sent forth. How ḥ is pronounced, reshaped, or dropped altogether depending on what follows it.",
+    "blocks": [
+      {
+        "type": "points",
+        "heading": "This module: the visarga",
+        "intro": "*Visarga* means **that which is discharged, or sent forth**. In IAST it is written as an h with a dot below. In Devanāgarī it is two dots beside a letter.",
+        "forms": [
+          {
+            "glyph": "aḥ",
+            "label": "IAST"
+          },
+          {
+            "glyph": "ः",
+            "label": "Devanāgarī"
+          }
+        ],
+        "items": [
+          "Like the anusvāra, the visarga rarely stays as itself.",
+          "What follows it decides whether it is pronounced, changed into another sound, or dropped."
+        ]
+      },
+      {
+        "type": "sandhi",
+        "heading": "Visarga before a consonant",
+        "intro": "Each place of articulation reshapes the visarga into its own sibilant.",
+        "groups": [
+          {
+            "id": "guttural",
+            "label": "Guttural",
+            "rules": [
+              {
+                "from": "ḥ + kha",
+                "to": "hhhkh"
+              },
+              {
+                "from": "ḥ + ka",
+                "to": "hhhka"
+              }
+            ],
+            "examples": [
+              {
+                "text": "nama̱ḥ kulā̍lebhyaḥ ka̱rmāre̎bhyaśca"
+              },
+              {
+                "text": "nama̱ḥ kālā̍ya̱ nama̱ḥ kala̍vikaraṇāya̱"
+              },
+              {
+                "text": "nama̍ḥ kapa̱rdine̍"
+              },
+              {
+                "text": "duḥkha"
+              }
+            ],
+            "note": "The visarga is not lost here — it is held as a breath before the k."
+          },
+          {
+            "id": "palatal",
+            "label": "Palatal",
+            "result": "ś",
+            "rules": [
+              {
+                "from": "ḥ + ca",
+                "to": "ś ca"
+              },
+              {
+                "from": "ḥ + cha",
+                "to": "ś cha"
+              }
+            ],
+            "examples": [
+              {
+                "text": "vāja̍śca me prasa̱vaśca̍ me̱ praya̍tiśca me̱ prasi̍tiśca me"
+              }
+            ]
+          },
+          {
+            "id": "cerebral",
+            "label": "Cerebral",
+            "result": "ṣ",
+            "rules": [
+              {
+                "from": "ḥ + ṭ",
+                "to": "ṣ ṭ"
+              },
+              {
+                "from": "ḥ + ṭha",
+                "to": "ṣ ṭha"
+              }
+            ],
+            "examples": [
+              {
+                "text": "rāmaḥ + ṭīkate = rāmaṣṭīkate"
+              }
+            ]
+          },
+          {
+            "id": "dental",
+            "label": "Dental",
+            "result": "s",
+            "rules": [
+              {
+                "from": "ḥ + t",
+                "to": "s t"
+              },
+              {
+                "from": "ḥ + th",
+                "to": "s th"
+              }
+            ],
+            "examples": [
+              {
+                "text": "namaḥ + te = namaste"
+              },
+              {
+                "text": "nama̱s talpyā̍ya"
+              }
+            ]
+          },
+          {
+            "id": "labial",
+            "label": "Labial",
+            "result": "ḥf",
+            "rules": [
+              {
+                "from": "ḥ + p",
+                "to": "ḥf p"
+              }
+            ],
+            "examples": [
+              {
+                "text": "dhiyo yo naḥf pracodayat"
+              },
+              {
+                "text": "hari̍keśebhyaḥf paśū̱nām"
+              },
+              {
+                "text": "iṣa̍va̱ḥf parā̱ tā"
+              }
+            ]
+          },
+          {
+            "id": "sibilant",
+            "label": "Before a sibilant",
+            "rules": [
+              {
+                "from": "ḥ + ś",
+                "to": "ś"
+              },
+              {
+                "from": "ḥ + ṣ",
+                "to": "ṣ"
+              },
+              {
+                "from": "ḥ + s",
+                "to": "s"
+              }
+            ],
+            "examples": [
+              {
+                "text": "namaḥ + śivāya = namaś śivāya"
+              },
+              {
+                "text": "tannaḥ + ṣaṇmukha = tannaṣ ṣaṇmukha"
+              },
+              {
+                "text": "namaḥ + somāya = namas somāya"
+              }
+            ],
+            "note": "The visarga simply takes the shape of the sibilant that follows."
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "aḥ becomes o",
+        "intro": "Visarga preceded by **a** becomes **o** when it is followed by a vowel *a*, by *y, r, l, v*, by *h*, or by any of the soft consonants.",
+        "transforms": [
+          {
+            "from": "namaḥ + agriyāya",
+            "to": "namo agriyāya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "namo yāmyāya ca̱"
+          },
+          {
+            "text": "namo rudrāya"
+          },
+          {
+            "text": "namo lopyāya"
+          },
+          {
+            "text": "namo vanyāya"
+          },
+          {
+            "text": "namo hiraṇyabāhave"
+          }
+        ],
+        "footnotes": [
+          "The soft consonants in full: g, gh, ṅ · j, jh, ñ · ḍ, ḍh, ṇ · d, dh, n · b, bh, m."
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "aḥ becomes a",
+        "intro": "Visarga preceded by **a** becomes plain **a** when it is followed by any vowel **except** *a*.",
+        "transforms": [
+          {
+            "from": "namaḥ + iriṇyāya",
+            "to": "nama iriṇyāya"
+          }
+        ],
+        "examples": [
+          {
+            "text": "nama ātā̱ryāya"
+          },
+          {
+            "text": "nama īdhriyāya ca̱"
+          },
+          {
+            "text": "nama ugrāya"
+          },
+          {
+            "text": "nama ūrvyāya"
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "Visarga after other vowels",
+        "intro": "After i, u and ū the visarga echoes its own vowel before joining what follows.",
+        "transforms": [
+          {
+            "from": "svastiḥi + astu",
+            "to": "svastirastu",
+            "note": "iḥi"
+          },
+          {
+            "from": "catuḥu + hastam",
+            "to": "caturhastam",
+            "note": "uḥu"
+          },
+          {
+            "from": "bhūḥu + bhuvaḥ",
+            "to": "bhūrbhuva",
+            "note": "ūḥu"
+          }
+        ]
+      },
+      {
+        "type": "rule",
+        "heading": "The h reversal",
+        "intro": "Where an **h** is followed by a nasal, the two swap in the mouth — the nasal is sounded first.",
+        "transforms": [
+          {
+            "from": "brahma",
+            "to": "bramha"
+          },
+          {
+            "from": "vahni",
+            "to": "vanhi"
+          }
+        ],
+        "footnotes": [
+          "No change if the h is followed by **y, r, l** or **v** — for example *prahlāda*."
+        ]
+      },
+      {
+        "type": "points",
+        "heading": "Summary",
+        "items": [
+          "Visarga and bindu are **critical for continuity** in chanting.",
+          "Visarga gets pronounced, modified, or even omitted depending on the vowels or consonants that follow it.",
+          "Careful attention has to be paid to avoid discontinuities — both within words and in the linkages between them.",
+          "There are many more nuances to these changes than are covered here."
+        ]
+      },
+      {
+        "type": "next",
+        "heading": "Next module",
+        "items": [
+          {
+            "sound": "॥",
+            "label": "Pauses and Holdings",
+            "place": "Continuity, part three"
+          }
+        ]
+      }
+    ],
+    "source": "Learning Continuity (Visarga) — VedaStudy, The Science of Sound"
   }
 ]
