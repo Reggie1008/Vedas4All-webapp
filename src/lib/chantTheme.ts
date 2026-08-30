@@ -24,9 +24,9 @@ const THEMES: Record<string, ChantTheme> = {
   "krimi-nashaka": { thumbnail: "krimi-nashaka", accent: "#5CC8DC" },
   "saha-na-vavatu": { thumbnail: "saha-na-vavatu", accent: "#EDC55B" },
   "sarvadevata-gayatri": { thumbnail: "sarvadevata-gayatri", accent: "#A98AE8" },
-  "food-prayer": { thumbnail: null, accent: "#F2A65A" },
+  "food-prayer": { thumbnail: "food-prayer", accent: "#DD8A5F" },
   "purusha-suktam": { thumbnail: null, accent: "#6FD3B8" },
-  "sri-rudram": { thumbnail: null, accent: "#E4645B" },
+  "sri-rudram": { thumbnail: "sri-rudram", accent: "#86C07C" },
   "durga-suktam": { thumbnail: "durga-suktam", accent: "#E09250" },
 };
 
