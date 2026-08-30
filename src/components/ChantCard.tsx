@@ -38,7 +38,9 @@ export default function ChantCard({ chant, index }: { chant: Chant; index: numbe
         <h2 className="font-serif text-2xl leading-tight text-ink">
           {chant.title.iast}
         </h2>
-        <p className="mt-1 text-sm text-ink-3">{chant.title.english}</p>
+        {chant.title.english && (
+          <p className="mt-1 text-sm text-ink-3">{chant.title.english}</p>
+        )}
 
         <span className="mt-4 inline-flex items-center gap-1.5 text-xs font-semibold text-accent-ink">
           Open chant

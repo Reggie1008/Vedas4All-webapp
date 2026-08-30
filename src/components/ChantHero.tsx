@@ -33,7 +33,9 @@ export default function ChantHero({ chant }: { chant: Chant }) {
             <h1 className="mt-0.5 font-serif text-3xl leading-tight tracking-tight text-ink sm:text-4xl">
               {chant.title.iast}
             </h1>
-            <p className="mt-1.5 text-base text-ink-2">{chant.title.english}</p>
+            {chant.title.english && (
+              <p className="mt-1.5 text-base text-ink-2">{chant.title.english}</p>
+            )}
             {chant.note && (
               <p className="mt-3 max-w-xl border-l-2 border-accent-ink pl-3 text-sm italic leading-relaxed text-ink-3">
                 {rich(chant.note)}

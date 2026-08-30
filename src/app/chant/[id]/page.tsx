@@ -26,11 +26,17 @@ export async function generateMetadata({
   const { id } = await params;
   const chant = getChantById(id);
   if (!chant) return {};
+  // Not every chant carries an English subtitle; fall back to the IAST name
+  // so the tab title and any shared link still read properly.
+  const subtitle = chant.title.english || chant.title.iast;
   return {
-    title: chant.title.english,
+    title: subtitle,
     description: chant.overview.slice(0, 155),
     openGraph: {
-      title: `${chant.title.iast} — ${chant.title.english}`,
+      title:
+        chant.title.english
+          ? `${chant.title.iast} — ${chant.title.english}`
+          : chant.title.iast,
       description: chant.overview.slice(0, 155),
       images: [{ url: "/brand/og-image.png", width: 1200, height: 630 }],
     },
