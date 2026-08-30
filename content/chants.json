@@ -1698,8 +1698,8 @@
     "id": "food-prayer",
     "title": {
       "sanskrit": "अन्न प्रार्थना",
-      "iast": "Anna Prārthanā",
-      "english": "The Food Prayer"
+      "iast": "Food Prayer",
+      "english": "Anna Prārthanā"
     },
     "category": "",
     "order": 11,

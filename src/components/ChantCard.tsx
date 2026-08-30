@@ -31,15 +31,6 @@ export default function ChantCard({ chant, index }: { chant: Chant; index: numbe
           <PlaceholderArt />
         )}
 
-        {/* Play affordance for chants that have a tutorial video */}
-        {chant.youtubeId && (
-          <span className="absolute right-3 top-3 flex items-center gap-1.5 rounded-full bg-[rgb(8_11_16/0.6)] px-2.5 py-1 text-[0.65rem] font-semibold uppercase tracking-wider text-white backdrop-blur-md">
-            <svg width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
-              <path d="M3 1.5v13l11-6.5z" />
-            </svg>
-            Video
-          </span>
-        )}
       </div>
 
       {/* Caption — no "Learn to chant" here; the artwork already says it. */}

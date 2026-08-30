@@ -9,7 +9,7 @@ const TAGLINE = "Taking the Vedas to every home in South Africa.";
 export const metadata: Metadata = {
   metadataBase: new URL("https://learn.vedas4all.org"),
   title: {
-    default: "Vedas4All Learning Portal",
+    default: "Vedas4All — Learn to Chant",
     template: "%s — Vedas4All",
   },
   description:
@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     apple: "/brand/apple-touch-icon.png",
   },
   openGraph: {
-    title: "Vedas4All Learning Portal",
+    title: "Vedas4All — Learn to Chant",
     description: TAGLINE,
     url: "https://learn.vedas4all.org",
     siteName: "Vedas4All",

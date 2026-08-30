@@ -6,7 +6,7 @@ export const dynamic = "force-static";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "Vedas4All Learning Portal",
+    name: "Vedas4All — Learn to Chant",
     short_name: "Vedas4All",
     description:
       "Sanskrit chants with svara marks, meanings, and audio for Vedas4All classes.",
