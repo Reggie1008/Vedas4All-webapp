@@ -28,6 +28,7 @@ const THEMES: Record<string, ChantTheme> = {
   "purusha-suktam": { thumbnail: null, accent: "#6FD3B8" },
   "sri-rudram": { thumbnail: "sri-rudram", accent: "#86C07C" },
   "durga-suktam": { thumbnail: "durga-suktam", accent: "#E09250" },
+  "medha-suktam": { thumbnail: null, accent: "#D9A6E0" },
 };
 
 const FALLBACK: ChantTheme = { thumbnail: null, accent: "#DDA83F" };

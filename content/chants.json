@@ -1787,7 +1787,7 @@
     ],
     "universalReflection": "Said before eating, it removes every separation in the act: what is eaten, the one eating, the fire that digests and the work the energy goes on to do are all named as one and the same thing.",
     "audio": {
-      "normal": "",
+      "normal": "/audio/food-prayer.mp3",
       "slow": "",
       "source": "Vedas4All"
     },
@@ -2468,5 +2468,147 @@
         }
       ]
     }
+  },
+  {
+    "id": "medha-suktam",
+    "title": {
+      "sanskrit": "",
+      "iast": "Medhā Sūktam",
+      "english": "Hymn for Intelligence"
+    },
+    "category": "",
+    "order": 15,
+    "note": "A prayer to Medhā — the power of intelligence, retention and clear understanding.",
+    "verses": [
+      {
+        "devanagari": "",
+        "iast": "॥ śrī̱ sā̱yī̱śva̱rā̱ya namaḥ । hari̍ḥ | oṁ ॥",
+        "number": "01"
+      },
+      {
+        "devanagari": "",
+        "iast": "atha medhāsūktaṁ"
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ | yaśchanda̍sāmṛṣa̱bho vi̱śvarū̍paḥ । chando̱bhyo'dhya̱mṛtā̎thsamba̱bhūva̍ । sa mendro̍ me̱dhayā̎ spṛṇotu । a̱mṛta̍sya deva̱dhāra̍ṇo bhūyāsam ।",
+        "number": "1"
+      },
+      {
+        "devanagari": "",
+        "iast": "śarī̍raṁ me̱ vica̍r·ṣaṇam । ji̱hvā me̱ madhu̍mattamā । karṇā̎bhyā̱ṁ bhūri̱viśru̍vam । brahma̍ṇaḥ ko̱śo̍'si me̱dhayā pi̍hitaḥ ।",
+        "number": "2"
+      },
+      {
+        "devanagari": "",
+        "iast": "śru̱taṁ me̍ gopāya ॥",
+        "number": "3"
+      },
+      {
+        "devanagari": "",
+        "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
+        "number": "4"
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ | me̱dhāde̱vī ju̱ṣamā̍ṇā na̱ | āgā̎dvi̱śvācī̍ bha̱drā su̍mana̱syamā̍nā ।",
+        "number": "5"
+      },
+      {
+        "devanagari": "",
+        "iast": "tvayā̱ juṣṭā̍ nu̱damā̍nā du̱ruktā̎n, bṛ̱hadva̍dema vi̱dathe̍ su̱vīrā̎ḥ ।",
+        "number": "6"
+      },
+      {
+        "devanagari": "",
+        "iast": "tvayā̱ juṣṭa̍ | ṛ̱ṣirbha̍vati devi̱ tvayā̱ brahmā̍''ga̱taśrī̍ru̱ta tvayā̎ ।",
+        "number": "7"
+      },
+      {
+        "devanagari": "",
+        "iast": "tvayā̱ juṣṭa̍ści̱traṁu vi̍ndate vasu̱ sāno̍ juṣasva̱ dravi̍ṇo na medhe ॥",
+        "number": "8"
+      },
+      {
+        "devanagari": "",
+        "iast": "me̱dhāṁ ma̱ | indro̍ dadātu me̱dhān de̱vī sara̍svatī । me̱dhāṁ me̍ | a̱śvinā̍vu̱bhāvādha̍ttā̱ṁ puṣka̍rasrajā ।",
+        "number": "9"
+      },
+      {
+        "devanagari": "",
+        "iast": "a̱psa̱rāsu̍ ca̱ yā me̱dhā ga̍ndha̱rveṣu̍ ca̱ yanmana̍ḥ । daivīṁ̎ me̱dhā sara̍svatī̱ sā māṁ̎ me̱dhā su̱rabhi̍rjuṣatā̱g svāhā̎ ॥",
+        "number": "10"
+      },
+      {
+        "devanagari": "",
+        "iast": "āmāṁ̎ me̱dhā su̱rabhi̍rvi̱śvarū̍pā̱ hira̍ṇyavarṇā̱ jaga̍tī jaga̱myā । ūrja̍svatī̱ paya̍sā̱ pinva̍mānā̱ sā māṁ̎ me̱dhā su̱pratī̍kā juṣantām ॥",
+        "number": "11"
+      },
+      {
+        "devanagari": "",
+        "iast": "mayi̍ me̱dhāṁ mayi̍ pra̱jāṁ mayya̱gnistejo̍ dadhātu̱ mayi̍ me̱dhāṁ mayi̍ pra̱jāṁ mayīndra̍ | indri̱yan da̍dhātu̱ mayi̍ me̱dhāṁ mayi̍ pra̱jāṁ mayi̱ sūryo̱ bhrājo̍ dadhātu ॥",
+        "number": "12"
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ | ha̱ṁsa̱ ha̱ṁsāya̍ vi̱dmahe̍ paramaha̱ṁsāya̍ dhīmahi । tanno̍ haṁsaḥ(f) praco̱dayā̎t ॥",
+        "number": "13"
+      },
+      {
+        "devanagari": "",
+        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥",
+        "number": "14"
+      }
+    ],
+    "overview": "A hymn addressed to **Medhā**, the faculty of intelligence itself, personified as a goddess. The chanter does not ask to be given knowledge but to be made *fit to hold it*: a body that does not tire, a tongue that speaks sweetly, ears that hear widely, and a mind that keeps what it has received.\n\nThe refrain *mayi medhāṁ mayi prajāṁ* — \"in me intelligence, in me progeny\" — asks Agni, Indra and Sūrya each to place their own quality within the one chanting. It closes with the Haṁsa Gāyatrī.",
+    "wordMeanings": [
+      {
+        "word": "Medhā",
+        "meaning": "intelligence; the power to grasp and retain"
+      },
+      {
+        "word": "Ṛṣabha",
+        "meaning": "the bull — the foremost, the best of its kind"
+      },
+      {
+        "word": "Viśvarūpa",
+        "meaning": "of all forms, taking every shape"
+      },
+      {
+        "word": "Spṛṇotu",
+        "meaning": "may it strengthen, may it grant"
+      },
+      {
+        "word": "Vicarṣaṇam",
+        "meaning": "active, tireless, unwearying"
+      },
+      {
+        "word": "Madhumattamā",
+        "meaning": "most full of sweetness — of the tongue"
+      },
+      {
+        "word": "Śrutaṁ me gopāya",
+        "meaning": "guard for me what I have heard"
+      },
+      {
+        "word": "Juṣamāṇā",
+        "meaning": "being pleased, accepting gladly"
+      },
+      {
+        "word": "Mayi medhāṁ",
+        "meaning": "in me, intelligence"
+      },
+      {
+        "word": "Haṁsa",
+        "meaning": "the swan — said to separate milk from water, as discernment separates truth from falsehood"
+      }
+    ],
+    "universalReflection": "This is a prayer for the mind at work, and it asks for something more careful than cleverness. The request is to **hold** what has been received — *guard for me what I have heard* — and to be the kind of person worth entrusting with it: untiring in body, kind in speech, wide in hearing.\n\nIt is a fitting prayer before study of any kind, for a student of any faith. Intelligence here is not a possession to be proud of but something lent, to be kept well and used in service.",
+    "audio": {
+      "normal": "/audio/medha-suktam.mp3",
+      "slow": "",
+      "source": "Vedas4All"
+    },
+    "booklet": "Vedas4All — Medhā Sūktam (SB IAST, 26 September 2024)"
   }
 ]
