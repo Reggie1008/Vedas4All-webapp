@@ -32,12 +32,16 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
                 isOpen ? "scale-y-100" : "scale-y-0 group-hover:scale-y-100"
               }`}
             />
-            <span
-              aria-hidden
-              className="absolute right-4 top-4 text-xs font-semibold tabular-nums text-ink-3/50"
-            >
-              {verse.number ?? String(i + 1).padStart(2, "0")}
-            </span>
+            {/* An empty number is deliberate: a heading line such as
+                "atha medhāsūktaṁ" is not a numbered verse. */}
+            {verse.number !== "" && (
+              <span
+                aria-hidden
+                className="absolute right-4 top-4 text-xs font-semibold tabular-nums text-ink-3/50"
+              >
+                {verse.number ?? String(i + 1).padStart(2, "0")}
+              </span>
+            )}
 
             {showDevanagari && verse.devanagari && (
               <p className="devanagari-text pr-8">{verse.devanagari}</p>
