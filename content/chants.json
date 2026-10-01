@@ -2013,52 +2013,93 @@
             "verses": [
               {
                 "devanagari": "",
-                "iast": "॥ oṁ | namo bhagavate̍ rudrā̱ya ॥"
+                "iast": "॥ oṁ | namo bhagavate̍ rudrā̱ya ॥",
+                "number": ""
               },
               {
                 "devanagari": "",
-                "number": "1",
-                "iast": "oṁ | nama̍ste rudra ma̱nyava̍ | u̱tota̱ | iṣa̍ve̱ nama̍ḥ । nama̍ste | astu̱ dhanva̍ne bā̱hubhyā̍mu̱ta te̱ nama̍ḥ ॥ 1"
+                "iast": "oṁ | nama̍ste rudra ma̱nyava̍ | u̱tota̱ | iṣa̍ve̱ nama̍ḥ । nama̍ste | astu̱ dhanva̍ne bā̱hubhyā̍mu̱ta te̱ nama̍ḥ",
+                "number": "1"
               },
               {
                 "devanagari": "",
-                "number": "2",
-                "iast": "yā ta̱ | iṣu̍ś śi̱vata̍mā śi̱vam ba̱bhūva̍ te̱ dhanu̍ḥ । śi̱vā śa̍ra̱vyā̍ yā tava̱ tayā̍ no rudra mṛḍaya ॥ 2"
+                "iast": "yā ta̱ | iṣu̍ś śi̱vata̍mā śi̱vam ba̱bhūva̍ te̱ dhanu̍ḥ । śi̱vā śa̍ra̱vyā̍ yā tava̱ tayā̍ no rudra mṛḍaya",
+                "number": "2"
               },
               {
                 "devanagari": "",
-                "number": "3",
-                "iast": "yā te̍ rudra śi̱vā ta̱nūragho̱rā'pā̍pakāśinī । tayā̍ nasta̱nuvā̱ śanta̍mayā̱ giri̍śantā̱bhi cā̍kaśīḥ ॥ 3"
+                "iast": "yā te̍ rudra śi̱vā ta̱nūragho̱rā'pā̍pakāśinī । tayā̍ nasta̱nuvā̱ śanta̍mayā̱ giri̍śantā̱bhi cā̍kaśīḥ",
+                "number": "3"
               },
               {
                 "devanagari": "",
-                "number": "4",
-                "iast": "yāmiṣu̍ṅ giriśanta̱ haste̱ bibha̱rṣyasta̍ve । śi̱vāṅ gi̍ritra̱ tāṅ ku̍ru̱ mā hi̍gṁsī̱ḥ(f) puru̍ṣa̱ñ jaga̍t ॥ 4"
+                "iast": "yāmiṣu̍ṅ giriśanta̱ haste̱ bibha̱rṣyasta̍ve । śi̱vāṅ gi̍ritra̱ tāṅ ku̍ru̱ mā hi̍gṁsī̱ḥ(f) puru̍ṣa̱ñ jaga̍t",
+                "number": "4"
               },
               {
                 "devanagari": "",
-                "number": "5",
-                "iast": "śi̱vena̱ vaca̍sā tvā̱ giri̱śācchā̍vadāmasi । yathā̍ na̱s sarva̱mijjaga̍daya̱kṣma gṁ su̱manā̱ | asa̍t ॥ 5"
+                "iast": "śi̱vena̱ vaca̍sā tvā̱ giri̱śācchā̍ vadāmasi । yathā̍ na̱s sarva̱mijjaga̍daya̱kṣmagṁ su̱manā̱ | asa̍t",
+                "number": "5"
               },
               {
                 "devanagari": "",
-                "number": "6",
-                "iast": "adhya̍vocadadhiva̱ktā pra̍tha̱mo daivyo̍ bhi̱ṣak । ahī̍gśca̱ sarvā̎ñ ja̱mbhaya̱nth sarvā̎śca yātudhā̱nya̍ḥ ॥ 6"
+                "iast": "adhya̍vocadadhiva̱ktā pra̍tha̱mo daivyo̍ bhi̱ṣak । ahī̍gśca̱ sarvā̎ñ ja̱mbhaya̱nth sarvā̎śca yātu dhā̱nya̍ḥ",
+                "number": "6"
               },
               {
                 "devanagari": "",
-                "number": "7",
-                "iast": "a̱sau yastā̱mro | a̍ru̱ṇa | u̱ta ba̱bhrus su̍ma̱ṅgala̍ḥ । ye ce̱mā gṁ ru̱drā | a̱bhito̍ di̱kṣu śri̱tās sa̍hasra̱śo'vai̍ṣā̱gṁ heḍa̍ | īmahe ॥ 7"
+                "iast": "a̱sau yastā̱mro | a̍ru̱ṇa | u̱ta ba̱bhrus su̍ma̱ṅgala̍ḥ । ye ce̱māgṁ ru̱drā | a̱bhito̍ di̱kṣu śri̱tās sa̍hasra̱śo'vai̍ṣā̱gṁ heḍa̍ | īmahe",
+                "number": "7"
               },
               {
                 "devanagari": "",
-                "number": "8",
-                "iast": "a̱sau yo̍'va̱sarpa̍ti̱ nīla̍grīvo̱ vilo̍hitaḥ । u̱taina̍ṅ go̱pā | a̍dṛśa̱nnadṛ̍śannudahā̱rya̍ḥ । u̱taina̱ṁu viśvā̍ bhū̱tāni̱ sa dṛ̱ṣṭo mṛ̍ḍayāti naḥ ॥ 8"
+                "iast": "a̱sau yo̍'va̱sarpa̍ti̱ nīla̍grīvo̱ vilo̍hitaḥ । u̱taina̍ṅ go̱pā | a̍dṛśa̱nnadṛ̍śannudahā̱rya̍ḥ । u̱taina̱ṁu viśvā̍ bhū̱tāni̱ sa dṛ̱ṣṭo mṛ̍ḍayāti naḥ",
+                "number": "8"
               },
               {
                 "devanagari": "",
-                "number": "9",
-                "iast": "namo̍ | astu̱ nīla̍grīvāya sahasrā̱kṣāya̍ mī̱ḍhuṣe̎ । atho̱ ye | a̍sya̱ satvā̍no̱'han tebhyo̍'kara̱n nama̍ḥ ॥ 9"
+                "iast": "namo̍ | astu̱ nīla̍grīvāya sahasrā̱kṣāya̍ mī̱ḍhuṣe̎ । atho̱ ye | a̍sya̱ satvā̍no̱'han tebhyo̍'kara̱n nama̍ḥ",
+                "number": "9"
+              },
+              {
+                "devanagari": "",
+                "iast": "pramu̍ñca̱ dhanva̍na̱stvamu̱bhayo̱rārtni̍yo̱rjyām । yāśca̍ te̱ hasta̱ | iṣa̍va̱ḥ(f) parā̱ tā bha̍gavo vapa",
+                "number": "10"
+              },
+              {
+                "devanagari": "",
+                "iast": "a̱va̱tatya̱ dhanu̱stvagṁ saha̍srākṣa̱ śate̍ṣudhe । ni̱śīrya̍ śa̱lyānā̱m mukhā̍ śi̱vo na̍s su̱manā̍ bhava",
+                "number": "11"
+              },
+              {
+                "devanagari": "",
+                "iast": "vijya̱n dhanu̍ḥ kapa̱rdino̱ viśa̍lyo̱ bāṇa̍vāgṁ u̱ta । ane̍śanna̱syeṣa̍va | ā̱bhura̍sya niṣa̱ṅgathi̍ḥ",
+                "number": "12"
+              },
+              {
+                "devanagari": "",
+                "iast": "yā te̍ he̱tirmī̍ḍhuṣṭama̱ haste̍ ba̱bhūva̍ te̱ dhanu̍ḥ । tayā̱'smān vi̱śvata̱stvama̍ya̱kṣmayā̱ pari̍bbhuja",
+                "number": "13"
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ste | a̱stvāyu̍dhā̱yānā̍tatāya dhṛ̱ṣṇave̎ । u̱bhābhyā̍mu̱ta te̱ namo̍ bā̱hubhyā̱n tava̱ dhanva̍ne",
+                "number": "14"
+              },
+              {
+                "devanagari": "",
+                "iast": "pari̍ te̱ dhanva̍no he̱tira̱smān vṛ̍ṇaktu vi̱śvata̍ḥ । atho̱ ya | i̍ṣu̱dhistavā̱re | a̱smannidhe̍hi̱ tam",
+                "number": "15"
+              },
+              {
+                "devanagari": "",
+                "iast": "॥ śambhave̱ nama̍ḥ ॥",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ste | astu bhagavan viśveśva̱rāya̍ mahāde̱vāya̍ tryamba̱kāya̍ tripurānta̱kāya̍ trikāgnikā̱lāya̍ kālāgni ru̱drāya̍ nīlaka̱ṇṭhāya̍ mṛtyuñja̱yāya̍ sarveśva̱rāya̍ sadāśi̱vāya̍ śrīmanmahāde̱vāya̱ nama̍ḥ ॥",
+                "number": ""
               }
             ],
             "audio": {
@@ -2071,7 +2112,73 @@
           {
             "n": 2,
             "label": "Dvitīyo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "namo̱ hira̍ṇyabāhave senā̱nye̍ di̱śāñ ca̱ pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vṛ̱kṣebhyo̱ hari̍keśebhyaḥ(f) paśū̱nām pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sa̱spiñja̍rāya̱ tviṣī̍mate pathī̱nām pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ babhlu̱śāya̍ vivyā̱dhine'nnā̍nā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ hari̍keśāyopavī̱tine̍ pu̱ṣṭānā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ bha̱vasya̍ he̱tyai jaga̍tā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ru̱drāyā̍tatā̱vine̱ kṣetrā̍ṇā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sū̱tāyāha̍ntyāya̱ vanā̍nā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ rohi̍tāya stha̱pata̍ye vṛ̱kṣāṇā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ma̱ntriṇe̍ vāṇi̱jāya̱ kakṣā̍ṇā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ bhuva̱ntaye̍ vārivaskṛ̱tāyauṣa̍dhīnā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | u̱ccairgho̍ṣāyā''kra̱ndaya̍te pattī̱nām pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kṛtsnavī̱tāya̱ dhāva̍te̱ sattva̍nā̱m pata̍ye̱ nama̍ḥ",
+                "number": "2"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-02.mp3",
               "slow": "",
@@ -2082,7 +2189,93 @@
           {
             "n": 3,
             "label": "Tṛtīyo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "nama̱s saha̍mānāya nivyā̱dhina̍ | āvyā̱dhinī̍nā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kaku̱bhāya̍ niṣa̱ṅgiṇe̎ ste̱nānā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ niṣa̱ṅgiṇa̍ | iṣudhi̱mate̱ taska̍rāṇā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ vañca̍te pari̱vañca̍te stāyū̱nām pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ nice̱rave̍ parica̱rāyāra̍ṇyānā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sṛkā̱vibhyo̱ jighā̍gṁsadbhyo muṣṇa̱tām pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍'si̱madbhyo̱ nakta̱ñ cara̍dbhyaḥ(f) prakṛ̱ntānā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | uṣṇī̱ṣiṇe̍ girica̱rāya̍ kulu̱ñcānā̱m pata̍ye̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ | iṣu̍madbhyo dhanvā̱vibhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ātanvā̱nebhya̍ḥ(f) prati̱dadhā̍nebhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ā̱yaccha̍dbhyo visṛ̱jadbhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo'sya̍dbhyo̱ vidhya̍dbhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ | āsī̍nebhya̱ś śayā̍nebhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sva̱padbhyo̱ jāgra̍dbhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s tiṣṭha̍dbhyo̱ dhāva̍dbhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sa̱bhābhya̍s sa̱bhāpa̍tibhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ | aśve̱bhyo'śva̍patibhyaśca vo̱ nama̍ḥ",
+                "number": "3"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-03.mp3",
               "slow": "",
@@ -2093,7 +2286,93 @@
           {
             "n": 4,
             "label": "Caturtho'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "nama̍ | āvyā̱dhinī̎bhyo vi̱vidhya̍ntībhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ | uga̍ṇābhyastṛgṁha̱tībhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ gṛ̱tsebhyo̍ gṛ̱tsapa̍tibhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ vrāte̎bhyo̱ vrāta̍patibhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ga̱ṇebhyo̍ ga̱ṇapa̍tibhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ virū̍pebhyo vi̱śvarū̍pebhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ma̱hadbhya̍ḥ:a kṣulla̱kebhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ra̱thibhyo̍'ra̱thebhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ rathe̎bhyo̱ ratha̍patibhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s senā̎bhyas senā̱nibhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ:a kṣa̱ttṛbhya̍s saṅgrahī̱tṛbhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s takṣa̍bhyo rathakā̱rebhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ḥ kulā̍lebhyaḥ ka̱rmāre̎bhyaśca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pu̱ñjiṣṭe̎bhyo niṣā̱debhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | iṣu̱kṛdbhyo̍ dhanva̱kṛdbhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ mṛga̱yubhya̍ś śva̱nibhya̍śca vo̱ namo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś śvabhya̱ś śvapa̍tibhyaśca vo̱ nama̍ḥ",
+                "number": "4"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-04.mp3",
               "slow": "",
@@ -2104,7 +2383,83 @@
           {
             "n": 5,
             "label": "Pañcamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "namo̍ bha̱vāya̍ ca ru̱drāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śa̱rvāya̍ ca paśu̱pata̍ye ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ nīla̍grīvāya ca śiti̱kaṇṭhā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kapa̱rdine̍ ca̱ vyu̍ptakeśāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sahasrā̱kṣāya̍ ca śa̱tadha̍nvane ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ giri̱śāya̍ ca śipivi̱ṣṭāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ mī̱ḍhuṣṭa̍māya̱ ceṣu̍mate ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̎ hra̱svāya̍ ca vāma̱nāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ bṛha̱te ca̱ varṣī̍yase ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vṛ̱ddhāya̍ ca saṁ̱uvṛdhva̍ne ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ | agri̍yāya ca pratha̱māya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ā̱śave̍ cāji̱rāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś śīghri̍yāya ca̱ śībhyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ū̱rmyā̍ya cāvasva̱nyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s srota̱syā̍ya ca̱ dvīpyā̍ya ca",
+                "number": "5"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-05.mp3",
               "slow": "",
@@ -2115,7 +2470,83 @@
           {
             "n": 6,
             "label": "Ṣaṣṭo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "namo̎ jye̱ṣṭhāya̍ ca kani̱ṣṭhāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pūrva̱jāya̍ cāpara̱jāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ madhya̱māya̍ cāpaga̱lbhāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ jagha̱nyā̍ya ca̱ budhni̍yāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s so̱bhyā̍ya ca pratisa̱ryā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ yāmyā̍ya ca̱ kṣemyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | urva̱ryā̍ya ca̱ khalyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś ślokyā̍ya cāvasā̱nyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ vanyā̍ya ca̱ kakṣyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śra̱vāya̍ ca pratiśra̱vāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ā̱śuṣe̍ṇāya cā̱śura̍thāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś śūrā̍ya cāvabhinda̱te ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ va̱rmiṇe̍ ca varū̱thine̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ bi̱lmine̍ ca kava̱cine̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śru̱tāya̍ ca śrutase̱nāya̍ ca",
+                "number": "6"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-06.mp3",
               "slow": "",
@@ -2126,7 +2557,88 @@
           {
             "n": 7,
             "label": "Saptamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "namo̍ dundu̱bhyā̍ya cāhana̱nyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ dhṛ̱ṣṇave̍ ca pramṛ̱śāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ dū̱tāya̍ ca̱ prahi̍tāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ niṣa̱ṅgiṇe̍ ceṣudhi̱mate̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s tī̱kṣṇeṣa̍ve cāyu̱dhine̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s svāyu̱dhāya̍ ca su̱dhanva̍ne ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s srutyā̍ya ca̱ pathyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kā̱ṭyā̍ya ca nī̱pyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s sūdyā̍ya ca sara̱syā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ nā̱dyāya̍ ca vaiśa̱ntāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ḥ kūpyā̍ya cāva̱ṭyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ varṣyā̍ya cāva̱rṣyāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ me̱ghyā̍ya ca vidyu̱tyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ī̱dhriyā̍ya cāta̱pyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ vātyā̍ya ca̱ reṣmi̍yāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vāsta̱vyā̍ya ca vāstu̱pāya̍ ca",
+                "number": "7"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-07.mp3",
               "slow": "",
@@ -2137,7 +2649,93 @@
           {
             "n": 8,
             "label": "Aṣṭamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "॥ oṁ hara hara hara hara hara oṁ ॥",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s somā̍ya ca ru̱drāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s tā̱mrāya̍ cāru̱ṇāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śa̱ṅgāya̍ ca paśu̱pata̍ye ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | u̱grāya̍ ca bhī̱māya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ | agreva̱dhāya̍ ca dūreva̱dhāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ha̱ntre ca̱ hanī̍yase ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vṛ̱kṣebhyo̱ hari̍keśebhyo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s tā̱rāya̱ nama̍ś śa̱mbhave̍ ca mayo̱bhave̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śaṅka̱rāya̍ ca mayaska̱rāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ś śi̱vāya̍ ca śi̱vata̍rāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s tīrthyā̍ya ca̱ kūlyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pā̱ryā̍ya cāvā̱ryā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pra̱tara̍ṇāya co̱ttara̍ṇāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ātā̱ryā̍ya cālā̱dyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś śaṣpyā̍ya ca̱ phenyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍s sika̱tyā̍ya ca pravā̱hyā̍ya ca",
+                "number": "8"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-08.mp3",
               "slow": "",
@@ -2148,7 +2746,93 @@
           {
             "n": 9,
             "label": "Navamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "nama̍ | iri̱ṇyā̍ya ca prapa̱thyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kigṁśi̱lāya̍ ca̱ kṣaya̍ṇāya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kapa̱rdine̍ ca pula̱staye̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ goṣṭhyā̍ya ca̱ gṛhyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱s talpyā̍ya ca̱ gehyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ kā̱ṭyā̍ya ca gahvare̱ṣṭhāya̍ ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̎ hrada̱yyā̍ya ca nive̱ṣpyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pāgṁsa̱vyā̍ya ca raja̱syā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̱ś śuṣkyā̍ya ca hari̱tyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̱ lopyā̍ya cola̱pyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ū̱rvyā̍ya ca sū̱rmyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ḥ(f) pa̱rṇyā̍ya ca parṇaśa̱dyā̍ya ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍'pagu̱ramā̍ṇāya cābhighna̱te ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ākkhida̱te ca̍ prakkhida̱te ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vaḥ kiri̱kebhyo̍ de̱vānā̱gṁ hṛda̍yebhyo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ vikṣīṇa̱kebhyo̱ namo̍ vicinva̱tkebhyo̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nama̍ | ānirha̱tebhyo̱ nama̍ | āmīva̱tkebhya̍ḥ",
+                "number": "9"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-09.mp3",
               "slow": "",
@@ -2159,7 +2843,68 @@
           {
             "n": 10,
             "label": "Daśamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "drāpe̱ | andha̍saspate̱ dari̍dra̱nnīla̍lohita । e̱ṣām puru̍ṣāṇāme̱ṣām pa̍śū̱nām mā bhermā'ro̱ mo | e̍ṣā̱ṅ kiñca̱nāma̍mat",
+                "number": "1"
+              },
+              {
+                "devanagari": "",
+                "iast": "yā te̍ rudra śi̱vā ta̱nūś śi̱vā vi̱śvāha̍bheṣajī । śi̱vā ru̱drasya̍ bheṣa̱jī tayā̍ no mṛḍa jī̱vase̎",
+                "number": "2"
+              },
+              {
+                "devanagari": "",
+                "iast": "i̱māgṁ ru̱drāya̍ ta̱vase̍ kapa̱rdine̎ kṣa̱yadvī̍rāya̱ prabha̍rāmahe ma̱tim । yathā̍ na̱ś śamasa̍d dvi̱pade̱ catu̍ṣpade̱ viśva̍m pu̱ṣṭaṅ grāme̍ | a̱sminnanā̍turam",
+                "number": "3"
+              },
+              {
+                "devanagari": "",
+                "iast": "mṛ̱ḍā no̍ rudro̱ta no̱ maya̍skṛdhi kṣa̱yadvī̍rāya̱ nama̍sā vidhema te । yacchañ ca̱ yośca̱ manu̍rāya̱je pi̱tā tada̍śyāma̱ tava̍ rudra̱ praṇī̍tau",
+                "number": "4"
+              },
+              {
+                "devanagari": "",
+                "iast": "mā no̍ ma̱hānta̍mu̱ta mā no̍ | arbha̱kam mā na̱ | ukṣa̍ntamu̱ta mā na̍ | ukṣi̱tam । mā no̍ vadhīḥ(f) pi̱tara̱m mota mā̱tara̍m pri̱yā mā na̍sta̱nuvo̍ rudra rīriṣaḥ",
+                "number": "5"
+              },
+              {
+                "devanagari": "",
+                "iast": "mā na̍sto̱ke tana̍ye̱ mā na̱ | āyu̍ṣi̱ mā no̱ goṣu̱ mā no̱ | aśve̍ṣu rīriṣaḥ । vī̱rān mā no̍ rudra bhāmi̱to'va̍dhīrha̱viṣma̍nto̱ nama̍sā vidhema te",
+                "number": "6"
+              },
+              {
+                "devanagari": "",
+                "iast": "ā̱rātte̍ go̱ghna | u̱ta pū̍ruṣa̱ghne kṣa̱yadvī̍rāya su̱mnama̱sme te̍ | astu । rakṣā̍ ca no̱ | adhi̍ ca deva brū̱hyadhā̍ ca na̱ś śarma̍ yaccha dvi̱barhā̎ḥ",
+                "number": "7"
+              },
+              {
+                "devanagari": "",
+                "iast": "stu̱hi śru̱taṅ ga̍rta̱sada̱ṁi yuvā̍nam mṛ̱gan na bhī̱mamu̍paha̱tnumu̱gram । mṛ̱ḍā ja̍ri̱tre ru̍dra̱ stavā̍no | a̱nyante̍ | a̱sman niva̍pantu̱ senā̎ḥ",
+                "number": "8"
+              },
+              {
+                "devanagari": "",
+                "iast": "pari̍ ṇo ru̱drasya̍ he̱tirvṛ̍ṇaktu̱ pari̍ tve̱ṣasya̍ durma̱tira̍ghā̱yoḥ । ava̍ sthi̱rā ma̱ghava̍dbhyastanuṣva̱ mīḍhva̍sto̱kāya̱ tana̍yāya mṛḍaya",
+                "number": "9"
+              },
+              {
+                "devanagari": "",
+                "iast": "mīḍhu̍ṣṭama̱ śiva̍tama śi̱vo na̍s su̱manā̍ bhava । pa̱ra̱me vṛ̱kṣa | āyu̍dhan ni̱dhāya̱ kṛtti̱ṁu vasā̍na̱ | āca̍ra̱ pinā̍ka̱m bibhra̱dāga̍hi",
+                "number": "10"
+              },
+              {
+                "devanagari": "",
+                "iast": "viki̍rida̱ vilo̍hita̱ nama̍ste | astu bhagavaḥ । yāste̍ sa̱hasra̍gṁ he̱tayo̱'nyama̱smanniva̍pantu̱ tāḥ",
+                "number": "11"
+              },
+              {
+                "devanagari": "",
+                "iast": "sa̱hasrā̍ṇi sahasra̱dhā bā̍hu̱vostava̍ he̱taya̍ḥ । tāsā̱mīśā̍no bhagavaḥ(f) parā̱cīnā̱ mukhā̍ kṛdhi",
+                "number": "12"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-10.mp3",
               "slow": "",
@@ -2170,7 +2915,33 @@
           {
             "n": 11,
             "label": "Ekādaśo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "sa̱hasrā̍ṇi sahasra̱śo ye ru̱drā | adhi̱ bhūmyā̎m । teṣā̍gṁ sahasrayoja̱ne'va̱dhanvā̍ni tanmasi",
+                "number": "1"
+              },
+              {
+                "devanagari": "",
+                "iast": "a̱sminma̍ha̱tya̍rṇa̱ve̎'ntari̍kṣe bha̱vā | adhi̍ ॥(teṣā̍gṁ) 2 nīla̍grīvāś śiti̱kaṇṭhā̎ś śa̱rvā | a̱dhaḥ:a kṣa̍māca̱rāḥ ॥(teṣā̍gṁ) 3 nīla̍grīvāś śiti̱kaṇṭhā̱ diva̍gṁ ru̱drā | upa̍śritāḥ ॥(teṣā̍gṁ) 4 ye vṛ̱kṣeṣu̍ sa̱spiñja̍rā̱ nīla̍grīvā̱ vilo̍hitāḥ ॥(teṣā̍gṁ) 5 ye bhū̱tānā̱madhi̍patayo viśi̱khāsa̍ḥ kapa̱rdina̍ḥ ॥(teṣā̍gṁ) 6 ye | anne̍ṣu vi̱vidhya̍nti̱ pātre̍ṣu̱ piba̍to̱ janān̍ ॥(teṣā̍gṁ) 7 ye pa̱thām pa̍thi̱rakṣa̍ya | ailabṛ̱dā ya̱vyudha̍ḥ ॥(teṣā̍gṁ) 8 ye tī̱rthāni̍ pra̱cara̍nti sṛ̱kāva̍nto niṣa̱ṅgiṇa̍ḥ ॥(teṣā̍gṁ) 9 ya | e̱tāva̍ntaśca̱ bhūyā̍gṁsaśca̱ diśo̍ ru̱drā vi̍tasthi̱re । teṣā̍gṁ sahasrayoja̱ne'va̱dhanvā̍ni tanmasi",
+                "number": "10"
+              },
+              {
+                "devanagari": "",
+                "iast": "namo̍ ru̱drebhyo̱ ye pṛ̍thi̱vyāṁi ye̎'ntari̍kṣe̱ ye di̱vi yeṣā̱manna̱ṁu vāto̍ va̱rṣamiṣa̍va̱stebhyo̱ daśa̱ prācī̱rdaśa̍ dakṣi̱ṇā daśa̍ pra̱tīcī̱r daśo-dī̍cī̱r daśo̱-rdhvā-stebhyo̱ nama̱ste no̍ mṛḍayantu̱ te yan dvi̱ṣmo yaśca̍ no̱ dveṣṭi̱ taṁu vo̱ jambhe̍ dadhāmi",
+                "number": "11"
+              },
+              {
+                "devanagari": "",
+                "iast": "śrīrudrapraśnasyopasaṃhāra trya̍mbakaṁi yajāmahe suga̱ndhim pu̍ṣṭi̱vardha̍nam । u̱rvā̱ru̱kami̍va̱ bandha̍nānmṛ̱tyormu̍kṣīya̱ mā'mṛtā̎t ॥ yo ru̱dro | a̱gnau yo | a̱psu ya | oṣa̍dhīṣu̱ yo ru̱dro viśvā̱ bhuva̍nā vi̱veśa̱ tasmai̍ ru̱drāya̱ namo̍ | astu ॥ ye te̍ sa̱hasra̍ma̱yuta̱m pāśā̱ mṛtyo̱ martyā̍ya̱ hanta̍ve । tān ya̱jñasya̍ mā̱yayā̱ sarvā̱nava̍ yajāmahe । mṛ̱tyave̱ svāhā̍ mṛ̱tyave̱ svāhā̎ ॥ oṁ | namo bhagavate rudrāya viṣṇave mṛtyu̍rme pā̱hi । prāṇānāṅ granthirasi rudro mā̍ viśā̱ntakaḥ । tenānnenā̎pyāya̱sva । namo rudrāya viṣṇave mṛtyu̍rme pā̱hi । tamu̍ ṣṭu̱hi̱ yas svi̱ṣus su̱dhanvā̱ yo viśva̍sya̱ kṣaya̍ti bheṣa̱jasya̍ । yakṣvā̎ma̱he sau̎mana̱sāya̍ ru̱dran namo̎bhirde̱vamasu̍ran duvasya ॥ a̱yam me̱ hasto̱ bhaga̍vāna̱yam me̱ bhaga̍vattaraḥ । a̱yam me̎ vi̱śvabhe̎ṣajo̱'yagṁ śi̱vābhi̍marśanaḥ ॥",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "॥ sadā̱śi̱voṁ ॥",
+                "number": ""
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-namakam-11.mp3",
               "slow": "",
@@ -2188,7 +2959,108 @@
           {
             "n": 1,
             "label": "Prathamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "oṁ agnā̍viṣṇū sa̱joṣa̍se̱mā va̍rdhantu vā̱ṅ gira̍ḥ ।",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dyu̱mnair vāje̍bhi̱rā-ga̍tam ॥",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vāja̍śca me prasa̱vaśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "praya̍tiśca me̱ prasi̍tiśca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dhī̱tiśca̍ me̱ kratu̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "svara̍śca me̱ śloka̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śrā̱vaśca̍ me̱ śruti̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "jyoti̍śca me̱ suva̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "prā̱ṇaśca̍ me'pā̱naśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vyā̱naśca̱ me'su̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ci̱ttañ ca̍ ma̱ | ādhī̍tañ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vākca̍ me̱ mana̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "cakṣu̍śca me̱ śrotra̍ñ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dakṣa̍śca me̱ bala̍ñ ca ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "oja̍śca me̱ saha̍śca ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "āyu̍śca me ja̱rā ca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ā̱tmā ca̍ me ta̱nūśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śarma̍ ca me̱ varma̍ ca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ṅgā̍ni ca me̱'sthāni̍ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "parū̍gṁṣi ca me̱ śarī̍rāṇi ca me",
+                "number": "1"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-01.mp3",
               "slow": "",
@@ -2199,7 +3071,103 @@
           {
             "n": 2,
             "label": "Dvitīyo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "jyaiṣṭhya̍ñ ca ma̱ | ādhi̍patyañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ma̱nyuśca̍ me̱ bhāma̍śca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ma̍śca̱ me'mbha̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "je̱mā ca̍ me mahi̱mā ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vari̱mā ca̍ me prathi̱mā ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "va̱rṣmā ca̍ me drāghu̱yā ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vṛ̱ddhañ ca̍ me̱ vṛddhi̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sa̱tyañ ca̍ me śra̱ddhā ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "jaga̍cca me̱ dhana̍ñ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vaśa̍śca me̱ tviṣi̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "krī̱ḍā ca̍ me̱ moda̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "jā̱tañ ca̍ me jani̱ṣyamā̍ṇañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sū̱ktañ ca̍ me sukṛ̱tañ ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vi̱ttañ ca̍ me̱ vedya̍ñ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bhū̱tañ ca̍ me bhavi̱ṣyacca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "su̱gañ ca̍ me su̱patha̍ñ ca ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ṛ̱ddhañ ca̍ ma̱ | ṛddhi̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kḷ̱ptañ ca̍ me̱ kḷpti̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ma̱tiśca̍ me suma̱tiśca̍ me",
+                "number": "2"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-02.mp3",
               "slow": "",
@@ -2210,7 +3178,98 @@
           {
             "n": 3,
             "label": "Tṛtīyo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "śañ ca̍ me̱ maya̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pri̱yañ ca̍ me'nukā̱maśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kāma̍śca me saumana̱saśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bha̱drañ ca̍ me̱ śreya̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vasya̍śca me̱ yaśa̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bhaga̍śca me̱ dravi̍ṇañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ya̱ntā ca̍ me dha̱rtā ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kṣema̍śca me̱ dhṛti̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "viśva̍ñ ca me̱ maha̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sa̱mvicca̍ me̱ jñātra̍ñ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sūśca̍ me pra̱sūśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sīra̍ñ ca me la̱yaśca̍ ma",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ṛ̱tañ ca̍ me̱'mṛta̍ñ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ya̱kṣmañ ca̱ me'nā̍mayacca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "jī̱vātu̍śca me dīrghāyu̱tvañ ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'nami̱trañ ca̱ me'bha̍yañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "su̱gañ ca̍ me̱ śaya̍nañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sū̱ṣā ca̍ me su̱dina̍ñ ca me",
+                "number": "3"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-03.mp3",
               "slow": "",
@@ -2221,7 +3280,103 @@
           {
             "n": 4,
             "label": "Caturtho'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "ūrkca̍ me sū̱nṛtā̍ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "paya̍śca me̱ rasa̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ghṛ̱tañ ca̍ me̱ madhu̍ ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sagdhi̍śca me̱ sapī̍tiśca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kṛ̱ṣiśca̍ me̱ vṛṣṭi̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "jaitra̍ñ ca ma̱ | audbhi̍dyañ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ra̱yiśca̍ me̱ rāya̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pu̱ṣṭañ ca̍ me̱ puṣṭi̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vi̱bhu ca̍ me pra̱bhu ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ba̱hu ca̍ me̱ bhūya̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pū̱rṇañ ca̍ me pū̱rṇata̍rañ ca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'kṣi̍tiśca me̱ kūya̍vāśca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'nna̍ñ ca̱ me'kṣu̍cca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vrī̱haya̍śca me̱ yavā̎śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "māṣā̎śca me̱ tilā̎śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "mu̱dgāśca̍ me kha̱lvā̎śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "go̱dhūmā̎śca me ma̱surā̎śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pri̱yaṅga̍vaśca̱ me'ṇa̍vaśca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śyā̱mākā̎śca me nī̱vārā̎śca me",
+                "number": "4"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-04.mp3",
               "slow": "",
@@ -2232,7 +3387,88 @@
           {
             "n": 5,
             "label": "Pañcamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "aśmā̍ ca me̱ mṛtti̍kā ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "gi̱raya̍śca me̱ parva̍tāśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sika̍tāśca me̱ vana̱spata̍yaśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "hira̍ṇyañ ca̱ me'ya̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sīsa̍ñ ca me̱ trapu̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śyā̱mañ ca̍ me lo̱hañ ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'gniśca̍ ma̱ | āpa̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vī̱rudha̍śca ma̱ | oṣa̍dhayaśca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kṛṣṭapa̱cyañ ca̍ me'kṛṣṭapa̱cyañ ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "grā̱myāśca̍ me pa̱śava̍ | āra̱ṇyāśca̍ ya̱jñena̍ kalpantāṁu",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vi̱ttañ ca̍ me̱ vitti̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bhū̱tañ ca̍ me̱ bhūti̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vasu̍ ca me vasa̱tiśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "karma̍ ca me̱ śakti̍śca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'rtha̍śca ma̱ | ema̍śca ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "iti̍śca me̱ gati̍śca me",
+                "number": "5"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-05.mp3",
               "slow": "",
@@ -2243,7 +3479,108 @@
           {
             "n": 6,
             "label": "Ṣaṣṭo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "a̱gniśca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "soma̍śca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "savi̱tā ca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sara̍svatī ca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pū̱ṣā ca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bṛha̱spati̍śca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "mi̱traśca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "varu̍ṇaśca ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "tvaṣṭā̍ ca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dhā̱tā ca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "viṣṇu̍śca ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'śvinau̍ ca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ma̱ruta̍śca ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "viśve̍ ca me de̱vā | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pṛthi̱vī ca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ntari̍kṣañ ca ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dyauśca̍ ma̱ | indra̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "diśa̍śca ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "mū̱rddhā ca̍ ma̱ | indra̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pra̱jāpa̍tiśca ma̱ | indra̍śca me",
+                "number": "6"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-06.mp3",
               "slow": "",
@@ -2254,7 +3591,78 @@
           {
             "n": 7,
             "label": "Saptamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "a̱gṁśuśca̍ me ra̱śmiśca̱ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'dā̎bhyaśca̱ me'dhi̍patiśca ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "upā̱gṁśuśca̍ me'ntaryā̱maśca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "aindravāya̱vaśca̍ me maitrāvaru̱ṇaśca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "āśvi̱naśca̍ me pratipra̱sthāna̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śu̱kraśca̍ me ma̱nthī ca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "āgraya̱ṇaśca̍ me vaiśvade̱vaśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dhru̱vaśca̍ me vaiśvāna̱raśca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ṛtugra̱hāśca̍ me'tigrā̱hyā̎śca ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "aindrā̱gnaśca̍ me vaiśvade̱vaśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "marutva̱tīyā̎śca me māhe̱ndraśca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ādi̱tyaśca̍ me sāvi̱traśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sārasva̱taśca̍ me pau̱ṣṇaśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pātnīva̱taśca̍ me hāriyoja̱naśca̍ me",
+                "number": "7"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-07.mp3",
               "slow": "",
@@ -2265,7 +3673,63 @@
           {
             "n": 8,
             "label": "Aṣṭamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "i̱dhmaśca̍ me ba̱rhiśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vedi̍śca me̱ dhiṣṇi̍yāśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sruca̍śca me cama̱sāśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "grāvā̍ṇaśca me̱ svara̍vaśca ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "upara̱vāśca̍ me'dhi̱ṣava̍ṇe ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "droṇakala̱śaśca̍ me vāya̱vyā̍ni ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pūta̱bhṛcca̍ ma | ādhava̱nīya̍śca ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "āgnī̎dhrañ ca me havi̱rdhāna̍ñ ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "gṛ̱hāśca̍ me̱ sada̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "puro̱ḍāśā̎śca me paca̱tāśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'vabhṛ̱thaśca̍ me svagākā̱raśca̍ me",
+                "number": "8"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-08.mp3",
               "slow": "",
@@ -2276,7 +3740,73 @@
           {
             "n": 9,
             "label": "Navamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "a̱gniśca̍ me gha̱rmaśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'rkaśca̍ me̱ sūrya̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "prā̱ṇaśca̍ me'śvame̱dhaśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pṛthi̱vī ca̱ me'di̍tiśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "diti̍śca me̱ dyauśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śakva̍rīra̱ṅgula̍yo̱ diśa̍śca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ya̱jñena̍ kalpantā̱mṛkca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sāma̍ ca me̱ stoma̍śca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "yaju̍śca me dī̱kṣā ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "tapa̍śca ma | ṛ̱tuśca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vra̱tañ ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'horā̱trayo̎rvṛ̱ṣṭyā bṛ̍hadrathanta̱re ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ya̱jñena̍ kalpetām",
+                "number": "9"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-09.mp3",
               "slow": "",
@@ -2287,7 +3817,88 @@
           {
             "n": 10,
             "label": "Daśamo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "garbhā̎śca me va̱tsāśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "tryavi̍śca me trya̱vī ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ditya̱vāṭ ca̍ me dityau̱hī ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pañcā̍viśca me pañcā̱vī ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "triva̱tsaśca̍ me triva̱tsā ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "turya̱vāṭ ca̍ me turyau̱hī ca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "paṣṭha̱vācca̍ me paṣṭhau̱hī ca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "u̱kṣā ca̍ me va̱śā ca̍ ma |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ṛṣa̱bhaśca̍ me ve̱hacca̍ me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'na̱ḍvāñca̍ me dhe̱nuśca̍ ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "āyu̍rya̱jñena̍ kalpatām",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "prā̱ṇo ya̱jñena̍ kalpatāmapā̱no ya̱jñena̍ kalpatāṁu",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vyā̱no ya̱jñena̍ kalpatā̱ñ cakṣu̍rya̱jñena̍ kalpatā̱g",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śrotra̍ṁi ya̱jñena̍ kalpatā̱m mano̍ ya̱jñena̍ kalpatā̱ṁu",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vāgya̱jñena̍ kalpatāmā̱tmā ya̱jñena̍ kalpatāṁi",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ya̱jño ya̱jñena̍ kalpatām",
+                "number": "10"
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-10.mp3",
               "slow": "",
@@ -2298,7 +3909,153 @@
           {
             "n": 11,
             "label": "Ekādaśo'nuvākaḥ",
-            "verses": [],
+            "verses": [
+              {
+                "devanagari": "",
+                "iast": "ekā̍ ca me ti̱sraśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pañca̍ ca me sa̱pta ca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nava̍ ca ma̱ | ekā̍daśa ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "trayo̍daśa ca me̱ pañca̍daśa ca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "sa̱ptada̍śa ca me̱ nava̍daśa ca ma̱ |",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "eka̍vigṁśatiśca me̱ trayo̍vigṁśatiśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pañca̍vigṁśatiśca me sa̱ptavi̍gṁśatiśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "nava̍vigṁśatiśca ma̱ | eka̍trigṁśacca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "traya̍strigṁśacca me̱ cata̍sraśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ṣṭau ca̍ me̱ dvāda̍śa ca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "ṣoḍa̍śa ca me vigṁśa̱tiśca̍ me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "catu̍rvigṁśatiśca me̱'ṣṭāvi̍gṁśatiśca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "dvātri̍gṁśacca me̱ ṣaṭtri̍gṁśacca me",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "catvāri̱gṁśacca̍ me̱ catu̍ścatvārigṁśacca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "'ṣṭāca̍tvārigṁśacca me̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vāja̍śca prasa̱vaścā̍pi̱jaśca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "kratu̍śca̱ suva̍śca mū̱rdhā ca̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "vyaśñi̍yaścāntyāya̱naścāntya̍śca",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "bhauva̱naśca̱ bhuva̍na̱ścādhi̍patiśca",
+                "number": "11"
+              },
+              {
+                "devanagari": "",
+                "iast": "camakasyopasaṃhāra",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "oṁ iḍā̍ deva̱hūr manu̍r yajña̱nīr bṛha̱spati̍ru-kthāma̱dāni̍",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śagṁsiṣa̱d viśve̍de̱vās sū̎kta̱vāca̱ḥ(f)",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "pṛthi̍vi māta̱rmā mā̍ higṁsī̱r",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "madhu̍ maniṣye̱ madhu̍ janiṣye̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "madhu̍ vakṣyāmi̱ madhu̍ vadiṣyāmi̱",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "madhu̍matīn de̱vebhyo̱ vāca̍mudyāsagṁ",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "śuśrū̱ṣeṇyā̎m manu̱ṣye̎bhya̱s",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "tam mā̍ de̱vā | a̍vantu śo̱bhāyai̍ pi̱taro'nu̍madantu ॥",
+                "number": ""
+              },
+              {
+                "devanagari": "",
+                "iast": "oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
+                "number": ""
+              }
+            ],
             "audio": {
               "normal": "/audio/rudram-camakam-11.mp3",
               "slow": "",
