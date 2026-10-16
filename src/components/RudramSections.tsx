@@ -4,6 +4,7 @@ import { useState } from "react";
 import type { ChantSection } from "@/lib/chants";
 import AudioPlayer from "@/components/AudioPlayer";
 import VersesBlock from "@/components/VersesBlock";
+import { VerseAudioProvider } from "@/components/VerseAudioContext";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 
 /**
@@ -92,21 +93,26 @@ export default function RudramSections({
 
       {section.note && <p className="text-xs leading-relaxed text-ink-3">{section.note}</p>}
 
-      {/* The selected anuvāka */}
-      {anuvaka.verses.length > 0 ? (
-        <VersesBlock key={`${section.id}-${anuvaka.n}`} verses={anuvaka.verses} />
-      ) : (
-        <div className="rounded-2xl border border-dashed border-hairline px-5 py-8 text-center text-sm text-ink-3">
-          The text of {anuvaka.label} is still being added.
-        </div>
-      )}
+      {/* The selected anuvāka. Each one is its own recording, so the
+          provider is keyed to it and resets when the pills change. */}
+      <VerseAudioProvider key={`audio-ctx-${section.id}-${anuvaka.n}`}>
+        {anuvaka.verses.length > 0 ? (
+          <VersesBlock key={`${section.id}-${anuvaka.n}`} verses={anuvaka.verses} />
+        ) : (
+          <div className="rounded-2xl border border-dashed border-hairline px-5 py-8 text-center text-sm text-ink-3">
+            The text of {anuvaka.label} is still being added.
+          </div>
+        )}
 
-      <AudioPlayer
-        key={`audio-${section.id}-${anuvaka.n}`}
-        normalSrc={anuvaka.audio?.normal ?? ""}
-        slowSrc={anuvaka.audio?.slow}
-        source={anuvaka.audio?.source}
-      />
+        <div className="mt-6">
+          <AudioPlayer
+            key={`audio-${section.id}-${anuvaka.n}`}
+            normalSrc={anuvaka.audio?.normal ?? ""}
+            slowSrc={anuvaka.audio?.slow}
+            source={anuvaka.audio?.source}
+          />
+        </div>
+      </VerseAudioProvider>
 
       <YouTubeEmbed
         key={`video-${section.id}-${anuvaka.n}`}

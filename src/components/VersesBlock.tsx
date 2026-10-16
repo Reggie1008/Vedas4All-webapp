@@ -1,18 +1,48 @@
 "use client";
 
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import type { Verse } from "@/lib/chants";
 import { useScriptToggle } from "@/components/ScriptToggleContext";
+import { useVerseAudio } from "@/components/VerseAudioContext";
+import TimingCapture from "@/components/TimingCapture";
 import { rich } from "@/lib/richText";
 
 export default function VersesBlock({ verses }: { verses: Verse[] }) {
   const { showDevanagari } = useScriptToggle();
   const [open, setOpen] = useState<number | null>(null);
+  const audio = useVerseAudio();
+
+  // A content tool, not part of the student view. Read after mount so the
+  // server and client render the same thing.
+  const [capture, setCapture] = useState(false);
+  useEffect(() => {
+    setCapture(new URLSearchParams(window.location.search).get("timings") === "1");
+  }, []);
 
   // Only offer the expand affordance where there is stanza-level content.
   const hasDetail = verses.some((v) => v.meaning || v.words?.length);
 
+  // A line can be played on its own once its place in the recording is known.
+  const timed = Boolean(audio?.hasAudio) && verses.some((v) => v.start !== undefined);
+  // A line runs until the next timed line begins.
+  const endOf = (i: number) => {
+    for (let j = i + 1; j < verses.length; j++) {
+      if (verses[j].start !== undefined) return verses[j].start;
+    }
+    return undefined;
+  };
+  const sounding = (() => {
+    if (!timed || !audio?.isPlaying) return null;
+    let found: number | null = null;
+    for (let i = 0; i < verses.length; i++) {
+      const st = verses[i].start;
+      if (st !== undefined && audio.currentTime >= st - 0.15) found = i;
+    }
+    return found;
+  })();
+
   return (
+    <>
     <div className="glass overflow-hidden rounded-2xl">
       {hasDetail && (
         <p className="border-b border-hairline px-5 py-2.5 text-xs text-ink-3 sm:px-7">
@@ -23,13 +53,15 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
       {verses.map((verse, i) => {
         const detail = verse.meaning || verse.words?.length ? verse : null;
         const isOpen = open === i;
+        const isSounding = sounding === i;
+        const canPlay = timed && verse.start !== undefined;
 
         const body = (
           <>
             <span
               aria-hidden
               className={`absolute inset-y-0 left-0 w-[3px] bg-[var(--accent)] transition-transform duration-300 ease-smooth ${
-                isOpen ? "scale-y-100" : "scale-y-0 group-hover:scale-y-100"
+                isOpen || isSounding ? "scale-y-100" : "scale-y-0 group-hover:scale-y-100"
               }`}
             />
             {/* An empty number is deliberate: a heading line such as
@@ -75,19 +107,63 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
           </>
         );
 
+        const playButton = canPlay ? (
+          <button
+            type="button"
+            onClick={() => {
+              if (isSounding) audio!.stop();
+              else audio!.playRange(verse.start!, endOf(i));
+            }}
+            aria-label={
+              isSounding ? "Stop this line" : `Play line ${verse.number || i + 1}`
+            }
+            title={isSounding ? "Stop" : "Play this line"}
+            className={`absolute left-1.5 top-4 z-10 flex h-7 w-7 items-center justify-center rounded-full border transition sm:left-2.5 ${
+              isSounding
+                ? "border-transparent bg-[var(--accent)] text-[#08111a]"
+                : "border-hairline text-ink-3 opacity-0 hover:border-[color-mix(in_srgb,var(--accent)_55%,transparent)] hover:text-accent-ink focus-visible:opacity-100 group-hover:opacity-100"
+            }`}
+          >
+            {isSounding ? (
+              <svg width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+                <rect x="2.5" y="2" width="4" height="12" rx="1" />
+                <rect x="9.5" y="2" width="4" height="12" rx="1" />
+              </svg>
+            ) : (
+              <svg width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+                <path d="M3.5 1.8v12.4L14 8z" />
+              </svg>
+            )}
+          </button>
+        ) : null;
+
+        // The play control cannot nest inside the expand button, so the row is
+        // a positioned wrapper with the two siblings laid over each other.
         return (
-          <div key={i} className="border-b border-hairline last:border-0">
+          <div
+            key={i}
+            className={`group relative border-b border-hairline last:border-0 ${
+              isSounding ? "bg-[color-mix(in_srgb,var(--accent)_8%,transparent)]" : ""
+            }`}
+          >
+            {playButton}
             {detail ? (
               <button
                 type="button"
                 onClick={() => setOpen(isOpen ? null : i)}
                 aria-expanded={isOpen}
-                className="group relative block w-full px-5 py-5 text-left transition-colors hover:bg-surface sm:px-7 sm:py-6"
+                className={`relative block w-full py-5 text-left transition-colors hover:bg-surface sm:py-6 ${
+                  canPlay ? "pl-10 pr-5 sm:pl-12 sm:pr-7" : "px-5 sm:px-7"
+                }`}
               >
                 {body}
               </button>
             ) : (
-              <div className="group relative px-5 py-5 transition-colors hover:bg-surface sm:px-7 sm:py-6">
+              <div
+                className={`relative py-5 transition-colors hover:bg-surface sm:py-6 ${
+                  canPlay ? "pl-10 pr-5 sm:pl-12 sm:pr-7" : "px-5 sm:px-7"
+                }`}
+              >
                 {body}
               </div>
             )}
@@ -115,5 +191,7 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
         );
       })}
     </div>
+    {capture && <TimingCapture verses={verses} />}
+    </>
   );
 }

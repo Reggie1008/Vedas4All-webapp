@@ -1,6 +1,7 @@
 "use client";
 
 import { useCallback, useEffect, useRef, useState } from "react";
+import { useVerseAudio } from "@/components/VerseAudioContext";
 
 function formatTime(seconds: number): string {
   if (!Number.isFinite(seconds)) return "0:00";
@@ -21,6 +22,7 @@ export default function AudioPlayer({
 }) {
   const hasSlow = Boolean(slowSrc);
   const audioRef = useRef<HTMLAudioElement>(null);
+  const verseAudio = useVerseAudio();
   const [speed, setSpeed] = useState<"normal" | "slow">("normal");
   const [isPlaying, setIsPlaying] = useState(false);
   const [duration, setDuration] = useState(0);
@@ -31,6 +33,14 @@ export default function AudioPlayer({
   const [unavailable, setUnavailable] = useState(false);
 
   const src = speed === "slow" && slowSrc ? slowSrc : normalSrc;
+
+  // Hand the element to the verse list, which plays stretches of it.
+  const register = verseAudio?.register;
+  useEffect(() => {
+    if (!register) return;
+    register(audioRef.current);
+    return () => register(null);
+  }, [register, src]);
 
   useEffect(() => {
     setUnavailable(false);

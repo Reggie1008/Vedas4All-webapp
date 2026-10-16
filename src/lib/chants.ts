@@ -1,6 +1,9 @@
 import chantsData from "../../content/chants.json";
 
 export interface Verse {
+  /** Seconds into the chant's audio where this line begins. The line runs
+   *  until the next line's start, so only starts need recording. */
+  start?: number;
   devanagari: string;
   iast: string;
   source?: string;

@@ -6,6 +6,7 @@ import AudioPlayer from "@/components/AudioPlayer";
 import ChantHero from "@/components/ChantHero";
 import FontSizeControl from "@/components/FontSizeControl";
 import { ScriptToggleProvider } from "@/components/ScriptToggleContext";
+import { VerseAudioProvider } from "@/components/VerseAudioContext";
 import RudramSections from "@/components/RudramSections";
 import SarvadharmaPanel from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
@@ -91,7 +92,7 @@ export default async function ChantPage({
               {chant.sections?.length ? (
                 <RudramSections sections={chant.sections} thumbnail={thumbnail} />
               ) : (
-                <>
+                <VerseAudioProvider>
                   <VersesBlock verses={chant.verses} />
                   <AudioPlayer
                     normalSrc={chant.audio.normal}
@@ -108,7 +109,7 @@ export default async function ChantPage({
                     }
                     thumbnail={thumbnail}
                   />
-                </>
+                </VerseAudioProvider>
               )}
               {chant.sarvadharma && <SarvadharmaPanel data={chant.sarvadharma} />}
             </div>
