@@ -30,6 +30,13 @@ export default function TimingCapture({ verses }: { verses: Verse[] }) {
 
   const undo = useCallback(() => setMarks((m) => m.slice(0, -1)), []);
 
+  // The panel carries its own transport so everything needed is in one place.
+  const toggle = useCallback(() => {
+    if (!audio) return;
+    if (audio.isPlaying) audio.stop();
+    else void audio.playRange(audio.now());
+  }, [audio]);
+
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
       const t = e.target as HTMLElement | null;
@@ -51,16 +58,19 @@ export default function TimingCapture({ verses }: { verses: Verse[] }) {
   const output = `[${marks.join(", ")}]`;
 
   return (
-    <section className="mt-6 rounded-2xl border border-dashed border-[color-mix(in_srgb,var(--accent)_55%,transparent)] p-5">
+    <section className="sticky bottom-3 z-40 mt-6 rounded-2xl border border-dashed border-[color-mix(in_srgb,var(--accent)_55%,transparent)] bg-[rgb(var(--scrim)/0.92)] p-5 backdrop-blur-xl">
       <div className="flex flex-wrap items-baseline justify-between gap-2">
         <h2 className="eyebrow">Timing capture</h2>
         <span className="text-xs tabular-nums text-ink-3">
+          {Math.floor(audio.currentTime / 60)}:
+          {Math.floor(audio.currentTime % 60).toString().padStart(2, "0")}
+          {"  ·  "}
           {marks.length} / {verses.length} lines
         </span>
       </div>
 
       <p className="mt-2 text-sm leading-relaxed text-ink-2">
-        Press play, then tap <strong className="text-ink">Mark</strong> (or hit{" "}
+        Press play here, then tap <strong className="text-ink">Mark</strong> (or hit{" "}
         <kbd className="rounded border border-hairline px-1 text-xs">Enter</kbd>) the
         instant each line begins. <kbd className="rounded border border-hairline px-1 text-xs">Backspace</kbd>{" "}
         undoes the last one.
@@ -73,12 +83,29 @@ export default function TimingCapture({ verses }: { verses: Verse[] }) {
         </p>
       </div>
 
-      <div className="mt-4 flex flex-wrap gap-2">
+      <div className="mt-4 flex flex-wrap items-center gap-2">
+        <button
+          type="button"
+          onClick={toggle}
+          className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full border border-hairline text-ink transition hover:border-[color-mix(in_srgb,var(--accent)_55%,transparent)]"
+          aria-label={audio.isPlaying ? "Pause" : "Play"}
+        >
+          {audio.isPlaying ? (
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+              <rect x="2.5" y="2" width="4" height="12" rx="1" />
+              <rect x="9.5" y="2" width="4" height="12" rx="1" />
+            </svg>
+          ) : (
+            <svg width="13" height="13" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+              <path d="M3.5 1.8v12.4L14 8z" />
+            </svg>
+          )}
+        </button>
         <button
           type="button"
           onClick={mark}
           disabled={done}
-          className="rounded-full bg-[var(--accent)] px-6 py-2.5 text-sm font-semibold text-[#08111a] transition disabled:opacity-40"
+          className="rounded-full bg-[var(--accent)] px-7 py-3 text-base font-semibold text-[#08111a] transition disabled:opacity-40"
         >
           Mark line {Math.min(next + 1, verses.length)}
         </button>
