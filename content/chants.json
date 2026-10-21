@@ -321,7 +321,7 @@
       }
     ],
     "audio": {
-      "slow": "/audio/shanti-mantra-slow.mp3",
+      "slow": "",
       "normal": "/audio/shanti-mantra.mp3",
       "source": "Vedas4All"
     },
@@ -1724,14 +1724,14 @@
             "meaning": "consumed by the Brahman, the fire within me"
           }
         ],
-        "start": 0.8
+        "start": 0
       },
       {
         "devanagari": "",
         "iast": "Brahmaiva Tena Gantavyam Brahmakarma Samadhinā ||",
         "number": "1",
         "source": "Bhagavad Gītā 4.24",
-        "start": 7.05
+        "start": 19.14
       },
       {
         "devanagari": "",
@@ -1752,14 +1752,14 @@
             "meaning": "present in all the bodies of all beings"
           }
         ],
-        "start": 10.6
+        "start": 28.62
       },
       {
         "devanagari": "",
         "iast": "Prāṇāpāna Samāyuktaḥ Pacāmyannañ Caturvidhaṃ ||",
         "number": "2",
         "source": "Bhagavad Gītā 15.14",
-        "start": 13.4
+        "start": 39
       }
     ],
     "overview": "The fire in the belly consumes, and that is the Brahman. Consuming the Brahman Himself, the energy that is produced is the Brahman, and that energy is used to do the work of the Brahman. The second verse is the Lord's own answer: I am present within you as the fire named Vaiśvānara, present in the bodies of all beings, and I convert what you take — both solid and liquid — into the life force within you.",
