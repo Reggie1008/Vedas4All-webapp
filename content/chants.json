@@ -1723,7 +1723,7 @@
         "devanagari": "",
         "iast": "Brahmārpaṇaṃ Brahmahavir-brahmāgnau Brahmaṇāhutaṃ |",
         "number": "1",
-        "meaning": "The fire in the belly consumes, and that is the Brahman. The material is Brahman, the one who is consuming is Brahman, it is consumed by the Brahman, it is converted into the energy of the Brahman, and that energy helps us to do the work of the Brahman.",
+        "meaning": "The fire in the belly consumes, that is the Brahman. Consuming the Brahman Himself, so that the energy that is produced is the Brahman. That energy that is produced is used to do the work of the Brahman. The material is Brahman, the one who is consuming is Brahman, it is consumed by the Brahman, it is converted into the Brahman, and that energy helps us to do the work of the Brahman.",
         "words": [
           {
             "word": "Brahmārpaṇaṃ",
@@ -1732,10 +1732,6 @@
           {
             "word": "Brahmāgnau",
             "meaning": "in the fire of Brahman"
-          },
-          {
-            "word": "Brahmaiva tena gantavyam",
-            "meaning": "consumed by the Brahman, the fire within me"
           }
         ],
         "start": 0
@@ -1745,24 +1741,34 @@
         "iast": "Brahmaiva Tena Gantavyam Brahmakarma Samadhinā ||",
         "number": "1",
         "source": "Bhagavad Gītā 4.24",
-        "start": 19.14
+        "start": 19.14,
+        "words": [
+          {
+            "word": "Brahmaiva Tena Gantavyam",
+            "meaning": "consumed by the Brahman, the fire within me"
+          },
+          {
+            "word": "Brahmakarma Samadhinā",
+            "meaning": "for the work of Brahman, with equipoised mind"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "Ahaṃ Vaiśvānaro Bhūtvā Prāṇinān Dehamāśritaḥ |",
         "number": "2",
-        "meaning": "I am going to take what you have provided, both solid and liquid, and convert that into the life force within you. I will balance the life forces within you.",
+        "meaning": "I am going to take what you have provided, both solid and liquid, and convert that into the life force within you. I will balance the life forces within you, by digesting the four types of food.",
         "words": [
           {
             "word": "Ahaṃ",
             "meaning": "I am"
           },
           {
-            "word": "Vaiśvānaro bhūtvā",
+            "word": "Vaiśvānaro Bhūtvā",
             "meaning": "present within you as the fire named Vaiśvānara"
           },
           {
-            "word": "Prāṇinān dehamāśritaḥ",
+            "word": "Prāṇinān Dehamāśritaḥ",
             "meaning": "present in all the bodies of all beings"
           }
         ],
@@ -1773,7 +1779,17 @@
         "iast": "Prāṇāpāna Samāyuktaḥ Pacāmyannañ Caturvidhaṃ ||",
         "number": "2",
         "source": "Bhagavad Gītā 15.14",
-        "start": 39
+        "start": 39,
+        "words": [
+          {
+            "word": "Prāṇāpāna Samāyuktaḥ",
+            "meaning": "I will balance the life forces within you"
+          },
+          {
+            "word": "Pacāmyannañ Caturvidhaṃ",
+            "meaning": "by digesting the four types of food"
+          }
+        ]
       }
     ],
     "overview": "The fire in the belly consumes, and that is the Brahman. Consuming the Brahman Himself, the energy that is produced is the Brahman, and that energy is used to do the work of the Brahman. The second verse is the Lord's own answer: I am present within you as the fire named Vaiśvānara, present in the bodies of all beings, and I convert what you take — both solid and liquid — into the life force within you.",
@@ -1787,20 +1803,32 @@
         "meaning": "in the fire of Brahman"
       },
       {
-        "word": "Brahmaiva tena gantavyam",
+        "word": "Brahmaiva Tena Gantavyam",
         "meaning": "consumed by the Brahman, the fire within me"
+      },
+      {
+        "word": "Brahmakarma Samadhinā",
+        "meaning": "for the work of Brahman, with equipoised mind"
       },
       {
         "word": "Ahaṃ",
         "meaning": "I am"
       },
       {
-        "word": "Vaiśvānaro bhūtvā",
+        "word": "Vaiśvānaro Bhūtvā",
         "meaning": "present within you as the fire named Vaiśvānara"
       },
       {
-        "word": "Prāṇinān dehamāśritaḥ",
+        "word": "Prāṇinān Dehamāśritaḥ",
         "meaning": "present in all the bodies of all beings"
+      },
+      {
+        "word": "Prāṇāpāna Samāyuktaḥ",
+        "meaning": "I will balance the life forces within you"
+      },
+      {
+        "word": "Pacāmyannañ Caturvidhaṃ",
+        "meaning": "by digesting the four types of food"
       }
     ],
     "universalReflection": "Said before eating, it removes every separation in the act: what is eaten, the one eating, the fire that digests and the work the energy goes on to do are all named as one and the same thing.",
@@ -1810,7 +1838,8 @@
       "source": "Vedas4All"
     },
     "youtubeId": "",
-    "booklet": "Vedas4All — Food Prayer (Bhagavad Gītā 4.24 and 15.14)"
+    "booklet": "Vedas4All — Food Prayer (Bhagavad Gītā 4.24 and 15.14)",
+    "teachingNote": "**The four types of food.** **1. Bhojya** — foods that are chewed, such as bread or chapatti. **2. Peya** — mostly liquid or semi-solid foods which we swallow or drink, such as milk or juice. **3. Kośhya** — foods that are sucked, such as sugarcane. **4. Lehya** — foods that are licked, such as honey."
   },
   {
     "id": "purusha-suktam",
