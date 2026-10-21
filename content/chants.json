@@ -231,34 +231,81 @@
         "devanagari": "स्वस्तिः॑ प्र॒जाभ्यः॑ परिपालयन्तां॒",
         "iast": "svasti̍ḥ pra̱jābhya̍ḥ paripālayantā̱ṃ",
         "start": 34,
-        "meaning": "May the common people (prajaabhyah - subjects) be governed and nourished by the rulers (pari paalayantaam). Let there be happiness and peace (svasti) for the people."
+        "words": [
+          {
+            "word": "Svasti",
+            "meaning": "happiness, well-being, peace"
+          },
+          {
+            "word": "Prajābhyaḥ",
+            "meaning": "for the people, the common citizens"
+          },
+          {
+            "word": "Paripālayantām",
+            "meaning": "may they be protected and nourished"
+          }
+        ]
       },
       {
         "devanagari": "न्याय्येन मार्गेण महीं महीशाः॒ ।",
         "iast": "nyāyyena mārgeṇa mahīṃ mahīśā̱ḥ |",
         "start": 44,
-        "meaning": "May those who rule (mahiishaah - king) the land (mahiim), tread the path of justice (nyaayena maargena)."
+        "words": [
+          {
+            "word": "Nyāyyena mārgeṇa",
+            "meaning": "by the path of justice"
+          },
+          {
+            "word": "Mahīm",
+            "meaning": "the land, the earth"
+          },
+          {
+            "word": "Mahīśāḥ",
+            "meaning": "those who rule"
+          }
+        ]
       },
       {
         "devanagari": "गो ब्राह्मणेभ्यः॑ शुभमस्तु नित्यं॒",
         "iast": "go brāhmaṇebhya̍ḥ śubhamastu nitya̱ṃ",
         "start": 51,
-        "meaning": "May knowledge (go - cows and rays of knowledge) and the teachers of knowledge (braamhanebhyah) be (astu) ever (nityam) well (shubam)."
+        "words": [
+          {
+            "word": "Go",
+            "meaning": "cows; also the rays of knowledge"
+          },
+          {
+            "word": "Brāhmaṇebhyaḥ",
+            "meaning": "those who carry and teach knowledge"
+          },
+          {
+            "word": "Nityaṃ",
+            "meaning": "ever, always"
+          }
+        ]
       },
       {
         "devanagari": "स॒मस्त लो॒काः सुखि॒नो भवन्तु॒ ॥",
         "iast": "sa̱masta lo̱kāḥ | sukhi̱no bhavantu̱ ||",
         "start": 58,
-        "meaning": "May (bhavantu) all the worlds (lokha) be happy (sukhino)."
+        "words": [
+          {
+            "word": "Samasta lokāḥ",
+            "meaning": "all the worlds"
+          },
+          {
+            "word": "Sukhino bhavantu",
+            "meaning": "may they be happy"
+          }
+        ]
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
         "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||",
-        "start": 82,
-        "meaning": "Peace to body, mind and soul."
+        "start": 82
       }
     ],
-    "overview": "May the people be governed and nourished well by those who rule. May there be happiness and peace among them. May those who govern the land tread the path of justice. May knowledge, and those who carry knowledge, ever be well. May all the worlds be happy.",
+    "overview": "May the common people (prajaabhyah - subjects) be governed and nourished by the rulers (pari paalayantaam). Let there be happiness and peace (svasti) for the people.\n\nMay those who rule (mahiishaah - king) the land (mahiim), tread the path of justice (nyaayena maargena).\n\nMay knowledge (go - cows and rays of knowledge) and the teachers of knowledge (braamhanebhyah) be (astu) ever (nityam) well (shubam).\n\nMay (bhavantu) all the worlds (lokha) be happy (sukhino).\n\nPeace to body, mind and soul.",
     "wordMeanings": [
       {
         "word": "Svasti",
