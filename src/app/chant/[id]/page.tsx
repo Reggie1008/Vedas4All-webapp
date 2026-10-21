@@ -121,39 +121,40 @@ export default async function ChantPage({
               )}
               {chant.sarvadharma && <SarvadharmaPanel data={chant.sarvadharma} />}
 
-              {/* Only worth offering where there is enough to make a round of it. */}
+            </div>
+
+            {/* Right: what it means */}
+            <div className="scalable-text min-w-0 space-y-9">
+              {/* Offered before the meaning, since this is what a student
+                  comes back for once they have read it through. */}
               {(chant.verses.length >= 3 || chant.wordMeanings.length >= 3) && (
                 <Link
                   href={`/chant/${chant.id}/practice`}
-                  className="group flex items-center gap-3 rounded-2xl border border-hairline px-5 py-4 transition hover:border-[color-mix(in_srgb,var(--accent)_55%,transparent)] hover:bg-surface"
+                  className="group flex items-center gap-4 rounded-2xl border border-[color-mix(in_srgb,var(--accent)_45%,transparent)] bg-[color-mix(in_srgb,var(--accent)_10%,transparent)] px-5 py-5 transition hover:border-[color-mix(in_srgb,var(--accent)_80%,transparent)] hover:bg-[color-mix(in_srgb,var(--accent)_16%,transparent)]"
                 >
-                  <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[color-mix(in_srgb,var(--accent)_40%,transparent)] text-accent-ink">
-                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
-                      <path d="M4 7h7M4 12h11M4 17h6" />
-                      <path d="M17.5 14.5 20 17l-2.5 2.5" />
+                  <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-full bg-[var(--accent)] text-[#08111a]">
+                    <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <path d="M20.8 5.6a5 5 0 0 0-7.1 0L12 7.3l-1.7-1.7a5 5 0 1 0-7.1 7.1L12 21.5l8.8-8.8a5 5 0 0 0 0-7.1Z" />
                     </svg>
                   </span>
-                  <span className="min-w-0">
-                    <span className="block text-sm font-semibold text-ink">
-                      Practise this chant
+                  <span className="min-w-0 flex-1">
+                    <span className="block font-serif text-xl leading-tight text-ink">
+                      Learn it by heart
                     </span>
-                    <span className="block text-xs text-ink-3">
+                    <span className="mt-0.5 block text-sm text-ink-2">
                       Put the lines in order, and match the words to their meanings
                     </span>
                   </span>
                   <svg
-                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor"
                     strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden
-                    className="ml-auto shrink-0 text-accent-ink transition-transform duration-300 ease-smooth group-hover:translate-x-1"
+                    className="shrink-0 text-accent-ink transition-transform duration-300 ease-smooth group-hover:translate-x-1"
                   >
                     <path d="M5 12h14M13 6l6 6-6 6" />
                   </svg>
                 </Link>
               )}
-            </div>
 
-            {/* Right: what it means */}
-            <div className="scalable-text min-w-0 space-y-9">
               <section>
                 <SectionHeading>Overview of the meaning</SectionHeading>
                 <div className="space-y-3">{prose(chant.overview, "leading-relaxed text-ink-2")}</div>
