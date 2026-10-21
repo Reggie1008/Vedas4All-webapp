@@ -70,14 +70,17 @@ export default function TimingCapture({ verses }: { verses: Verse[] }) {
       </div>
 
       <p className="mt-2 text-sm leading-relaxed text-ink-2">
-        Press play here, then tap <strong className="text-ink">Mark</strong> (or hit{" "}
-        <kbd className="rounded border border-hairline px-1 text-xs">Enter</kbd>) the
-        instant each line begins. <kbd className="rounded border border-hairline px-1 text-xs">Backspace</kbd>{" "}
-        undoes the last one.
+        Press play here. The moment you <strong className="text-ink">hear a line
+        begin</strong>, mark it — not when it ends.{" "}
+        <kbd className="rounded border border-hairline px-1 text-xs">Enter</kbd> marks,{" "}
+        <kbd className="rounded border border-hairline px-1 text-xs">Backspace</kbd> undoes
+        the last one.
       </p>
 
       <div className="mt-4 rounded-xl border border-hairline p-4">
-        <p className="eyebrow mb-1">{done ? "All lines marked" : `Next — line ${next + 1}`}</p>
+        <p className="eyebrow mb-1">
+          {done ? "All lines marked" : `Listen for the start of line ${next + 1}`}
+        </p>
         <p className="iast-text font-serif text-lg text-ink">
           {done ? "Copy the array below and send it over." : verses[next]?.iast.slice(0, 120)}
         </p>
@@ -107,7 +110,7 @@ export default function TimingCapture({ verses }: { verses: Verse[] }) {
           disabled={done}
           className="rounded-full bg-[var(--accent)] px-7 py-3 text-base font-semibold text-[#08111a] transition disabled:opacity-40"
         >
-          Mark line {Math.min(next + 1, verses.length)}
+          Mark start of line {Math.min(next + 1, verses.length)}
         </button>
         <button
           type="button"

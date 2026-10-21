@@ -1723,13 +1723,15 @@
             "word": "Brahmaiva tena gantavyam",
             "meaning": "consumed by the Brahman, the fire within me"
           }
-        ]
+        ],
+        "start": 19.14
       },
       {
         "devanagari": "",
         "iast": "Brahmaiva Tena Gantavyam Brahmakarma Samadhinā ||",
         "number": "1",
-        "source": "Bhagavad Gītā 4.24"
+        "source": "Bhagavad Gītā 4.24",
+        "start": 28.62
       },
       {
         "devanagari": "",
@@ -1749,13 +1751,15 @@
             "word": "Prāṇinān dehamāśritaḥ",
             "meaning": "present in all the bodies of all beings"
           }
-        ]
+        ],
+        "start": 39
       },
       {
         "devanagari": "",
         "iast": "Prāṇāpāna Samāyuktaḥ Pacāmyannañ Caturvidhaṃ ||",
         "number": "2",
-        "source": "Bhagavad Gītā 15.14"
+        "source": "Bhagavad Gītā 15.14",
+        "start": 56.53
       }
     ],
     "overview": "The fire in the belly consumes, and that is the Brahman. Consuming the Brahman Himself, the energy that is produced is the Brahman, and that energy is used to do the work of the Brahman. The second verse is the Lord's own answer: I am present within you as the fire named Vaiśvānara, present in the bodies of all beings, and I convert what you take — both solid and liquid — into the life force within you.",
