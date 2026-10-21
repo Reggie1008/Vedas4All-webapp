@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { notFound } from "next/navigation";
 import { chants, getChantById } from "@/lib/chants";
 import { getChantTheme } from "@/lib/chantTheme";
@@ -119,6 +120,36 @@ export default async function ChantPage({
                 </VerseAudioProvider>
               )}
               {chant.sarvadharma && <SarvadharmaPanel data={chant.sarvadharma} />}
+
+              {/* Only worth offering where there is enough to make a round of it. */}
+              {(chant.verses.length >= 3 || chant.wordMeanings.length >= 3) && (
+                <Link
+                  href={`/chant/${chant.id}/practice`}
+                  className="group flex items-center gap-3 rounded-2xl border border-hairline px-5 py-4 transition hover:border-[color-mix(in_srgb,var(--accent)_55%,transparent)] hover:bg-surface"
+                >
+                  <span className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-[color-mix(in_srgb,var(--accent)_40%,transparent)] text-accent-ink">
+                    <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                      <path d="M4 7h7M4 12h11M4 17h6" />
+                      <path d="M17.5 14.5 20 17l-2.5 2.5" />
+                    </svg>
+                  </span>
+                  <span className="min-w-0">
+                    <span className="block text-sm font-semibold text-ink">
+                      Practise this chant
+                    </span>
+                    <span className="block text-xs text-ink-3">
+                      Put the lines in order, and match the words to their meanings
+                    </span>
+                  </span>
+                  <svg
+                    width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                    strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden
+                    className="ml-auto shrink-0 text-accent-ink transition-transform duration-300 ease-smooth group-hover:translate-x-1"
+                  >
+                    <path d="M5 12h14M13 6l6 6-6 6" />
+                  </svg>
+                </Link>
+              )}
             </div>
 
             {/* Right: what it means */}
