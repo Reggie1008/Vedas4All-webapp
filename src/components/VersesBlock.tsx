@@ -118,19 +118,19 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
               isSounding ? "Stop this line" : `Play line ${verse.number || i + 1}`
             }
             title={isSounding ? "Stop" : "Play this line"}
-            className={`absolute left-1.5 top-4 z-10 flex h-7 w-7 items-center justify-center rounded-full border transition sm:left-2.5 ${
+            className={`absolute left-1.5 top-3.5 z-10 flex h-8 w-8 items-center justify-center rounded-full border transition sm:left-3 ${
               isSounding
                 ? "border-transparent bg-[var(--accent)] text-[#08111a]"
-                : "border-hairline text-ink-3 opacity-0 hover:border-[color-mix(in_srgb,var(--accent)_55%,transparent)] hover:text-accent-ink focus-visible:opacity-100 group-hover:opacity-100"
+                : "border-[color-mix(in_srgb,var(--accent)_40%,transparent)] text-accent-ink hover:border-[color-mix(in_srgb,var(--accent)_75%,transparent)] hover:bg-[color-mix(in_srgb,var(--accent)_14%,transparent)]"
             }`}
           >
             {isSounding ? (
-              <svg width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+              <svg width="10" height="10" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
                 <rect x="2.5" y="2" width="4" height="12" rx="1" />
                 <rect x="9.5" y="2" width="4" height="12" rx="1" />
               </svg>
             ) : (
-              <svg width="9" height="9" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
+              <svg width="10" height="10" viewBox="0 0 16 16" fill="currentColor" aria-hidden>
                 <path d="M3.5 1.8v12.4L14 8z" />
               </svg>
             )}
@@ -153,7 +153,7 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
                 onClick={() => setOpen(isOpen ? null : i)}
                 aria-expanded={isOpen}
                 className={`relative block w-full py-5 text-left transition-colors hover:bg-surface sm:py-6 ${
-                  canPlay ? "pl-10 pr-5 sm:pl-12 sm:pr-7" : "px-5 sm:px-7"
+                  canPlay ? "pl-12 pr-5 sm:pl-14 sm:pr-7" : "px-5 sm:px-7"
                 }`}
               >
                 {body}
@@ -161,7 +161,7 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
             ) : (
               <div
                 className={`relative py-5 transition-colors hover:bg-surface sm:py-6 ${
-                  canPlay ? "pl-10 pr-5 sm:pl-12 sm:pr-7" : "px-5 sm:px-7"
+                  canPlay ? "pl-12 pr-5 sm:pl-14 sm:pr-7" : "px-5 sm:px-7"
                 }`}
               >
                 {body}
