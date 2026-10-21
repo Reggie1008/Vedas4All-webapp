@@ -1420,78 +1420,95 @@
       {
         "devanagari": "अत्रि॑णा त्वा क्रिमे हन्मि ।",
         "iast": "atri̍ṇā tvā kṛme hanmi ।",
-        "meaning": "O germ, O worm! I invoke the power of this mantra, revealed by the great Rishis Atri, Kanva and Jamadagni, to bring about your destruction."
+        "meaning": "O germ, O worm! I invoke the power of this mantra, revealed by the great Rishis Atri, Kanva and Jamadagni, to bring about your destruction.",
+        "start": 100
       },
       {
         "devanagari": "कण्वे॑न ज॒मद॑ग्निना ।",
-        "iast": "kaṇve̍na ja̱mada̍gninā ।"
+        "iast": "kaṇve̍na ja̱mada̍gninā ।",
+        "start": 112
       },
       {
         "devanagari": "वि॒श्वाव॑सो॒र्ब्रह्म॑णा ह॒तः ।",
         "iast": "vi̱śvāva̍so̱rbrahma̍ṇā ha̱taḥ ।",
-        "meaning": "Through this sacred chant, Viśvāvasu strikes down the Gandharva who rules over your kind."
+        "meaning": "Through this sacred chant, Viśvāvasu strikes down the Gandharva who rules over your kind.",
+        "start": 118
       },
       {
         "devanagari": "क्रिमी॑णा॒ग्ं॒ राजा᳚ ।",
         "iast": "kṛmī̍ṇā̱gṁ rājā̎ ।",
-        "meaning": "The remaining chieftains of the germ clan shall likewise perish, and their mother and father be annihilated."
+        "meaning": "The remaining chieftains of the germ clan shall likewise perish, and their mother and father be annihilated.",
+        "start": 125
       },
       {
         "devanagari": "अप्ये॑षाग् स्थ॒पति॑र् ह॒तः ।",
-        "iast": "apye̍ṣāg stha̱pati̍rha̱taḥ ।"
+        "iast": "apye̍ṣāg stha̱pati̍rha̱taḥ ।",
+        "start": 131
       },
       {
         "devanagari": "अथो॑ मा॒ता-ऽथो॑ पि॒ता ।",
-        "iast": "atho̍ mā̱tā'tho̍ pi̱tā ।"
+        "iast": "atho̍ mā̱tā'tho̍ pi̱tā ।",
+        "start": 137
       },
       {
         "devanagari": "अथो᳚ स्थू॒रा अथो᳚ क्षु॒द्राः ।",
         "iast": "atho̎ sthū̱rā | atho̎ kṣu̱drāḥ ।",
-        "meaning": "Germs of every sort — great or small, black or white — are slain without exception."
+        "meaning": "Germs of every sort — great or small, black or white — are slain without exception.",
+        "start": 143
       },
       {
         "devanagari": "अथो॑ कृ॒ष्णा अथो᳚ श्वे॒ताः ।",
-        "iast": "atho̍ kṛ̱ṣṇā | atho̎ śve̱tāḥ ।"
+        "iast": "atho̍ kṛ̱ṣṇā | atho̎ śve̱tāḥ ।",
+        "start": 154
       },
       {
         "devanagari": "अथो॑ आ॒शाति॑का ह॒ताः ।",
-        "iast": "atho̍ | ā̱śāti̍kā ha̱tāḥ ।"
+        "iast": "atho̍ | ā̱śāti̍kā ha̱tāḥ ।",
+        "start": 163
       },
       {
         "devanagari": "श्वे॒ताभि॑स्स॒ह सर्वे॑ ह॒ताः ॥ 36",
         "iast": "śve̱tābhi̍s sa̱ha sarve̍ ha̱tāḥ ॥ 36",
-        "meaning": "Those inhabiting livestock, such as cows and horses, are not spared."
+        "meaning": "Those inhabiting livestock, such as cows and horses, are not spared.",
+        "start": 168
       },
       {
         "devanagari": "आह॒राव॑द्य ।",
         "iast": "āha̱rāva̍dya ।",
-        "meaning": "As in the sacrificial fire, when the log is split and the oblation is offered with the sacred chant, so too, O enemy, present your offering and meet your end."
+        "meaning": "As in the sacrificial fire, when the log is split and the oblation is offered with the sacred chant, so too, O enemy, present your offering and meet your end.",
+        "start": 176
       },
       {
         "devanagari": "शृ॒तस्य॑ ह॒विषो॒ यथा᳚ ।",
-        "iast": "śṛ̱tasya̍ ha̱viṣo̱ yathā̎ ।"
+        "iast": "śṛ̱tasya̍ ha̱viṣo̱ yathā̎ ।",
+        "start": 181
       },
       {
         "devanagari": "तत्स॒त्यम् ।",
-        "iast": "tatsa̱tyam ।"
+        "iast": "tatsa̱tyam ।",
+        "start": 186
       },
       {
         "devanagari": "यद॒मुं-यँ॒मस्य॒ जम्भ॑योः ।",
         "iast": "yada̱muṃ-ya̱masya̱ jambha̍yoḥ ।",
-        "meaning": "And in like manner, this mantra binds all these germ-enemies within the crushing jaws of Yama, the Lord of death, their destruction resounding in the crack and hiss of his divine mouth."
+        "meaning": "And in like manner, this mantra binds all these germ-enemies within the crushing jaws of Yama, the Lord of death, their destruction resounding in the crack and hiss of his divine mouth.",
+        "start": 189
       },
       {
         "devanagari": "आद॑धामि॒ तथा॒ हि तत् ।",
-        "iast": "āda̍dhāmi̱ tathā̱ hi tat ।"
+        "iast": "āda̍dhāmi̱ tathā̱ hi tat ।",
+        "start": 196
       },
       {
         "devanagari": "खण्फण्म्रसि॑ ॥ 37",
-        "iast": "khaṇphaṇmrasi̍ ॥ 37"
+        "iast": "khaṇphaṇmrasi̍ ॥ 37",
+        "start": 201
       },
       {
         "devanagari": "ॐ शान्ति-श्शान्ति-श्शान्तिः ।",
         "iast": "oṃ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
-        "meaning": "All mantras end with an invocation of peace, made for the purpose of averting all evil. It allows one to be at peace with oneself and the universe, to have calmness and concentration. The three repetitions address the three sources of disturbance: ādhyātmika (from within oneself — mind, body, emotions), ādhibhautika (from other living beings) and ādhidaivika (from natural and cosmic forces)."
+        "meaning": "All mantras end with an invocation of peace, made for the purpose of averting all evil. It allows one to be at peace with oneself and the universe, to have calmness and concentration. The three repetitions address the three sources of disturbance: ādhyātmika (from within oneself — mind, body, emotions), ādhibhautika (from other living beings) and ādhidaivika (from natural and cosmic forces).",
+        "start": 204
       }
     ],
     "overview": "The word kṛmi works on two levels at once, and this dual meaning is the heart of the hymn's relevance. Literally, it was chanted with precise intention toward the elimination of pests, parasites and disease-causing organisms that threatened crops, livestock and human health. Read inwardly, kṛmi represents anything that eats away at our wellbeing from within — the repetitive thought patterns that erode our peace, the jealousy, anger, fear and greed that infect relationships, the toxic habits that quietly consume our health and time, and the disharmony that spreads through a community like a contagion.",
@@ -1546,7 +1563,11 @@
     "audio": {
       "normal": "/audio/krimi-nashaka.mp3",
       "slow": "",
-      "source": "Vedas4All"
+      "source": "Vedas4All",
+      "walkthrough": {
+        "start": 10,
+        "end": 96
+      }
     },
     "youtubeId": "2ocyFfhC8vY",
     "booklet": "Krishna Yajur Veda, Taittirīya Āraṇyaka 4.36.1)"
