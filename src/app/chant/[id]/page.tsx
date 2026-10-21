@@ -12,6 +12,7 @@ import SarvadharmaPanel from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
 import TraditionSymbol from "@/components/TraditionSymbol";
 import VersesBlock from "@/components/VersesBlock";
+import WalkthroughButton from "@/components/WalkthroughButton";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 import { rich, prose } from "@/lib/richText";
 
@@ -93,6 +94,12 @@ export default async function ChantPage({
                 <RudramSections sections={chant.sections} thumbnail={thumbnail} />
               ) : (
                 <VerseAudioProvider>
+                  {chant.audio.walkthrough && (
+                    <WalkthroughButton
+                      start={chant.audio.walkthrough.start}
+                      end={chant.audio.walkthrough.end}
+                    />
+                  )}
                   <VersesBlock verses={chant.verses} />
                   <AudioPlayer
                     normalSrc={chant.audio.normal}

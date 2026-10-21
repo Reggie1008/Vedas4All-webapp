@@ -113,7 +113,15 @@ export interface Chant {
   sarvadharma?: Sarvadharma;
   /** Present only for chants recited in sections of anuvākas (Śrī Rudram). */
   sections?: ChantSection[];
-  audio: { normal: string; slow?: string; /** Attribution for the recording, e.g. who chanted it. */ source?: string };
+  audio: {
+    normal: string;
+    slow?: string;
+    /** Attribution for the recording, e.g. who chanted it. */
+    source?: string;
+    /** Some recordings open with the words spoken one by one before the
+     *  chant proper. Given here so it can be played on its own. */
+    walkthrough?: { start: number; end: number };
+  };
   /** Single tutorial video. Use `videos` instead when a chant is taught in parts. */
   youtubeId?: string;
   videos?: ChantVideo[];

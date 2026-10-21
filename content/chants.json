@@ -229,23 +229,28 @@
     "verses": [
       {
         "devanagari": "स्वस्तिः॑ प्र॒जाभ्यः॑ परिपालयन्तां॒",
-        "iast": "svasti̍ḥ pra̱jābhya̍ḥ paripālayantā̱ṃ"
+        "iast": "svasti̍ḥ pra̱jābhya̍ḥ paripālayantā̱ṃ",
+        "start": 34
       },
       {
         "devanagari": "न्याय्येन मार्गेण महीं महीशाः॒ ।",
-        "iast": "nyāyyena mārgeṇa mahīṃ mahīśā̱ḥ |"
+        "iast": "nyāyyena mārgeṇa mahīṃ mahīśā̱ḥ |",
+        "start": 43
       },
       {
         "devanagari": "गो ब्राह्मणेभ्यः॑ शुभमस्तु नित्यं॒",
-        "iast": "go brāhmaṇebhya̍ḥ śubhamastu nitya̱ṃ"
+        "iast": "go brāhmaṇebhya̍ḥ śubhamastu nitya̱ṃ",
+        "start": 50
       },
       {
         "devanagari": "स॒मस्त लो॒काः सुखि॒नो भवन्तु॒ ॥",
-        "iast": "sa̱masta lo̱kāḥ | sukhi̱no bhavantu̱ ||"
+        "iast": "sa̱masta lo̱kāḥ | sukhi̱no bhavantu̱ ||",
+        "start": 57
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
-        "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||"
+        "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||",
+        "start": 81
       }
     ],
     "overview": "May the people be governed and nourished well by those who rule. May there be happiness and peace among them. May those who govern the land tread the path of justice. May knowledge, and those who carry knowledge, ever be well. May all the worlds be happy.",
@@ -323,7 +328,11 @@
     "audio": {
       "slow": "",
       "normal": "/audio/shanti-mantra.mp3",
-      "source": "Vedas4All"
+      "source": "Vedas4All",
+      "walkthrough": {
+        "start": 0,
+        "end": 33
+      }
     },
     "youtubeId": "ZrUL84CAF7E",
     "booklet": "Sai Atirudram"
