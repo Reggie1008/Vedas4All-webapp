@@ -1,60 +1,102 @@
-const SHELL_CACHE = "v4a-shell-v1";
-const AUDIO_CACHE = "v4a-audio-v1";
+// Bump when the caching rules change, so old caches are cleared on activate.
+const VERSION = "v2";
+const PAGE_CACHE = `v4a-pages-${VERSION}`;
+const ASSET_CACHE = `v4a-assets-${VERSION}`;
+const AUDIO_CACHE = "v4a-audio-v1"; // audio is immutable; keep it across versions
 
-self.addEventListener("install", (event) => {
+const KEEP = [PAGE_CACHE, ASSET_CACHE, AUDIO_CACHE];
+
+self.addEventListener("install", () => {
   self.skipWaiting();
 });
 
 self.addEventListener("activate", (event) => {
   event.waitUntil(
-    caches.keys().then((keys) =>
-      Promise.all(
-        keys
-          .filter((key) => key !== SHELL_CACHE && key !== AUDIO_CACHE)
-          .map((key) => caches.delete(key))
+    caches
+      .keys()
+      .then((keys) =>
+        Promise.all(keys.filter((k) => !KEEP.includes(k)).map((k) => caches.delete(k)))
       )
-    )
+      .then(() => self.clients.claim())
   );
-  self.clients.claim();
 });
 
-// Audio is only ever cached when the browser actually requests it (i.e. the
-// student pressed play) — never pre-fetched. Cache-first once it's played.
-function isAudioRequest(url) {
-  return url.pathname.startsWith("/audio/") && url.pathname.endsWith(".mp3");
-}
+const isAudio = (url) => url.pathname.startsWith("/audio/") && url.pathname.endsWith(".mp3");
+
+// Next puts a content hash in these filenames, so a given URL never changes
+// meaning. Safe to serve from cache forever.
+const isHashedAsset = (url) => url.pathname.startsWith("/_next/static/");
+
+const isPage = (request) =>
+  request.mode === "navigate" ||
+  (request.headers.get("accept") || "").includes("text/html");
 
 self.addEventListener("fetch", (event) => {
-  const url = new URL(event.request.url);
-  if (event.request.method !== "GET" || url.origin !== self.location.origin) {
-    return;
-  }
+  const { request } = event;
+  const url = new URL(request.url);
+  if (request.method !== "GET" || url.origin !== self.location.origin) return;
 
-  if (isAudioRequest(url)) {
+  if (isAudio(url)) {
+    // Only ever cached once the student has actually played it.
     event.respondWith(
       caches.open(AUDIO_CACHE).then(async (cache) => {
-        const cached = await cache.match(event.request);
-        if (cached) return cached;
-        const response = await fetch(event.request);
-        if (response.ok) cache.put(event.request, response.clone());
-        return response;
+        const hit = await cache.match(request);
+        if (hit) return hit;
+        const res = await fetch(request);
+        if (res.ok) cache.put(request, res.clone());
+        return res;
       })
     );
     return;
   }
 
-  // App shell: cache-first so an opened chant stays readable offline,
-  // falling back to network and refreshing the cache as pages are visited.
+  if (isHashedAsset(url)) {
+    event.respondWith(
+      caches.open(ASSET_CACHE).then(async (cache) => {
+        const hit = await cache.match(request);
+        if (hit) return hit;
+        const res = await fetch(request);
+        if (res.ok) cache.put(request, res.clone());
+        return res;
+      })
+    );
+    return;
+  }
+
+  if (isPage(request)) {
+    // Network first. A page cached from an earlier deploy still names that
+    // deploy's script bundles, and those are gone — serving it would leave a
+    // page whose JavaScript 404s, so the cache is only a fallback for being
+    // genuinely offline.
+    event.respondWith(
+      (async () => {
+        const cache = await caches.open(PAGE_CACHE);
+        try {
+          const res = await fetch(request);
+          if (res.ok) cache.put(request, res.clone());
+          return res;
+        } catch {
+          const hit = await cache.match(request);
+          if (hit) return hit;
+          throw new Error("offline and not cached");
+        }
+      })()
+    );
+    return;
+  }
+
+  // Everything else — artwork, fonts, the manifest. Serve what we have and
+  // refresh behind it, so a replaced image corrects itself next visit.
   event.respondWith(
-    caches.open(SHELL_CACHE).then(async (cache) => {
-      const cached = await cache.match(event.request);
-      const networkFetch = fetch(event.request)
-        .then((response) => {
-          if (response.ok) cache.put(event.request, response.clone());
-          return response;
+    caches.open(ASSET_CACHE).then(async (cache) => {
+      const hit = await cache.match(request);
+      const network = fetch(request)
+        .then((res) => {
+          if (res.ok) cache.put(request, res.clone());
+          return res;
         })
-        .catch(() => cached);
-      return cached || networkFetch;
+        .catch(() => hit);
+      return hit || network;
     })
   );
 });
