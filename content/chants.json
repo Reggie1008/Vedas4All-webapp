@@ -104,26 +104,31 @@
       {
         "devanagari": "ॐ भू॒र्भुव॒स्सुवः॑ ।",
         "iast": "oṁ bhūr bhuva̱s suva̍ḥ |",
-        "start": 0,
-        "end": 8
+        "start": 1.9,
+        "end": 8.54
       },
       {
-        "devanagari": "तत्स॑वि॒तुर्वरे॓ण्यं॒ भर्गो॑ दे॒वस्य॑ धीमहि ।",
-        "iast": "tat-sa̍vi̱turvare̎ṇya̱m bhargo̍ de̱vasya̍ dhīmahi |",
-        "start": 9,
-        "end": 13.5
+        "devanagari": "",
+        "iast": "tat-sa̍vi̱turvare̎ṇya̱m",
+        "start": 9.36,
+        "end": 12.4
+      },
+      {
+        "devanagari": "",
+        "iast": "bhargo̍ de̱vasya̍ dhīmahi |",
+        "start": 12.4,
+        "end": 14.98
       },
       {
         "devanagari": "धियो॒ यो नः॑ प्रचो॒दया॓त् ॥",
         "iast": "dhiyo̱ yo na̍ḥ(f) praco̱dayā̎t ||",
-        "start": 14,
-        "end": 19
+        "start": 15.16,
+        "end": 19.44
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
         "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||",
-        "source": "Ṛg Veda 3.62.10",
-        "start": 19
+        "source": "Ṛg Veda 3.62.10"
       }
     ],
     "overview": "We meditate on THAT divine, life-sustaining, resplendent effulgence, pervading the gross, the subtle and the causal. May THAT supreme intelligence illuminate our intellects.",
