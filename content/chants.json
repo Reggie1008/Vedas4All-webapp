@@ -1587,59 +1587,131 @@
         "devanagari": "",
         "iast": "oṃ | sa̱ha nā̍vavatu ।",
         "start": 28,
-        "end": 39
+        "end": 39,
+        "words": [
+          {
+            "word": "sa",
+            "meaning": "Almighty God"
+          },
+          {
+            "word": "avatu",
+            "meaning": "protect"
+          },
+          {
+            "word": "nau",
+            "meaning": "both of us — two; teacher and the taught"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "sa̱ha nau̍ bhunaktu ।",
         "start": 39,
-        "end": 43
+        "end": 43,
+        "words": [
+          {
+            "word": "bhunaktu",
+            "meaning": "nourish"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "sa̱ha vī̱rya̍ṅkaravāvahai ।",
         "start": 44,
-        "end": 48
+        "end": 48,
+        "words": [
+          {
+            "word": "saha",
+            "meaning": "together"
+          },
+          {
+            "word": "kara-vaavahai",
+            "meaning": "acquire"
+          },
+          {
+            "word": "viiryaM",
+            "meaning": "the power — heroism, prowess or lustre"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "te̱ja̱svinā̱vadhī̍tamastu̱ mā vi̍dviṣā̱vahai̎ ॥",
-        "start": 49
+        "start": 49,
+        "words": [
+          {
+            "word": "adhiitam",
+            "meaning": "what we have studied"
+          },
+          {
+            "word": "astu",
+            "meaning": "become"
+          },
+          {
+            "word": "tejasvi",
+            "meaning": "illumined"
+          },
+          {
+            "word": "maa",
+            "meaning": "no, without"
+          },
+          {
+            "word": "vidvi-shhaavahai",
+            "meaning": "conflicts"
+          }
+        ]
       }
     ],
-    "overview": "Let us all be together. Let us all be nourished together. Let us all work together in great vigour. Let our studies illumine and shine our intellects. May we not hate each other. Let there be peace, peace and peace.",
+    "overview": "May He (sa - Almighty God) protect (avatu) both of us (nau - two; teacher and the taught).\n\nMay He nourish (bhunaktu) us both (nau).\n\nMay we together (saha) acquire (kara-vaavahai) the power (viiryaM - heroism, prowess or lustre) of right understanding.\n\nMay what we have studied (adhiitam) become (astu) illumined (tejasvi) in our minds and hearts.\n\nMay love and harmony be with us, without (maa - no) any room for conflicts (vidvi-shhaavahai).\n\nPeace, Peace, Peace — Peace to the body, mind and soul.",
     "wordMeanings": [
       {
-        "word": "Saha",
+        "word": "sa",
+        "meaning": "Almighty God"
+      },
+      {
+        "word": "avatu",
+        "meaning": "protect"
+      },
+      {
+        "word": "nau",
+        "meaning": "both of us — two; teacher and the taught"
+      },
+      {
+        "word": "bhunaktu",
+        "meaning": "nourish"
+      },
+      {
+        "word": "saha",
         "meaning": "together"
       },
       {
-        "word": "Nau",
-        "meaning": "us two — teacher and student"
+        "word": "kara-vaavahai",
+        "meaning": "acquire"
       },
       {
-        "word": "Avatu",
-        "meaning": "may it protect"
+        "word": "viiryaM",
+        "meaning": "the power — heroism, prowess or lustre"
       },
       {
-        "word": "Bhunaktu",
-        "meaning": "may it nourish"
+        "word": "adhiitam",
+        "meaning": "what we have studied"
       },
       {
-        "word": "Vīryaṃ karavāvahai",
-        "meaning": "may we work together with vigour"
+        "word": "astu",
+        "meaning": "become"
       },
       {
-        "word": "Tejasvi",
-        "meaning": "illumined, radiant"
+        "word": "tejasvi",
+        "meaning": "illumined"
       },
       {
-        "word": "Adhītam",
-        "meaning": "what has been studied"
+        "word": "maa",
+        "meaning": "no, without"
       },
       {
-        "word": "Mā vidviṣāvahai",
-        "meaning": "may we not hate one another"
+        "word": "vidvi-shhaavahai",
+        "meaning": "conflicts"
       }
     ],
     "universalReflection": "It is a prayer said by teacher and student together, and it asks for the same thing on both their behalf — protection, nourishment, clear thinking, and no ill will between them. Nothing in it is asked for one and not the other.",
