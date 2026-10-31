@@ -24,8 +24,10 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
 
   // A line can be played on its own once its place in the recording is known.
   const timed = Boolean(audio?.hasAudio) && verses.some((v) => v.start !== undefined);
-  // A line runs until the next timed line begins.
+  // A line stops where it says it does, or failing that where the next
+  // one begins — the reciter does not always run them together.
   const endOf = (i: number) => {
+    if (verses[i].end !== undefined) return verses[i].end;
     for (let j = i + 1; j < verses.length; j++) {
       if (verses[j].start !== undefined) return verses[j].start;
     }

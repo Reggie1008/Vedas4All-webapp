@@ -1585,19 +1585,26 @@
     "verses": [
       {
         "devanagari": "",
-        "iast": "oṃ | sa̱ha nā̍vavatu ।"
+        "iast": "oṃ | sa̱ha nā̍vavatu ।",
+        "start": 28,
+        "end": 39
       },
       {
         "devanagari": "",
-        "iast": "sa̱ha nau̍ bhunaktu ।"
+        "iast": "sa̱ha nau̍ bhunaktu ।",
+        "start": 39,
+        "end": 43
       },
       {
         "devanagari": "",
-        "iast": "sa̱ha vī̱rya̍ṅkaravāvahai ।"
+        "iast": "sa̱ha vī̱rya̍ṅkaravāvahai ।",
+        "start": 44,
+        "end": 48
       },
       {
         "devanagari": "",
-        "iast": "te̱ja̱svinā̱vadhī̍tamastu̱ mā vi̍dviṣā̱vahai̎ ॥"
+        "iast": "te̱ja̱svinā̱vadhī̍tamastu̱ mā vi̍dviṣā̱vahai̎ ॥",
+        "start": 49
       }
     ],
     "overview": "Let us all be together. Let us all be nourished together. Let us all work together in great vigour. Let our studies illumine and shine our intellects. May we not hate each other. Let there be peace, peace and peace.",
@@ -1637,9 +1644,13 @@
     ],
     "universalReflection": "It is a prayer said by teacher and student together, and it asks for the same thing on both their behalf — protection, nourishment, clear thinking, and no ill will between them. Nothing in it is asked for one and not the other.",
     "audio": {
-      "normal": "",
+      "normal": "/audio/saha-na-vavatu.mp3",
       "slow": "",
-      "source": "Vedas4All"
+      "source": "Vedas4All",
+      "walkthrough": {
+        "start": 0,
+        "end": 25
+      }
     },
     "youtubeId": "",
     "booklet": "Vedas4All — Saha Naa Vavatu"
