@@ -1740,78 +1740,103 @@
         "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ महादे॒वाय॑ धीमहि । तन्नो॑ रुद्रः प्रचो॒दया᳚त् ॥",
         "iast": "tatpuru̍ṣāya vi̱dmahe̍ mahāde̱vāya̍ dhīmahi । tanno̍ rudraḥ(f) praco̱dayā̎t ॥ 2 ॥",
         "number": "2",
-        "meaning": "We know that Puruṣa; we meditate on Mahādeva. May Rudra impel us."
+        "meaning": "We know that Puruṣa; we meditate on Mahādeva. May Rudra impel us.",
+        "start": 206.62,
+        "end": 220.2
       },
       {
         "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ वक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ दन्तिः प्रचो॒दया᳚त् ॥",
         "iast": "tatpuru̍ṣāya vi̱dmahe̍ vakratu̱ṇḍāya̍ dhīmahi । tanno̍ dantiḥ(f) praco̱dayā̎t ॥ 3 ॥",
         "number": "3",
-        "meaning": "We know that Puruṣa; we meditate on Vakratuṇḍa, the curved-trunked one. May Danti, the tusked one, impel us."
+        "meaning": "We know that Puruṣa; we meditate on Vakratuṇḍa, the curved-trunked one. May Danti, the tusked one, impel us.",
+        "start": 220.2,
+        "end": 233.2
       },
       {
         "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ चक्रतु॒ण्डाय॑ धीमहि । तन्नो॑ नन्दिः प्रचो॒दया᳚त् ॥",
         "iast": "tatpuru̍ṣāya vi̱dmahe̍ cakratu̱ṇḍāya̍ dhīmahi । tanno̍ nandiḥ(f) praco̱dayā̎t ॥ 4 ॥",
         "number": "4",
-        "meaning": "We know that Puruṣa; we meditate on Cakratuṇḍa. May Nandi impel us."
+        "meaning": "We know that Puruṣa; we meditate on Cakratuṇḍa. May Nandi impel us.",
+        "start": 233.2,
+        "end": 246.06
       },
       {
         "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ महासे॒नाय॑ धीमहि । तन्न-ष्षण्मुखः प्रचो॒दया᳚त् ॥",
         "iast": "tatpuru̍ṣāya vi̱dmahe̍ mahāse̱nāya̍ dhīmahi । tannaṣ ṣaṇmukhaḥ(f) praco̱dayā̎t ॥ 5 ॥",
         "number": "5",
-        "meaning": "We know that Puruṣa; we meditate on Mahāsena, the great commander. May Ṣaṇmukha, the six-faced one, impel us."
+        "meaning": "We know that Puruṣa; we meditate on Mahāsena, the great commander. May Ṣaṇmukha, the six-faced one, impel us.",
+        "start": 246.06,
+        "end": 259.58
       },
       {
         "devanagari": "ओ-न्तत्पुरु॑षाय वि॒द्महे॑ सुवर्णप॒क्षाय॑ धीमहि । तन्नो॑ गरुडः प्रचो॒दया᳚त् ॥",
         "iast": "tatpuru̍ṣāya vi̱dmahe̍ suvarṇapa̱kṣāya̍ dhīmahi । tanno̍ garuḍaḥ(f) praco̱dayā̎t ॥ 6 ॥",
         "number": "6",
-        "meaning": "We know that Puruṣa; we meditate on the golden-winged one. May Garuḍa impel us."
+        "meaning": "We know that Puruṣa; we meditate on the golden-winged one. May Garuḍa impel us.",
+        "start": 259.58,
+        "end": 272.82
       },
       {
         "devanagari": "ॐ-वेँ॒दा॒त्म॒नाय॑ वि॒द्महे॑ हिरण्यग॒र्भाय॑ धीमहि । तन्नो॑ ब्रह्मः प्रचो॒दया᳚त् ॥",
         "iast": "ve̱dā̱tma̱nāya̍ vi̱dmahe̍ hiraṇyaga̱rbhāya̍ dhīmahi । tanno̎ brahma praco̱dayā̎t ॥ 7 ॥",
         "number": "7",
-        "meaning": "We know the Self of the Vedas; we meditate on Hiraṇyagarbha, the golden womb. May Brahmā impel us."
+        "meaning": "We know the Self of the Vedas; we meditate on Hiraṇyagarbha, the golden womb. May Brahmā impel us.",
+        "start": 272.82,
+        "end": 287.08
       },
       {
         "devanagari": "ओ-न्ना॒रा॒य॒णाय॑ वि॒द्महे॑ वासुदे॒वाय॑ धीमहि । तन्नो॑ विष्णुः प्रचो॒दया᳚त् ॥",
         "iast": "nā̱rā̱ya̱ṇāya̍ vi̱dmahe̍ vā̱su̱de̱vāya̍ dhīmahi । tanno̍ viṣṇuḥ(f) praco̱dayā̎t ॥ 8 ॥",
         "number": "8",
-        "meaning": "We know Nārāyaṇa; we meditate on Vāsudeva. May Viṣṇu impel us."
+        "meaning": "We know Nārāyaṇa; we meditate on Vāsudeva. May Viṣṇu impel us.",
+        "start": 287.08,
+        "end": 299.46
       },
       {
         "devanagari": "ॐ-वँ॒ज्र॒न॒खाय वि॒द्महे॑ तीक्ष्णद॒ग्ग्-ष्ट्राय॑ धीमहि । तन्नो॑ नारसिग्ंहः प्रचो॒दया᳚त् ॥",
         "iast": "va̱jra̱na̱khāya̍ vi̱dmahe̍ tīkṣṇada̱gṁṣṭrāya̍ dhīmahi । tanno̍ nārasigṁhaḥ(f) praco̱dayā̎t ॥ 9 ॥",
         "number": "9",
-        "meaning": "We know the one with adamantine claws; we meditate on the sharp-fanged one. May Narasiṁha impel us."
+        "meaning": "We know the one with adamantine claws; we meditate on the sharp-fanged one. May Narasiṁha impel us.",
+        "start": 299.46,
+        "end": 312.94
       },
       {
         "devanagari": "ओ-म्भा॒स्क॒राय॑ वि॒द्महे॑ महद्द्युतिक॒राय॑ धीमहि । तन्नो॑ आदित्यः प्रचो॒दया᳚त् ॥",
         "iast": "bhā̱ska̱rāya̍ vi̱dmahe̍ mahadyutika̱rāya̍ dhīmahi । tanno̍ | ādityaḥ(f) praco̱dayā̎t ॥ 10 ॥",
         "number": "10",
-        "meaning": "We know the light-maker; we meditate on the one of great radiance. May Āditya, the sun, impel us."
+        "meaning": "We know the light-maker; we meditate on the one of great radiance. May Āditya, the sun, impel us.",
+        "start": 312.94,
+        "end": 325.84
       },
       {
         "devanagari": "ॐ-वैँ॒श्वा॒न॒राय॑ वि॒द्महे॑ लाली॒लाय धीमहि । तन्नो॑ अग्निः प्रचो॒दया᳚त् ॥",
         "iast": "vai̱śvā̱na̱rāya̍ vi̱dmahe̍ lālī̱lāya dhīmahi । tanno̍ | agniḥ(f) praco̱dayā̎t ॥ 11 ॥",
         "number": "11",
-        "meaning": "We know Vaiśvānara, the fire in all beings; we meditate on Lālīla. May Agni impel us."
+        "meaning": "We know Vaiśvānara, the fire in all beings; we meditate on Lālīla. May Agni impel us.",
+        "start": 325.84,
+        "end": 338.34
       },
       {
         "devanagari": "ओ-ङ्का॒त्या॒य॒नाय॑ वि॒द्महे॑ कन्यकु॒मारि॑ धीमहि । तन्नो॑ दुर्गिः प्रचो॒दया᳚त् ॥",
         "iast": "kā̱tyā̱ya̱nāya̍ vi̱dmahe̍ kanyaku̱māri̍ dhīmahi । tanno̍ durgiḥ(f) praco̱dayā̎t ॥ 12 ॥",
         "number": "12",
-        "meaning": "We know Kātyāyanī; we meditate on Kanyākumārī. May Durgā impel us."
+        "meaning": "We know Kātyāyanī; we meditate on Kanyākumārī. May Durgā impel us.",
+        "start": 338.34,
+        "end": 351.56
       },
       {
         "devanagari": "",
         "iast": "oṁ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ satyade̱vāya̍ dhīmahi । tanna̍s sarvaḥ(f) praco̱dayā̎t ॥ 18 ॥",
         "number": "18",
-        "meaning": "We know Sāyīśvara; we meditate on Satyadeva, the God of Truth. May that All impel us."
+        "meaning": "We know Sāyīśvara; we meditate on Satyadeva, the God of Truth. May that All impel us.",
+        "start": 351.56,
+        "end": 363.02
       },
       {
         "devanagari": "",
         "iast": "॥ oṁ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
-        "meaning": "Om. Peace, peace, peace."
+        "meaning": "Om. Peace, peace, peace.",
+        "start": 363.02
       }
     ],
     "overview": "Every verse follows the same three-part Gāyatrī pattern: we know (vidmahe) one name of the Divine, we meditate (dhīmahi) on another, and we ask that a third impel or illumine us (pracodayāt). Only the names change — Rudra, Danti, Nandi, Ṣaṇmukha, Garuḍa, Brahmā, Viṣṇu, Narasiṁha, Āditya, Agni, Durgā, and finally Sāyīśvara as Satyadeva, the God of Truth.",
