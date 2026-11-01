@@ -1842,9 +1842,13 @@
     ],
     "universalReflection": "Thirteen names, one prayer. Each verse asks for exactly the same thing — that the mind be awakened — and only the name it is addressed to changes. The form of address turns out to matter less than what is being asked for.",
     "audio": {
-      "normal": "",
+      "normal": "/audio/sarvadevata-gayatri.mp3",
       "slow": "",
-      "source": "Vedas4All"
+      "source": "Vedas4All",
+      "walkthrough": {
+        "start": 0,
+        "end": 172
+      }
     },
     "youtubeId": "",
     "booklet": "Sarvadevatā Gāyatrī Mantraḥ (SB IAST)"
