@@ -944,19 +944,26 @@
     "verses": [
       {
         "devanagari": "ॐ सायीश्वराय विद्महे ।",
-        "iast": "oṃ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ "
+        "iast": "oṃ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ ",
+        "start": 0.0,
+        "end": 4.24
       },
       {
         "devanagari": "सत्यदेवाय धीमहि ।",
-        "iast": "sa̱tyade̱vāya̍ dhīmahi ।"
+        "iast": "sa̱tyade̱vāya̍ dhīmahi ।",
+        "start": 4.24,
+        "end": 11.44
       },
       {
         "devanagari": "तन्नः सर्वः प्रचोदयात् ॥ (३)",
-        "iast": "ta̱nna̍s sarva̍ḥ praco̱dayā̎t ॥"
+        "iast": "ta̱nna̍s sarva̍ḥ praco̱dayā̎t ॥",
+        "start": 11.44,
+        "end": 17.42
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
-        "iast": "|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||"
+        "iast": "|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||",
+        "start": 18.42
       }
     ],
     "overview": "We meditate on Sai as the Divine Truth. May that awaken and illumine all our faculties.",
@@ -989,7 +996,7 @@
     "universalReflection": "Like the Gayatri Mantra it is patterned on, this prayer asks for nothing but clarity — addressed here to Truth itself as the divine.",
     "audio": {
       "slow": "",
-      "normal": "",
+      "normal": "/audio/sai-gayatri.mp3",
       "source": "Vedas4All"
     },
     "youtubeId": "",
@@ -1830,13 +1837,13 @@
         "number": "18",
         "meaning": "We know Sāyīśvara; we meditate on Satyadeva, the God of Truth. May that All impel us.",
         "start": 351.56,
-        "end": 363.02
+        "end": 369
       },
       {
         "devanagari": "",
         "iast": "॥ oṁ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
         "meaning": "Om. Peace, peace, peace.",
-        "start": 363.02
+        "start": 370
       }
     ],
     "overview": "Every verse follows the same three-part Gāyatrī pattern: we know (vidmahe) one name of the Divine, we meditate (dhīmahi) on another, and we ask that a third impel or illumine us (pracodayāt). Only the names change — Rudra, Danti, Nandi, Ṣaṇmukha, Garuḍa, Brahmā, Viṣṇu, Narasiṁha, Āditya, Agni, Durgā, and finally Sāyīśvara as Satyadeva, the God of Truth.",
