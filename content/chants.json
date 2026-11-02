@@ -105,25 +105,81 @@
         "devanagari": "ॐ भू॒र्भुव॒स्सुवः॑ ।",
         "iast": "oṁ bhūr bhuva̱s suva̍ḥ |",
         "start": 1.9,
-        "end": 8.54
+        "end": 8.54,
+        "words": [
+          {
+            "word": "bhūr",
+            "meaning": "gross · earth · now · the waking state"
+          },
+          {
+            "word": "bhuva̱s",
+            "meaning": "subtle · atmosphere · past · the dream state"
+          },
+          {
+            "word": "suva̍ḥ",
+            "meaning": "causal · sky · future · deep sleep"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "tat-sa̍vi̱turvare̎ṇya̱m",
         "start": 9,
-        "end": 14.312
+        "end": 14.312,
+        "words": [
+          {
+            "word": "tat-sa̍vi̱tur",
+            "meaning": "that, life-sustaining"
+          },
+          {
+            "word": "vare̎ṇya̱m",
+            "meaning": "resplendent"
+          }
+        ]
       },
       {
         "devanagari": "",
         "iast": "bhargo̍ de̱vasya̍ dhīmahi |",
         "start": 14.312,
-        "end": 19.494
+        "end": 19.494,
+        "words": [
+          {
+            "word": "bhargo̍",
+            "meaning": "effulgence"
+          },
+          {
+            "word": "de̱vasya̍",
+            "meaning": "divine"
+          },
+          {
+            "word": "dhīmahi",
+            "meaning": "meditating on that supreme intelligence"
+          }
+        ]
       },
       {
         "devanagari": "धियो॒ यो नः॑ प्रचो॒दया॓त् ॥",
         "iast": "dhiyo̱ yo na̍ḥ(f) praco̱dayā̎t ||",
         "start": 19.494,
-        "end": 27
+        "end": 27,
+        "words": [
+          {
+            "word": "dhiyo̱",
+            "meaning": "the intellect"
+          },
+          {
+            "word": "yo",
+            "meaning": "that"
+          },
+          {
+            "word": "na̍ḥ(f)",
+            "meaning": "ours"
+          },
+          {
+            "word": "praco̱dayā̎t",
+            "meaning": "be propelled, or illumined"
+          }
+        ]
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
@@ -132,60 +188,56 @@
         "start": 28
       }
     ],
-    "overview": "We meditate on THAT divine, life-sustaining, resplendent effulgence, pervading the gross, the subtle and the causal. May THAT supreme intelligence illuminate our intellects.",
+    "overview": "The Gāyatrī Mantra is one of the most popular Vedic chants. It is a powerful vibration that helps with collective intelligence, and with connecting to the infinite Sun.\n\nPervading the gross, the subtle and the causal —\n\nthat life-sustaining, resplendent\n\ndivine effulgence, we meditate upon —\n\nmay that illumine our intellects.\n\n**We meditate on THAT divine, life-sustaining, resplendent effulgence, pervading the gross, the subtle and the causal. May THAT supreme intelligence illuminate our intellects.**",
     "structure": "The Gayatri has three parts — adoration, meditation, and prayer. First the Divine is praised, then meditated upon in reverence, and finally an appeal is made to awaken and strengthen the intellect, the discriminating faculty of the human being. (Sri Sathya Sai Baba)",
     "wordMeanings": [
       {
-        "word": "Tat",
-        "meaning": "That"
+        "word": "bhūr",
+        "meaning": "gross · earth · now · the waking state"
       },
       {
-        "word": "Savitur",
-        "meaning": "life-sustaining"
+        "word": "bhuva̱s",
+        "meaning": "subtle · atmosphere · past · the dream state"
       },
       {
-        "word": "Vareṇyaṃ",
+        "word": "suva̍ḥ",
+        "meaning": "causal · sky · future · deep sleep"
+      },
+      {
+        "word": "tat-sa̍vi̱tur",
+        "meaning": "that, life-sustaining"
+      },
+      {
+        "word": "vare̎ṇya̱m",
         "meaning": "resplendent"
       },
       {
-        "word": "Bhargaḥ",
+        "word": "bhargo̍",
         "meaning": "effulgence"
       },
       {
-        "word": "Devasya",
+        "word": "de̱vasya̍",
         "meaning": "divine"
       },
       {
-        "word": "Dhīmahi",
+        "word": "dhīmahi",
         "meaning": "meditating on that supreme intelligence"
       },
       {
-        "word": "Dhiyaḥ",
+        "word": "dhiyo̱",
         "meaning": "the intellect"
       },
       {
-        "word": "Yaḥ",
+        "word": "yo",
         "meaning": "that"
       },
       {
-        "word": "Naḥ",
+        "word": "na̍ḥ(f)",
         "meaning": "ours"
       },
       {
-        "word": "Pracodayāt",
-        "meaning": "be propelled, be illumined"
-      },
-      {
-        "word": "Bhūḥ",
-        "meaning": "gross / earth / now / waking state"
-      },
-      {
-        "word": "Bhuvaḥ",
-        "meaning": "subtle / atmosphere / past / dream state"
-      },
-      {
-        "word": "Suvaḥ",
-        "meaning": "causal / sky / future / deep sleep state"
+        "word": "praco̱dayā̎t",
+        "meaning": "be propelled, or illumined"
       }
     ],
     "universalReflection": "The prayer does not ask for wealth, safety or victory. It asks only that our thinking be made clear. Everything else follows from that.",
