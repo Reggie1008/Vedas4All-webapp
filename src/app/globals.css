@@ -60,12 +60,14 @@
 }
 
 [data-theme="light"] {
-  --canvas: #fbfaf7;
+  /* Warm enough to belong with the gold, and a clear step below white so a
+     card reads as sitting on the page rather than merging into it. */
+  --canvas: #f7f4ed;
   --elevated: #ffffff;
   --surface: #ffffff;
-  --surface-hi: #f4f6f9;
-  --hairline: rgb(43 87 115 / 14%);
-  --hairline-hi: rgb(43 87 115 / 28%);
+  --surface-hi: #f1ece2;
+  --hairline: rgb(43 87 115 / 16%);
+  --hairline-hi: rgb(43 87 115 / 30%);
   --ink: #12202c;
   --ink-2: rgb(18 32 44 / 68%);
   --ink-3: rgb(18 32 44 / 45%);
@@ -86,6 +88,15 @@
 * {
   --accent-ink: var(--accent);
 }
+/* A white card on a near-white page needs a shadow as well as a step in
+   tone, or its lower edge vanishes where the thumbnail stops. */
+[data-theme="light"] .bg-elevated,
+[data-theme="light"] .glass {
+  box-shadow:
+    0 1px 2px rgb(43 87 115 / 6%),
+    0 10px 26px -18px rgb(43 87 115 / 26%);
+}
+
 [data-theme="light"] * {
   /* 45/55 rather than a lighter mix so even the palest accent clears
      4.5:1 on the light canvas at small label sizes. */
