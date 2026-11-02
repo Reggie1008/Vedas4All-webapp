@@ -16,6 +16,12 @@ export default function Header() {
         </Link>
 
         <div className="flex items-center gap-2">
+          <Link
+            href="/vedas"
+            className="rounded-full border border-hairline px-3.5 py-1.5 text-xs font-medium text-ink-2 transition hover:border-hairline-hi hover:text-ink sm:text-sm"
+          >
+            The Vedas
+          </Link>
           <a
             href="https://vedas4all.org"
             className="rounded-full border border-hairline px-3.5 py-1.5 text-xs font-medium text-ink-2 transition hover:border-hairline-hi hover:text-ink sm:text-sm"

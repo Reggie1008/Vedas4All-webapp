@@ -282,7 +282,7 @@ export default async function ChantPage({
                             {p.tradition}
                           </p>
                         </div>
-                        <p className="mt-2 text-sm leading-relaxed text-ink-2">{rich(p.text)}</p>
+                        <div className="mt-2 space-y-2">{prose(p.text, "text-sm leading-relaxed text-ink-2")}</div>
                         <p className="mt-2 text-xs text-ink-3">{p.source}</p>
                       </div>
                     ))}
