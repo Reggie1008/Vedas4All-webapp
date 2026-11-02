@@ -940,25 +940,51 @@
     },
     "category": "Closing Prayer",
     "order": 6,
-    "note": "A Gayatri addressed to Sai as the Divine Truth, chanted three times.",
+    "note": "Announced on Christmas Eve, 24 December 1977, at the Sathya Sai Mandir in Brindavan, Whitefield.",
     "verses": [
       {
         "devanagari": "ॐ सायीश्वराय विद्महे ।",
         "iast": "oṃ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ ",
         "start": 0.0,
-        "end": 8
+        "end": 8,
+        "words": [
+          {
+            "word": "sā̱yī̱śva̱rāya̍",
+            "meaning": "SAI — Same-As-I — as īśvara, the master of the universe"
+          },
+          {
+            "word": "vi̱dmahe̍",
+            "meaning": "knowing — the mind"
+          }
+        ]
       },
       {
         "devanagari": "सत्यदेवाय धीमहि ।",
         "iast": "sa̱tyade̱vāya̍ dhīmahi ।",
         "start": 8,
-        "end": 11.44
+        "end": 11.44,
+        "words": [
+          {
+            "word": "sa̱tyade̱vāya̍",
+            "meaning": "satyadeva, the truth of light within"
+          },
+          {
+            "word": "dhīmahi",
+            "meaning": "understanding, retaining — the intellect"
+          }
+        ]
       },
       {
         "devanagari": "तन्नः सर्वः प्रचोदयात् ॥ (३)",
         "iast": "ta̱nna̍s sarva̍ḥ praco̱dayā̎t ॥",
         "start": 11.44,
-        "end": 17.42
+        "end": 17.42,
+        "words": [
+          {
+            "word": "praco̱dayā̎t",
+            "meaning": "expansion — the awareness"
+          }
+        ]
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
@@ -966,31 +992,27 @@
         "start": 18.42
       }
     ],
-    "overview": "We meditate on Sai as the Divine Truth. May that awaken and illumine all our faculties.",
+    "overview": "The occasion was Christmas Eve of 24 December 1977, at the Sathya Sai Mandir in Brindavan, Whitefield, near Bangalore. The assembled audience was a group of students and faculty of Sri Sathya Sai College, along with visiting devotees. It was in the glorious presence of Sri Sathya Sai Baba himself that a great Vedic scholar, Brahmaśrī Ghandikota Subrahmaṇya Śāstri, was inspired to announce the Sri Satya Sāi Gāyatri — the mystic formula devoted to and invoking Sri Satya Sāi.\n\n**We know SAI** — Same-As-I — **as īśvara**, the master of the universe.\n\n**We meditate on, and retain, this SAI** — So-Am-I — **as satyadeva**, the truth of light within.\n\n**May His awareness expand to all**, in love and service.\n\n**Oṁ, Peace, Peace, and Peace.**",
     "wordMeanings": [
       {
-        "word": "Sāyīśvarāya",
-        "meaning": "to Sai, the Lord"
+        "word": "sā̱yī̱śva̱rāya̍",
+        "meaning": "SAI — Same-As-I — as īśvara, the master of the universe"
       },
       {
-        "word": "Vidmahe",
-        "meaning": "we know, we meditate upon"
+        "word": "vi̱dmahe̍",
+        "meaning": "knowing — the mind"
       },
       {
-        "word": "Satyadevāya",
-        "meaning": "to the God of Truth"
+        "word": "sa̱tyade̱vāya̍",
+        "meaning": "satyadeva, the truth of light within"
       },
       {
-        "word": "Dhīmahi",
-        "meaning": "we meditate"
+        "word": "dhīmahi",
+        "meaning": "understanding, retaining — the intellect"
       },
       {
-        "word": "Tannaḥ",
-        "meaning": "may that (intelligence) of ours"
-      },
-      {
-        "word": "Pracodayāt",
-        "meaning": "be awakened, be impelled"
+        "word": "praco̱dayā̎t",
+        "meaning": "expansion — the awareness"
       }
     ],
     "universalReflection": "Like the Gayatri Mantra it is patterned on, this prayer asks for nothing but clarity — addressed here to Truth itself as the divine.",
@@ -1000,7 +1022,15 @@
       "source": "Vedas4All"
     },
     "youtubeId": "",
-    "booklet": ""
+    "booklet": "",
+    "structure": "This Satya Sāi Gāyatri, like every other Gāyatri mantra, has 24 syllables in three lines of eight. These mantras invoke the particular power of the deity to **know**, to **retain**, and to **expand** the awareness of the one who chants them.",
+    "teachingNote": "*Vidmahe* is knowing. *Dhīmahi* is understanding, or retaining. *Pracodayāt* is expansion.\n\nKnowing is the mind, understanding is the intellect, and expansion is the awareness. In that state of awareness and expansion one achieves *mantra siddhi* — or put simply, becomes the mantra itself.",
+    "quotes": [
+      {
+        "text": "Every Gayatri Mantra has a revealing prophet or Rishi and a presiding deity, Adhishthana Devata, who is the subject of the Mantra. This Mantra is expressed through the inner workings of Sri Sathya Sai through the mind of Brahmaśri Ghandikota Subrahmanya Śāstri in the presence of Sri Sathya Sai Baba. Needless to say that Sri Sathya Sai Baba himself is the presiding deity of this mystic formula or Mantra.",
+        "attribution": "Sanathana Sarathi, 1979"
+      }
+    ]
   },
   {
     "id": "shivopasana",
@@ -1601,7 +1631,7 @@
     },
     "category": "",
     "order": 9,
-    "note": "A śānti mantra traditionally chanted by teacher and student together before study begins.",
+    "note": "From the Taittirīya Upaniṣat, Śīkṣāvalli 1.1, of the Kṛṣṇa Yajurveda. Chanted at the beginning of Veda study.",
     "verses": [
       {
         "devanagari": "",
@@ -1611,11 +1641,11 @@
         "words": [
           {
             "word": "sa̱ha",
-            "meaning": "Almighty God"
+            "meaning": "together"
           },
           {
             "word": "nā̍vavatu",
-            "meaning": "protect both of us — teacher and the taught"
+            "meaning": "protect us both — teacher and student"
           }
         ]
       },
@@ -1627,7 +1657,7 @@
         "words": [
           {
             "word": "nau̍",
-            "meaning": "both of us"
+            "meaning": "us both"
           },
           {
             "word": "bhunaktu",
@@ -1642,53 +1672,59 @@
         "end": 48,
         "words": [
           {
-            "word": "sa̱ha",
-            "meaning": "together"
-          },
-          {
             "word": "vī̱rya̍ṅkaravāvahai",
-            "meaning": "acquire the power — heroism, prowess or lustre"
+            "meaning": "work together with great vigour"
           }
         ]
       },
       {
         "devanagari": "",
-        "iast": "te̱ja̱svinā̱vadhī̍tamastu̱ mā vi̍dviṣā̱vahai̎ ॥",
-        "start": 49,
+        "iast": "te̱ja̱svinā̱vadhī̍tamastu̱",
+        "start": 48.76,
+        "end": 57.42,
         "words": [
           {
             "word": "te̱ja̱svinā̱vadhī̍tamastu̱",
-            "meaning": "may what we have studied become illumined"
-          },
+            "meaning": "let our studies illumine our intellects"
+          }
+        ]
+      },
+      {
+        "devanagari": "",
+        "iast": "mā vi̍dviṣā̱vahai̎ ॥",
+        "start": 57.42,
+        "end": 61.1,
+        "words": [
           {
             "word": "mā",
             "meaning": "no, without"
           },
           {
             "word": "vi̍dviṣā̱vahai̎",
-            "meaning": "conflicts"
+            "meaning": "discordance, contradiction or hate"
           }
         ]
       },
       {
         "devanagari": "",
         "iast": "oṃ śāntiḥ śāntiḥ śāntiḥ",
-        "number": ""
+        "number": "",
+        "start": 61.1
       }
     ],
-    "overview": "May He (sa - Almighty God) protect (avatu) both of us (nau - two; teacher and the taught).\n\nMay He nourish (bhunaktu) us both (nau).\n\nMay we together (saha) acquire (kara-vaavahai) the power (viiryaM - heroism, prowess or lustre) of right understanding.\n\nMay what we have studied (adhiitam) become (astu) illumined (tejasvi) in our minds and hearts.\n\nMay love and harmony be with us, without (maa - no) any room for conflicts (vidvi-shhaavahai).\n\nPeace, Peace, Peace — Peace to the body, mind and soul.",
+    "overview": "The Sahanā Vavatu śānti mantra originates in the Taittirīya Upaniṣat, part of the Kṛṣṇa Yajurveda — specifically in the Śīkṣāvalli, chapter 1, section 1. It is traditionally chanted at the beginning of Veda study sessions, to invoke harmony, protection and mutual understanding between the teacher and the student.\n\nLet us all — the teacher and the student — be **protected** together.\n\nLet us all be **nourished** together.\n\nLet us all **work together** with great vigour.\n\nLet our studies **illumine our intellects**.\n\nLet there be **no discordance**, contradiction or hate amongst us.\n\nLet there be **peace, peace and peace**.",
     "wordMeanings": [
       {
         "word": "sa̱ha",
-        "meaning": "Almighty God"
+        "meaning": "together"
       },
       {
         "word": "nā̍vavatu",
-        "meaning": "protect both of us — teacher and the taught"
+        "meaning": "protect us both — teacher and student"
       },
       {
         "word": "nau̍",
-        "meaning": "both of us"
+        "meaning": "us both"
       },
       {
         "word": "bhunaktu",
@@ -1696,11 +1732,11 @@
       },
       {
         "word": "vī̱rya̍ṅkaravāvahai",
-        "meaning": "acquire the power — heroism, prowess or lustre"
+        "meaning": "work together with great vigour"
       },
       {
         "word": "te̱ja̱svinā̱vadhī̍tamastu̱",
-        "meaning": "may what we have studied become illumined"
+        "meaning": "let our studies illumine our intellects"
       },
       {
         "word": "mā",
@@ -1708,7 +1744,7 @@
       },
       {
         "word": "vi̍dviṣā̱vahai̎",
-        "meaning": "conflicts"
+        "meaning": "discordance, contradiction or hate"
       }
     ],
     "universalReflection": "It is a prayer said by teacher and student together, and it asks for the same thing on both their behalf — protection, nourishment, clear thinking, and no ill will between them. Nothing in it is asked for one and not the other.",
@@ -1722,7 +1758,8 @@
       }
     },
     "youtubeId": "",
-    "booklet": "Vedas4All — Saha Naa Vavatu"
+    "booklet": "Vedas4All — Saha Naa Vavatu",
+    "teachingNote": "The three utterances of *śānti* stand for peace from internal suffering, peace from external beings, and peace from any natural calamity."
   },
   {
     "id": "sarvadevata-gayatri",
