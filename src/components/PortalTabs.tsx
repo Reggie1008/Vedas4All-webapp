@@ -2,36 +2,49 @@
 
 import { useEffect, useState } from "react";
 
+type View = "welcome" | "chants" | "fundamentals";
+const VIEWS: View[] = ["welcome", "chants", "fundamentals"];
+
 /**
- * The portal has two halves: the chants themselves, and the fundamentals
- * that teach how to chant them. The choice is remembered, and is also
- * addressable as ?view=fundamentals so a module can link back to its own
- * side of the portal.
+ * The portal has three halves, so to speak: the welcome, the chants, and the
+ * fundamentals that teach how to chant them. The choice is remembered, and is
+ * also addressable as ?view=chants so a page can link back to one side of it.
  */
 export default function PortalTabs({
+  welcome,
   chants,
   fundamentals,
 }: {
+  welcome: React.ReactNode;
   chants: React.ReactNode;
   fundamentals: React.ReactNode;
 }) {
-  const [view, setView] = useState<"chants" | "fundamentals">("chants");
+  // Someone arriving for the first time should meet the welcome.
+  const [view, setView] = useState<View>("welcome");
 
   useEffect(() => {
     const wanted = new URLSearchParams(window.location.search).get("view");
-    if (wanted === "fundamentals" || wanted === "chants") {
-      setView(wanted);
+    if (wanted && (VIEWS as string[]).includes(wanted)) {
+      setView(wanted as View);
       return;
     }
-    const stored = localStorage.getItem("v4a-view");
-    if (stored === "fundamentals" || stored === "chants") setView(stored);
+    try {
+      const stored = localStorage.getItem("v4a-view");
+      if (stored && (VIEWS as string[]).includes(stored)) setView(stored as View);
+    } catch {
+      /* storage blocked — the default stands */
+    }
   }, []);
 
-  function pick(next: "chants" | "fundamentals") {
+  function pick(next: View) {
     setView(next);
-    localStorage.setItem("v4a-view", next);
+    try {
+      localStorage.setItem("v4a-view", next);
+    } catch {
+      /* nothing to do */
+    }
     const url = new URL(window.location.href);
-    if (next === "chants") url.searchParams.delete("view");
+    if (next === "welcome") url.searchParams.delete("view");
     else url.searchParams.set("view", next);
     window.history.replaceState(null, "", url);
   }
@@ -39,33 +52,40 @@ export default function PortalTabs({
   return (
     <>
       <div
-        className="mb-7 inline-flex gap-1.5 rounded-full border border-hairline p-1.5"
+        className="hide-scrollbar mb-7 -mx-1 flex gap-1.5 overflow-x-auto px-1 pb-1"
         role="tablist"
         aria-label="Portal section"
       >
-        {(
-          [
-            ["chants", "Chants"],
-            ["fundamentals", "Fundamentals"],
-          ] as const
-        ).map(([id, label]) => (
-          <button
-            key={id}
-            role="tab"
-            aria-selected={view === id}
-            onClick={() => pick(id)}
-            className={`rounded-full px-5 py-2 text-sm font-semibold transition ${
-              view === id
-                ? "bg-ink text-canvas"
-                : "text-ink-2 hover:bg-surface-hi hover:text-ink"
-            }`}
-          >
-            {label}
-          </button>
-        ))}
+        <div className="inline-flex gap-1.5 rounded-full border border-hairline p-1.5">
+          {(
+            [
+              ["welcome", "Welcome"],
+              ["chants", "Chants"],
+              ["fundamentals", "Fundamentals"],
+            ] as const
+          ).map(([id, label]) => (
+            <button
+              key={id}
+              role="tab"
+              aria-selected={view === id}
+              onClick={() => pick(id)}
+              className={`whitespace-nowrap rounded-full px-5 py-2 text-sm font-semibold transition ${
+                view === id
+                  ? "bg-ink text-canvas"
+                  : "text-ink-2 hover:bg-surface-hi hover:text-ink"
+              }`}
+            >
+              {label}
+            </button>
+          ))}
+        </div>
       </div>
 
-      <div className="animate-fade-up">{view === "chants" ? chants : fundamentals}</div>
+      <div className="animate-fade-up">
+        {view === "welcome" && welcome}
+        {view === "chants" && chants}
+        {view === "fundamentals" && fundamentals}
+      </div>
     </>
   );
 }

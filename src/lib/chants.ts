@@ -107,7 +107,6 @@ export interface Chant {
   structure?: string;
   teachingNote?: string;
   wordMeanings: WordMeaning[];
-  universalReflection: string;
   quotes?: Quote[];
   parallels?: Parallel[];
   /** A sustained parallel with one figure, e.g. Durgā Sūktam and Moses. */

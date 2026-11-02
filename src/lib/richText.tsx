@@ -7,6 +7,7 @@ import React from "react";
  *   **bold**   ->  <strong>
  *   *italic*   ->  <em>
  *   ***both*** ->  <strong><em>
+ *   `iast`     ->  a serif span, since the body face has no svara marks
  *
  * Parsed into React elements rather than injected as HTML, so nothing
  * in the content file can inject markup — React escapes the text
@@ -17,11 +18,11 @@ import React from "react";
 // Order matters: the three-star form must be tried before the two- and
 // one-star forms, and ** before *, or the shorter pattern wins first.
 // [\s\S] rather than . with the /s flag, which needs a newer compile target.
-const TOKEN = /\*\*\*([\s\S]+?)\*\*\*|\*\*([\s\S]+?)\*\*|\*([\s\S]+?)\*/g;
+const TOKEN = /\*\*\*([\s\S]+?)\*\*\*|\*\*([\s\S]+?)\*\*|\*([\s\S]+?)\*|`([^`]+?)`/g;
 
 export function rich(text: string | undefined | null): React.ReactNode {
   if (!text) return text ?? null;
-  if (!text.includes("*")) return text;
+  if (!text.includes("*") && !text.includes("`")) return text;
 
   const out: React.ReactNode[] = [];
   let last = 0;
@@ -31,8 +32,15 @@ export function rich(text: string | undefined | null): React.ReactNode {
     const start = m.index ?? 0;
     if (start > last) out.push(text.slice(last, start));
 
-    const [, both, bold, italic] = m;
-    if (both !== undefined) {
+    const [, both, bold, italic, iast] = m;
+    if (iast !== undefined) {
+      // Gentium carries the svara marks; the body face does not.
+      out.push(
+        <span key={key++} className="font-serif text-ink">
+          {iast}
+        </span>
+      );
+    } else if (both !== undefined) {
       out.push(
         <strong key={key++}>
           <em>{both}</em>

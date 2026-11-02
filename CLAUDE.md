@@ -55,8 +55,6 @@ Design for both properly. Not a phone app stretched wide.
 - Chanting is framed as an offering to the world and to Mother Nature —
   not as personal wellness, not as religious ritual, not as
   self-improvement.
-- Each chant carries a short "universal reflection" — the value it holds
-  for anyone living today.
 - Never present one tradition as superior. Where the booklets draw
   parallels to other traditions, present them as parallels, with the
   source named.

@@ -1,8 +1,10 @@
+import Link from "next/link";
 import { chants } from "@/lib/chants";
 import { modules } from "@/lib/fundamentals";
 import ChantCard from "@/components/ChantCard";
 import ModuleCard from "@/components/ModuleCard";
 import PortalTabs from "@/components/PortalTabs";
+import Welcome from "@/components/Welcome";
 
 export default function HomePage() {
   return (
@@ -32,6 +34,7 @@ export default function HomePage() {
 
       <section className="mx-auto max-w-6xl px-4 pb-4 sm:px-6">
         <PortalTabs
+          welcome={<Welcome />}
           chants={
             <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {chants.map((chant, i) => (
@@ -41,10 +44,34 @@ export default function HomePage() {
           }
           fundamentals={
             <div>
-              <p className="mb-6 max-w-xl text-pretty leading-relaxed text-ink-2">
+              <p className="mb-5 max-w-xl text-pretty leading-relaxed text-ink-2">
                 Before the chants themselves — how the sounds are made, how they
                 are held, and why the difference matters.
               </p>
+
+              {/* Settling a base note comes before any of the modules. */}
+              <Link
+                href="/find-your-scale"
+                className="group mb-6 flex items-center gap-4 rounded-2xl border border-[color-mix(in_srgb,#7BC5F0_45%,transparent)] bg-[color-mix(in_srgb,#7BC5F0_10%,transparent)] px-5 py-4 transition hover:border-[color-mix(in_srgb,#7BC5F0_80%,transparent)] hover:bg-[color-mix(in_srgb,#7BC5F0_16%,transparent)]"
+              >
+                <span className="flex h-10 w-10 shrink-0 items-center justify-center rounded-full bg-[#7BC5F0] text-[#08111a]">
+                  <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden>
+                    <path d="M3 12h3l2.5-7 3 14 2.5-7h3" />
+                    <path d="M19 9.5a4 4 0 0 1 0 5" />
+                  </svg>
+                </span>
+                <span className="min-w-0 flex-1">
+                  <span className="block font-serif text-lg leading-tight text-ink">
+                    Find your scale
+                  </span>
+                  <span className="block text-sm text-ink-2">
+                    Settle the base note your voice sits on, before anything else
+                  </span>
+                </span>
+                <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-hidden className="shrink-0 text-[#7BC5F0] transition-transform duration-300 ease-smooth group-hover:translate-x-1">
+                  <path d="M5 12h14M13 6l6 6-6 6" />
+                </svg>
+              </Link>
               <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
                 {modules.map((m, i) => (
                   <ModuleCard key={m.id} module={m} index={i} />

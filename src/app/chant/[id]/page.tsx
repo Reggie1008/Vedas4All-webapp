@@ -185,19 +185,6 @@ export default async function ChantPage({
                 </dl>
               </section>
 
-              <section className="relative overflow-hidden rounded-2xl border border-hairline p-5">
-                <div
-                  aria-hidden
-                  className="absolute inset-0 bg-[radial-gradient(100%_100%_at_0%_0%,color-mix(in_srgb,var(--accent)_14%,transparent)_0%,transparent_70%)]"
-                />
-                <div className="relative">
-                  <SectionHeading>A reflection for today</SectionHeading>
-                  <div className="space-y-3">
-                    {prose(chant.universalReflection, "text-pretty leading-relaxed text-ink")}
-                  </div>
-                </div>
-              </section>
-
               {chant.quotes && chant.quotes.length > 0 && (
                 <section className="space-y-4">
                   {chant.quotes.map((q, i) => (

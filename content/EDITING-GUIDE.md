@@ -99,7 +99,7 @@ keep it that way, but "UTF-8 with BOM" will break the first line.
 ## Bold and italics in the prose fields
 
 Use asterisks. They work in every prose field — `overview`, `structure`,
-`teachingNote`, `universalReflection`, each verse's `meaning`, every
+`teachingNote`, each verse's `meaning`, every
 `meaning` in `wordMeanings` and `words`, `quotes`, `parallels`, and all the
 Sarvadharma text.
 
