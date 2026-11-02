@@ -4,7 +4,7 @@
  */
 export default function Welcome() {
   return (
-    <div className="max-w-3xl">
+    <div>
       <p className="text-pretty font-serif text-xl leading-relaxed text-ink sm:text-2xl">
         With 8.4 million species on Planet Earth alone, each having its own form of
         awareness — from ants to human beings — Veda isn&rsquo;t just ancient knowledge.
@@ -14,7 +14,8 @@ export default function Welcome() {
         When we chant the Vedas, let us rediscover what it means to be truly aware.
       </p>
 
-      <section className="mt-10">
+      <div className="mt-10 grid grid-cols-1 gap-10 lg:grid-cols-2 lg:gap-14">
+      <section>
         <h2 className="eyebrow mb-3 flex items-center gap-2.5">
           <span aria-hidden className="h-px w-6 bg-[var(--accent)]" />
           Chanting together
@@ -41,7 +42,7 @@ export default function Welcome() {
         </div>
       </section>
 
-      <section className="mt-10">
+      <section>
         <h2 className="eyebrow mb-3 flex items-center gap-2.5">
           <span aria-hidden className="h-px w-6 bg-[var(--accent)]" />
           Why we chant together
@@ -81,6 +82,8 @@ export default function Welcome() {
           ))}
         </ol>
       </section>
+
+      </div>
 
       <section className="relative mt-10 overflow-hidden rounded-3xl border border-[color-mix(in_srgb,var(--accent)_40%,transparent)] p-7 sm:p-9">
         <div

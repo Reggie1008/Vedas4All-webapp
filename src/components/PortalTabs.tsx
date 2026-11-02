@@ -2,22 +2,24 @@
 
 import { useEffect, useState } from "react";
 
-type View = "welcome" | "chants" | "fundamentals";
-const VIEWS: View[] = ["welcome", "chants", "fundamentals"];
+type View = "welcome" | "chants" | "fundamentals" | "scale";
+const VIEWS: View[] = ["welcome", "chants", "fundamentals", "scale"];
 
 /**
- * The portal has three halves, so to speak: the welcome, the chants, and the
- * fundamentals that teach how to chant them. The choice is remembered, and is
- * also addressable as ?view=chants so a page can link back to one side of it.
+ * The portal has four sides: the welcome, the chants, the fundamentals that
+ * teach how to chant them, and the base note to chant them on. The choice is
+ * remembered, and is addressable as ?view=chants so a page can link to one side.
  */
 export default function PortalTabs({
   welcome,
   chants,
   fundamentals,
+  scale,
 }: {
   welcome: React.ReactNode;
   chants: React.ReactNode;
   fundamentals: React.ReactNode;
+  scale: React.ReactNode;
 }) {
   // Someone arriving for the first time should meet the welcome.
   const [view, setView] = useState<View>("welcome");
@@ -62,6 +64,7 @@ export default function PortalTabs({
               ["welcome", "Welcome"],
               ["chants", "Chants"],
               ["fundamentals", "Fundamentals"],
+              ["scale", "Find your scale"],
             ] as const
           ).map(([id, label]) => (
             <button
@@ -85,6 +88,7 @@ export default function PortalTabs({
         {view === "welcome" && welcome}
         {view === "chants" && chants}
         {view === "fundamentals" && fundamentals}
+        {view === "scale" && scale}
       </div>
     </>
   );
