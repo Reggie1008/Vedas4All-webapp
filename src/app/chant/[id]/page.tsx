@@ -11,6 +11,7 @@ import { VerseAudioProvider } from "@/components/VerseAudioContext";
 import RudramSections from "@/components/RudramSections";
 import SarvadharmaPanel from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
+import MeaningLanguage from "@/components/MeaningLanguage";
 import TraditionSymbol from "@/components/TraditionSymbol";
 import VersesBlock from "@/components/VersesBlock";
 import WalkthroughButton from "@/components/WalkthroughButton";
@@ -157,7 +158,10 @@ export default async function ChantPage({
 
               <section>
                 <SectionHeading>Overview of the meaning</SectionHeading>
-                <div className="space-y-3">{prose(chant.overview, "leading-relaxed text-ink-2")}</div>
+                <MeaningLanguage
+                  english={chant.overview}
+                  translations={chant.translations}
+                />
                 {chant.structure && (
                   <p className="mt-3 leading-relaxed text-ink-2">{rich(chant.structure)}</p>
                 )}

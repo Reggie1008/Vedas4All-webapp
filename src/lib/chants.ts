@@ -104,6 +104,9 @@ export interface Chant {
   note?: string;
   verses: Verse[];
   overview: string;
+  /** The overview in South Africa's other official languages, keyed by code
+   *  — "xh", "af", "zu" and so on. English lives in `overview` itself. */
+  translations?: Record<string, string>;
   structure?: string;
   teachingNote?: string;
   wordMeanings: WordMeaning[];

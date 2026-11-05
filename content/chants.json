@@ -282,7 +282,10 @@
       "source": "Vedas4All"
     },
     "youtubeId": "FmFBqrEBv40",
-    "booklet": "Sai Atirudram"
+    "booklet": "Sai Atirudram",
+    "translations": {
+      "xh": "Sizikisa kuleNkazimlo engcwele exhasa ubumi\n\nKuleNkazimlo egubungele ingqondo, umzimba nobomi\n\nYanga le ngqiqo iphezulu ingakhanyisela iingqondo zethu"
+    }
   },
   {
     "id": "shanti-mantra",
@@ -1807,7 +1810,10 @@
     },
     "youtubeId": "",
     "booklet": "Vedas4All — Saha Naa Vavatu",
-    "teachingNote": "The three utterances of *śānti* stand for peace from internal suffering, peace from external beings, and peace from any natural calamity."
+    "teachingNote": "The three utterances of *śānti* stand for peace from internal suffering, peace from external beings, and peace from any natural calamity.",
+    "translations": {
+      "af": "Laat ons almal saamkom\n\nMag ons almal saam verkwik word\n\nMag ons almal saam werk met groot geesdrif\n\nMag ons studies ons intellek verhelder\n\nLaat daar geen onenigheid, teenspraak of haat tussen ons wees nie\n\nLaat daar vrede, vrede, vrede heers"
+    }
   },
   {
     "id": "sarvadevata-gayatri",
