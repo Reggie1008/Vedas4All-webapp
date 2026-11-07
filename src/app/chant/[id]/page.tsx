@@ -88,7 +88,7 @@ export default async function ChantPage({
           </div>
         </div>
 
-        <div className="mx-auto max-w-6xl px-4 py-10 sm:px-6">
+        <div className="mx-auto max-w-7xl px-4 py-10 sm:px-6">
           <div className="grid grid-cols-1 gap-10 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)] lg:gap-12">
             {/* Left: the chant itself */}
             <div className="min-w-0 space-y-6">
@@ -189,102 +189,107 @@ export default async function ChantPage({
                 </dl>
               </section>
 
-              {chant.quotes && chant.quotes.length > 0 && (
-                <section className="space-y-4">
-                  {chant.quotes.map((q, i) => (
-                    <blockquote
-                      key={i}
-                      className="border-l-2 border-accent-ink pl-4 font-serif text-lg italic leading-relaxed text-ink-2"
-                    >
-                      “{rich(q.text)}”
-                      <footer className="mt-2 font-sans text-xs not-italic text-ink-3">
-                        — {q.attribution}
-                      </footer>
-                    </blockquote>
-                  ))}
-                </section>
-              )}
-
-              {chant.figureParallel && (
-                <section>
-                  <SectionHeading>{chant.figureParallel.heading}</SectionHeading>
-
-                  <div className="mb-4 flex items-center gap-2 text-accent-ink">
-                    <TraditionSymbol
-                      tradition={chant.figureParallel.tradition}
-                      className="h-[18px] w-[18px] shrink-0"
-                    />
-                    <p className="text-xs font-semibold uppercase tracking-wider">
-                      {chant.figureParallel.figure}
-                    </p>
-                  </div>
-
-                  {chant.figureParallel.intro && (
-                    <div className="mb-5 space-y-3">
-                      {prose(chant.figureParallel.intro, "leading-relaxed text-ink-2")}
-                    </div>
-                  )}
-
-                  <ol className="space-y-3">
-                    {chant.figureParallel.items.map((it, i) => (
-                      <li
-                        key={i}
-                        className="rounded-xl border border-hairline p-4 transition-colors hover:bg-surface"
-                      >
-                        <div className="flex items-baseline gap-2.5">
-                          <span
-                            aria-hidden
-                            className="font-serif text-sm text-[var(--accent)]"
-                          >
-                            {i + 1}
-                          </span>
-                          <h3 className="font-serif text-lg leading-snug text-ink">
-                            {it.title}
-                          </h3>
-                        </div>
-                        <p className="mt-1.5 text-sm leading-relaxed text-ink-2">
-                          {rich(it.text)}
-                        </p>
-                      </li>
-                    ))}
-                  </ol>
-
-                  {chant.figureParallel.source && (
-                    <p className="mt-3 text-xs text-ink-3">{chant.figureParallel.source}</p>
-                  )}
-                </section>
-              )}
-
-              {chant.parallels && chant.parallels.length > 0 && (
-                <section>
-                  <SectionHeading>Parallels in other traditions</SectionHeading>
-                  <div className="space-y-3">
-                    {chant.parallels.map((p, i) => (
-                      <div
-                        key={i}
-                        className="rounded-xl border border-hairline p-4 transition-colors hover:bg-surface"
-                      >
-                        <div className="flex items-center gap-2 text-accent-ink">
-                          <TraditionSymbol
-                            tradition={p.tradition}
-                            className="h-[18px] w-[18px] shrink-0"
-                          />
-                          <p className="text-xs font-semibold uppercase tracking-wider">
-                            {p.tradition}
-                          </p>
-                        </div>
-                        <div className="mt-2 space-y-2">{prose(p.text, "text-sm leading-relaxed text-ink-2")}</div>
-                        <p className="mt-2 text-xs text-ink-3">{p.source}</p>
-                      </div>
-                    ))}
-                  </div>
-                </section>
-              )}
-
-              <p className="border-t border-hairline pt-5 text-xs text-ink-3">
-                Transcribed from {chant.booklet}
-              </p>
             </div>
+          </div>
+
+          {/* Below the two columns, where the left one has run out: these
+              read across the page rather than down one half of it. */}
+          <div className="mt-12 space-y-10">
+            {chant.quotes && chant.quotes.length > 0 && (
+              <section className="grid grid-cols-1 gap-6 lg:grid-cols-2 lg:gap-10">
+                {chant.quotes.map((q, i) => (
+                  <blockquote
+                    key={i}
+                    className="border-l-2 border-accent-ink pl-4 font-serif text-lg italic leading-relaxed text-ink-2"
+                  >
+                    “{rich(q.text)}”
+                    <footer className="mt-2 font-sans text-xs not-italic text-ink-3">
+                      — {q.attribution}
+                    </footer>
+                  </blockquote>
+                ))}
+              </section>
+            )}
+
+            {chant.figureParallel && (
+              <section>
+                <SectionHeading>{chant.figureParallel.heading}</SectionHeading>
+
+                <div className="mb-4 flex items-center gap-2 text-accent-ink">
+                  <TraditionSymbol
+                    tradition={chant.figureParallel.tradition}
+                    className="h-[18px] w-[18px] shrink-0"
+                  />
+                  <p className="text-xs font-semibold uppercase tracking-wider">
+                    {chant.figureParallel.figure}
+                  </p>
+                </div>
+
+                {chant.figureParallel.intro && (
+                  <div className="mb-5 space-y-3">
+                    {prose(chant.figureParallel.intro, "leading-relaxed text-ink-2")}
+                  </div>
+                )}
+
+                <ol className="grid grid-cols-1 gap-3 lg:grid-cols-2">
+                  {chant.figureParallel.items.map((it, i) => (
+                    <li
+                      key={i}
+                      className="rounded-xl border border-hairline p-4 transition-colors hover:bg-surface"
+                    >
+                      <div className="flex items-baseline gap-2.5">
+                        <span
+                          aria-hidden
+                          className="font-serif text-sm text-[var(--accent)]"
+                        >
+                          {i + 1}
+                        </span>
+                        <h3 className="font-serif text-lg leading-snug text-ink">
+                          {it.title}
+                        </h3>
+                      </div>
+                      <p className="mt-1.5 text-sm leading-relaxed text-ink-2">
+                        {rich(it.text)}
+                      </p>
+                    </li>
+                  ))}
+                </ol>
+
+                {chant.figureParallel.source && (
+                  <p className="mt-3 text-xs text-ink-3">{chant.figureParallel.source}</p>
+                )}
+              </section>
+            )}
+
+            {chant.parallels && chant.parallels.length > 0 && (
+              <section>
+                <SectionHeading>Parallels in other traditions</SectionHeading>
+                <div className="grid grid-cols-1 gap-3 lg:grid-cols-2">
+                  {chant.parallels.map((p, i) => (
+                    <div
+                      key={i}
+                      className="rounded-xl border border-hairline p-4 transition-colors hover:bg-surface"
+                    >
+                      <div className="flex items-center gap-2 text-accent-ink">
+                        <TraditionSymbol
+                          tradition={p.tradition}
+                          className="h-[18px] w-[18px] shrink-0"
+                        />
+                        <p className="text-xs font-semibold uppercase tracking-wider">
+                          {p.tradition}
+                        </p>
+                      </div>
+                      <div className="mt-2 space-y-2">{prose(p.text, "text-sm leading-relaxed text-ink-2")}</div>
+                      <p className="mt-2 text-xs text-ink-3">{p.source}</p>
+                    </div>
+                  ))}
+                </div>
+              </section>
+            )}
+
+            <p className="border-t border-hairline pt-5 text-xs text-ink-3">
+              Transcribed from {chant.booklet}
+            </p>
           </div>
         </div>
       </div>
