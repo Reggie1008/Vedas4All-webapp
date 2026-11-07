@@ -15,3 +15,6 @@
 
 # local env
 .env*.local
+
+# typescript build cache, regenerated on every check
+*.tsbuildinfo
