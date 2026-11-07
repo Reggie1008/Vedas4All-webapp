@@ -161,15 +161,9 @@ export default async function ChantPage({
                 <MeaningLanguage
                   english={chant.overview}
                   translations={chant.translations}
+                  structure={chant.structure}
+                  teachingNote={chant.teachingNote}
                 />
-                {chant.structure && (
-                  <p className="mt-3 leading-relaxed text-ink-2">{rich(chant.structure)}</p>
-                )}
-                {chant.teachingNote && (
-                  <p className="mt-4 rounded-xl border border-hairline bg-surface p-4 text-sm leading-relaxed text-ink-2">
-                    {rich(chant.teachingNote)}
-                  </p>
-                )}
               </section>
 
               <section>

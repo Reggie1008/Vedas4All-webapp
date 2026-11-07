@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { prose } from "@/lib/richText";
+import { prose, rich } from "@/lib/richText";
 
 /**
  * The meaning of a chant, in whichever South African language the reader
@@ -33,9 +33,14 @@ const STORE = "v4a-meaning-language";
 export default function MeaningLanguage({
   english,
   translations,
+  structure,
+  teachingNote,
 }: {
   english: string;
   translations?: Record<string, string>;
+  /** English-only notes that sit under the meaning. */
+  structure?: string;
+  teachingNote?: string;
 }) {
   const available = ["en", ...Object.keys(translations ?? {}).filter((k) => translations![k])];
   const [lang, setLang] = useState("en");
@@ -88,6 +93,22 @@ export default function MeaningLanguage({
       <div className="space-y-3" lang={lang}>
         {prose(text, "leading-relaxed text-ink-2")}
       </div>
+
+      {/* These have not been translated, so they appear under English only —
+          otherwise they read as part of the translation above them. */}
+      {lang === "en" && structure && (
+        <p className="mt-3 leading-relaxed text-ink-2">{rich(structure)}</p>
+      )}
+      {lang === "en" && teachingNote && (
+        <p className="mt-4 rounded-xl border border-hairline bg-surface p-4 text-sm leading-relaxed text-ink-2">
+          {rich(teachingNote)}
+        </p>
+      )}
+      {lang !== "en" && (structure || teachingNote) && (
+        <p className="mt-3 text-xs text-ink-3">
+          There is more about this chant in English.
+        </p>
+      )}
     </>
   );
 }
