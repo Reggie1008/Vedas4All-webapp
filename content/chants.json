@@ -8,7 +8,7 @@
     },
     "category": "Opening Prayer",
     "order": 1,
-    "note": "Traditionally, Veda recitation begins with the Ganapati Prarthana.",
+    "note": "Calls the master of the senses to be present and the mind to gather. Veda recitation begins with it.",
     "verses": [
       {
         "devanagari": "ॐ ग॒णाना॓न्त्वा ग॒णप॑तिꣳ हवामहे",
@@ -98,7 +98,7 @@
     },
     "category": "",
     "order": 2,
-    "note": "Chanted three times.",
+    "note": "We meditate on the life-sustaining light of the infinite Sun, and ask that it illumine our intellects. Chanted three times.",
     "verses": [
       {
         "devanagari": "ॐ भू॒र्भुव॒स्सुवः॑ ।",
@@ -296,7 +296,7 @@
     },
     "category": "Closing Prayer",
     "order": 3,
-    "note": "May all the beings in all the worlds be happy.",
+    "note": "Asks that the people be nourished, that those who rule keep to the path of justice, and that all the worlds be happy.",
     "verses": [
       {
         "devanagari": "स्वस्तिः॑ प्र॒जाभ्यः॑ परिपालयन्तां॒",
@@ -468,7 +468,7 @@
     },
     "category": "Closing Prayer",
     "order": 4,
-    "note": "Traditionally, Veda recitation ends with the Kshama Prarthana — a prayer of forgiveness for any error made while chanting, offering its fruits to the Lord.",
+    "note": "Asks forgiveness for every sound mispronounced and every beat mistimed, and offers the fruit of the chanting back. Veda recitation ends with it.",
     "verses": [
       {
         "devanagari": "ॐ । यदक्षर पदभ्रष्टं मात्राहीनन्तु यद्भवेत् । तत्सर्वं क्षम्यतां देव नारायण नमोस्तुते ॥",
@@ -594,7 +594,7 @@
     },
     "category": "Closing Prayer",
     "order": 5,
-    "note": "This hymn is also the emblem of the Sri Sathya Sai Organisation.",
+    "note": "Understanding how the waters, the moon and the wind rest upon one another, the chanter reaches the highest abode.",
     "verses": [
       {
         "devanagari": "ॐ । योऽपाम् पुष्पं वेद । पुष्पवान् प्रजावान् पशुमान् भवति । चन्द्रमा वा । अपाम् पुष्पं । पुष्पवान् प्रजावान् पशुमान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ १ ॥",
@@ -984,7 +984,8 @@
         "text": "There is only one religion, the religion of Love.",
         "attribution": "Sri Sathya Sai Baba"
       }
-    }
+    },
+    "structure": "This hymn is also the emblem of the Sri Sathya Sai Organisation."
   },
   {
     "id": "sai-gayatri",
@@ -995,7 +996,7 @@
     },
     "category": "Closing Prayer",
     "order": 6,
-    "note": "Announced on Christmas Eve, 24 December 1977, at the Sathya Sai Mandir in Brindavan, Whitefield.",
+    "note": "We know Sai as the master of the universe, meditate on him as the truth of the light within, and ask that awareness expand to all.",
     "verses": [
       {
         "devanagari": "ॐ सायीश्वराय विद्महे ।",
@@ -1095,7 +1096,7 @@
     },
     "category": "",
     "order": 7,
-    "note": "Holding the liṅgam in the hand, these twenty-two mantras are recited to consecrate and install it. The five faces of the liṅgam are then worshipped in the verses that follow.",
+    "note": "Sitting close to that which no negativity can touch. Recited to consecrate the liṅgam and to worship its five faces.",
     "verses": [
       {
         "devanagari": "",
@@ -1518,7 +1519,7 @@
     },
     "category": "",
     "order": 8,
-    "note": "A hymn from the Krishna Yajur Veda (Taittirīya Āraṇyaka 4.36.1), traditionally chanted to destroy harmful germs and illnesses, invoking Divine energy to neutralise disease-causing agents.",
+    "note": "Calls on the fire of knowledge to destroy what eats away at us — the germ in the body and the flaw in the mind alike.",
     "verses": [
       {
         "devanagari": "अत्रि॑णा त्वा क्रिमे हन्मि ।",
@@ -1683,7 +1684,7 @@
     },
     "category": "",
     "order": 9,
-    "note": "From the Taittirīya Upaniṣat, Śīkṣāvalli 1.1, of the Kṛṣṇa Yajurveda. Chanted at the beginning of Veda study.",
+    "note": "Teacher and student ask to be protected together, nourished together, and to work together without discord. Chanted before study.",
     "verses": [
       {
         "devanagari": "",
@@ -1824,7 +1825,7 @@
     },
     "category": "",
     "order": 10,
-    "note": "A garland of Gāyatrīs, each addressed to a different form of the Divine. The booklet numbers them 1 to 12 and then 18; the numbering here follows the booklet exactly.",
+    "note": "A garland of Gāyatrīs — each knows the Divine by one name, meditates on it by another, and asks to be illumined.",
     "verses": [
       {
         "devanagari": "",
@@ -1938,7 +1939,7 @@
       }
     ],
     "overview": "Every verse follows the same three-part Gāyatrī pattern: we know (vidmahe) one name of the Divine, we meditate (dhīmahi) on another, and we ask that a third impel or illumine us (pracodayāt). Only the names change — Rudra, Danti, Nandi, Ṣaṇmukha, Garuḍa, Brahmā, Viṣṇu, Narasiṁha, Āditya, Agni, Durgā, and finally Sāyīśvara as Satyadeva, the God of Truth.",
-    "structure": "The pattern is the same as the Gāyatrī Mantra itself — adoration, meditation, then the appeal that the intellect be awakened — repeated for each form of the Divine in turn.",
+    "structure": "The pattern is the same as the Gāyatrī Mantra itself — adoration, meditation, then the appeal that the intellect be awakened — repeated for each form of the Divine in turn.\n\nThe booklet numbers the verses 1 to 12 and then 18; the numbering here follows the booklet exactly.",
     "wordMeanings": [
       {
         "word": "Vidmahe",
@@ -1982,7 +1983,7 @@
     },
     "category": "",
     "order": 11,
-    "note": "The food prayer is taken from two verses of the divine scripture of the Bhagavad Gita.",
+    "note": "The food, the fire that consumes it and the one who eats are all Brahman. Offered before eating, so that what it becomes serves the work of the Divine.",
     "verses": [
       {
         "devanagari": "",
@@ -2112,7 +2113,7 @@
     },
     "category": "",
     "order": 12,
-    "note": "Chanted in two anuvākas, opened and closed by the same śānti. The verse numbers restart at 1 in the second anuvāka, as the booklet prints them.",
+    "note": "The Cosmic Person pervades the whole earth and reaches beyond it; all that exists is an offering within that one being.",
     "verses": [
       {
         "devanagari": "",
@@ -2307,7 +2308,7 @@
     },
     "category": "",
     "order": 13,
-    "note": "Kṛṣṇa Yajur Veda, Taittirīya Saṃhitā. Recited in two halves — Namakam and Chamakam — of eleven anuvākas each. Choose a half, then an anuvāka.",
+    "note": "Salutation to Rudra in every form and in every place, and then the asking. Chanted for peace within and without.",
     "verses": [],
     "sections": [
       {
@@ -4411,7 +4412,7 @@
     },
     "category": "",
     "order": 14,
-    "note": "Kṛṣṇa Yajur Veda, Taittirīya Āraṇyaka 10.2 (Mahānārāyaṇopaniṣat, dvitīyo'nuvākaḥ).",
+    "note": "Asks Agni, the fire, to carry us across every hard place as a boat carries one over a river.",
     "verses": [
       {
         "devanagari": "",
@@ -4541,7 +4542,7 @@
     },
     "category": "",
     "order": 15,
-    "note": "A prayer to Medhā — the power of intelligence, retention and clear understanding.",
+    "note": "Asks not for knowledge to be given, but for the mind that can hold it — intelligence, retention and clear understanding.",
     "verses": [
       {
         "devanagari": "",
