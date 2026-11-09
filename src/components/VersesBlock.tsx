@@ -1,11 +1,12 @@
 "use client";
 
+import Link from "next/link";
 import { useEffect, useState } from "react";
 import type { Verse } from "@/lib/chants";
 import { useScriptToggle } from "@/components/ScriptToggleContext";
 import { useVerseAudio } from "@/components/VerseAudioContext";
 import TimingCapture from "@/components/TimingCapture";
-import { rich } from "@/lib/richText";
+import { holdingText, rich } from "@/lib/richText";
 
 export default function VersesBlock({ verses }: { verses: Verse[] }) {
   const { showDevanagari } = useScriptToggle();
@@ -21,6 +22,8 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
 
   // Only offer the expand affordance where there is stanza-level content.
   const hasDetail = verses.some((v) => v.meaning || v.words?.length);
+  // The rectangles need saying once, at the foot of the lines they mark.
+  const hasHoldings = verses.some((v) => v.holdings);
 
   // A line can be played on its own once its place in the recording is known.
   const timed = Boolean(audio?.hasAudio) && verses.some((v) => v.start !== undefined);
@@ -81,7 +84,7 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
               <p className="devanagari-text pr-8">{verse.devanagari}</p>
             )}
             <p className={`pr-8 ${showDevanagari ? "iast-text" : "iast-text-primary"}`}>
-              {verse.iast}
+              {verse.holdings ? holdingText(verse.holdings, verse.iast) : verse.iast}
             </p>
             {verse.source && (
               <p className="mt-2 text-xs tracking-wide text-ink-3">{verse.source}</p>
@@ -193,6 +196,24 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
         );
       })}
     </div>
+    {hasHoldings && (
+      <p className="mt-3 flex flex-wrap items-center gap-x-4 gap-y-1.5 px-1 text-xs text-ink-3">
+        <span className="flex items-center gap-1.5">
+          <span aria-hidden className="holding font-serif text-sm text-ink-2">a</span>
+          short holding
+        </span>
+        <span className="flex items-center gap-1.5">
+          <span aria-hidden className="holding holding-long font-serif text-sm text-ink-2">a</span>
+          long holding
+        </span>
+        <Link
+          href="/fundamentals/pauses-holdings"
+          className="underline underline-offset-2 transition-colors hover:text-ink-2"
+        >
+          What these mean
+        </Link>
+      </p>
+    )}
     {capture && <TimingCapture verses={verses} />}
     </>
   );

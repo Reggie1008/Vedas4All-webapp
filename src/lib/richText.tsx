@@ -76,3 +76,52 @@ export function prose(
     </p>
   ));
 }
+
+/* ------------------------------------------------------------------ */
+/* Holdings                                                           */
+/* ------------------------------------------------------------------ */
+
+/**
+ * Holdings, drawn the way the teaching decks draw them: a rectangle
+ * round the held sound. A short holding follows a short vowel and gets a
+ * thin rectangle; a long holding follows a long vowel and gets a thick
+ * one. See Fundamentals, Module 4 — Discontinuity: Pauses & Holdings.
+ *
+ * A verse carries the marked-up copy of its own line in `holdings`:
+ *
+ *   [t]  short holding, thin rectangle
+ *   {t}  long holding, thick rectangle
+ *
+ * Nothing but those brackets may differ from the verse's `iast`. The
+ * renderer checks that before it draws anything and falls back to the
+ * plain line if it does not hold, so a slip in the content file can
+ * never put altered Sanskrit on the screen.
+ */
+const HOLDING = /\[([^[\]{}]+)\]|\{([^[\]{}]+)\}/g;
+
+export function stripHoldings(marked: string): string {
+  return marked.replace(/[[\]{}]/g, "");
+}
+
+export function holdingText(marked: string, iast: string): React.ReactNode {
+  if (stripHoldings(marked) !== iast) return iast;
+
+  const out: React.ReactNode[] = [];
+  let last = 0;
+  let key = 0;
+
+  for (const m of marked.matchAll(HOLDING)) {
+    const start = m.index ?? 0;
+    if (start > last) out.push(marked.slice(last, start));
+    const [, short, long] = m;
+    out.push(
+      <span key={key++} className={long !== undefined ? "holding holding-long" : "holding"}>
+        {short ?? long}
+      </span>
+    );
+    last = start + m[0].length;
+  }
+
+  if (last < marked.length) out.push(marked.slice(last));
+  return out;
+}

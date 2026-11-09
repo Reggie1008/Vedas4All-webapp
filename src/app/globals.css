@@ -54,6 +54,8 @@
   --scrim: 8, 11, 16;
 
   --accent: #dda83f;
+  /* Brand green, lifted for the dark canvas. Marks holdings on a verse. */
+  --holding: #4fb07a;
   --font-scale: 1;
 
   color-scheme: dark;
@@ -72,6 +74,7 @@
   --ink-2: rgb(18 32 44 / 68%);
   --ink-3: rgb(18 32 44 / 45%);
   --scrim: 255, 255, 255;
+  --holding: #008037;
 
   color-scheme: light;
 }
@@ -173,6 +176,21 @@ body {
 
 .scalable-text {
   font-size: calc(1rem * var(--font-scale));
+}
+
+/* Holdings, drawn as the teaching decks draw them: a rectangle round the
+   held sound. Thin for a short holding, thick for a long one. The border
+   sits on an inline span, so it never changes the line box — at the
+   line-height the verses use there is room for it above and below. */
+.holding {
+  border: 1px solid var(--holding);
+  padding: 0.02em 0.05em;
+  margin: 0 0.015em;
+  border-radius: 1px;
+}
+
+.holding-long {
+  border-width: 2px;
 }
 
 /* ---------------------------------------------------------------- */

@@ -159,6 +159,33 @@ nothing shows.
 Leave `slow` empty when there is no slow recording — the Normal/Slow switch
 hides itself rather than offering a button that does nothing.
 
+## Marking the holdings on a line
+
+A verse can carry a `holdings` field: a copy of its own `iast` line with
+rectangles marked round the held sounds, the way the teaching decks mark
+them. `[x]` draws a thin rectangle — a short holding, after a short
+vowel. `{x}` draws a thick one — a long holding, after a long vowel.
+
+```json
+{
+  "iast": "bhargo̍ de̱vasya̍ dhīmahi |",
+  "holdings": "[bh]ar[g]o̍ de̱vas[y]a̍ dhīmahi |"
+}
+```
+
+Two rules:
+
+1. **Nothing but the brackets may differ from `iast`.** Take the brackets
+   out and the two lines must be character for character the same. The app
+   checks this every time it draws the line, and if it does not hold it
+   quietly shows the plain `iast` instead — so a slip here can never put
+   altered Sanskrit on the screen, but it will silently lose your boxes.
+2. Put the bracket **outside** the svara mark, never between a letter and
+   its mark. `[s]uva̍ḥ` is right; `[s]uva[̍]ḥ` is not.
+
+Leave `holdings` out entirely and the line draws with no rectangles. A
+legend and a link to Module 4 appear under any chant that uses them.
+
 ## Checking your work
 
 From the app folder, this prints every accent mark in the file. Anything

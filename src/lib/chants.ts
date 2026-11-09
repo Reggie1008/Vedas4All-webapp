@@ -8,6 +8,10 @@ export interface Verse {
   end?: number;
   devanagari: string;
   iast: string;
+  /** The same IAST line with its holdings bracketed, as the teaching decks
+   *  mark them: [x] a short holding, {x} a long one. Strip the brackets and
+   *  it must equal `iast` exactly — nothing else may differ. */
+  holdings?: string;
   source?: string;
   /** Overrides the positional counter, for booklets that number their
    *  own verses (Sarvadevatā Gāyatrī runs 1-12 then jumps to 18). */
