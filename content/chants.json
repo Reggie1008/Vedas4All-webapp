@@ -874,7 +874,8 @@
             "word": "Śāntiḥ",
             "meaning": "peace"
           }
-        ]
+        ],
+        "holdings": "|| oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ||"
       }
     ],
     "overview": "The one who understands the flowers (puṣpam) of the waters (āpaḥ), and their relationship to the moon (candramāḥ), reaches the highest abode. Bhagawan Sri Sathya Sai Baba explains that āpaḥ — the waters of life — is Love. Read this way, the hymn says: the one who understands the inner significance of Love, and its relationship to the mind, reaches the highest abode. This is all there is to know — the one illumined by Love attains the highest abode.",
@@ -1034,7 +1035,8 @@
             "word": "vi̱dmahe̍",
             "meaning": "knowing — the mind"
           }
-        ]
+        ],
+        "holdings": "oṃ sā̱yī̱ś{v}a̱rāya̍ vi̱[d]mahe̍ "
       },
       {
         "devanagari": "सत्यदेवाय धीमहि ।",
@@ -1050,7 +1052,8 @@
             "word": "dhīmahi",
             "meaning": "understanding, retaining — the intellect"
           }
-        ]
+        ],
+        "holdings": "sa̱[t]yade̱vāya̍ dhīmahi ।"
       },
       {
         "devanagari": "तन्नः सर्वः प्रचोदयात् ॥ (३)",
@@ -1062,12 +1065,14 @@
             "word": "praco̱dayā̎t",
             "meaning": "expansion — the awareness"
           }
-        ]
+        ],
+        "holdings": "ta̱[n]na̍s [s]ar[v]a̍ḥ [p]raco̱dayā̎t ॥"
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
         "iast": "|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||",
-        "start": 18.42
+        "start": 18.42,
+        "holdings": "|| oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ||"
       }
     ],
     "overview": "The occasion was Christmas Eve of 24 December 1977, at the Sathya Sai Mandir in Brindavan, Whitefield, near Bangalore. The assembled audience was a group of students and faculty of Sri Sathya Sai College, along with visiting devotees. It was in the glorious presence of Sri Sathya Sai Baba himself that a great Vedic scholar, Brahmaśrī Ghandikota Subrahmaṇya Śāstri, was inspired to announce the Sri Satya Sāi Gāyatri — the mystic formula devoted to and invoking Sri Satya Sāi.\n\n`oṃ sā̱yī̱śva̱rāya̍ vi̱dmahe̍ ` We know SAI — Same-As-I — as īśvara, the master of the universe\n\n`sa̱tyade̱vāya̍ dhīmahi ।` We meditate on, and retain, this SAI — So-Am-I — as satyadeva, the truth of light within\n\n`ta̱nna̍s sarva̍ḥ praco̱dayā̎t ॥` May His awareness expand to all, in love and service\n\n`|| oṁ śānti̱ś śānti̱ś śānti̍ḥ ||` Oṁ, Peace, Peace, and Peace",
@@ -1476,7 +1481,8 @@
       },
       {
         "devanagari": "",
-        "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥"
+        "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
+        "holdings": "॥ oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "Śiva means positive, auspicious, serene — the one who is not affected by any kind of negativity. Upāsana comes from upa (close) and āsana (sitting): sitting close to Him. Śivopāsana therefore means being rooted in the consciousness and awareness of Shiva. That consciousness is fundamentally the breath of the entire universe; when we breathe in and breathe out Shiva, we are in Śivopāsana.",
@@ -1634,7 +1640,8 @@
         "devanagari": "ॐ शान्ति-श्शान्ति-श्शान्तिः ।",
         "iast": "oṃ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
         "meaning": "All mantras end with an invocation of peace, made for the purpose of averting all evil. It allows one to be at peace with oneself and the universe, to have calmness and concentration. The three repetitions address the three sources of disturbance: ādhyātmika (from within oneself — mind, body, emotions), ādhibhautika (from other living beings) and ādhidaivika (from natural and cosmic forces).",
-        "start": 204
+        "start": 204,
+        "holdings": "oṃ | śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "The word kṛmi works on two levels at once, and this dual meaning is the heart of the hymn's relevance. Literally, it was chanted with precise intention toward the elimination of pests, parasites and disease-causing organisms that threatened crops, livestock and human health. Read inwardly, kṛmi represents anything that eats away at our wellbeing from within — the repetitive thought patterns that erode our peace, the jealousy, anger, fear and greed that infect relationships, the toxic habits that quietly consume our health and time, and the disharmony that spreads through a community like a contagion.",
@@ -1968,13 +1975,15 @@
         "number": "18",
         "meaning": "We know Sāyīśvara; we meditate on Satyadeva, the God of Truth. May that All impel us.",
         "start": 351.56,
-        "end": 369
+        "end": 369,
+        "holdings": "oṁ sā̱yī̱ś{v}a̱rāya̍ vi̱[d]mahe̍ sa[t]yade̱vāya̍ dhīmahi । ta[n]na̍s [s]ar[v]aḥ(f) [p]raco̱dayā̎t ॥ 18 ॥"
       },
       {
         "devanagari": "",
         "iast": "॥ oṁ | śānti̱ś śānti̱ś śānti̍ḥ ॥",
         "meaning": "Om. Peace, peace, peace.",
-        "start": 370
+        "start": 370,
+        "holdings": "॥ oṁ | śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "Every verse follows the same three-part Gāyatrī pattern: we know (vidmahe) one name of the Divine, we meditate (dhīmahi) on another, and we ask that a third impel or illumine us (pracodayāt). Only the names change — Rudra, Danti, Nandi, Ṣaṇmukha, Garuḍa, Brahmā, Viṣṇu, Narasiṁha, Āditya, Agni, Durgā, and finally Sāyīśvara as Satyadeva, the God of Truth.",
@@ -2165,7 +2174,8 @@
       },
       {
         "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
-        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥"
+        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥",
+        "holdings": "oṁ | śān{t}iś [ś]ān{t}iś [ś]ān{t}i̍ḥ ॥"
       },
       {
         "devanagari": "स॒हस्र॑शीर् षा॒ पुरु॑षः । स॒ह॒स्रा॒क्ष-स्स॒हस्र॑पात् । स भूमिं॑-विँ॒श्वतो॑ वृ॒त्वा । अत्य॑तिष्ठद्दशाङ्गु॒लम् ॥",
@@ -2295,7 +2305,8 @@
       },
       {
         "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
-        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥"
+        "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥",
+        "holdings": "oṁ | śān{t}iś [ś]ān{t}iś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "The Puruṣa Sūktam describes the Cosmic Person — thousand-headed, thousand-eyed, thousand-footed — who pervades the earth entirely and extends beyond it. It sets out creation as a yajña in which the Puruṣa is at once the offering, the fire and the one to whom it is offered, and from which the Vedas, the creatures, the elements and the worlds all arise.",
@@ -4507,7 +4518,7 @@
       {
         "devanagari": "ॐ शान्ति॒-श्शान्ति॒-श्शान्तिः॑ ॥",
         "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
-        "holdings": "॥ oṁ {ś}ān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
+        "holdings": "॥ oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "A hymn to Durgā as the fire that carries one across difficulty. *Durgāṇi* means hard places or straits, and the refrain asks Agni — *jātavedas*, knower of all that is born — to ferry us over them as a boat carries one over a river. It closes with the Kātyāyanī Gāyatrī.\n\nRead more deeply, the Sūktam describes the journey of a **perfect instrument of God** — a path exemplified by Moses — in which one must move beyond personal desires and sacrifice the self for the **mass consciousness**.",
@@ -4624,7 +4635,7 @@
         "devanagari": "",
         "iast": "॥ oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
         "number": "4",
-        "holdings": "॥ oṁ {ś}ān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
+        "holdings": "॥ oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
       },
       {
         "devanagari": "",
@@ -4684,7 +4695,7 @@
         "devanagari": "",
         "iast": "oṁ | śāntiś śāntiś śānti̍ḥ ॥",
         "number": "14",
-        "holdings": "oṁ | {ś}ān{t}iś [ś]ān{t}iś [ś]ān{t}i̍ḥ ॥"
+        "holdings": "oṁ | śān{t}iś [ś]ān{t}iś [ś]ān{t}i̍ḥ ॥"
       }
     ],
     "overview": "A hymn addressed to **Medhā**, the faculty of intelligence itself, personified as a goddess. The chanter does not ask to be given knowledge but to be made *fit to hold it*: a body that does not tire, a tongue that speaks sweetly, ears that hear widely, and a mind that keeps what it has received.\n\nThe refrain *mayi medhāṁ mayi prajāṁ* — \"in me intelligence, in me progeny\" — asks Agni, Indra and Sūrya each to place their own quality within the one chanting. It closes with the Haṁsa Gāyatrī.",
