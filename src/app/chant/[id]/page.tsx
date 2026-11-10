@@ -8,7 +8,7 @@ import ChantHero from "@/components/ChantHero";
 import FontSizeControl from "@/components/FontSizeControl";
 import { ScriptToggleProvider } from "@/components/ScriptToggleContext";
 import { VerseAudioProvider } from "@/components/VerseAudioContext";
-import RudramSections from "@/components/RudramSections";
+import SectionedChant from "@/components/SectionedChant";
 import SarvadharmaPanel from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
 import MeaningLanguage from "@/components/MeaningLanguage";
@@ -93,7 +93,7 @@ export default async function ChantPage({
             {/* Left: the chant itself */}
             <div className="min-w-0 space-y-6">
               {chant.sections?.length ? (
-                <RudramSections sections={chant.sections} thumbnail={thumbnail} />
+                <SectionedChant sections={chant.sections} thumbnail={thumbnail} />
               ) : (
                 <VerseAudioProvider>
                   {chant.audio.walkthrough && (

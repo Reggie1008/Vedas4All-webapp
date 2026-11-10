@@ -83,9 +83,15 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
             {showDevanagari && verse.devanagari && (
               <p className="devanagari-text pr-8">{verse.devanagari}</p>
             )}
-            <p className={`pr-8 ${showDevanagari ? "iast-text" : "iast-text-primary"}`}>
-              {verse.holdings ? holdingText(verse.holdings, verse.iast) : verse.iast}
-            </p>
+            {/* A line whose transliteration has not been transcribed yet
+                stands on its Devanagari rather than leaving a blank. */}
+            {!verse.iast && verse.devanagari ? (
+              !showDevanagari && <p className="devanagari-text pr-8">{verse.devanagari}</p>
+            ) : (
+              <p className={`pr-8 ${showDevanagari ? "iast-text" : "iast-text-primary"}`}>
+                {verse.holdings ? holdingText(verse.holdings, verse.iast) : verse.iast}
+              </p>
+            )}
             {verse.source && (
               <p className="mt-2 text-xs tracking-wide text-ink-3">{verse.source}</p>
             )}

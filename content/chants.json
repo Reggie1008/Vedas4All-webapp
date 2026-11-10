@@ -4701,5 +4701,1784 @@
       "source": "Vedas4All"
     },
     "booklet": "Vedas4All — Medhā Sūktam (SB IAST, 26 September 2024)"
+  },
+  {
+    "id": "lalita-sahasranama",
+    "title": {
+      "sanskrit": "श्रीललितासहस्रनामस्तोत्रम्",
+      "iast": "Śrī Lalitā Sahasranāma Stotram",
+      "english": "The Thousand Names of the Divine Mother"
+    },
+    "category": "",
+    "order": 16,
+    "note": "A thousand names of the Divine Mother, sung one after another — each name another way of naming the same Presence.",
+    "verses": [],
+    "overview": "The Lalitā Sahasranāma is a litany of names. It opens with a *dhyāna* verse — a picture of the Mother held in the mind before a word is chanted — and then gives a thousand names of her across a hundred and eighty-three stanzas, closing as it began, with her name alone.\n\nEach name is a description rather than a label: the Mother as the Great Empress, as the fire of pure consciousness, as the one whose form is the union of Śiva and Śakti. Taken together they say that no single name is sufficient, and that is the teaching the chant carries — the same Presence seen from a thousand directions.",
+    "structure": "Dhyānam, then the names in nineteen groups of ten stanzas, then the close. A group is about a minute and a half, which is as much as most students take on at one sitting.",
+    "wordMeanings": [
+      {
+        "word": "Śrī Mātā",
+        "meaning": "the Divine Mother — the first of the thousand names"
+      },
+      {
+        "word": "Śrī Mahārājñī",
+        "meaning": "the Great Empress"
+      },
+      {
+        "word": "Śrīmat-siṃhāsanēśvarī",
+        "meaning": "Queen of the glorious lion-throne"
+      },
+      {
+        "word": "Nāmnāṃ sāhasrakaṃ",
+        "meaning": "the thousand names — what the closing stanza says has been sung"
+      },
+      {
+        "word": "Lalitāmbikā",
+        "meaning": "Mother Lalitā — the name the recitation ends on"
+      }
+    ],
+    "sections": [
+      {
+        "id": "dhyanam",
+        "label": "Dhyānam",
+        "unit": "Meditation",
+        "note": "The verse of contemplation that opens the recitation.",
+        "anuvakas": [
+          {
+            "n": 1,
+            "label": "Dhyānam",
+            "verses": [
+              {
+                "devanagari": "सिन्धूरारुण विग्रहां त्रिणयनां माणिक्य मौळिस्फुरत्तारानायक शेखरां स्मितमुखी मापीन वक्षोरुहाम् । पाणिभ्या मलिपूर्ण रत्न चषकं रक्तोत्पलं बिभ्रतीं सौम्यां रत्नघटस्थ रक्त चरणां ध्यायेत्परामम्बिकाम् ॥",
+                "iast": "sindhūrāruṇa vigrahāṃ triṇayanāṃ māṇikya mauḻisphura-ttārānāyaka śēkharāṃ smitamukhī māpīna vakṣōruhām । pāṇibhyā malipūrṇa ratna chaṣakaṃ raktōtpalaṃ bibhratīṃ saumyāṃ ratnaghaṭastha rakta charaṇāṃ dhyāyētparāmambikām ॥",
+                "start": 0.0,
+                "end": 46.341,
+                "meaning": "Her body red as vermilion, three-eyed, her ruby-studded crown shining with the moon as its crest; smiling-faced and full-bosomed; holding in her hands a jewelled cup brimming with nectar, and a red lotus; gentle, her red feet resting on a jewelled pot: meditate on the Supreme Mother.",
+                "number": ""
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-dhyanam.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          }
+        ]
+      },
+      {
+        "id": "namani",
+        "label": "Nāmāni",
+        "unit": "Group of ten",
+        "note": "The thousand names, in a hundred and eighty-three stanzas. Ten stanzas to a group, each group its own recording.",
+        "anuvakas": [
+          {
+            "n": 1,
+            "label": "Verses 1–10",
+            "verses": [
+              {
+                "devanagari": "श्री माता श्री महाराज्ञी श्रीमत्सिंहासनेश्वरी । चिदग्नि कुण्डसम्भूता देवकार्यसमुद्यता ॥ १ ॥",
+                "iast": "śrī mātā, śrī mahārājñī, śrīmat-siṃhāsanēśvarī । chidagni kuṇḍasambhūtā, dēvakāryasamudyatā ॥ 1 ॥",
+                "start": 0.0,
+                "end": 10.867,
+                "meaning": "The Divine Mother; the Great Empress; Queen of the glorious lion-throne; Born from the fire-pit of pure consciousness; intent on carrying out the work of the gods.",
+                "number": "1"
+              },
+              {
+                "devanagari": "उद्यद्भानु सहस्राभा चतुर्बाहु समन्विता । रागस्वरूप पाशाढ्या क्रोधाकाराङ्कुशोज्ज्वला ॥ २ ॥",
+                "iast": "udyadbhānu sahasrābhā, chaturbāhu samanvitā । rāgasvarūpa pāśāḍhyā, krōdhākārāṅkuśōjjvalā ॥ 2 ॥",
+                "start": 10.867,
+                "end": 20.95,
+                "meaning": "Radiant as a thousand rising suns; endowed with four arms; Holding the noose that is desire (attachment); shining with the goad that is anger;",
+                "number": "2"
+              },
+              {
+                "devanagari": "मनोरूपेक्षुकोदण्डा पञ्चतन्मात्र सायका । निजारुण प्रभापूर मज्जद्ब्रह्माण्डमण्डला ॥ ३ ॥",
+                "iast": "manōrūpēkṣukōdaṇḍā, pañchatanmātra sāyakā । nijāruṇa prabhāpūra majjad-brahmāṇḍamaṇḍalā ॥ 3 ॥",
+                "start": 20.95,
+                "end": 30.668,
+                "meaning": "Holding the sugarcane bow that is the mind; whose arrows are the five subtle elements (tanmatras); Who submerges the whole universe in the flood of her own rosy-red radiance.",
+                "number": "3"
+              },
+              {
+                "devanagari": "चम्पकाशोक पुन्नाग सौगन्धिक लसत्कचा । कुरुविन्द मणिश्रेणी कनत्कोटीर मण्डिता ॥ ४ ॥",
+                "iast": "champakāśōka punnāga saugandhika lasatkachā kuruvinda maṇiśrēṇī kanatkōṭīra maṇḍitā ॥ 4 ॥",
+                "start": 30.668,
+                "end": 39.732,
+                "meaning": "Whose shining hair is adorned with champaka, ashoka, punnaga and saugandhika flowers; Adorned with a crown sparkling with rows of kuruvinda gems (rubies).",
+                "number": "4"
+              },
+              {
+                "devanagari": "अष्टमी चन्द्र विभ्राज दळिकस्थल शोभिता । मुखचन्द्र कळङ्काभ म्ड़्गनाभि विशेषका ॥ ५ ॥",
+                "iast": "aṣṭamī chandra vibhrāja daḻikasthala śōbhitā । mukhachandra kaḻaṅkābha mṛganābhi viśēṣakā ॥ 5 ॥",
+                "start": 39.732,
+                "end": 48.64,
+                "meaning": "Whose forehead shines like the moon of the eighth lunar day (the half moon); Whose musk tilaka on her moon-like face looks like the mark on the moon.",
+                "number": "5"
+              },
+              {
+                "devanagari": "वदनस्मर माङ्गल्य ग्ढ़तोरण चिल्लिका । वक्त्रलक्ष्मी परीवाह चलन्मीनाभ लोचना ॥ ६ ॥",
+                "iast": "vadanasmara māṅgalya gṛhatōraṇa chillikā । vaktralakṣmī parīvāha chalanmīnābha lōchanā ॥ 6 ॥",
+                "start": 48.64,
+                "end": 57.861,
+                "meaning": "Whose eyebrows are like the arched gateway to the house of Kama, which is her face; Whose eyes are like fish darting in the stream of beauty flowing from her face.",
+                "number": "6"
+              },
+              {
+                "devanagari": "नवचम्पक पुष्पाभ नासादण्ड विराजिता । ताराकान्ति तिरस्कारि नासाभरण भासुरा ॥ ७ ॥",
+                "iast": "navachampaka puṣpābha nāsādaṇḍa virājitā । tārākānti tiraskāri nāsābharaṇa bhāsurā ॥ 7 ॥",
+                "start": 57.861,
+                "end": 67.448,
+                "meaning": "Graced with a nose like a freshly opened champaka flower; Radiant with a nose-ornament that outshines the brilliance of the stars.",
+                "number": "7"
+              },
+              {
+                "devanagari": "कदम्ब मञ्जरीकॢप्त कर्णपूर मनोहरा । ताटङ्क युगळीभूत तपनोडुप मण्डला ॥ ८ ॥",
+                "iast": "kadamba mañjarīkḷpta karṇapūra manōharā । tāṭaṅka yugaḻībhūta tapanōḍupa maṇḍalā ॥ 8 ॥",
+                "start": 67.448,
+                "end": 76.121,
+                "meaning": "Charming with ear-ornaments made of clusters of kadamba flowers; Who wears the sun and the moon as her pair of earrings.",
+                "number": "8"
+              },
+              {
+                "devanagari": "पद्मराग शिलादर्श परिभावि कपोलभूः । नवविद्रुम बिम्बश्रीः न्यक्कारि रदनच्छदा ॥ ९ ॥",
+                "iast": "padmarāga śilādarśa paribhāvi kapōlabhūḥ । navavidruma bimbaśrīḥ nyakkāri radanachChadā ॥ 9 ॥",
+                "start": 76.121,
+                "end": 85.394,
+                "meaning": "Whose cheeks outshine mirrors of polished ruby; Whose lips surpass the beauty of fresh coral and the bimba fruit.",
+                "number": "9"
+              },
+              {
+                "devanagari": "शुद्ध विद्याङ्कुराकार द्विजपङ्क्ति द्वयोज्ज्वला । कर्पूरवीटि कामोद समाकर्षद्दिगन्तरा ॥ १० ॥",
+                "iast": "śuddha vidyāṅkurākāra dvijapaṅkti dvayōjjvalā । karpūravīṭi kāmōda samākarṣaddigantarā ॥ 10 ॥",
+                "start": 85.394,
+                "end": 94.903,
+                "meaning": "Shining with two rows of teeth like the sprouting buds of pure knowledge (Shuddha Vidya); Whose camphor-scented betel draws in the fragrance of every direction.",
+                "number": "10"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-01.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 2,
+            "label": "Verses 11–20",
+            "verses": [
+              {
+                "devanagari": "निजसल्लाप माधुर्य विनिर्भत्सित कच्छपी । मन्दस्मित प्रभापूर मज्जत्कामेश मानसा ॥ ११ ॥",
+                "iast": "nijasallāpa mādhurya vinirbhatsita kachChapī । mandasmita prabhāpūra majjat-kāmēśa mānasā ॥ 11 ॥",
+                "start": 0.0,
+                "end": 9.352,
+                "meaning": "Whose sweet speech puts to shame the veena (kacchapi) of Sarasvati; Who submerges the mind of Kameshvara in the radiance of her gentle smile.",
+                "number": "11"
+              },
+              {
+                "devanagari": "अनाकलित साद्ड़्श्य चुबुक श्री विराजिता । कामेशबद्ध माङ्गल्य सूत्रशोभित कन्थरा ॥ १२ ॥",
+                "iast": "anākalita sādṛśya chubuka śrī virājitā । kāmēśabaddha māṅgalya sūtraśōbhita kantharā ॥ 12 ॥",
+                "start": 9.352,
+                "end": 18.26,
+                "meaning": "Graced with a chin of incomparable beauty; Whose neck is adorned with the marriage thread tied by Kameshvara.",
+                "number": "12"
+              },
+              {
+                "devanagari": "कनकाङ्गद केयूर कमनीय भुजान्विता । रत्नग्रैवेय चिन्ताक लोलमुक्ता फलान्विता ॥ १३ ॥",
+                "iast": "kanakāṅgada kēyūra kamanīya bhujānvitā । ratnagraivēya chintāka lōlamuktā phalānvitā ॥ 13 ॥",
+                "start": 18.26,
+                "end": 27.35,
+                "meaning": "With lovely arms adorned with golden armlets and bracelets; Wearing a jewelled necklace with a pendant and swinging pearls.",
+                "number": "13"
+              },
+              {
+                "devanagari": "कामेश्वर प्रेमरत्न मणि प्रतिपणस्तनी । नाभ्यालवाल रोमाळि लताफल कुचद्वयी ॥ १४ ॥",
+                "iast": "kāmēśvara prēmaratna maṇi pratipaṇastanī। nābhyālavāla rōmāḻi latāphala kuchadvayī ॥ 14 ॥",
+                "start": 27.35,
+                "end": 36.101,
+                "meaning": "Who gives her breasts in exchange for the precious gem of Kameshvara's love; Whose breasts are like the fruits of the creeper of fine hair rising from the basin of her navel.",
+                "number": "14"
+              },
+              {
+                "devanagari": "लक्ष्यरोमलता धारता समुन्नेय मध्यमा । स्तनभार दळन्मध्य पट्टबन्ध वळित्रया ॥ १५ ॥",
+                "iast": "lakṣyarōmalatā dhāratā samunnēya madhyamā । stanabhāra daḻan-madhya paṭṭabandha vaḻitrayā ॥ 15 ॥",
+                "start": 36.101,
+                "end": 45.113,
+                "meaning": "Whose waist is so slender that it can only be inferred from the creeper of fine hair; Whose waist, strained by the weight of her breasts, bears three folds like a binding belt.",
+                "number": "15"
+              },
+              {
+                "devanagari": "अरुणारुण कौसुम्भ वस्त्र भास्वत्कटीतटी । रत्नकिङ्किणि कारम्य रशनादाम भूषिता ॥ १६ ॥",
+                "iast": "aruṇāruṇa kausumbha vastra bhāsvat-kaṭītaṭī । ratnakiṅkiṇi kāramya raśanādāma bhūṣitā ॥ 16 ॥",
+                "start": 45.113,
+                "end": 54.282,
+                "meaning": "Whose hips shine in a garment dyed deep red with safflower; Adorned with a girdle made charming by jewelled bells.",
+                "number": "16"
+              },
+              {
+                "devanagari": "कामेश ज्ञात सौभाग्य मार्दवोरु द्वयान्विता । माणिक्य मकुटाकार जानुद्वय विराजिता ॥ १७ ॥",
+                "iast": "kāmēśa jñāta saubhāgya mārdavōru dvayānvitā । māṇikya makuṭākāra jānudvaya virājitā ॥ 17 ॥",
+                "start": 54.282,
+                "end": 63.974,
+                "meaning": "Whose thighs, in their beauty and softness, are known only to Kamesha; Whose knees shine like crowns carved from rubies.",
+                "number": "17"
+              },
+              {
+                "devanagari": "इन्द्रगोप परिक्षिप्त स्मर तूणाभ जङ्घिका । गूढगुल्भा कूर्मप्ड़्ष्ठ जयिष्णु प्रपदान्विता ॥ १८ ॥",
+                "iast": "indragōpa parikṣipta smara tūṇābha jaṅghikā । gūḍhagulbhā kūrmapṛṣṭha jayiṣṇu prapadānvitā ॥ 18 ॥",
+                "start": 63.974,
+                "end": 73.535,
+                "meaning": "Whose calves are like Kama's quiver, decorated with red indragopa insects; With hidden ankles, and feet whose arches surpass the curve of a tortoise's back.",
+                "number": "18"
+              },
+              {
+                "devanagari": "नखदीधिति सञ्छन्न नमज्जन तमोगुणा । पदद्वय प्रभाजाल पराक्ड़्त सरोरुहा ॥ १९ ॥",
+                "iast": "nakhadīdhiti sañChanna namajjana tamōguṇā । padadvaya prabhājāla parākṛta sarōruhā ॥ 19 ॥",
+                "start": 73.535,
+                "end": 82.181,
+                "meaning": "The radiance of whose toenails dispels the darkness of ignorance in those who bow to her; Whose two feet outshine the lotuses in brilliance.",
+                "number": "19"
+              },
+              {
+                "devanagari": "शिञ्जान मणिमञ्जीर मण्डित श्री पदाम्बुजा । मराळी मन्दगमना महालावण्य शेवधिः ॥ २० ॥",
+                "iast": "śiñjāna maṇimañjīra maṇḍita śrī padāmbujā । marāḻī mandagamanā, mahālāvaṇya śēvadhiḥ ॥ 20 ॥",
+                "start": 82.181,
+                "end": 91.585,
+                "meaning": "Whose lovely lotus feet are adorned with tinkling jewelled anklets; Who walks slowly and gracefully like a swan; the treasure-house of supreme beauty.",
+                "number": "20"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-02.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 3,
+            "label": "Verses 21–30",
+            "verses": [
+              {
+                "devanagari": "सर्वारुणाऽनवद्याङ्गी सर्वाभरण भूषिता । शिवकामेश्वराङ्कस्था शिवा स्वाधीन वल्लभा ॥ २१ ॥",
+                "iast": "sarvāruṇā'navadyāṅgī sarvābharaṇa bhūṣitā । śivakāmēśvarāṅkasthā, śivā, svādhīna vallabhā ॥ 21 ॥",
+                "start": 0.0,
+                "end": 10.005,
+                "meaning": "Red in every way; flawless in every limb; adorned with all ornaments; Seated on the lap of Shiva-Kameshvara; the Auspicious One (Shiva); who holds her beloved under her sway.",
+                "number": "21"
+              },
+              {
+                "devanagari": "सुमेरु मध्यश्ड़्ङ्गस्था श्रीमन्नगर नायिका । चिन्तामणि ग्ढ़ान्तस्था पञ्चब्रह्मासनस्थिता ॥ २२ ॥",
+                "iast": "sumēru madhyaśṛṅgasthā, śrīmannagara nāyikā । chintāmaṇi gṛhāntasthā, pañchabrahmāsanasthitā ॥ 22 ॥",
+                "start": 10.005,
+                "end": 19.566,
+                "meaning": "Dwelling on the central peak of Mount Meru; Queen of the glorious city (Srinagara); Dwelling in the mansion of wish-fulfilling gems (Chintamani); seated on the throne of the five Brahmas.",
+                "number": "22"
+              },
+              {
+                "devanagari": "महापद्माटवी संस्था कदम्ब वनवासिनी । सुधासागर मध्यस्था कामाक्षी कामदायिनी ॥ २३ ॥",
+                "iast": "mahāpadmāṭavī saṃsthā, kadamba vanavāsinī । sudhāsāgara madhyasthā, kāmākṣī kāmadāyinī ॥ 23 ॥",
+                "start": 19.566,
+                "end": 29.048,
+                "meaning": "Dwelling in the great forest of lotuses; residing in the kadamba grove; Abiding in the middle of the ocean of nectar; the one with loving eyes (Kamakshi); the giver of desires.",
+                "number": "23"
+              },
+              {
+                "devanagari": "देवर्षि गणसङ्घात स्तूयमानात्म वैभवा । भण्डासुर वधोद्युक्त शक्तिसेना समन्विता ॥ २४ ॥",
+                "iast": "dēvarṣi gaṇasaṅghāta stūyamānātma vaibhavā । bhaṇḍāsura vadhōdyukta śaktisēnā samanvitā ॥ 24 ॥",
+                "start": 29.048,
+                "end": 38.844,
+                "meaning": "Whose glory is praised by hosts of gods and sages; Accompanied by an army of Shaktis ready to slay the demon Bhanda.",
+                "number": "24"
+              },
+              {
+                "devanagari": "सम्पत्करी समारूढ सिन्धुर व्रजसेविता । अश्वारूढाधिष्ठिताश्व कोटिकोटि भिराव्ड़्ता ॥ २५ ॥",
+                "iast": "sampatkarī samārūḍha sindhura vrajasēvitā । aśvārūḍhādhiṣṭhitāśva kōṭikōṭi bhirāvṛtā ॥ 25 ॥",
+                "start": 38.844,
+                "end": 48.457,
+                "meaning": "Attended by herds of elephants led by Sampatkari; Surrounded by countless crores of horses commanded by Ashvarudha.",
+                "number": "25"
+              },
+              {
+                "devanagari": "चक्रराज रथारूढ सर्वायुध परिष्क्ड़्ता । गेयचक्र रथारूढ मन्त्रिणी परिसेविता ॥ २६ ॥",
+                "iast": "chakrarāja rathārūḍha sarvāyudha pariṣkṛtā । gēyachakra rathārūḍha mantriṇī parisēvitā ॥ 26 ॥",
+                "start": 48.457,
+                "end": 57.783,
+                "meaning": "Riding the chariot Chakraraja, equipped with every weapon; Served by Mantrini (Shyamala), who rides the chariot Geyachakra.",
+                "number": "26"
+              },
+              {
+                "devanagari": "किरिचक्र रथारूढ दण्डनाथा पुरस्क्ड़्ता । ज्वालामालिनि काक्षिप्त वह्निप्राकार मध्यगा ॥ २७ ॥",
+                "iast": "kirichakra rathārūḍha daṇḍanāthā puraskṛtā । jvālāmālini kākṣipta vahniprākāra madhyagā ॥ 27 ॥",
+                "start": 57.783,
+                "end": 67.239,
+                "meaning": "Escorted by Dandanatha (Varahi), who rides the chariot Kirichakra; Stationed in the middle of the fortress of fire raised by Jvalamalini.",
+                "number": "27"
+              },
+              {
+                "devanagari": "भण्डसैन्य वधोद्युक्त शक्ति विक्रमहर्षिता । नित्या पराक्रमाटोप निरीक्षण समुत्सुका ॥ २८ ॥",
+                "iast": "bhaṇḍasainya vadhōdyukta śakti vikramaharṣitā । nityā parākramāṭōpa nirīkṣaṇa samutsukā ॥ 28 ॥",
+                "start": 67.239,
+                "end": 76.33,
+                "meaning": "Delighted by the valour of the Shaktis set on destroying Bhanda's army; Eager to watch the might and prowess of the Nitya goddesses.",
+                "number": "28"
+              },
+              {
+                "devanagari": "भण्डपुत्र वधोद्युक्त बालाविक्रम नन्दिता । मन्त्रिण्यम्बा विरचित विषङ्ग वधतोषिता ॥ २९ ॥",
+                "iast": "bhaṇḍaputra vadhōdyukta bālāvikrama nanditā । mantriṇyambā virachita viṣaṅga vadhatōṣitā ॥ 29 ॥",
+                "start": 76.33,
+                "end": 85.447,
+                "meaning": "Pleased by the valour of Bala, intent on slaying the sons of Bhanda; Gratified by Mantrini's slaying of the demon Vishanga.",
+                "number": "29"
+              },
+              {
+                "devanagari": "विशुक्र प्राणहरण वाराही वीर्यनन्दिता । कामेश्वर मुखालोक कल्पित श्री गणेश्वरा ॥ ३० ॥",
+                "iast": "viśukra prāṇaharaṇa vārāhī vīryananditā । kāmēśvara mukhālōka kalpita śrī gaṇēśvarā ॥ 30 ॥",
+                "start": 85.447,
+                "end": 95.086,
+                "meaning": "Delighted by the valour of Varahi, who took the life of Vishukra; Who brought forth Ganesha by a glance at the face of Kameshvara.",
+                "number": "30"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-03.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 4,
+            "label": "Verses 31–40",
+            "verses": [
+              {
+                "devanagari": "महागणेश निर्भिन्न विघ्नयन्त्र प्रहर्षिता । भण्डासुरेन्द्र निर्मुक्त शस्त्र प्रत्यस्त्र वर्षिणी ॥ ३१ ॥",
+                "iast": "mahāgaṇēśa nirbhinna vighnayantra praharṣitā । bhaṇḍāsurēndra nirmukta śastra pratyastra varṣiṇī ॥ 31 ॥",
+                "start": 0.0,
+                "end": 9.587,
+                "meaning": "Rejoicing when Mahaganesha shattered the obstacle-yantra (Vighna-yantra); Who showered counter-weapons against every weapon hurled by Bhandasura.",
+                "number": "31"
+              },
+              {
+                "devanagari": "कराङ्गुळि नखोत्पन्न नारायण दशाक्ड़्तिः । महापाशुपतास्त्राग्नि निर्दग्धासुर सैनिका ॥ ३२ ॥",
+                "iast": "karāṅguḻi nakhōtpanna nārāyaṇa daśākṛtiḥ । mahāpāśupatāstrāgni nirdagdhāsura sainikā ॥ 32 ॥",
+                "start": 9.587,
+                "end": 19.357,
+                "meaning": "Who created the ten incarnations of Narayana from her fingernails; Who burnt the demon armies with the fire of the Mahapashupata missile.",
+                "number": "32"
+              },
+              {
+                "devanagari": "कामेश्वरास्त्र निर्दग्ध सभण्डासुर शून्यका । ब्रह्मोपेन्द्र महेन्द्रादि देवसंस्तुत वैभवा ॥ ३३ ॥",
+                "iast": "kāmēśvarāstra nirdagdha sabhaṇḍāsura śūnyakā । brahmōpēndra mahēndrādi dēvasaṃstuta vaibhavā ॥ 33 ॥",
+                "start": 19.357,
+                "end": 29.022,
+                "meaning": "Who burnt Bhandasura and his city Shunyaka with the Kameshvara missile; Whose glory is praised by Brahma, Vishnu, Indra and the other gods.",
+                "number": "33"
+              },
+              {
+                "devanagari": "हरनेत्राग्नि सन्दग्ध काम सञ्जीवनौषधिः । श्रीमद्वाग्भव कूटैक स्वरूप मुखपङ्कजा ॥ ३४ ॥",
+                "iast": "haranētrāgni sandagdha kāma sañjīvanauṣadhiḥ । śrīmadvāgbhava kūṭaika svarūpa mukhapaṅkajā ॥ 34 ॥",
+                "start": 29.022,
+                "end": 38.452,
+                "meaning": "The life-giving herb that revived Kama, who had been burnt by the fire of Shiva's eye; Whose lotus face is the Vagbhava-kuta, the first section of the Panchadashi mantra.",
+                "number": "34"
+              },
+              {
+                "devanagari": "कण्ठाधः कटिपर्यन्त मध्यकूट स्वरूपिणी । शक्तिकूटैक तापन्न कट्यथोभाग धारिणी ॥ ३५ ॥",
+                "iast": "kaṇṭhādhaḥ kaṭiparyanta madhyakūṭa svarūpiṇī । śaktikūṭaika tāpanna kaṭyathōbhāga dhāriṇī ॥ 35 ॥",
+                "start": 38.452,
+                "end": 48.039,
+                "meaning": "Whose body from the neck to the waist is the middle section (Kamaraja-kuta); Whose body below the waist is the Shakti-kuta.",
+                "number": "35"
+              },
+              {
+                "devanagari": "मूलमन्त्रात्मिका मूलकूट त्रय कळेबरा । कुळाम्ड़्तैक रसिका कुळसङ्केत पालिनी ॥ ३६ ॥",
+                "iast": "mūlamantrātmikā, mūlakūṭa traya kaḻēbarā । kuḻāmṛtaika rasikā, kuḻasaṅkēta pālinī ॥ 36 ॥",
+                "start": 48.039,
+                "end": 57.051,
+                "meaning": "Whose very self is the root mantra (Mula-mantra); whose body is its three sections; Who delights in the nectar of Kula; protector of the secret conventions of Kula.",
+                "number": "36"
+              },
+              {
+                "devanagari": "कुळाङ्गना कुळान्तःस्था कौळिनी कुळयोगिनी । अकुळा समयान्तःस्था समयाचार तत्परा ॥ ३७ ॥",
+                "iast": "kuḻāṅganā, kuḻāntaḥsthā, kauḻinī, kuḻayōginī । akuḻā, samayāntaḥsthā, samayāchāra tatparā ॥ 37 ॥",
+                "start": 57.051,
+                "end": 66.456,
+                "meaning": "The lady of the Kula tradition; dwelling within Kula; the Kaulini; the Kula-yogini; Beyond Kula (Akula); dwelling within Samaya; devoted to the Samaya way of worship.",
+                "number": "37"
+              },
+              {
+                "devanagari": "मूलाधारैक निलया ब्रह्मग्रन्थि विभेदिनी । मणिपूरान्त रुदिता विष्णुग्रन्थि विभेदिनी ॥ ३८ ॥",
+                "iast": "mūlādhāraika nilayā, brahmagranthi vibhēdinī । maṇipūrānta ruditā, viṣṇugranthi vibhēdinī ॥ 38 ॥",
+                "start": 66.456,
+                "end": 75.99,
+                "meaning": "Residing in the Muladhara; who pierces the knot of Brahma; Who rises up in the Manipura; who pierces the knot of Vishnu;",
+                "number": "38"
+              },
+              {
+                "devanagari": "आज्ञा चक्रान्तराळस्था रुद्रग्रन्थि विभेदिनी । सहस्राराम्बुजा रूढा सुधासाराभि वर्षिणी ॥ ३९ ॥",
+                "iast": "ājñā chakrāntarāḻasthā, rudragranthi vibhēdinī । sahasrārāmbujā rūḍhā, sudhāsārābhi varṣiṇī ॥ 39 ॥",
+                "start": 75.99,
+                "end": 86.596,
+                "meaning": "Abiding in the Ajna chakra; who pierces the knot of Rudra; Ascending to the thousand-petalled lotus (Sahasrara); who showers streams of nectar.",
+                "number": "39"
+              },
+              {
+                "devanagari": "तटिल्लता समरुचिः षट्चक्रोपरि संस्थिता । महाशक्तिः कुण्डलिनी बिसतन्तु तनीयसी ॥ ४० ॥",
+                "iast": "taṭillatā samaruchiḥ, ṣaṭ-chakrōpari saṃsthitā । mahāśaktiḥ, kuṇḍalinī, bisatantu tanīyasī ॥ 40 ॥",
+                "start": 86.596,
+                "end": 95.817,
+                "meaning": "Brilliant as a streak of lightning; established above the six chakras; The Great Power; Kundalini; as fine as a fibre of the lotus stalk.",
+                "number": "40"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-04.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 5,
+            "label": "Verses 41–50",
+            "verses": [
+              {
+                "devanagari": "भवानी भावनागम्या भवारण्य कुठारिका । भद्रप्रिया भद्रमूर्ति र्भक्तसौभाग्य दायिनी ॥ ४१ ॥",
+                "iast": "bhavānī, bhāvanāgamyā, bhavāraṇya kuṭhārikā । bhadrapriyā, bhadramūrti, rbhaktasaubhāgya dāyinī ॥ 41 ॥",
+                "start": 0.0,
+                "end": 10.109,
+                "meaning": "Bhavani (consort of Shiva); reached through contemplation; the axe that clears the forest of worldly existence; Fond of what is auspicious; of auspicious form; giver of good fortune to devotees.",
+                "number": "41"
+              },
+              {
+                "devanagari": "भक्तिप्रिया भक्तिगम्या भक्तिवश्या भयापहा । शाम्भवी शारदाराध्या शर्वाणी शर्मदायिनी ॥ ४२ ॥",
+                "iast": "bhaktipriyā, bhaktigamyā, bhaktivaśyā, bhayāpahā । śāmbhavī, śāradārādhyā, śarvāṇī, śarmadāyinī ॥ 42 ॥",
+                "start": 10.109,
+                "end": 20.532,
+                "meaning": "Who loves devotion; reached through devotion; won over by devotion; remover of fear; Consort of Shambhu; worshipped by Sharada (Sarasvati); consort of Sharva; giver of happiness.",
+                "number": "42"
+              },
+              {
+                "devanagari": "शाङ्करी श्रीकरी साध्वी शरच्चन्द्रनिभानना । शातोदरी शान्तिमती निराधारा निरञ्जना ॥ ४३ ॥",
+                "iast": "śāṅkarī, śrīkarī, sādhvī, śarachchandranibhānanā । śātōdarī, śāntimatī, nirādhārā, nirañjanā ॥ 43 ॥",
+                "start": 20.532,
+                "end": 30.511,
+                "meaning": "Consort of Shankara; giver of prosperity; the chaste one; whose face is like the autumn moon; Slender-waisted; full of peace; needing no support; spotless.",
+                "number": "43"
+              },
+              {
+                "devanagari": "निर्लेपा निर्मला नित्या निराकारा निराकुला । निर्गुणा निष्कळा शान्ता निष्कामा निरुपप्लवा ॥ ४४ ॥",
+                "iast": "nirlēpā, nirmalā, nityā, nirākārā, nirākulā । nirguṇā, niṣkaḻā, śāntā, niṣkāmā, nirupaplavā ॥ 44 ॥",
+                "start": 30.511,
+                "end": 40.777,
+                "meaning": "Untainted; pure; eternal; formless; undisturbed; Beyond the gunas; without parts; serene; desireless; indestructible.",
+                "number": "44"
+              },
+              {
+                "devanagari": "नित्यमुक्ता निर्विकारा निष्प्रपञ्चा निराश्रया । नित्यशुद्धा नित्यबुद्धा निरवद्या निरन्तरा ॥ ४५ ॥",
+                "iast": "nityamuktā, nirvikārā, niṣprapañchā, nirāśrayā । nityaśuddhā, nityabuddhā, niravadyā, nirantarā ॥ 45 ॥",
+                "start": 40.777,
+                "end": 50.704,
+                "meaning": "Eternally free; changeless; beyond the manifest world; depending on nothing; Eternally pure; eternally awakened; blameless; ever-present everywhere.",
+                "number": "45"
+              },
+              {
+                "devanagari": "निष्कारणा निष्कळङ्का निरुपाधि र्निरीश्वरा । नीरागा रागमथनी निर्मदा मदनाशिनी ॥ ४६ ॥",
+                "iast": "niṣkāraṇā, niṣkaḻaṅkā, nirupādhi, rnirīśvarā । nīrāgā, rāgamathanī, nirmadā, madanāśinī ॥ 46 ॥",
+                "start": 50.704,
+                "end": 60.369,
+                "meaning": "Without cause; stainless; free of limiting conditions; with no lord above her; Free of passion; destroyer of passion; free of pride; destroyer of pride.",
+                "number": "46"
+              },
+              {
+                "devanagari": "निश्चिन्ता निरहङ्कारा निर्मोहा मोहनाशिनी । निर्ममा ममताहन्त्री निष्पापा पापनाशिनी ॥ ४७ ॥",
+                "iast": "niśchintā, nirahaṅkārā, nirmōhā, mōhanāśinī । nirmamā, mamatāhantrī, niṣpāpā, pāpanāśinī ॥ 47 ॥",
+                "start": 60.369,
+                "end": 70.661,
+                "meaning": "Free of worry; free of ego; free of delusion; destroyer of delusion; Free of possessiveness; slayer of possessiveness; sinless; destroyer of sin.",
+                "number": "47"
+              },
+              {
+                "devanagari": "निष्क्रोधा क्रोधशमनी निर्लोभा लोभनाशिनी । निःसंशया संशयघ्नी निर्भवा भवनाशिनी ॥ ४८ ॥",
+                "iast": "niṣkrōdhā, krōdhaśamanī, nirlōbhā, lōbhanāśinī । niḥsaṃśayā, saṃśayaghnī, nirbhavā, bhavanāśinī ॥ 48 ॥",
+                "start": 70.661,
+                "end": 81.058,
+                "meaning": "Free of anger; queller of anger; free of greed; destroyer of greed; Free of doubt; slayer of doubt; unborn; destroyer of the cycle of birth.",
+                "number": "48"
+              },
+              {
+                "devanagari": "निर्विकल्पा निराबाधा निर्भेदा भेदनाशिनी । निर्नाशा म्ड़्त्युमथनी निष्क्रिया निष्परिग्रहा ॥ ४९ ॥",
+                "iast": "nirvikalpā, nirābādhā, nirbhēdā, bhēdanāśinī । nirnāśā, mṛtyumathanī, niṣkriyā, niṣparigrahā ॥ 49 ॥",
+                "start": 81.058,
+                "end": 91.402,
+                "meaning": "Beyond all mental modifications; unobstructed; free of difference; destroyer of the sense of difference; Imperishable; conqueror of death; actionless; possessing nothing.",
+                "number": "49"
+              },
+              {
+                "devanagari": "निस्तुला नीलचिकुरा निरपाया निरत्यया । दुर्लभा दुर्गमा दुर्गा दुःखहन्त्री सुखप्रदा ॥ ५० ॥",
+                "iast": "nistulā, nīlachikurā, nirapāyā, niratyayā । durlabhā, durgamā, durgā, duḥkhahantrī, sukhapradā ॥ 50 ॥",
+                "start": 91.402,
+                "end": 101.46,
+                "meaning": "Incomparable; with dark-blue hair; free of decline; never surpassed; Hard to attain; hard to approach; Durga; destroyer of sorrow; giver of happiness.",
+                "number": "50"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-05.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 6,
+            "label": "Verses 51–60",
+            "verses": [
+              {
+                "devanagari": "दुष्टदूरा दुराचार शमनी दोषवर्जिता । सर्वज्ञा सान्द्रकरुणा समानाधिकवर्जिता ॥ ५१ ॥",
+                "iast": "duṣṭadūrā, durāchāra śamanī, dōṣavarjitā । sarvajñā, sāndrakaruṇā, samānādhikavarjitā ॥ 51 ॥",
+                "start": 0.0,
+                "end": 9.77,
+                "meaning": "Far from the wicked; queller of evil conduct; free of faults; All-knowing; full of deep compassion; having no equal or superior.",
+                "number": "51"
+              },
+              {
+                "devanagari": "सर्वशक्तिमयी सर्वमङ्गळा सद्गतिप्रदा । सर्वेश्वरी सर्वमयी सर्वमन्त्र स्वरूपिणी ॥ ५२ ॥",
+                "iast": "sarvaśaktimayī, sarvamaṅgaḻā, sadgatipradā । sarvēśvarī, sarvamayī, sarvamantra svarūpiṇī ॥ 52 ॥",
+                "start": 9.77,
+                "end": 19.461,
+                "meaning": "Possessing all powers; the auspiciousness of all; giver of the good path (liberation); Ruler of all; pervading all; embodiment of all mantras.",
+                "number": "52"
+              },
+              {
+                "devanagari": "सर्वयन्त्रात्मिका सर्वतन्त्ररूपा मनोन्मनी । माहेश्वरी महादेवी महालक्ष्मी र्म्ड़्डप्रिया ॥ ५३ ॥",
+                "iast": "sarvayantrātmikā, sarvatantrarūpā, manōnmanī । māhēśvarī, mahādēvī, mahālakṣmī, rmṛḍapriyā ॥ 53 ॥",
+                "start": 19.461,
+                "end": 29.414,
+                "meaning": "Essence of all yantras; embodiment of all tantras; beyond the mind (Manonmani); Consort of Maheshvara; the Great Goddess; Mahalakshmi; beloved of Mrida (Shiva).",
+                "number": "53"
+              },
+              {
+                "devanagari": "महारूपा महापूज्या महापातक नाशिनी । महामाया महासत्त्वा महाशक्ति र्महारतिः ॥ ५४ ॥",
+                "iast": "mahārūpā, mahāpūjyā, mahāpātaka nāśinī । mahāmāyā, mahāsattvā, mahāśakti rmahāratiḥ ॥ 54 ॥",
+                "start": 29.414,
+                "end": 39.34,
+                "meaning": "Of vast form; supremely worthy of worship; destroyer of the gravest sins; The Great Illusion (Mahamaya); of great strength; the Great Power; of great delight.",
+                "number": "54"
+              },
+              {
+                "devanagari": "महाभोगा महैश्वर्या महावीर्या महाबला । महाबुद्धि र्महासिद्धि र्महायोगेश्वरेश्वरी ॥ ५५ ॥",
+                "iast": "mahābhōgā, mahaiśvaryā, mahāvīryā, mahābalā । mahābuddhi, rmahāsiddhi, rmahāyōgēśvarēśvarī ॥ 55 ॥",
+                "start": 39.34,
+                "end": 49.763,
+                "meaning": "Of great enjoyment; of great sovereignty; of great valour; of great might; Of great intellect; of great attainments; ruler even of the great lords of yoga.",
+                "number": "55"
+              },
+              {
+                "devanagari": "महातन्त्रा महामन्त्रा महायन्त्रा महासना । महायाग क्रमाराध्या महाभैरव पूजिता ॥ ५६ ॥",
+                "iast": "mahātantrā, mahāmantrā, mahāyantrā, mahāsanā । mahāyāga kramārādhyā, mahābhairava pūjitā ॥ 56 ॥",
+                "start": 49.763,
+                "end": 60.056,
+                "meaning": "Of the great tantras; of the great mantras; of the great yantras; of the great seat; Worshipped through the rites of the great sacrifice; worshipped by Mahabhairava.",
+                "number": "56"
+              },
+              {
+                "devanagari": "महेश्वर महाकल्प महाताण्डव साक्षिणी । महाकामेश महिषी महात्रिपुर सुन्दरी ॥ ५७ ॥",
+                "iast": "mahēśvara mahākalpa mahātāṇḍava sākṣiṇī । mahākāmēśa mahiṣī, mahātripura sundarī ॥ 57 ॥",
+                "start": 60.056,
+                "end": 69.277,
+                "meaning": "Witness of the great cosmic dance of Maheshvara at the end of the great age (kalpa); Chief queen of Mahakamesha; Maha Tripura Sundari.",
+                "number": "57"
+              },
+              {
+                "devanagari": "चतुःषष्ट्युपचाराढ्या चतुष्षष्टि कळामयी । महा चतुष्षष्टि कोटि योगिनी गणसेविता ॥ ५८ ॥",
+                "iast": "chatuḥṣaṣṭyupachārāḍhyā, chatuṣṣaṣṭi kaḻāmayī । mahā chatuṣṣaṣṭi kōṭi yōginī gaṇasēvitā ॥ 58 ॥",
+                "start": 69.277,
+                "end": 78.55,
+                "meaning": "Worthy of the sixty-four modes of worship; embodiment of the sixty-four arts; Served by the great hosts of sixty-four crore yoginis.",
+                "number": "58"
+              },
+              {
+                "devanagari": "मनुविद्या चन्द्रविद्या चन्द्रमण्डलमध्यगा । चारुरूपा चारुहासा चारुचन्द्र कळाधरा ॥ ५९ ॥",
+                "iast": "manuvidyā, chandravidyā, chandramaṇḍalamadhyagā । chārurūpā, chāruhāsā, chāruchandra kaḻādharā ॥ 59 ॥",
+                "start": 78.55,
+                "end": 88.163,
+                "meaning": "The Manu-vidya; the Chandra-vidya; dwelling in the centre of the moon's disc; Of lovely form; of lovely smile; wearing the lovely crescent moon.",
+                "number": "59"
+              },
+              {
+                "devanagari": "चराचर जगन्नाथा चक्रराज निकेतना । पार्वती पद्मनयना पद्मराग समप्रभा ॥ ६० ॥",
+                "iast": "charāchara jagannāthā, chakrarāja nikētanā । pārvatī, padmanayanā, padmarāga samaprabhā ॥ 60 ॥",
+                "start": 88.163,
+                "end": 97.384,
+                "meaning": "Ruler of the moving and unmoving world; dwelling in the Sri Chakra; Parvati (daughter of the mountain); lotus-eyed; radiant as a ruby.",
+                "number": "60"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-06.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 7,
+            "label": "Verses 61–70",
+            "verses": [
+              {
+                "devanagari": "पञ्चप्रेतासनासीना पञ्चब्रह्म स्वरूपिणी । चिन्मयी परमानन्दा विज्ञान घनरूपिणी ॥ ६१ ॥",
+                "iast": "pañchaprētāsanāsīnā, pañchabrahma svarūpiṇī । chinmayī, paramānandā, vijñāna ghanarūpiṇī ॥ 61 ॥",
+                "start": 0.0,
+                "end": 9.352,
+                "meaning": "Seated on the seat of the five corpses (pancha-preta); embodiment of the five Brahmas; Full of consciousness; supreme bliss; a dense mass of wisdom.",
+                "number": "61"
+              },
+              {
+                "devanagari": "ध्यानध्यात्ड़् ध्येयरूपा धर्माधर्म विवर्जिता । विश्वरूपा जागरिणी स्वपन्ती तैजसात्मिका ॥ ६२ ॥",
+                "iast": "dhyānadhyātṛ dhyēyarūpā, dharmādharma vivarjitā । viśvarūpā, jāgariṇī, svapantī, taijasātmikā ॥ 62 ॥",
+                "start": 9.352,
+                "end": 19.54,
+                "meaning": "Who is meditation, the meditator and the object of meditation; beyond merit and demerit; Of universal form (Vishva); the waking state; the dreaming state; whose nature is Taijasa;",
+                "number": "62"
+              },
+              {
+                "devanagari": "सुप्ता प्राज्ञात्मिका तुर्या सर्वावस्था विवर्जिता । स्ड़्ष्टिकर्त्री ब्रह्मरूपा गोप्त्री गोविन्दरूपिणी ॥ ६३ ॥",
+                "iast": "suptā, prājñātmikā, turyā, sarvāvasthā vivarjitā । sṛṣṭikartrī, brahmarūpā, gōptrī, gōvindarūpiṇī ॥ 63 ॥",
+                "start": 19.54,
+                "end": 30.015,
+                "meaning": "The deep-sleep state; whose nature is Prajna; the fourth state (Turiya); beyond all states; The Creator; of the form of Brahma; the Protector; of the form of Govinda (Vishnu);",
+                "number": "63"
+              },
+              {
+                "devanagari": "संहारिणी रुद्ररूपा तिरोधानकरीश्वरी । सदाशिवानुग्रहदा पञ्चक्ड़्त्य परायणा ॥ ६४ ॥",
+                "iast": "saṃhāriṇī, rudrarūpā, tirōdhānakarīśvarī । sadāśivānugrahadā, pañchakṛtya parāyaṇā ॥ 64 ॥",
+                "start": 30.015,
+                "end": 39.21,
+                "meaning": "The Destroyer; of the form of Rudra; the goddess who brings about concealment (Tirodhana); Who grants grace as Sadashiva; devoted to the five cosmic functions.",
+                "number": "64"
+              },
+              {
+                "devanagari": "भानुमण्डल मध्यस्था भैरवी भगमालिनी । पद्मासना भगवती पद्मनाभ सहोदरी ॥ ६५ ॥",
+                "iast": "bhānumaṇḍala madhyasthā, bhairavī, bhagamālinī । padmāsanā, bhagavatī, padmanābha sahōdarī ॥ 65 ॥",
+                "start": 39.21,
+                "end": 48.3,
+                "meaning": "Dwelling in the centre of the sun's disc; Bhairavi; wearing the garland of the Bhaga goddesses; Seated on a lotus; the Blessed One (Bhagavati); sister of Padmanabha (Vishnu).",
+                "number": "65"
+              },
+              {
+                "devanagari": "उन्मेष निमिषोत्पन्न विपन्न भुवनावळिः । सहस्रशीर्षवदना सहस्राक्षी सहस्रपात् ॥ ६६ ॥",
+                "iast": "unmēṣa nimiṣōtpanna vipanna bhuvanāvaḻiḥ । sahasraśīrṣavadanā, sahasrākṣī, sahasrapāt ॥ 66 ॥",
+                "start": 48.3,
+                "end": 57.548,
+                "meaning": "Who creates and dissolves whole rows of worlds as her eyes open and close; Having a thousand heads and faces; a thousand eyes; a thousand feet.",
+                "number": "66"
+              },
+              {
+                "devanagari": "आब्रह्म कीटजननी वर्णाश्रम विधायिनी । निजाज्ञारूपनिगमा पुण्यापुण्य फलप्रदा ॥ ६७ ॥",
+                "iast": "ābrahma kīṭajananī, varṇāśrama vidhāyinī । nijājñārūpanigamā, puṇyāpuṇya phalapradā ॥ 67 ॥",
+                "start": 57.548,
+                "end": 66.769,
+                "meaning": "Mother of all beings, from Brahma to the smallest insect; establisher of the order of varna and ashrama; Whose command takes the form of the Vedas; giver of the fruits of merit and demerit.",
+                "number": "67"
+              },
+              {
+                "devanagari": "श्रुति सीमन्त सिन्धूरीक्ड़्त पादाब्जधूळिका । सकलागम सन्दोह शुक्तिसम्पुट मौक्तिका ॥ ६८ ॥",
+                "iast": "śruti sīmanta sindhūrīkṛta pādābjadhūḻikā । sakalāgama sandōha śuktisampuṭa mauktikā ॥ 68 ॥",
+                "start": 66.769,
+                "end": 75.964,
+                "meaning": "The dust of whose lotus feet is the vermilion in the hair-parting of the Vedas; The pearl within the shell formed by all the scriptures (Agamas).",
+                "number": "68"
+              },
+              {
+                "devanagari": "पुरुषार्थप्रदा पूर्णा भोगिनी भुवनेश्वरी । अम्बिकाऽनादि निधना हरिब्रह्मेन्द्र सेविता ॥ ६९ ॥",
+                "iast": "puruṣārthapradā, pūrṇā, bhōginī, bhuvanēśvarī । ambikā,'nādi nidhanā, haribrahmēndra sēvitā ॥ 69 ॥",
+                "start": 75.964,
+                "end": 85.342,
+                "meaning": "Giver of the goals of life; the Complete One; the Enjoyer; Ruler of the worlds (Bhuvaneshvari); The Mother (Ambika); without beginning or end; served by Hari, Brahma and Indra.",
+                "number": "69"
+              },
+              {
+                "devanagari": "नारायणी नादरूपा नामरूप विवर्जिता । ह्रीङ्कारी ह्रीमती ह्ड़्द्या हेयोपादेय वर्जिता ॥ ७० ॥",
+                "iast": "nārāyaṇī, nādarūpā, nāmarūpa vivarjitā । hrīṅkārī, hrīmatī, hṛdyā, hēyōpādēya varjitā ॥ 70 ॥",
+                "start": 85.342,
+                "end": 95.478,
+                "meaning": "Narayani; whose form is sound (nada); beyond name and form; Of the form of the syllable Hrim; full of modesty; dear to the heart; beyond what is to be rejected or accepted.",
+                "number": "70"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-07.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 8,
+            "label": "Verses 71–80",
+            "verses": [
+              {
+                "devanagari": "राजराजार्चिता राज्ञी रम्या राजीवलोचना । रञ्जनी रमणी रस्या रणत्किङ्किणि मेखला ॥ ७१ ॥",
+                "iast": "rājarājārchitā, rājñī, ramyā, rājīvalōchanā । rañjanī, ramaṇī, rasyā, raṇatkiṅkiṇi mēkhalā ॥ 71 ॥",
+                "start": 0.0,
+                "end": 9.744,
+                "meaning": "Worshipped by the king of kings (Kubera); the Queen; delightful; lotus-eyed; Who gladdens; who enchants; full of sweetness (rasa); wearing a girdle with tinkling bells.",
+                "number": "71"
+              },
+              {
+                "devanagari": "रमा राकेन्दुवदना रतिरूपा रतिप्रिया । रक्षाकरी राक्षसघ्नी रामा रमणलम्पटा ॥ ७२ ॥",
+                "iast": "ramā, rākēnduvadanā, ratirūpā, ratipriyā । rakṣākarī, rākṣasaghnī, rāmā, ramaṇalampaṭā ॥ 72 ॥",
+                "start": 9.744,
+                "end": 18.991,
+                "meaning": "Rama (Lakshmi); with a face like the full moon; of the form of Rati; fond of Rati (love); Protector; slayer of demons; the beautiful woman; devoted to her beloved (Shiva).",
+                "number": "72"
+              },
+              {
+                "devanagari": "काम्या कामकळारूपा कदम्ब कुसुमप्रिया । कळ्याणी जगतीकन्दा करुणारस सागरा ॥ ७३ ॥",
+                "iast": "kāmyā, kāmakaḻārūpā, kadamba kusumapriyā । kaḻyāṇī, jagatīkandā, karuṇārasa sāgarā ॥ 73 ॥",
+                "start": 18.991,
+                "end": 28.264,
+                "meaning": "The desirable one; embodiment of Kama-kala; fond of kadamba flowers; The auspicious one (Kalyani); the root of the world; an ocean of the nectar of compassion.",
+                "number": "73"
+              },
+              {
+                "devanagari": "कळावती कळालापा कान्ता कादम्बरीप्रिया । वरदा वामनयना वारुणीमदविह्वला ॥ ७४ ॥",
+                "iast": "kaḻāvatī, kaḻālāpā, kāntā, kādambarīpriyā । varadā, vāmanayanā, vāruṇīmadavihvalā ॥ 74 ॥",
+                "start": 28.264,
+                "end": 37.564,
+                "meaning": "Possessing all the arts; of sweet speech; the beloved; fond of kadambari (mead); Giver of boons; with beautiful eyes; overcome with the wine of bliss (Varuni).",
+                "number": "74"
+              },
+              {
+                "devanagari": "विश्वाधिका वेदवेद्या विन्ध्याचल निवासिनी । विधात्री वेदजननी विष्णुमाया विलासिनी ॥ ७५ ॥",
+                "iast": "viśvādhikā, vēdavēdyā, vindhyāchala nivāsinī । vidhātrī, vēdajananī, viṣṇumāyā, vilāsinī ॥ 75 ॥",
+                "start": 37.564,
+                "end": 46.942,
+                "meaning": "Transcending the universe; known through the Vedas; dwelling in the Vindhya mountains; Sustainer of the universe; mother of the Vedas; the maya of Vishnu; the playful one.",
+                "number": "75"
+              },
+              {
+                "devanagari": "क्षेत्रस्वरूपा क्षेत्रेशी क्षेत्र क्षेत्रज्ञ पालिनी । क्षयव्ड़्द्धि विनिर्मुक्ता क्षेत्रपाल समर्चिता ॥ ७६ ॥",
+                "iast": "kṣētrasvarūpā, kṣētrēśī, kṣētra kṣētrajña pālinī । kṣayavṛddhi vinirmuktā, kṣētrapāla samarchitā ॥ 76 ॥",
+                "start": 46.942,
+                "end": 56.79,
+                "meaning": "Whose form is the field (the body); ruler of the field; protector of the field and its knower; Free of decay and growth; worshipped by the guardians of the field (Kshetrapalas).",
+                "number": "76"
+              },
+              {
+                "devanagari": "विजया विमला वन्द्या वन्दारु जनवत्सला । वाग्वादिनी वामकेशी वह्निमण्डल वासिनी ॥ ७७ ॥",
+                "iast": "vijayā, vimalā, vandyā, vandāru janavatsalā । vāgvādinī, vāmakēśī, vahnimaṇḍala vāsinī ॥ 77 ॥",
+                "start": 56.79,
+                "end": 65.933,
+                "meaning": "Victorious; spotless; worthy of adoration; loving to those who worship her; Goddess of speech; with beautiful hair; dwelling in the disc of fire.",
+                "number": "77"
+              },
+              {
+                "devanagari": "भक्तिमत्कल्पलतिका पशुपाश विमोचनी । संह्ड़्ताशेष पाषण्डा सदाचार प्रवर्तिका ॥ ७८ ॥",
+                "iast": "bhaktimat-kalpalatikā, paśupāśa vimōchanī । saṃhṛtāśēṣa pāṣaṇḍā, sadāchāra pravartikā ॥ 78 ॥",
+                "start": 65.933,
+                "end": 75.337,
+                "meaning": "The wish-fulfilling creeper for the devout; who frees the bound soul (pashu) from its bonds; Who has destroyed all heretics; who establishes right conduct.",
+                "number": "78"
+              },
+              {
+                "devanagari": "तापत्रयाग्नि सन्तप्त समाह्लादन चन्द्रिका । तरुणी तापसाराध्या तनुमध्या तमोऽपहा ॥ ७९ ॥",
+                "iast": "tāpatrayāgni santapta samāhlādana chandrikā । taruṇī, tāpasārādhyā, tanumadhyā, tamō'pahā ॥ 79 ॥",
+                "start": 75.337,
+                "end": 84.82,
+                "meaning": "The moonlight that soothes those scorched by the fire of the three afflictions; Ever youthful; worshipped by ascetics; slender-waisted; remover of darkness (ignorance).",
+                "number": "79"
+              },
+              {
+                "devanagari": "चिति स्तत्पदलक्ष्यार्था चिदेक रसरूपिणी । स्वात्मानन्दलवीभूत ब्रह्माद्यानन्द सन्ततिः ॥ ८० ॥",
+                "iast": "chiti, statpadalakṣyārthā, chidēka rasarūpiṇī । svātmānandalavībhūta brahmādyānanda santatiḥ ॥ 80 ॥",
+                "start": 84.82,
+                "end": 94.302,
+                "meaning": "Pure consciousness (Chiti); the meaning pointed to by the word 'Tat' (That); whose nature is the single essence of consciousness; From a mere particle of whose bliss arise the joys of Brahma and all others.",
+                "number": "80"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-08.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 9,
+            "label": "Verses 81–90",
+            "verses": [
+              {
+                "devanagari": "परा प्रत्यक्चिती रूपा पश्यन्ती परदेवता । मध्यमा वैखरीरूपा भक्तमानस हंसिका ॥ ८१ ॥",
+                "iast": "parā, pratyakchitī rūpā, paśyantī, paradēvatā । madhyamā, vaikharīrūpā, bhaktamānasa haṃsikā ॥ 81 ॥",
+                "start": 0.0,
+                "end": 9.613,
+                "meaning": "Para (the supreme level of speech); whose form is inward consciousness; Pashyanti; the supreme deity; Madhyama; whose form is Vaikhari (spoken word); the swan in the minds of devotees.",
+                "number": "81"
+              },
+              {
+                "devanagari": "कामेश्वर प्राणनाडी क्ड़्तज्ञा कामपूजिता । श्ड़्ङ्गार रससम्पूर्णा जया जालन्धरस्थिता ॥ ८२ ॥",
+                "iast": "kāmēśvara prāṇanāḍī, kṛtajñā, kāmapūjitā । śṛṅgāra rasasampūrṇā, jayā, jālandharasthitā ॥ 82 ॥",
+                "start": 9.613,
+                "end": 19.435,
+                "meaning": "The life-breath of Kameshvara; knower of all deeds (grateful); worshipped by Kama; Full of the essence of love (shringara); the Victorious (Jaya); dwelling in the Jalandhara seat.",
+                "number": "82"
+              },
+              {
+                "devanagari": "ओड्याण पीठनिलया बिन्दुमण्डल वासिनी । रहोयाग क्रमाराध्या रहस्तर्पण तर्पिता ॥ ८३ ॥",
+                "iast": "ōḍyāṇa pīṭhanilayā, bindumaṇḍala vāsinī । rahōyāga kramārādhyā, rahastarpaṇa tarpitā ॥ 83 ॥",
+                "start": 19.435,
+                "end": 28.447,
+                "meaning": "Residing in the Odyana seat (pitha); dwelling in the bindu-mandala, the centre of the Sri Chakra; Worshipped through secret inner rites; pleased by secret offerings.",
+                "number": "83"
+              },
+              {
+                "devanagari": "सद्यः प्रसादिनी विश्वसाक्षिणी साक्षिवर्जिता । षडङ्गदेवता युक्ता षाड्गुण्य परिपूरिता ॥ ८४ ॥",
+                "iast": "sadyaḥ prasādinī, viśvasākṣiṇī, sākṣivarjitā । ṣaḍaṅgadēvatā yuktā, ṣāḍguṇya paripūritā ॥ 84 ॥",
+                "start": 28.447,
+                "end": 38.087,
+                "meaning": "Who grants grace at once; witness of the universe; with no witness beyond her; Accompanied by the deities of the six limbs; complete with the six excellences.",
+                "number": "84"
+              },
+              {
+                "devanagari": "नित्यक्लिन्ना निरुपमा निर्वाण सुखदायिनी । नित्या षोडशिकारूपा श्रीकण्ठार्ध शरीरिणी ॥ ८५ ॥",
+                "iast": "nityaklinnā, nirupamā, nirvāṇa sukhadāyinī । nityā, ṣōḍaśikārūpā, śrīkaṇṭhārdha śarīriṇī ॥ 85 ॥",
+                "start": 38.087,
+                "end": 47.569,
+                "meaning": "Ever compassionate (Nityaklinna); incomparable; giver of the bliss of liberation (nirvana); The Nitya goddesses; of the form of Shodashi; who forms half the body of Shrikantha (Shiva).",
+                "number": "85"
+              },
+              {
+                "devanagari": "प्रभावती प्रभारूपा प्रसिद्धा परमेश्वरी । मूलप्रक्ड़्ति रव्यक्ता व्यक्ताऽव्यक्त स्वरूपिणी ॥ ८६ ॥",
+                "iast": "prabhāvatī, prabhārūpā, prasiddhā, paramēśvarī । mūlaprakṛti ravyaktā, vyaktā'vyakta svarūpiṇī ॥ 86 ॥",
+                "start": 47.569,
+                "end": 56.973,
+                "meaning": "Radiant; whose form is light; renowned; the supreme ruler; Primordial nature (Mulaprakriti); the unmanifest; whose nature is both manifest and unmanifest.",
+                "number": "86"
+              },
+              {
+                "devanagari": "व्यापिनी विविधाकारा विद्याऽविद्या स्वरूपिणी । महाकामेश नयना कुमुदाह्लाद कौमुदी ॥ ८७ ॥",
+                "iast": "vyāpinī, vividhākārā, vidyā'vidyā svarūpiṇī । mahākāmēśa nayanā kumudāhlāda kaumudī ॥ 87 ॥",
+                "start": 56.973,
+                "end": 66.273,
+                "meaning": "All-pervading; of many forms; whose nature is both knowledge and ignorance; The moonlight that delights the lily-like eyes of Mahakamesha.",
+                "number": "87"
+              },
+              {
+                "devanagari": "भक्तहार्द तमोभेद भानुमद्भानुसन्ततिः । शिवदूती शिवाराध्या शिवमूर्ति श्शिवङ्करी ॥ ८८ ॥",
+                "iast": "bhaktahārda tamōbhēda bhānumad-bhānusantatiḥ । śivadūtī, śivārādhyā, śivamūrti, śśivaṅkarī ॥ 88 ॥",
+                "start": 66.273,
+                "end": 75.833,
+                "meaning": "A stream of sunrays dispelling the darkness in devotees' hearts; Who made Shiva her messenger; worshipped by Shiva; of the form of Shiva; who does good (Shivankari).",
+                "number": "88"
+              },
+              {
+                "devanagari": "शिवप्रिया शिवपरा शिष्टेष्टा शिष्टपूजिता । अप्रमेया स्वप्रकाशा मनोवाचाम गोचरा ॥ ८९ ॥",
+                "iast": "śivapriyā, śivaparā, śiṣṭēṣṭā, śiṣṭapūjitā । apramēyā, svaprakāśā, manōvāchāma gōcharā ॥ 89 ॥",
+                "start": 75.833,
+                "end": 85.29,
+                "meaning": "Beloved of Shiva; wholly devoted to Shiva; dear to the righteous; worshipped by the righteous; Immeasurable; self-luminous; beyond the reach of mind and speech.",
+                "number": "89"
+              },
+              {
+                "devanagari": "चिच्छक्ति श्चेतनारूपा जडशक्ति र्जडात्मिका । गायत्री व्याह्ड़्ति स्सन्ध्या द्विजब्ड़्न्द निषेविता ॥ ९० ॥",
+                "iast": "chichChakti, śchētanārūpā, jaḍaśakti, rjaḍātmikā । gāyatrī, vyāhṛti, ssandhyā, dvijabṛnda niṣēvitā ॥ 90 ॥",
+                "start": 85.29,
+                "end": 95.242,
+                "meaning": "The power of consciousness; whose form is awareness; the power of inert matter; who is inert matter itself; Gayatri; the Vyahritis (Bhur, Bhuvah, Suvah); Sandhya (twilight worship); served by the twice-born.",
+                "number": "90"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-09.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 10,
+            "label": "Verses 91–100",
+            "verses": [
+              {
+                "devanagari": "तत्त्वासना तत्त्वमयी पञ्चकोशान्तरस्थिता । निस्सीममहिमा नित्ययौवना मदशालिनी ॥ ९१ ॥",
+                "iast": "tattvāsanā, tattvamayī, pañchakōśāntarasthitā । nissīmamahimā, nityayauvanā, madaśālinī ॥ 91 ॥",
+                "start": 0.0,
+                "end": 9.117,
+                "meaning": "Whose seat is the tattvas; made of the tattvas; dwelling within the five sheaths (koshas); Of boundless glory; ever youthful; radiant with ecstasy.",
+                "number": "91"
+              },
+              {
+                "devanagari": "मदघूर्णित रक्ताक्षी मदपाटल गण्डभूः । चन्दन द्रवदिग्धाङ्गी चाम्पेय कुसुम प्रिया ॥ ९२ ॥",
+                "iast": "madaghūrṇita raktākṣī, madapāṭala gaṇḍabhūḥ । chandana dravadigdhāṅgī, chāmpēya kusuma priyā ॥ 92 ॥",
+                "start": 9.117,
+                "end": 18.939,
+                "meaning": "Whose reddened eyes roll in ecstasy; whose cheeks are flushed with ecstasy; Whose body is anointed with sandal paste; fond of champaka flowers.",
+                "number": "92"
+              },
+              {
+                "devanagari": "कुशला कोमलाकारा कुरुकुळ्ळा कुलेश्वरी । कुळकुण्डालया कौळ मार्गतत्पर सेविता ॥ ९३ ॥",
+                "iast": "kuśalā, kōmalākārā, kurukuḻḻā, kulēśvarī । kuḻakuṇḍālayā, kauḻa mārgatatpara sēvitā ॥ 93 ॥",
+                "start": 18.939,
+                "end": 28.212,
+                "meaning": "Skilful; of tender form; Kurukulla; ruler of Kula; Dwelling in the Kula-kunda (Muladhara); served by those devoted to the Kaula path.",
+                "number": "93"
+              },
+              {
+                "devanagari": "कुमार गणनाथाम्बा तुष्टिः पुष्टि र्मति र्ध्ड़्तिः । शान्तिः स्वस्तिमती कान्ति र्नन्दिनी विघ्ननाशिनी ॥ ९४ ॥",
+                "iast": "kumāra gaṇanāthāmbā, tuṣṭiḥ, puṣṭi, rmati, rdhṛtiḥ । śāntiḥ, svastimatī, kānti, rnandinī, vighnanāśinī ॥ 94 ॥",
+                "start": 28.212,
+                "end": 38.165,
+                "meaning": "Mother of Kumara (Skanda) and Gananatha (Ganesha); contentment; nourishment; intellect; steadfastness; Peace; well-being; brilliance; joy (Nandini); destroyer of obstacles.",
+                "number": "94"
+              },
+              {
+                "devanagari": "तेजोवती त्रिनयना लोलाक्षी कामरूपिणी । मालिनी हंसिनी माता मलयाचल वासिनी ॥ ९५ ॥",
+                "iast": "tējōvatī, trinayanā, lōlākṣī kāmarūpiṇī । mālinī, haṃsinī, mātā, malayāchala vāsinī ॥ 95 ॥",
+                "start": 38.165,
+                "end": 47.595,
+                "meaning": "Full of splendour; three-eyed; with playful eyes; who takes any form at will; Wearing a garland (Malini); the swan (Hamsini); the Mother; dwelling on the Malaya mountain.",
+                "number": "95"
+              },
+              {
+                "devanagari": "सुमुखी नळिनी सुभ्रूः शोभना सुरनायिका । कालकण्ठी कान्तिमती क्षोभिणी सूक्ष्मरूपिणी ॥ ९६ ॥",
+                "iast": "sumukhī, naḻinī, subhrūḥ, śōbhanā, suranāyikā । kālakaṇṭhī, kāntimatī, kṣōbhiṇī, sūkṣmarūpiṇī ॥ 96 ॥",
+                "start": 47.595,
+                "end": 57.156,
+                "meaning": "Beautiful-faced; lotus-like (Nalini); with lovely eyebrows; radiant; leader of the gods; Consort of the dark-throated one (Shiva); full of lustre; who stirs creation into motion; of subtle form.",
+                "number": "96"
+              },
+              {
+                "devanagari": "वज्रेश्वरी वामदेवी वयोऽवस्था विवर्जिता । सिद्धेश्वरी सिद्धविद्या सिद्धमाता यशस्विनी ॥ ९७ ॥",
+                "iast": "vajrēśvarī, vāmadēvī, vayō'vasthā vivarjitā । siddhēśvarī, siddhavidyā, siddhamātā, yaśasvinī ॥ 97 ॥",
+                "start": 57.156,
+                "end": 67.004,
+                "meaning": "Vajreshvari; consort of Vamadeva; untouched by the stages of age; Ruler of the Siddhas; the Siddha-vidya; mother of the Siddhas; glorious.",
+                "number": "97"
+              },
+              {
+                "devanagari": "विशुद्धि चक्रनिलयाऽऽरक्तवर्णा त्रिलोचना । खट्वाङ्गादि प्रहरणा वदनैक समन्विता ॥ ९८ ॥",
+                "iast": "viśuddhi chakranilayā,''raktavarṇā, trilōchanā । khaṭvāṅgādi praharaṇā, vadanaika samanvitā ॥ 98 ॥",
+                "start": 67.004,
+                "end": 75.86,
+                "meaning": "Dwelling in the Vishuddhi chakra; rosy-red in colour; three-eyed; Armed with the khatvanga and other weapons; having one face;",
+                "number": "98"
+              },
+              {
+                "devanagari": "पायसान्नप्रिया त्वक्स्था पशुलोक भयङ्करी । अम्ड़्तादि महाशक्ति संव्ड़्ता डाकिनीश्वरी ॥ ९९ ॥",
+                "iast": "pāyasānnapriyā, tvaksthā, paśulōka bhayaṅkarī । amṛtādi mahāśakti saṃvṛtā, ḍākinīśvarī ॥ 99 ॥",
+                "start": 75.86,
+                "end": 85.473,
+                "meaning": "Fond of sweet rice pudding (payasa); presiding over the skin; frightening to the ignorant; Surrounded by Amrita and the other great Shaktis; the ruler Dakini.",
+                "number": "99"
+              },
+              {
+                "devanagari": "अनाहताब्ज निलया श्यामाभा वदनद्वया । दंष्ट्रोज्ज्वलाऽक्षमालाधिधरा रुधिर संस्थिता ॥ १०० ॥",
+                "iast": "anāhatābja nilayā, śyāmābhā, vadanadvayā । daṃṣṭrōjjvalā,'kṣamālādhidharā, rudhira saṃsthitā ॥ 100 ॥",
+                "start": 85.473,
+                "end": 94.694,
+                "meaning": "Dwelling in the Anahata lotus; dark in complexion; having two faces; Shining with tusks; holding a rosary; presiding over the blood;",
+                "number": "100"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-10.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 11,
+            "label": "Verses 101–110",
+            "verses": [
+              {
+                "devanagari": "काळरात्र्यादि शक्त्योघव्ड़्ता स्निग्धौदनप्रिया । महावीरेन्द्र वरदा राकिण्यम्बा स्वरूपिणी ॥ १०१ ॥",
+                "iast": "kāḻarātryādi śaktyōghavṛtā, snigdhaudanapriyā । mahāvīrēndra varadā, rākiṇyambā svarūpiṇī ॥ 101 ॥",
+                "start": 0.0,
+                "end": 9.639,
+                "meaning": "Surrounded by Kalaratri and the other Shaktis; fond of rice cooked with ghee; Giver of boons to great heroes; who is the mother Rakini.",
+                "number": "101"
+              },
+              {
+                "devanagari": "मणिपूराब्ज निलया वदनत्रय संयुता । वज्राधिकायुधोपेता डामर्यादिभि राव्ड़्ता ॥ १०२ ॥",
+                "iast": "maṇipūrābja nilayā, vadanatraya saṃyutā । vajrādhikāyudhōpētā, ḍāmaryādibhi rāvṛtā ॥ 102 ॥",
+                "start": 9.639,
+                "end": 18.939,
+                "meaning": "Dwelling in the Manipura lotus; having three faces; Bearing the thunderbolt and other weapons; surrounded by Damari and others;",
+                "number": "102"
+              },
+              {
+                "devanagari": "रक्तवर्णा मांसनिष्ठा गुडान्न प्रीतमानसा । समस्त भक्तसुखदा लाकिन्यम्बा स्वरूपिणी ॥ १०३ ॥",
+                "iast": "raktavarṇā, māṃsaniṣṭhā, guḍānna prītamānasā । samasta bhaktasukhadā, lākinyambā svarūpiṇī ॥ 103 ॥",
+                "start": 18.939,
+                "end": 28.369,
+                "meaning": "Red in colour; presiding over the flesh; delighting in rice with jaggery; Giver of happiness to all devotees; who is the mother Lakini.",
+                "number": "103"
+              },
+              {
+                "devanagari": "स्वाधिष्ठानाम्बु जगता चतुर्वक्त्र मनोहरा । शूलाद्यायुध सम्पन्ना पीतवर्णाऽतिगर्विता ॥ १०४ ॥",
+                "iast": "svādhiṣṭhānāmbu jagatā, chaturvaktra manōharā । śūlādyāyudha sampannā, pītavarṇā,'tigarvitā ॥ 104 ॥",
+                "start": 28.369,
+                "end": 38.034,
+                "meaning": "Dwelling in the Svadhishthana lotus; charming with four faces; Armed with the trident and other weapons; yellow in colour; very proud;",
+                "number": "104"
+              },
+              {
+                "devanagari": "मेदोनिष्ठा मधुप्रीता बन्दिन्यादि समन्विता । दध्यन्नासक्त ह्ड़्दया काकिनी रूपधारिणी ॥ १०५ ॥",
+                "iast": "mēdōniṣṭhā, madhuprītā, bandinyādi samanvitā । dadhyannāsakta hṛdayā, kākinī rūpadhāriṇī ॥ 105 ॥",
+                "start": 38.034,
+                "end": 47.961,
+                "meaning": "Presiding over the fat; fond of honey; accompanied by Bandini and others; Fond of curd rice; who takes the form of Kakini.",
+                "number": "105"
+              },
+              {
+                "devanagari": "मूला धाराम्बुजारूढा पञ्चवक्त्राऽस्थिसंस्थिता । अङ्कुशादि प्रहरणा वरदादि निषेविता ॥ १०६ ॥",
+                "iast": "mūlā dhārāmbujārūḍhā, pañchavaktrā,'sthisaṃsthitā । aṅkuśādi praharaṇā, varadādi niṣēvitā ॥ 106 ॥",
+                "start": 47.961,
+                "end": 57.548,
+                "meaning": "Seated on the Muladhara lotus; five-faced; presiding over the bones; Bearing the goad and other weapons; attended by Varada and others;",
+                "number": "106"
+              },
+              {
+                "devanagari": "मुद्गौदनासक्त चित्ता साकिन्यम्बास्वरूपिणी । आज्ञा चक्राब्जनिलया शुक्लवर्णा षडानना ॥ १०७ ॥",
+                "iast": "mudgaudanāsakta chittā, sākinyambāsvarūpiṇī । ājñā chakrābjanilayā, śuklavarṇā, ṣaḍānanā ॥ 107 ॥",
+                "start": 57.548,
+                "end": 67.474,
+                "meaning": "Fond of rice cooked with mung dal; who is the mother Sakini; Dwelling in the lotus of the Ajna chakra; white in colour; six-faced;",
+                "number": "107"
+              },
+              {
+                "devanagari": "मज्जासंस्था हंसवती मुख्यशक्ति समन्विता । हरिद्रान्नैक रसिका हाकिनी रूपधारिणी ॥ १०८ ॥",
+                "iast": "majjāsaṃsthā, haṃsavatī mukhyaśakti samanvitā । haridrānnaika rasikā, hākinī rūpadhāriṇī ॥ 108 ॥",
+                "start": 67.474,
+                "end": 77.009,
+                "meaning": "Presiding over the marrow; accompanied by Hamsavati and the other chief Shaktis; Fond of turmeric rice; who takes the form of Hakini.",
+                "number": "108"
+              },
+              {
+                "devanagari": "सहस्रदळ पद्मस्था सर्ववर्णोप शोभिता । सर्वायुधधरा शुक्ल संस्थिता सर्वतोमुखी ॥ १०९ ॥",
+                "iast": "sahasradaḻa padmasthā, sarvavarṇōpa śōbhitā । sarvāyudhadharā, śukla saṃsthitā, sarvatōmukhī ॥ 109 ॥",
+                "start": 77.009,
+                "end": 86.518,
+                "meaning": "Dwelling in the thousand-petalled lotus; shining with all colours; Bearing all weapons; presiding over the vital essence (semen); facing every direction;",
+                "number": "109"
+              },
+              {
+                "devanagari": "सर्वौदन प्रीतचित्ता याकिन्यम्बा स्वरूपिणी । स्वाहा स्वधाऽमति र्मेधा श्रुतिः स्म्ड़्ति रनुत्तमा ॥ ११० ॥",
+                "iast": "sarvaudana prītachittā, yākinyambā svarūpiṇī । svāhā, svadhā,'mati, rmēdhā, śrutiḥ, smṛti, ranuttamā ॥ 110 ॥",
+                "start": 86.518,
+                "end": 96.313,
+                "meaning": "Fond of all kinds of rice offerings; who is the mother Yakini; Svaha; Svadha; ignorance (Amati); intelligence (Medha); the Veda (Shruti); tradition (Smriti); the unsurpassed.",
+                "number": "110"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-11.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 12,
+            "label": "Verses 111–120",
+            "verses": [
+              {
+                "devanagari": "पुण्यकीर्तिः पुण्यलभ्या पुण्यश्रवण कीर्तना । पुलोमजार्चिता बन्धमोचनी बन्धुरालका ॥ १११ ॥",
+                "iast": "puṇyakīrtiḥ, puṇyalabhyā, puṇyaśravaṇa kīrtanā । pulōmajārchitā, bandhamōchanī, bandhurālakā ॥ 111 ॥",
+                "start": 0.0,
+                "end": 9.378,
+                "meaning": "Of holy renown; attained through merit; hearing and singing of whom brings merit; Worshipped by Pulomaja (Indrani); who frees from bondage; with lovely curling hair.",
+                "number": "111"
+              },
+              {
+                "devanagari": "विमर्शरूपिणी विद्या वियदादि जगत्प्रसूः । सर्वव्याधि प्रशमनी सर्वम्ड़्त्यु निवारिणी ॥ ११२ ॥",
+                "iast": "vimarśarūpiṇī, vidyā, viyadādi jagatprasūḥ । sarvavyādhi praśamanī, sarvamṛtyu nivāriṇī ॥ 112 ॥",
+                "start": 9.378,
+                "end": 19.017,
+                "meaning": "Whose form is Vimarsha (self-awareness); Knowledge (Vidya); mother of the universe beginning with space; Who cures all diseases; who wards off every kind of death.",
+                "number": "112"
+              },
+              {
+                "devanagari": "अग्रगण्याऽचिन्त्यरूपा कलिकल्मष नाशिनी । कात्यायिनी कालहन्त्री कमलाक्ष निषेविता ॥ ११३ ॥",
+                "iast": "agragaṇyā,'chintyarūpā, kalikalmaṣa nāśinī । kātyāyinī, kālahantrī, kamalākṣa niṣēvitā ॥ 113 ॥",
+                "start": 19.017,
+                "end": 28.369,
+                "meaning": "Foremost of all; of inconceivable form; destroyer of the sins of the Kali age; Katyayani; destroyer of time (death); worshipped by the lotus-eyed Vishnu.",
+                "number": "113"
+              },
+              {
+                "devanagari": "ताम्बूल पूरित मुखी दाडिमी कुसुमप्रभा । म्ड़्गाक्षी मोहिनी मुख्या म्ड़्डानी मित्ररूपिणी ॥ ११४ ॥",
+                "iast": "tāmbūla pūrita mukhī, dāḍimī kusumaprabhā । mṛgākṣī, mōhinī, mukhyā, mṛḍānī, mitrarūpiṇī ॥ 114 ॥",
+                "start": 28.369,
+                "end": 38.191,
+                "meaning": "Whose mouth is filled with betel; radiant like the pomegranate flower; Doe-eyed; enchantress; the foremost; consort of Mrida (Shiva); the friend of all.",
+                "number": "114"
+              },
+              {
+                "devanagari": "नित्यत्ड़्प्ता भक्तनिधि र्नियन्त्री निखिलेश्वरी । मैत्र्यादि वासनालभ्या महाप्रळय साक्षिणी ॥ ११५ ॥",
+                "iast": "nityatṛptā, bhaktanidhi, rniyantrī, nikhilēśvarī । maitryādi vāsanālabhyā, mahāpraḻaya sākṣiṇī ॥ 115 ॥",
+                "start": 38.191,
+                "end": 48.196,
+                "meaning": "Ever content; treasure of devotees; the controller; ruler of all; Attained through friendliness and the other virtues; witness of the great dissolution.",
+                "number": "115"
+              },
+              {
+                "devanagari": "पराशक्तिः परानिष्ठा प्रज्ञान घनरूपिणी । माध्वीपानालसा मत्ता मात्ड़्का वर्ण रूपिणी ॥ ११६ ॥",
+                "iast": "parāśaktiḥ, parāniṣṭhā, prajñāna ghanarūpiṇī । mādhvīpānālasā, mattā, mātṛkā varṇa rūpiṇī ॥ 116 ॥",
+                "start": 48.196,
+                "end": 58.305,
+                "meaning": "The supreme power; the supreme goal; a dense mass of wisdom (prajnana); Languid from drinking the nectar of bliss; intoxicated with bliss; whose form is the letters of the alphabet (Matrika).",
+                "number": "116"
+              },
+              {
+                "devanagari": "महाकैलास निलया म्ड़्णाल म्ड़्दुदोर्लता । महनीया दयामूर्ती र्महासाम्राज्यशालिनी ॥ ११७ ॥",
+                "iast": "mahākailāsa nilayā, mṛṇāla mṛdudōrlatā । mahanīyā, dayāmūrtī, rmahāsāmrājyaśālinī ॥ 117 ॥",
+                "start": 58.305,
+                "end": 67.814,
+                "meaning": "Dwelling on the great Kailasa; whose arms are soft as lotus stalks; Worthy of adoration; embodiment of compassion; ruler of the great empire.",
+                "number": "117"
+              },
+              {
+                "devanagari": "आत्मविद्या महाविद्या श्रीविद्या कामसेविता । श्रीषोडशाक्षरी विद्या त्रिकूटा कामकोटिका ॥ ११८ ॥",
+                "iast": "ātmavidyā, mahāvidyā, śrīvidyā, kāmasēvitā । śrīṣōḍaśākṣarī vidyā, trikūṭā, kāmakōṭikā ॥ 118 ॥",
+                "start": 67.814,
+                "end": 77.714,
+                "meaning": "Knowledge of the Self; the great knowledge; Sri Vidya; worshipped by Kama; The sixteen-syllable Sri Vidya mantra; the three-peaked mantra; dwelling in Kamakoti (Kanchi).",
+                "number": "118"
+              },
+              {
+                "devanagari": "कटाक्षकिङ्करी भूत कमला कोटिसेविता । शिरःस्थिता चन्द्रनिभा फालस्थेन्द्र धनुःप्रभा ॥ ११९ ॥",
+                "iast": "kaṭākṣakiṅkarī bhūta kamalā kōṭisēvitā । śiraḥsthitā, chandranibhā, phālasthēndra dhanuḥprabhā ॥ 119 ॥",
+                "start": 77.714,
+                "end": 87.301,
+                "meaning": "Served by crores of Lakshmis who wait on her glance like servants; Abiding in the head; radiant like the moon; shining like a rainbow on the forehead;",
+                "number": "119"
+              },
+              {
+                "devanagari": "ह्ड़्दयस्था रविप्रख्या त्रिकोणान्तर दीपिका । दाक्षायणी दैत्यहन्त्री दक्षयज्ञ विनाशिनी ॥ १२० ॥",
+                "iast": "hṛdayasthā, raviprakhyā, trikōṇāntara dīpikā । dākṣāyaṇī, daityahantrī, dakṣayajña vināśinī ॥ 120 ॥",
+                "start": 87.301,
+                "end": 96.653,
+                "meaning": "Abiding in the heart; brilliant as the sun; the light within the triangle; Dakshayani (daughter of Daksha); slayer of demons; destroyer of Daksha's sacrifice.",
+                "number": "120"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-12.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 13,
+            "label": "Verses 121–130",
+            "verses": [
+              {
+                "devanagari": "दरान्दोळित दीर्घाक्षी दरहासोज्ज्वलन्मुखी । गुरुमूर्ति र्गुणनिधि र्गोमाता गुहजन्मभूः ॥ १२१ ॥",
+                "iast": "darāndōḻita dīrghākṣī, darahāsōjjvalanmukhī । gurumūrti, rguṇanidhi, rgōmātā, guhajanmabhūḥ ॥ 121 ॥",
+                "start": 0.0,
+                "end": 10.057,
+                "meaning": "With long eyes that move gently; whose face shines with a gentle smile; Whose form is the Guru; treasury of virtues; mother of cows (Kamadhenu); birthplace of Guha (Skanda).",
+                "number": "121"
+              },
+              {
+                "devanagari": "देवेशी दण्डनीतिस्था दहराकाश रूपिणी । प्रतिपन्मुख्य राकान्त तिथिमण्डल पूजिता ॥ १२२ ॥",
+                "iast": "dēvēśī, daṇḍanītisthā, daharākāśa rūpiṇī । pratipanmukhya rākānta tithimaṇḍala pūjitā ॥ 122 ॥",
+                "start": 10.057,
+                "end": 19.644,
+                "meaning": "Ruler of the gods; upholder of justice; whose form is the space within the heart (dahara); Worshipped through the lunar days, from the first day to the full moon.",
+                "number": "122"
+              },
+              {
+                "devanagari": "कळात्मिका कळानाथा काव्यालाप विनोदिनी । सचामर रमावाणी सव्यदक्षिण सेविता ॥ १२३ ॥",
+                "iast": "kaḻātmikā, kaḻānāthā, kāvyālāpa vinōdinī । sachāmara ramāvāṇī savyadakṣiṇa sēvitā ॥ 123 ॥",
+                "start": 19.644,
+                "end": 28.761,
+                "meaning": "Embodiment of the arts (kalas); lord of the arts (the moon); delighting in poetic discourse; Attended on her left and right by Lakshmi and Sarasvati holding chowries (fans).",
+                "number": "123"
+              },
+              {
+                "devanagari": "आदिशक्ति रमेयाऽऽत्मा परमा पावनाक्ड़्तिः । अनेककोटि ब्रह्माण्ड जननी दिव्यविग्रहा ॥ १२४ ॥",
+                "iast": "ādiśakti, ramēyā,''tmā, paramā, pāvanākṛtiḥ । anēkakōṭi brahmāṇḍa jananī, divyavigrahā ॥ 124 ॥",
+                "start": 28.761,
+                "end": 38.113,
+                "meaning": "The Primal Power; immeasurable; the Self; the Supreme; of purifying form; Mother of countless crores of universes; of divine form.",
+                "number": "124"
+              },
+              {
+                "devanagari": "क्लीङ्कारी केवला गुह्या कैवल्य पददायिनी । त्रिपुरा त्रिजगद्वन्द्या त्रिमूर्ति स्त्रिदशेश्वरी ॥ १२५ ॥",
+                "iast": "klīṅkārī, kēvalā, guhyā, kaivalya padadāyinī । tripurā, trijagadvandyā, trimūrti, stridaśēśvarī ॥ 125 ॥",
+                "start": 38.113,
+                "end": 47.621,
+                "meaning": "Of the form of the syllable Klim; the only one; the secret one; giver of liberation (kaivalya); Tripura; adored by the three worlds; the Trinity (Trimurti); ruler of the gods.",
+                "number": "125"
+              },
+              {
+                "devanagari": "त्र्यक्षरी दिव्यगन्धाढ्या सिन्धूर तिलकाञ्चिता । उमा शैलेन्द्रतनया गौरी गन्धर्व सेविता ॥ १२६ ॥",
+                "iast": "tryakṣarī, divyagandhāḍhyā, sindhūra tilakāñchitā । umā, śailēndratanayā, gaurī, gandharva sēvitā ॥ 126 ॥",
+                "start": 47.621,
+                "end": 57.208,
+                "meaning": "Of three syllables; rich with divine fragrance; adorned with a vermilion tilaka; Uma; daughter of the king of mountains; the fair one (Gauri); served by the Gandharvas.",
+                "number": "126"
+              },
+              {
+                "devanagari": "विश्वगर्भा स्वर्णगर्भाऽवरदा वागधीश्वरी । ध्यानगम्याऽपरिच्छेद्या ज्ञानदा ज्ञानविग्रहा ॥ १२७ ॥",
+                "iast": "viśvagarbhā, svarṇagarbhā,'varadā vāgadhīśvarī । dhyānagamyā,'parichChēdyā, jñānadā, jñānavigrahā ॥ 127 ॥",
+                "start": 57.208,
+                "end": 67.187,
+                "meaning": "Who holds the universe in her womb; the golden womb (Hiranyagarbha); slayer of demons (Avarada); ruler of speech; Reached through meditation; beyond all limits; giver of knowledge; embodiment of knowledge.",
+                "number": "127"
+              },
+              {
+                "devanagari": "सर्ववेदान्त संवेद्या सत्यानन्द स्वरूपिणी । लोपामुद्रार्चिता लीलाकॢप्त ब्रह्माण्डमण्डला ॥ १२८ ॥",
+                "iast": "sarvavēdānta saṃvēdyā, satyānanda svarūpiṇī । lōpāmudrārchitā, līlākḷpta brahmāṇḍamaṇḍalā ॥ 128 ॥",
+                "start": 67.187,
+                "end": 77.453,
+                "meaning": "Known through all of Vedanta; whose nature is truth and bliss; Worshipped by Lopamudra; who creates the universes as play.",
+                "number": "128"
+              },
+              {
+                "devanagari": "अद्ड़्श्या द्ड़्श्यरहिता विज्ञात्री वेद्यवर्जिता । योगिनी योगदा योग्या योगानन्दा युगन्धरा ॥ १२९ ॥",
+                "iast": "adṛśyā, dṛśyarahitā, vijñātrī, vēdyavarjitā । yōginī, yōgadā, yōgyā, yōgānandā, yugandharā ॥ 129 ॥",
+                "start": 77.453,
+                "end": 87.171,
+                "meaning": "Invisible; with nothing else to be seen; the knower; with nothing else to be known; The Yogini; giver of yoga; the fit goal of yoga; the bliss of yoga; upholder of the ages.",
+                "number": "129"
+              },
+              {
+                "devanagari": "इच्छाशक्ति ज्ञानशक्ति क्रियाशक्ति स्वरूपिणी । सर्वाधारा सुप्रतिष्ठा सदसद्रूपधारिणी ॥ १३० ॥",
+                "iast": "ichChāśakti jñānaśakti kriyāśakti svarūpiṇī । sarvādhārā, supratiṣṭhā, sadasad-rūpadhāriṇī ॥ 130 ॥",
+                "start": 87.171,
+                "end": 96.967,
+                "meaning": "Whose form is the powers of will, knowledge and action; The support of all; firmly established; who takes the forms of both the real and the unreal.",
+                "number": "130"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-13.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 14,
+            "label": "Verses 131–140",
+            "verses": [
+              {
+                "devanagari": "अष्टमूर्ति रजाजैत्री लोकयात्रा विधायिनी । एकाकिनी भूमरूपा निर्द्वैता द्वैतवर्जिता ॥ १३१ ॥",
+                "iast": "aṣṭamūrti, rajājaitrī, lōkayātrā vidhāyinī । ēkākinī, bhūmarūpā, nirdvaitā, dvaitavarjitā ॥ 131 ॥",
+                "start": 0.0,
+                "end": 9.9,
+                "meaning": "Of eight forms; conqueror of ignorance; who carries on the affairs of the world; The solitary one; of the form of the whole (Bhuma); non-dual; beyond duality.",
+                "number": "131"
+              },
+              {
+                "devanagari": "अन्नदा वसुदा व्ड़्द्धा ब्रह्मात्मैक्य स्वरूपिणी । ब्ढ़ती ब्राह्मणी ब्राह्मी ब्रह्मानन्दा बलिप्रिया ॥ १३२ ॥",
+                "iast": "annadā, vasudā, vṛddhā, brahmātmaikya svarūpiṇī । bṛhatī, brāhmaṇī, brāhmī, brahmānandā, balipriyā ॥ 132 ॥",
+                "start": 9.9,
+                "end": 19.827,
+                "meaning": "Giver of food; giver of wealth; the ancient one; whose nature is the oneness of Brahman and the Self; The vast one (Brihati); Brahmani; Brahmi (Sarasvati); the bliss of Brahman; fond of offerings (bali).",
+                "number": "132"
+              },
+              {
+                "devanagari": "भाषारूपा ब्ढ़त्सेना भावाभाव विवर्जिता । सुखाराध्या शुभकरी शोभना सुलभागतिः ॥ १३३ ॥",
+                "iast": "bhāṣārūpā, bṛhatsēnā, bhāvābhāva vivarjitā । sukhārādhyā, śubhakarī, śōbhanā sulabhāgatiḥ ॥ 133 ॥",
+                "start": 19.827,
+                "end": 29.649,
+                "meaning": "Whose form is language; with a vast army; beyond existence and non-existence; Easily worshipped; doer of good; radiant; the easily reached goal.",
+                "number": "133"
+              },
+              {
+                "devanagari": "राजराजेश्वरी राज्यदायिनी राज्यवल्लभा । राजत्क्ड़्पा राजपीठ निवेशित निजाश्रिताः ॥ १३४ ॥",
+                "iast": "rājarājēśvarī, rājyadāyinī, rājyavallabhā । rājat-kṛpā, rājapīṭha nivēśita nijāśritāḥ ॥ 134 ॥",
+                "start": 29.649,
+                "end": 39.236,
+                "meaning": "Rajarajeshvari (queen of the king of kings); giver of kingdoms; beloved of kingdoms; Whose grace shines; who seats those who take refuge in her on royal thrones.",
+                "number": "134"
+              },
+              {
+                "devanagari": "राज्यलक्ष्मीः कोशनाथा चतुरङ्ग बलेश्वरी । साम्राज्यदायिनी सत्यसन्धा सागरमेखला ॥ १३५ ॥",
+                "iast": "rājyalakṣmīḥ, kōśanāthā, chaturaṅga balēśvarī । sāmrājyadāyinī, satyasandhā, sāgaramēkhalā ॥ 135 ॥",
+                "start": 39.236,
+                "end": 48.614,
+                "meaning": "The fortune (Lakshmi) of the kingdom; mistress of the treasury; commander of the four-fold army; Giver of empires; true to her word; whose girdle is the ocean (the earth).",
+                "number": "135"
+              },
+              {
+                "devanagari": "दीक्षिता दैत्यशमनी सर्वलोक वशङ्करी । सर्वार्थदात्री सावित्री सच्चिदानन्द रूपिणी ॥ १३६ ॥",
+                "iast": "dīkṣitā, daityaśamanī, sarvalōka vaśaṅkarī । sarvārthadātrī, sāvitrī, sachchidānanda rūpiṇī ॥ 136 ॥",
+                "start": 48.614,
+                "end": 58.201,
+                "meaning": "Consecrated (Dikshita); queller of demons; who brings all the worlds under her sway; Giver of all desires; Savitri; whose form is Sat-Chit-Ananda (being, consciousness and bliss).",
+                "number": "136"
+              },
+              {
+                "devanagari": "देशकालाऽपरिच्छिन्ना सर्वगा सर्वमोहिनी । सरस्वती शास्त्रमयी गुहाम्बा गुह्यरूपिणी ॥ १३७ ॥",
+                "iast": "dēśakālā'parichChinnā, sarvagā, sarvamōhinī । sarasvatī, śāstramayī, guhāmbā, guhyarūpiṇī ॥ 137 ॥",
+                "start": 58.201,
+                "end": 67.918,
+                "meaning": "Unlimited by space and time; all-pervading; who enchants all; Sarasvati; embodiment of the scriptures; mother of Guha; whose form is secret.",
+                "number": "137"
+              },
+              {
+                "devanagari": "सर्वोपाधि विनिर्मुक्ता सदाशिव पतिव्रता । सम्प्रदायेश्वरी साध्वी गुरुमण्डल रूपिणी ॥ १३८ ॥",
+                "iast": "sarvōpādhi vinirmuktā, sadāśiva pativratā । sampradāyēśvarī, sādhvī, gurumaṇḍala rūpiṇī ॥ 138 ॥",
+                "start": 67.918,
+                "end": 77.244,
+                "meaning": "Free from all limiting conditions; devoted wife of Sadashiva; Ruler of the traditions (sampradaya); the virtuous one; whose form is the circle of Gurus.",
+                "number": "138"
+              },
+              {
+                "devanagari": "कुलोत्तीर्णा भगाराध्या माया मधुमती मही । गणाम्बा गुह्यकाराध्या कोमलाङ्गी गुरुप्रिया ॥ १३९ ॥",
+                "iast": "kulōttīrṇā, bhagārādhyā, māyā, madhumatī, mahī । gaṇāmbā, guhyakārādhyā, kōmalāṅgī, gurupriyā ॥ 139 ॥",
+                "start": 77.244,
+                "end": 87.301,
+                "meaning": "Beyond Kula; worshipped in the disc of the sun (Bhaga); Maya; sweet as honey (Madhumati); the Earth; Mother of the Ganas; worshipped by the Guhyakas; tender-limbed; beloved of the Guru.",
+                "number": "139"
+              },
+              {
+                "devanagari": "स्वतन्त्रा सर्वतन्त्रेशी दक्षिणामूर्ति रूपिणी । सनकादि समाराध्या शिवज्ञान प्रदायिनी ॥ १४० ॥",
+                "iast": "svatantrā, sarvatantrēśī, dakṣiṇāmūrti rūpiṇī । sanakādi samārādhyā, śivajñāna pradāyinī ॥ 140 ॥",
+                "start": 87.301,
+                "end": 97.071,
+                "meaning": "Independent; ruler of all tantras; whose form is Dakshinamurti; Worshipped by Sanaka and the other sages; giver of the knowledge of Shiva.",
+                "number": "140"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-14.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 15,
+            "label": "Verses 141–150",
+            "verses": [
+              {
+                "devanagari": "चित्कळाऽनन्दकलिका प्रेमरूपा प्रियङ्करी । नामपारायण प्रीता नन्दिविद्या नटेश्वरी ॥ १४१ ॥",
+                "iast": "chitkaḻā,'nandakalikā, prēmarūpā, priyaṅkarī । nāmapārāyaṇa prītā, nandividyā, naṭēśvarī ॥ 141 ॥",
+                "start": 0.0,
+                "end": 9.613,
+                "meaning": "The spark (kala) of consciousness; the bud of bliss; embodiment of love; who does what is pleasing; Pleased by the recitation of her names; the Nandi-vidya; ruler of dancers (consort of Nataraja).",
+                "number": "141"
+              },
+              {
+                "devanagari": "मिथ्या जगदधिष्ठाना मुक्तिदा मुक्तिरूपिणी । लास्यप्रिया लयकरी लज्जा रम्भादि वन्दिता ॥ १४२ ॥",
+                "iast": "mithyā jagadadhiṣṭhānā muktidā, muktirūpiṇī । lāsyapriyā, layakarī, lajjā, rambhādi vanditā ॥ 142 ॥",
+                "start": 9.613,
+                "end": 19.461,
+                "meaning": "The ground on which the illusory world rests; giver of liberation; embodiment of liberation; Fond of the lasya dance; cause of dissolution; modesty; adored by Rambha and the other celestial dancers.",
+                "number": "142"
+              },
+              {
+                "devanagari": "भवदाव सुधाव्ड़्ष्टिः पापारण्य दवानला । दौर्भाग्यतूल वातूला जराध्वान्त रविप्रभा ॥ १४३ ॥",
+                "iast": "bhavadāva sudhāvṛṣṭiḥ, pāpāraṇya davānalā । daurbhāgyatūla vātūlā, jarādhvānta raviprabhā ॥ 143 ॥",
+                "start": 19.461,
+                "end": 29.518,
+                "meaning": "A rain of nectar on the forest fire of worldly existence; a wildfire to the forest of sins; A whirlwind that scatters the cotton of misfortune; sunlight that dispels the darkness of old age.",
+                "number": "143"
+              },
+              {
+                "devanagari": "भाग्याब्धिचन्द्रिका भक्तचित्तकेकि घनाघना । रोगपर्वत दम्भोळि र्म्ड़्त्युदारु कुठारिका ॥ १४४ ॥",
+                "iast": "bhāgyābdhichandrikā, bhaktachittakēki ghanāghanā । rōgaparvata dambhōḻi, rmṛtyudāru kuṭhārikā ॥ 144 ॥",
+                "start": 29.518,
+                "end": 39.732,
+                "meaning": "Moonlight on the ocean of good fortune; a rain-cloud to the peacock-like minds of devotees; A thunderbolt to the mountain of disease; an axe to the tree of death.",
+                "number": "144"
+              },
+              {
+                "devanagari": "महेश्वरी महाकाळी महाग्रासा महाऽशना । अपर्णा चण्डिका चण्डमुण्डाऽसुर निषूदिनी ॥ १४५ ॥",
+                "iast": "mahēśvarī, mahākāḻī, mahāgrāsā, mahā'śanā । aparṇā, chaṇḍikā, chaṇḍamuṇḍā'sura niṣūdinī ॥ 145 ॥",
+                "start": 39.732,
+                "end": 49.502,
+                "meaning": "The great ruler (Maheshvari); Mahakali; the great devourer; the great consumer of all; Aparna (who did not even eat leaves in her penance); Chandika; slayer of the demons Chanda and Munda.",
+                "number": "145"
+              },
+              {
+                "devanagari": "क्षराक्षरात्मिका सर्वलोकेशी विश्वधारिणी । त्रिवर्गदात्री सुभगा त्र्यम्बका त्रिगुणात्मिका ॥ १४६ ॥",
+                "iast": "kṣarākṣarātmikā, sarvalōkēśī, viśvadhāriṇī । trivargadātrī, subhagā, tryambakā, triguṇātmikā ॥ 146 ॥",
+                "start": 49.502,
+                "end": 59.011,
+                "meaning": "Whose nature is both the perishable and the imperishable; ruler of all worlds; supporter of the universe; Giver of the three goals of life; the graceful one; the three-eyed; embodiment of the three gunas.",
+                "number": "146"
+              },
+              {
+                "devanagari": "स्वर्गापवर्गदा शुद्धा जपापुष्प निभाक्ड़्तिः । ओजोवती द्युतिधरा यज्ञरूपा प्रियव्रता ॥ १४७ ॥",
+                "iast": "svargāpavargadā, śuddhā, japāpuṣpa nibhākṛtiḥ । ōjōvatī, dyutidharā, yajñarūpā, priyavratā ॥ 147 ॥",
+                "start": 59.011,
+                "end": 68.545,
+                "meaning": "Giver of heaven and liberation; pure; radiant like the hibiscus flower; Full of vitality (ojas); bearer of light; whose form is sacrifice; fond of sacred vows.",
+                "number": "147"
+              },
+              {
+                "devanagari": "दुराराध्या दुरादर्षा पाटली कुसुमप्रिया । महती मेरुनिलया मन्दार कुसुमप्रिया ॥ १४८ ॥",
+                "iast": "durārādhyā, durādarṣā, pāṭalī kusumapriyā । mahatī, mērunilayā, mandāra kusumapriyā ॥ 148 ॥",
+                "start": 68.545,
+                "end": 77.949,
+                "meaning": "Hard to worship; hard to overpower; fond of patali flowers; The great one (Mahati); dwelling on Mount Meru; fond of mandara flowers.",
+                "number": "148"
+              },
+              {
+                "devanagari": "वीराराध्या विराड्रूपा विरजा विश्वतोमुखी । प्रत्यग्रूपा पराकाशा प्राणदा प्राणरूपिणी ॥ १४९ ॥",
+                "iast": "vīrārādhyā, virāḍrūpā, virajā, viśvatōmukhī । pratyagrūpā, parākāśā, prāṇadā, prāṇarūpiṇī ॥ 149 ॥",
+                "start": 77.949,
+                "end": 88.398,
+                "meaning": "Worshipped by heroes; whose form is the cosmos (Virat); pure (free of rajas); facing all sides; Whose form is the inner Self; the supreme space; giver of life; whose form is life.",
+                "number": "149"
+              },
+              {
+                "devanagari": "मार्ताण्ड भैरवाराध्या मन्त्रिणी न्यस्तराज्यधूः । त्रिपुरेशी जयत्सेना निस्त्रैगुण्या परापरा ॥ १५० ॥",
+                "iast": "mārtāṇḍa bhairavārādhyā, mantriṇī nyastarājyadhūḥ । tripurēśī, jayatsēnā, nistraiguṇyā, parāparā ॥ 150 ॥",
+                "start": 88.398,
+                "end": 99.344,
+                "meaning": "Worshipped by Martanda Bhairava; who entrusted the burdens of rule to Mantrini; Ruler of Tripura; with a victorious army; beyond the three gunas; both supreme and lower.",
+                "number": "150"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-15.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 16,
+            "label": "Verses 151–160",
+            "verses": [
+              {
+                "devanagari": "सत्यज्ञानाऽनन्दरूपा सामरस्य परायणा । कपर्दिनी कलामाला कामधुक्कामरूपिणी ॥ १५१ ॥",
+                "iast": "satyajñānā'nandarūpā, sāmarasya parāyaṇā । kapardinī, kalāmālā, kāmadhuk,kāmarūpiṇī ॥ 151 ॥",
+                "start": 0.0,
+                "end": 10.109,
+                "meaning": "Whose form is truth, knowledge and bliss; devoted to the state of oneness (samarasya); Consort of Kapardin (Shiva); garlanded with the arts; who yields all desires (Kamadhenu); who takes any form at will.",
+                "number": "151"
+              },
+              {
+                "devanagari": "कळानिधिः काव्यकळा रसज्ञा रसशेवधिः । पुष्टा पुरातना पूज्या पुष्करा पुष्करेक्षणा ॥ १५२ ॥",
+                "iast": "kaḻānidhiḥ, kāvyakaḻā, rasajñā, rasaśēvadhiḥ । puṣṭā, purātanā, pūjyā, puṣkarā, puṣkarēkṣaṇā ॥ 152 ॥",
+                "start": 10.109,
+                "end": 20.167,
+                "meaning": "Treasure of the arts; the art of poetry; knower of rasa (essence); treasury of rasa; Full and nourished; the ancient one; worthy of worship; the nourisher (Pushkara); lotus-eyed.",
+                "number": "152"
+              },
+              {
+                "devanagari": "परञ्ज्योतिः परन्धाम परमाणुः परात्परा । पाशहस्ता पाशहन्त्री परमन्त्र विभेदिनी ॥ १५३ ॥",
+                "iast": "parañjyōtiḥ, parandhāma, paramāṇuḥ, parātparā । pāśahastā, pāśahantrī, paramantra vibhēdinī ॥ 153 ॥",
+                "start": 20.167,
+                "end": 29.989,
+                "meaning": "The supreme light; the supreme abode; the subtlest atom; higher than the highest; Holding the noose in her hand; destroyer of bonds; who breaks the spells of enemies.",
+                "number": "153"
+              },
+              {
+                "devanagari": "मूर्ताऽमूर्ताऽनित्यत्ड़्प्ता मुनि मानस हंसिका । सत्यव्रता सत्यरूपा सर्वान्तर्यामिनी सती ॥ १५४ ॥",
+                "iast": "mūrtā,'mūrtā,'nityatṛptā, muni mānasa haṃsikā । satyavratā, satyarūpā, sarvāntaryāminī, satī ॥ 154 ॥",
+                "start": 29.989,
+                "end": 40.281,
+                "meaning": "With form; formless; pleased even with passing offerings; the swan in the minds of sages; Devoted to truth; whose form is truth; the inner controller of all; Sati.",
+                "number": "154"
+              },
+              {
+                "devanagari": "ब्रह्माणी ब्रह्मजननी बहुरूपा बुधार्चिता । प्रसवित्री प्रचण्डाऽज्ञा प्रतिष्ठा प्रकटाक्ड़्तिः ॥ १५५ ॥",
+                "iast": "brahmāṇī, brahmajananī, bahurūpā, budhārchitā । prasavitrī, prachaṇḍā'jñā, pratiṣṭhā, prakaṭākṛtiḥ ॥ 155 ॥",
+                "start": 40.281,
+                "end": 50.155,
+                "meaning": "Brahmani; mother of Brahma; of many forms; worshipped by the wise; Who gives birth to all; the Fierce; the Command (Ajna); the foundation (Pratishtha); manifest in form.",
+                "number": "155"
+              },
+              {
+                "devanagari": "प्राणेश्वरी प्राणदात्री पञ्चाशत्पीठरूपिणी । विश्ड़्ङ्खला विविक्तस्था वीरमाता वियत्प्रसूः ॥ १५६ ॥",
+                "iast": "prāṇēśvarī, prāṇadātrī, pañchāśat-pīṭharūpiṇī । viśṛṅkhalā, viviktasthā, vīramātā, viyatprasūḥ ॥ 156 ॥",
+                "start": 50.155,
+                "end": 61.048,
+                "meaning": "Ruler of the life-breath; giver of life; whose form is the fifty sacred seats (pithas); Unfettered; dwelling in solitude; mother of heroes; mother of space.",
+                "number": "156"
+              },
+              {
+                "devanagari": "मुकुन्दा मुक्ति निलया मूलविग्रह रूपिणी । भावज्ञा भवरोगघ्नी भवचक्र प्रवर्तिनी ॥ १५७ ॥",
+                "iast": "mukundā, mukti nilayā, mūlavigraha rūpiṇī । bhāvajñā, bhavarōgaghnī bhavachakra pravartinī ॥ 157 ॥",
+                "start": 61.048,
+                "end": 70.478,
+                "meaning": "Mukunda (giver of liberation); abode of liberation; whose form is the original image; Knower of all feelings; destroyer of the disease of worldly existence; who turns the wheel of births.",
+                "number": "157"
+              },
+              {
+                "devanagari": "छन्दस्सारा शास्त्रसारा मन्त्रसारा तलोदरी । उदारकीर्ति रुद्दामवैभवा वर्णरूपिणी ॥ १५८ ॥",
+                "iast": "Chandassārā, śāstrasārā, mantrasārā, talōdarī । udārakīrti, ruddāmavaibhavā, varṇarūpiṇī ॥ 158 ॥",
+                "start": 70.478,
+                "end": 80.248,
+                "meaning": "Essence of the Vedic metres; essence of the scriptures; essence of the mantras; slender-waisted; Of noble fame; of boundless glory; whose form is the letters (varnas).",
+                "number": "158"
+              },
+              {
+                "devanagari": "जन्मम्ड़्त्यु जरातप्त जन विश्रान्ति दायिनी । सर्वोपनिष दुद्घुष्टा शान्त्यतीत कळात्मिका ॥ १५९ ॥",
+                "iast": "janmamṛtyu jarātapta jana viśrānti dāyinī । sarvōpaniṣa dudghuṣṭā, śāntyatīta kaḻātmikā ॥ 159 ॥",
+                "start": 80.248,
+                "end": 89.731,
+                "meaning": "Giver of rest to people scorched by birth, death and old age; Proclaimed by all the Upanishads; whose nature is the state beyond peace (Shantyatita kala).",
+                "number": "159"
+              },
+              {
+                "devanagari": "गम्भीरा गगनान्तःस्था गर्विता गानलोलुपा । कल्पनारहिता काष्ठा कान्ता कान्तार्ध विग्रहा ॥ १६० ॥",
+                "iast": "gambhīrā, gaganāntaḥsthā, garvitā, gānalōlupā । kalpanārahitā, kāṣṭhā, kāntā, kāntārdha vigrahā ॥ 160 ॥",
+                "start": 89.731,
+                "end": 99.971,
+                "meaning": "Profound; dwelling within space; proud; fond of music; Free of mental constructs; the goal (Kashtha); the beloved; whose body is half of her beloved (Shiva).",
+                "number": "160"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-16.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 17,
+            "label": "Verses 161–170",
+            "verses": [
+              {
+                "devanagari": "कार्यकारण निर्मुक्ता कामकेळि तरङ्गिता । कनत्कनकताटङ्का लीलाविग्रह धारिणी ॥ १६१ ॥",
+                "iast": "kāryakāraṇa nirmuktā, kāmakēḻi taraṅgitā । kanat-kanakatāṭaṅkā, līlāvigraha dhāriṇī ॥ 161 ॥",
+                "start": 0.0,
+                "end": 9.456,
+                "meaning": "Free of cause and effect; rippling with the waves of Kameshvara's love-play; With shining golden earrings; who takes on forms in play.",
+                "number": "161"
+              },
+              {
+                "devanagari": "अजाक्षय विनिर्मुक्ता मुग्धा क्षिप्रप्रसादिनी । अन्तर्मुख समाराध्या बहिर्मुख सुदुर्लभा ॥ १६२ ॥",
+                "iast": "ajākṣaya vinirmuktā, mugdhā kṣipraprasādinī । antarmukha samārādhyā, bahirmukha sudurlabhā ॥ 162 ॥",
+                "start": 9.456,
+                "end": 18.495,
+                "meaning": "Free of birth and decay; the innocent one; quick to grant grace; Worshipped by those who turn inward; very hard to reach for those who turn outward.",
+                "number": "162"
+              },
+              {
+                "devanagari": "त्रयी त्रिवर्ग निलया त्रिस्था त्रिपुरमालिनी । निरामया निरालम्बा स्वात्मारामा सुधास्ड़्तिः ॥ १६३ ॥",
+                "iast": "trayī, trivarga nilayā, tristhā, tripuramālinī । nirāmayā, nirālambā, svātmārāmā, sudhāsṛtiḥ ॥ 163 ॥",
+                "start": 18.495,
+                "end": 28.134,
+                "meaning": "The three Vedas; abode of the three goals of life; dwelling in the three worlds; wearing the garland of Tripura; Free of disease; without support; rejoicing in her own Self; a stream of nectar.",
+                "number": "163"
+              },
+              {
+                "devanagari": "संसारपङ्क निर्मग्न समुद्धरण पण्डिता । यज्ञप्रिया यज्ञकर्त्री यजमान स्वरूपिणी ॥ १६४ ॥",
+                "iast": "saṃsārapaṅka nirmagna samuddharaṇa paṇḍitā । yajñapriyā, yajñakartrī, yajamāna svarūpiṇī ॥ 164 ॥",
+                "start": 28.134,
+                "end": 37.59,
+                "meaning": "Skilled in lifting out those sunk in the mire of worldly existence; Fond of sacrifices; performer of sacrifices; who is herself the one who sacrifices.",
+                "number": "164"
+              },
+              {
+                "devanagari": "धर्माधारा धनाध्यक्षा धनधान्य विवर्धिनी । विप्रप्रिया विप्ररूपा विश्वभ्रमण कारिणी ॥ १६५ ॥",
+                "iast": "dharmādhārā, dhanādhyakṣā, dhanadhānya vivardhinī । viprapriyā, viprarūpā, viśvabhramaṇa kāriṇī ॥ 165 ॥",
+                "start": 37.59,
+                "end": 47.308,
+                "meaning": "Support of dharma; overseer of wealth; increaser of wealth and grain; Fond of the learned; whose form is the learned; who makes the universe revolve.",
+                "number": "165"
+              },
+              {
+                "devanagari": "विश्वग्रासा विद्रुमाभा वैष्णवी विष्णुरूपिणी । अयोनि र्योनिनिलया कूटस्था कुलरूपिणी ॥ १६६ ॥",
+                "iast": "viśvagrāsā, vidrumābhā, vaiṣṇavī, viṣṇurūpiṇī । ayōni, ryōninilayā, kūṭasthā, kularūpiṇī ॥ 166 ॥",
+                "start": 47.308,
+                "end": 57.26,
+                "meaning": "Who devours the universe at dissolution; coral-red in colour; Vaishnavi; whose form is Vishnu; Without origin; dwelling in the source (yoni); unchanging (Kutastha); whose form is Kula.",
+                "number": "166"
+              },
+              {
+                "devanagari": "वीरगोष्ठीप्रिया वीरा नैष्कर्म्या नादरूपिणी । विज्ञान कलना कल्या विदग्धा बैन्दवासना ॥ १६७ ॥",
+                "iast": "vīragōṣṭhīpriyā, vīrā, naiṣkarmyā, nādarūpiṇī । vijñāna kalanā, kalyā vidagdhā, baindavāsanā ॥ 167 ॥",
+                "start": 57.26,
+                "end": 67.422,
+                "meaning": "Fond of the assembly of heroes; the heroic one; beyond action; whose form is sound (nada); The working of wisdom; the capable one; the expert; seated in the bindu.",
+                "number": "167"
+              },
+              {
+                "devanagari": "तत्त्वाधिका तत्त्वमयी तत्त्वमर्थ स्वरूपिणी । सामगानप्रिया सौम्या सदाशिव कुटुम्बिनी ॥ १६८ ॥",
+                "iast": "tattvādhikā, tattvamayī, tattvamartha svarūpiṇī । sāmagānapriyā, saumyā, sadāśiva kuṭumbinī ॥ 168 ॥",
+                "start": 67.422,
+                "end": 77.166,
+                "meaning": "Transcending the tattvas; made of the tattvas; whose nature is the meaning of 'Tat Tvam' (That thou art); Fond of Sama Veda chanting; gentle; wife of Sadashiva.",
+                "number": "168"
+              },
+              {
+                "devanagari": "सव्यापसव्य मार्गस्था सर्वापद्वि निवारिणी । स्वस्था स्वभावमधुरा धीरा धीर समर्चिता ॥ १६९ ॥",
+                "iast": "savyāpasavya mārgasthā, sarvāpadvi nivāriṇī । svasthā, svabhāvamadhurā, dhīrā, dhīra samarchitā ॥ 169 ॥",
+                "start": 77.166,
+                "end": 87.092,
+                "meaning": "Who follows both the right and the left paths of worship; who wards off all calamities; Abiding in herself; naturally sweet; courageous; worshipped by the wise.",
+                "number": "169"
+              },
+              {
+                "devanagari": "चैतन्यार्घ्य समाराध्या चैतन्य कुसुमप्रिया । सदोदिता सदातुष्टा तरुणादित्य पाटला ॥ १७० ॥",
+                "iast": "chaitanyārghya samārādhyā, chaitanya kusumapriyā । sadōditā, sadātuṣṭā, taruṇāditya pāṭalā ॥ 170 ॥",
+                "start": 87.092,
+                "end": 96.496,
+                "meaning": "Worshipped with the offering of consciousness; fond of the flower of consciousness; Ever-rising; ever content; rosy like the rising sun.",
+                "number": "170"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-17.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 18,
+            "label": "Verses 171–180",
+            "verses": [
+              {
+                "devanagari": "दक्षिणा दक्षिणाराध्या दरस्मेर मुखाम्बुजा । कौळिनी केवलाऽनर्घ्या कैवल्य पददायिनी ॥ १७१ ॥",
+                "iast": "dakṣiṇā, dakṣiṇārādhyā, darasmēra mukhāmbujā । kauḻinī kēvalā,'narghyā kaivalya padadāyinī ॥ 171 ॥",
+                "start": 0.0,
+                "end": 9.665,
+                "meaning": "Dakshina (the gracious); worshipped by the learned and the simple alike; with a lotus face lit by a gentle smile; Kaulini; the Absolute (Kevala); priceless; giver of the state of liberation (kaivalya).",
+                "number": "171"
+              },
+              {
+                "devanagari": "स्तोत्रप्रिया स्तुतिमती श्रुतिसंस्तुत वैभवा । मनस्विनी मानवती महेशी मङ्गळाक्ड़्तिः ॥ १७२ ॥",
+                "iast": "stōtrapriyā, stutimatī, śrutisaṃstuta vaibhavā । manasvinī, mānavatī, mahēśī, maṅgaḻākṛtiḥ ॥ 172 ॥",
+                "start": 9.665,
+                "end": 18.782,
+                "meaning": "Fond of hymns; worthy of praise; whose glory is praised by the Vedas; Of noble mind; full of dignity; the great ruler; of auspicious form.",
+                "number": "172"
+              },
+              {
+                "devanagari": "विश्वमाता जगद्धात्री विशालाक्षी विरागिणी । प्रगल्भा परमोदारा परामोदा मनोमयी ॥ १७३ ॥",
+                "iast": "viśvamātā, jagaddhātrī, viśālākṣī, virāgiṇī। pragalbhā, paramōdārā, parāmōdā, manōmayī ॥ 173 ॥",
+                "start": 18.782,
+                "end": 28.5,
+                "meaning": "Mother of the universe; sustainer of the world; large-eyed; free of attachment; Bold; supremely generous; supreme joy; whose nature is the mind.",
+                "number": "173"
+              },
+              {
+                "devanagari": "व्योमकेशी विमानस्था वज्रिणी वामकेश्वरी । पञ्चयज्ञप्रिया पञ्चप्रेत मञ्चाधिशायिनी ॥ १७४ ॥",
+                "iast": "vyōmakēśī, vimānasthā, vajriṇī, vāmakēśvarī । pañchayajñapriyā, pañchaprēta mañchādhiśāyinī ॥ 174 ॥",
+                "start": 28.5,
+                "end": 38.557,
+                "meaning": "Whose hair is the sky; dwelling in the celestial chariot; holder of the thunderbolt; consort of Vamakeshvara; Fond of the five daily sacrifices; reclining on the couch made of the five corpses.",
+                "number": "174"
+              },
+              {
+                "devanagari": "पञ्चमी पञ्चभूतेशी पञ्च सङ्ख्योपचारिणी । शाश्वती शाश्वतैश्वर्या शर्मदा शम्भुमोहिनी ॥ १७५ ॥",
+                "iast": "pañchamī, pañchabhūtēśī, pañcha saṅkhyōpachāriṇī । śāśvatī, śāśvataiśvaryā, śarmadā, śambhumōhinī ॥ 175 ॥",
+                "start": 38.557,
+                "end": 48.614,
+                "meaning": "The fifth (Panchami); ruler of the five elements; worshipped with the five offerings; Eternal; of eternal sovereignty; giver of happiness; enchantress of Shambhu (Shiva).",
+                "number": "175"
+              },
+              {
+                "devanagari": "धरा धरसुता धन्या धर्मिणी धर्मवर्धिनी । लोकातीता गुणातीता सर्वातीता शमात्मिका ॥ १७६ ॥",
+                "iast": "dharā, dharasutā, dhanyā, dharmiṇī, dharmavardhinī । lōkātītā, guṇātītā, sarvātītā, śamātmikā ॥ 176 ॥",
+                "start": 48.614,
+                "end": 58.749,
+                "meaning": "The Earth (Dhara); daughter of the mountain; blessed; righteous; increaser of dharma; Beyond the worlds; beyond the gunas; beyond everything; whose nature is peace.",
+                "number": "176"
+              },
+              {
+                "devanagari": "बन्धूक कुसुम प्रख्या बाला लीलाविनोदिनी । सुमङ्गळी सुखकरी सुवेषाड्या सुवासिनी ॥ १७७ ॥",
+                "iast": "bandhūka kusuma prakhyā, bālā, līlāvinōdinī । sumaṅgaḻī, sukhakarī, suvēṣāḍyā, suvāsinī ॥ 177 ॥",
+                "start": 58.749,
+                "end": 68.127,
+                "meaning": "Radiant like the bandhuka flower; the young girl (Bala); who delights in play; Wholly auspicious (Sumangali); giver of happiness; beautifully dressed; the auspicious married woman (Suvasini).",
+                "number": "177"
+              },
+              {
+                "devanagari": "सुवासिन्यर्चनप्रीता शोभना शुद्ध मानसा । बिन्दु तर्पण सन्तुष्टा पूर्वजा त्रिपुराम्बिका ॥ १७८ ॥",
+                "iast": "suvāsinyarchanaprītā, śōbhanā, śuddha mānasā । bindu tarpaṇa santuṣṭā, pūrvajā, tripurāmbikā ॥ 178 ॥",
+                "start": 68.127,
+                "end": 78.054,
+                "meaning": "Pleased by the worship of suvasinis (married women); radiant; pure-minded; Pleased by offerings into the bindu; the first-born; Tripurambika.",
+                "number": "178"
+              },
+              {
+                "devanagari": "दशमुद्रा समाराध्या त्रिपुरा श्रीवशङ्करी । ज्ञानमुद्रा ज्ञानगम्या ज्ञानज्ञेय स्वरूपिणी ॥ १७९ ॥",
+                "iast": "daśamudrā samārādhyā, tripurā śrīvaśaṅkarī । jñānamudrā, jñānagamyā, jñānajñēya svarūpiṇī ॥ 179 ॥",
+                "start": 78.054,
+                "end": 87.693,
+                "meaning": "Worshipped through the ten mudras; Tripurashri, who brings all under her sway; The jnana-mudra; reached through knowledge; whose form is both knowledge and the known.",
+                "number": "179"
+              },
+              {
+                "devanagari": "योनिमुद्रा त्रिखण्डेशी त्रिगुणाम्बा त्रिकोणगा । अनघाद्भुत चारित्रा वाञ्छितार्थ प्रदायिनी ॥ १८० ॥",
+                "iast": "yōnimudrā, trikhaṇḍēśī, triguṇāmbā, trikōṇagā । anaghādbhuta chāritrā, vāñChitārtha pradāyinī ॥ 180 ॥",
+                "start": 87.693,
+                "end": 97.097,
+                "meaning": "The yoni-mudra; ruler of the three sections (Trikhanda); mother of the three gunas; dwelling in the triangle; Of sinless and wondrous deeds; giver of all that is desired.",
+                "number": "180"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-18.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          },
+          {
+            "n": 19,
+            "label": "Verses 181–183",
+            "verses": [
+              {
+                "devanagari": "अभ्यासाति शयज्ञाता षडध्वातीत रूपिणी । अव्याज करुणामूर्ति रज्ञानध्वान्त दीपिका ॥ १८१ ॥",
+                "iast": "abhyāsāti śayajñātā, ṣaḍadhvātīta rūpiṇī । avyāja karuṇāmūrti, rajñānadhvānta dīpikā ॥ 181 ॥",
+                "start": 0.0,
+                "end": 10.188,
+                "meaning": "Known through intense, repeated practice; whose form transcends the six paths (adhvas); Embodiment of compassion without any motive; the lamp that dispels the darkness of ignorance.",
+                "number": "181"
+              },
+              {
+                "devanagari": "आबालगोप विदिता सर्वानुल्लङ्घ्य शासना । श्री चक्रराजनिलया श्रीमत्त्रिपुर सुन्दरी ॥ १८२ ॥",
+                "iast": "ābālagōpa viditā, sarvānullaṅghya śāsanā । śrī chakrarājanilayā, śrīmattripura sundarī ॥ 182 ॥",
+                "start": 10.188,
+                "end": 19.461,
+                "meaning": "Known to all, even children and cowherds; whose command no one can disobey; Dwelling in the Sri Chakra; the glorious Tripura Sundari.",
+                "number": "182"
+              },
+              {
+                "devanagari": "श्री शिवा शिवशक्त्यैक्य रूपिणी ललिताम्बिका । एवं श्रीललितादेव्या नाम्नां साहस्रकं जगुः ॥ १८३ ॥",
+                "iast": "śrī śivā, śivaśaktyaikya rūpiṇī, lalitāmbikā । ēvaṃ śrīlalitādēvyā nāmnāṃ sāhasrakaṃ jaguḥ ॥ 183 ॥",
+                "start": 19.461,
+                "end": 30.067,
+                "meaning": "Sri Shiva (the Auspicious One); whose form is the union of Shiva and Shakti; Lalitambika (Mother Lalita). Thus did they sing the thousand names of Sri Lalita Devi.",
+                "number": "183"
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-19.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          }
+        ]
+      },
+      {
+        "id": "closing",
+        "label": "Closing",
+        "unit": "Close",
+        "anuvakas": [
+          {
+            "n": 1,
+            "label": "Closing",
+            "verses": [
+              {
+                "devanagari": "॥ श्री ललिताम्बिकायै नमः ॥",
+                "iast": "",
+                "start": 0.0,
+                "end": 18.024,
+                "number": "",
+                "source": "Transliteration still to be added."
+              }
+            ],
+            "audio": {
+              "normal": "/audio/lalita-closing.mp3",
+              "slow": "",
+              "source": "Vedas4All"
+            }
+          }
+        ]
+      }
+    ],
+    "audio": {
+      "normal": "",
+      "slow": "",
+      "source": "Vedas4All"
+    },
+    "youtubeId": "",
+    "booklet": "Śrī Lalitā Sahasranāma — Vedas4All recitation"
   }
 ]

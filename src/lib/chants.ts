@@ -64,7 +64,7 @@ export interface Quote {
   attribution: string;
 }
 
-/** One anuvāka of a sectioned chant, with its own recording and video. */
+/** One part of a sectioned chant, with its own recording and video. */
 export interface Anuvaka {
   n: number;
   label: string;
@@ -73,11 +73,17 @@ export interface Anuvaka {
   videoId?: string;
 }
 
-/** Namakam / Chamakam. Only Śrī Rudram uses this shape. */
+/**
+ * A chant long enough to be learnt a part at a time: Śrī Rudram's
+ * Namakam and Chamakam, Lalitā Sahasranāma's dhyāna, names and close.
+ * Each section holds the parts a student works through one by one.
+ */
 export interface ChantSection {
   id: string;
   label: string;
   note?: string;
+  /** What this chant calls its parts. Defaults to "Anuvāka". */
+  unit?: string;
   anuvakas: Anuvaka[];
 }
 

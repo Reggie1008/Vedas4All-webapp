@@ -29,6 +29,9 @@ const THEMES: Record<string, ChantTheme> = {
   "sri-rudram": { thumbnail: "sri-rudram", accent: "#86C07C" },
   "durga-suktam": { thumbnail: "durga-suktam", accent: "#E09250" },
   "medha-suktam": { thumbnail: null, accent: "#D9A6E0" },
+  // No video art yet. The accent is the vermilion of the dhyāna verse,
+  // which opens by picturing her "body red as vermilion".
+  "lalita-sahasranama": { thumbnail: null, accent: "#EE6C7F" },
 };
 
 const FALLBACK: ChantTheme = { thumbnail: null, accent: "#DDA83F" };

@@ -8,12 +8,13 @@ import { VerseAudioProvider } from "@/components/VerseAudioContext";
 import YouTubeEmbed from "@/components/YouTubeEmbed";
 
 /**
- * Śrī Rudram is recited as two halves — Namakam and Chamakam — each of
- * eleven anuvākas, and each anuvāka has its own recording and tutorial
- * video. Students work through one anuvāka at a time, so the page shows
- * exactly one at a time rather than a single unbroken wall of text.
+ * A chant too long to meet all at once: Śrī Rudram's two halves of eleven
+ * anuvākas each, Lalitā Sahasranāma's dhyāna, names and close. Every part
+ * carries its own recording and, where there is one, its own tutorial
+ * video. Students work through one part at a time, so the page shows
+ * exactly one rather than a single unbroken wall of text.
  */
-export default function RudramSections({
+export default function SectionedChant({
   sections,
   thumbnail,
 }: {
@@ -56,16 +57,20 @@ export default function RudramSections({
         ))}
       </div>
 
-      {/* Anuvāka 1-11 */}
+      {/* The parts within the section — Rudram's eleven anuvākas, Lalitā's
+          nineteen groups of ten names. A section holding a single part
+          needs no chooser, so it shows only the part's name. */}
       <div>
         <div className="mb-2 flex items-baseline justify-between gap-3">
-          <span className="eyebrow">Anuvāka</span>
+          <span className="eyebrow">{section.unit ?? "Anuvāka"}</span>
           <span className="text-xs text-ink-3">{anuvaka.label}</span>
         </div>
         <div
-          className="hide-scrollbar flex gap-1.5 overflow-x-auto pb-1"
+          className={`hide-scrollbar flex gap-1.5 overflow-x-auto pb-1 ${
+            section.anuvakas.length > 1 ? "" : "hidden"
+          }`}
           role="tablist"
-          aria-label="Anuvāka"
+          aria-label={section.unit ?? "Anuvāka"}
         >
           {section.anuvakas.map((a, i) => {
             const empty = a.verses.length === 0;
