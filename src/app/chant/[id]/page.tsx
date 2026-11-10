@@ -9,7 +9,7 @@ import FontSizeControl from "@/components/FontSizeControl";
 import { ScriptToggleProvider } from "@/components/ScriptToggleContext";
 import { VerseAudioProvider } from "@/components/VerseAudioContext";
 import SectionedChant from "@/components/SectionedChant";
-import SarvadharmaPanel from "@/components/SarvadharmaPanel";
+import { SarvadharmaClosing, SarvadharmaIntro } from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
 import MeaningLanguage from "@/components/MeaningLanguage";
 import TraditionSymbol from "@/components/TraditionSymbol";
@@ -67,6 +67,15 @@ export default async function ChantPage({
 
   const { accent, thumbnail } = getChantTheme(chant.id);
 
+  // Sarvadharma names a faith per stanza. Group them by the stanza they
+  // belong to so each is marked on the lines being chanted.
+  const traditions = chant.sarvadharma?.entries.reduce<
+    Record<number, typeof chant.sarvadharma.entries>
+  >((acc, e) => {
+    (acc[e.stanza - 1] ||= []).push(e);
+    return acc;
+  }, {});
+
   return (
     <ScriptToggleProvider>
       <div style={{ "--accent": accent } as React.CSSProperties}>
@@ -96,13 +105,14 @@ export default async function ChantPage({
                 <SectionedChant sections={chant.sections} thumbnail={thumbnail} />
               ) : (
                 <VerseAudioProvider>
+                  {chant.sarvadharma && <SarvadharmaIntro data={chant.sarvadharma} />}
                   {chant.audio.walkthrough && (
                     <WalkthroughButton
                       start={chant.audio.walkthrough.start}
                       end={chant.audio.walkthrough.end}
                     />
                   )}
-                  <VersesBlock verses={chant.verses} />
+                  <VersesBlock verses={chant.verses} traditions={traditions} />
                   <AudioPlayer
                     normalSrc={chant.audio.normal}
                     slowSrc={chant.audio.slow}
@@ -120,7 +130,7 @@ export default async function ChantPage({
                   />
                 </VerseAudioProvider>
               )}
-              {chant.sarvadharma && <SarvadharmaPanel data={chant.sarvadharma} />}
+              {chant.sarvadharma && <SarvadharmaClosing data={chant.sarvadharma} />}
 
             </div>
 
@@ -166,6 +176,9 @@ export default async function ChantPage({
                 />
               </section>
 
+              {/* Some chants gloss their words on each stanza instead, and
+                  then this column would only repeat them. */}
+              {chant.wordMeanings.length > 0 && (
               <section>
                 <SectionHeading>Word by word</SectionHeading>
                 <dl className="divide-y divide-hairline overflow-hidden rounded-xl border border-hairline">
@@ -182,6 +195,7 @@ export default async function ChantPage({
                   ))}
                 </dl>
               </section>
+              )}
 
             </div>
           </div>

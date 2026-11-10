@@ -2,13 +2,23 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import type { Verse } from "@/lib/chants";
+import type { SarvadharmaEntry, Verse } from "@/lib/chants";
+import TraditionSymbol from "@/components/TraditionSymbol";
 import { useScriptToggle } from "@/components/ScriptToggleContext";
 import { useVerseAudio } from "@/components/VerseAudioContext";
 import TimingCapture from "@/components/TimingCapture";
 import { holdingText, rich } from "@/lib/richText";
 
-export default function VersesBlock({ verses }: { verses: Verse[] }) {
+export default function VersesBlock({
+  verses,
+  traditions,
+}: {
+  verses: Verse[];
+  /** Faiths to mark on a stanza, keyed by its index. Mantrapuṣpaṃ names a
+   *  different faith in almost every stanza, and a student needs to see
+   *  which one while chanting it — not in a panel further down the page. */
+  traditions?: Record<number, SarvadharmaEntry[]>;
+}) {
   const { showDevanagari } = useScriptToggle();
   const [open, setOpen] = useState<number | null>(null);
   const audio = useVerseAudio();
@@ -56,7 +66,8 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
       )}
 
       {verses.map((verse, i) => {
-        const detail = verse.meaning || verse.words?.length ? verse : null;
+        const here = traditions?.[i] ?? [];
+        const detail = verse.meaning || verse.words?.length || here.length ? verse : null;
         const isOpen = open === i;
         const isSounding = sounding === i;
         const canPlay = timed && verse.start !== undefined;
@@ -77,6 +88,25 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
                 className="absolute right-4 top-4 text-xs font-semibold tabular-nums text-ink-3/50"
               >
                 {verse.number ?? String(i + 1).padStart(2, "0")}
+              </span>
+            )}
+
+            {here.length > 0 && (
+              <span className="mb-2.5 flex flex-wrap gap-1.5 pr-8">
+                {here.map((e, j) => (
+                  <span
+                    key={j}
+                    className="inline-flex items-center gap-1.5 rounded-full border border-[color-mix(in_srgb,var(--accent)_45%,transparent)] bg-[color-mix(in_srgb,var(--accent)_12%,transparent)] px-2.5 py-1 text-accent-ink"
+                  >
+                    <TraditionSymbol
+                      tradition={e.tradition}
+                      className="h-[15px] w-[15px] shrink-0"
+                    />
+                    <span className="text-[0.7rem] font-semibold uppercase tracking-wider">
+                      {e.tradition}
+                    </span>
+                  </span>
+                ))}
               </span>
             )}
 
@@ -184,6 +214,46 @@ export default function VersesBlock({ verses }: { verses: Verse[] }) {
                 {verse.meaning && (
                   <p className="scalable-text leading-relaxed text-ink-2">{rich(verse.meaning)}</p>
                 )}
+                {here.map((e, j) => (
+                  <div key={j} className="mt-4 border-t border-hairline pt-4 first:mt-0 first:border-0 first:pt-0">
+                    <div className="flex flex-wrap items-center gap-x-3 gap-y-1">
+                      <span className="flex items-center gap-2 text-accent-ink">
+                        <TraditionSymbol
+                          tradition={e.tradition}
+                          className="h-[18px] w-[18px] shrink-0"
+                        />
+                        <h3 className="text-sm font-semibold uppercase tracking-wider">
+                          {e.tradition}
+                        </h3>
+                      </span>
+                      <span className="rounded-full border border-hairline px-2 py-0.5 text-[0.65rem] font-medium text-ink-3">
+                        {e.keyword}
+                      </span>
+                    </div>
+                    <p className="scalable-text mt-2 leading-relaxed text-ink-2">{rich(e.text)}</p>
+                    {e.saiQuote && (
+                      <blockquote className="mt-3 border-l-2 border-accent-ink pl-3 font-serif italic leading-relaxed text-ink">
+                        “{rich(e.saiQuote)}”
+                        <footer className="mt-1 font-sans text-xs not-italic text-ink-3">
+                          — Sri Sathya Sai Baba
+                        </footer>
+                      </blockquote>
+                    )}
+                    {e.chant && (
+                      <div className="mt-3 rounded-xl border border-hairline bg-surface p-4">
+                        <p className="font-serif text-[0.95rem] leading-relaxed text-ink">
+                          {e.chant}
+                        </p>
+                        {e.chantMeaning && (
+                          <p className="mt-2 border-t border-hairline pt-2 text-sm leading-relaxed text-ink-3">
+                            {rich(e.chantMeaning)}
+                          </p>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                ))}
+
                 {verse.words && verse.words.length > 0 && (
                   <dl className="mt-4 grid grid-cols-1 gap-x-6 gap-y-1.5 sm:grid-cols-2">
                     {verse.words.map((w, j) => (
