@@ -12,31 +12,38 @@
     "verses": [
       {
         "devanagari": "ॐ ग॒णाना॓न्त्वा ग॒णप॑तिꣳ हवामहे",
-        "iast": "oṃ ga̱ṇānā̎ntvā ga̱ṇapa̍tiṃ havāmahe"
+        "iast": "oṃ ga̱ṇānā̎ntvā ga̱ṇapa̍tiṃ havāmahe",
+        "holdings": "oṃ ga̱ṇānā̎n{t}vā ga̱ṇapa̍tiṃ havāmahe"
       },
       {
         "devanagari": "क॒विं॓ कवी॒नामु॑प॒मश्र॑वस्तमम् ।",
-        "iast": "ka̱viṃ̎ kavī̱nāmu̍pa̱maśra̍vastamam |"
+        "iast": "ka̱viṃ̎ kavī̱nāmu̍pa̱maśra̍vastamam |",
+        "holdings": "ka̱viṃ̎ [k]avī̱nām{u̍}pa̱maś[r]a̍vas[t]amam |"
       },
       {
         "devanagari": "ज्ये॒ष्ठरा॒जं ब्रह्म॑णां ब्रह्मणस्पत",
-        "iast": "jye̱ṣṭharā̱jaṃ brahma̍ṇāṃ brahmaṇaspata"
+        "iast": "jye̱ṣṭharā̱jaṃ brahma̍ṇāṃ brahmaṇaspata",
+        "holdings": "jye̱ṣ{ṭh}arā̱jaṃ [b]ra[h]ma̍ṇāṃ {b}ra[h]maṇas[p]ata"
       },
       {
         "devanagari": "आ नः॑ शृ॒ण्वन्नू॒तिभि॑स्सीद॒ साद॑नम् ॥",
-        "iast": "ā na̍ḥ śṛ̱ṇvannū̱tibhi̍ssīda̱ sāda̍nam ||"
+        "iast": "ā na̍ḥ śṛ̱ṇvannū̱tibhi̍ssīda̱ sāda̍nam ||",
+        "holdings": "ā na̍ḥ [ś]ṛ̱ṇ[v]a[n]nū̱tibhi̍s[s]īda̱ sāda̍nam ||"
       },
       {
         "devanagari": "प्रणो॑ दे॒वी सर॑स्वती । वाजे॓भिर्वा॒जिनी॑वती ।",
-        "iast": "praṇo̍ de̱vī sara̍svatī | vāje̎bhirvā̱jinī̍vatī |"
+        "iast": "praṇo̍ de̱vī sara̍svatī | vāje̎bhirvā̱jinī̍vatī |",
+        "holdings": "praṇo̍ de̱vī sara̍s[v]atī | vāje̎bhir[v]ā̱jinī̍vatī |"
       },
       {
         "devanagari": "धी॒नाम॑वि॒त्र्य॑वतु ॥",
-        "iast": "dhī̱nāma̍vi̱trya̍vatu ||"
+        "iast": "dhī̱nāma̍vi̱trya̍vatu ||",
+        "holdings": "dhī̱nāma̍vi̱[t]rya̍vatu ||"
       },
       {
         "devanagari": "गणेशाय नमः । सरस्वत्यै नमः । श्री गुरुभ्यो नमः । हरिः ॐ ॥",
-        "iast": "gaṇeśāya namaḥ | sarasvatyai namaḥ | śrī gurubhyo namaḥ | hariḥ oṃ ||"
+        "iast": "gaṇeśāya namaḥ | sarasvatyai namaḥ | śrī gurubhyo namaḥ | hariḥ oṃ ||",
+        "holdings": "gaṇeśāya namaḥ | saras[v]a[t]yai namaḥ | śrī guru[bh]yo namaḥ | hariḥ oṃ ||"
       }
     ],
     "overview": "I invoke that energy which is the master of all my senses. Please come and be present before us, and listen to what we are saying. The supreme consciousness is always present — but are we aware of it? By reciting this mantra we make ourselves aware of it. Then: may that supreme consciousness flow through me. Just as current flowing through a bulb lights it up, the intellect is the bulb and consciousness is the current. When that current flows, the intellect is illumined.",
@@ -320,7 +327,8 @@
             "word": "Paripālayantām",
             "meaning": "may they be protected and nourished"
           }
-        ]
+        ],
+        "holdings": "svas[t]i̍ḥ [p]ra̱jā{bh}ya̍ḥ [p]aripālayan[t]ā̱ṃ"
       },
       {
         "devanagari": "न्याय्येन मार्गेण महीं महीशाः॒ ।",
@@ -339,7 +347,8 @@
             "word": "Mahīśāḥ",
             "meaning": "those who rule"
           }
-        ]
+        ],
+        "holdings": "nyā{y}yena mār{g}eṇa mahīṃ {m}ahīśā̱ḥ |"
       },
       {
         "devanagari": "गो ब्राह्मणेभ्यः॑ शुभमस्तु नित्यं॒",
@@ -358,7 +367,8 @@
             "word": "Nityaṃ",
             "meaning": "ever, always"
           }
-        ]
+        ],
+        "holdings": "go {b}rā{h}maṇe{bh}ya̍ḥ [ś]ubhamas[t]u ni[t]ya̱ṃ"
       },
       {
         "devanagari": "स॒मस्त लो॒काः सुखि॒नो भवन्तु॒ ॥",
@@ -373,12 +383,14 @@
             "word": "Sukhino bhavantu",
             "meaning": "may they be happy"
           }
-        ]
+        ],
+        "holdings": "sa̱mas[t]a lo̱kāḥ | sukhi̱no bhavan[t]u̱ ||"
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
         "iast": "|| oṃ śāntiḥ śāntiḥ śāntiḥ ||",
-        "start": 82
+        "start": 82,
+        "holdings": "|| oṃ śān{t}iḥ [ś]ān{t}iḥ [ś]ān{t}iḥ ||"
       }
     ],
     "overview": "May the common people (prajaabhyah - subjects) be governed and nourished by the rulers (pari paalayantaam). Let there be happiness and peace (svasti) for the people.\n\nMay those who rule (mahiishaah - king) the land (mahiim), tread the path of justice (nyaayena maargena).\n\nMay knowledge (go - cows and rays of knowledge) and the teachers of knowledge (braamhanebhyah) be (astu) ever (nityam) well (shubam).\n\nMay (bhavantu) all the worlds (lokha) be happy (sukhino).\n\nPeace to body, mind and soul.",
@@ -477,23 +489,28 @@
     "verses": [
       {
         "devanagari": "ॐ । यदक्षर पदभ्रष्टं मात्राहीनन्तु यद्भवेत् । तत्सर्वं क्षम्यतां देव नारायण नमोस्तुते ॥",
-        "iast": "oṃ | yada̍kṣara̍pada̱-bhraṣṭa̍ṃ mā̱trā-hī̱nantu ya̍dbhavet । tatsa̍rvaṅ kṣa̍myatā̱n deva̍nā̱rāya̱ṇa namo̍stute ॥"
+        "iast": "oṃ | yada̍kṣara̍pada̱-bhraṣṭa̍ṃ mā̱trā-hī̱nantu ya̍dbhavet । tatsa̍rvaṅ kṣa̍myatā̱n deva̍nā̱rāya̱ṇa namo̍stute ॥",
+        "holdings": "oṃ | yada̍[k]ṣara̍pada̱-[bh]raṣ[ṭ]a̍ṃ [m]ā̱{t}rā-hī̱nan[t]u ya̍[d]bhavet । tat[s]a̍rvaṅ [k]ṣa̍[m]yatā̱n {d}eva̍nā̱rāya̱ṇa namo̍s{t}ute ॥"
       },
       {
         "devanagari": "विसर्ग बिंदु मात्राणि पदपादाक्षराणि च । न्यूनानि चातिरिक्तानि क्षमस्व सायीश्वर ॥",
-        "iast": "visa̍rga bi̍ndu mā̱trāṇi̍ pa̱da pā̱dākṣarā̍ṇi ca । nyūnā̍ni cā̍tiri̱ktāni̍ kṣa̱masva̱ sāyī̍śvara ॥"
+        "iast": "visa̍rga bi̍ndu mā̱trāṇi̍ pa̱da pā̱dākṣarā̍ṇi ca । nyūnā̍ni cā̍tiri̱ktāni̍ kṣa̱masva̱ sāyī̍śvara ॥",
+        "holdings": "visa̍r[g]a bi̍n[d]u mā̱{t}rāṇi̍ pa̱da pā̱dā{k}ṣarā̍ṇi ca । nyūnā̍ni cā̍tiri̱[k]tāni̍ [k]ṣa̱mas[v]a̱ sāyī̍{ś}vara ॥"
       },
       {
         "devanagari": "अपराध सहस्राणि क्रियन्तेऽहर्निशं मया । दासोऽयमितिमां मत्वा क्षमस्व सायीश्वर ॥",
-        "iast": "a̱pa̱rā̱dha sa̍ha̱srāṇi̍ kri̱yante̱'harniśa̍ṃ mayā । dāso̍'yami̍timā̱ṃ matvā̍ kṣa̱masva̱ sāyī̍śvara ॥"
+        "iast": "a̱pa̱rā̱dha sa̍ha̱srāṇi̍ kri̱yante̱'harniśa̍ṃ mayā । dāso̍'yami̍timā̱ṃ matvā̍ kṣa̱masva̱ sāyī̍śvara ॥",
+        "holdings": "a̱pa̱rā̱dha sa̍ha̱s[r]āṇi̍ [k]ri̱yan[t]e̱'{h}ar[n]iśa̍ṃ [m]ayā । dāso̍'yami̍timā̱ṃ {m}a[t]vā̍ {k}ṣa̱mas[v]a̱ sāyī̍{ś}vara ॥"
       },
       {
         "devanagari": "अन्यथा शरणं नास्ति त्वमेव शरणं मम । तस्मात्कारुण्यभावेन रक्ष रक्ष सायीश्वर ॥",
-        "iast": "a̱nya̱thā̱ śara̍ṇa̱n nāsti̍ tva̱meva̱ śaraṇa̍ṃ mama । tasmā̍-tkāru̍ṇya-bhā̱vena̍ ra̱kṣa ra̱kṣa sāyī̍śvara ॥"
+        "iast": "a̱nya̱thā̱ śara̍ṇa̱n nāsti̍ tva̱meva̱ śaraṇa̍ṃ mama । tasmā̍-tkāru̍ṇya-bhā̱vena̍ ra̱kṣa ra̱kṣa sāyī̍śvara ॥",
+        "holdings": "a̱n[y]a̱thā̱ śara̍ṇa̱n [n]ās{t}i̍ [t]va̱meva̱ śaraṇa̍ṃ [m]ama । ta[s]mā̍-t{k}āru̍ṇ[y]a-bhā̱vena̍ ra̱[k]ṣa ra̱[k]ṣa sāyī̍{ś}vara ॥"
       },
       {
         "devanagari": "हरिः । ॐ । तत्सत् श्री सायीश्वरार्पणमस्तु ॥",
-        "iast": "hari̍ḥ | oṁ | tatsat śrī sāyīśvarā-rpa̍ṇama̱stu ॥"
+        "iast": "hari̍ḥ | oṁ | tatsat śrī sāyīśvarā-rpa̍ṇama̱stu ॥",
+        "holdings": "hari̍ḥ | oṁ | tat[s]at [ś]rī sāyī{ś}varā-r{p}a̍ṇama̱s[t]u ॥"
       }
     ],
     "overview": "Whichever sound or word has been corrupted, whichever timing has run too long or too short — for all of that, please forgive me, O Deva Nārāyaṇa; my salutations to you. Whether the fault was in visarga, in bindu, in timing, in word or in syllable, whether it was longer or shorter than it should have been, forgive me, O Sāyīśvara. I have committed offences by the thousand, day and night — knowing me as your servant, forgive me, O Sāyīśvara. Elsewhere I have no refuge; you alone are my refuge. Out of your compassion, protect me, protect me, O Sāyīśvara. Hariḥ Om — that is the truth. This is all surrendered at the feet of Sāyīśvara.",
@@ -1721,7 +1738,8 @@
             "word": "bhunaktu",
             "meaning": "nourish"
           }
-        ]
+        ],
+        "holdings": "sa̱ha nau̍ bhuna[k]tu ।"
       },
       {
         "devanagari": "",
@@ -1733,7 +1751,8 @@
             "word": "vī̱rya̍ṅkaravāvahai",
             "meaning": "work together with great vigour"
           }
-        ]
+        ],
+        "holdings": "sa̱ha vī̱r{y}a̍ṅ[k]aravāvahai ।"
       },
       {
         "devanagari": "",
@@ -1745,7 +1764,8 @@
             "word": "te̱ja̱svinā̱vadhī̍tamastu̱",
             "meaning": "let our studies illumine our intellects"
           }
-        ]
+        ],
+        "holdings": "te̱ja̱s[v]inā̱vadhī̍tamas[t]u̱"
       },
       {
         "devanagari": "",
@@ -1761,13 +1781,15 @@
             "word": "vi̍dviṣā̱vahai̎",
             "meaning": "discordance, contradiction or hate"
           }
-        ]
+        ],
+        "holdings": "mā vi̍[d]viṣā̱vahai̎ ॥"
       },
       {
         "devanagari": "",
         "iast": "oṃ śāntiḥ śāntiḥ śāntiḥ",
         "number": "",
-        "start": 61.1
+        "start": 61.1,
+        "holdings": "oṃ śān{t}iḥ [ś]ān{t}iḥ [ś]ān{t}iḥ"
       }
     ],
     "overview": "The Sahanā Vavatu śānti mantra originates in the Taittirīya Upaniṣat, part of the Kṛṣṇa Yajurveda — specifically in the Śīkṣāvalli, chapter 1, section 1. It is traditionally chanted at the beginning of Veda study sessions, to invoke harmony, protection and mutual understanding between the teacher and the student.\n\n`oṃ | sa̱ha nā̍vavatu ।` Let us all — the teacher and the student — be protected together\n\n`sa̱ha nau̍ bhunaktu ।` Let us all be nourished together\n\n`sa̱ha vī̱rya̍ṅkaravāvahai ।` Let us all work together with great vigour\n\n`te̱ja̱svinā̱vadhī̍tamastu̱` Let our studies illumine our intellects\n\n`mā vi̍dviṣā̱vahai̎ ॥` Let there be no discordance, contradiction or hate amongst us\n\n`oṃ śāntiḥ śāntiḥ śāntiḥ` Let there be peace, peace, and peace",
