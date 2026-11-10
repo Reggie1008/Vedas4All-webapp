@@ -32,6 +32,9 @@ const THEMES: Record<string, ChantTheme> = {
   // No video art yet. The accent is the vermilion of the dhyāna verse,
   // which opens by picturing her "body red as vermilion".
   "lalita-sahasranama": { thumbnail: null, accent: "#EE6C7F" },
+  // No video art yet. Azure for the one the dhyāna calls
+  // "moon-coloured", and for the blue he is pictured in.
+  "vishnu-sahasranama": { thumbnail: null, accent: "#5B9DF5" },
 };
 
 const FALLBACK: ChantTheme = { thumbnail: null, accent: "#DDA83F" };
