@@ -2,24 +2,26 @@
 
 import { useEffect, useState } from "react";
 
-type View = "welcome" | "chants" | "fundamentals";
-const VIEWS: View[] = ["welcome", "chants", "fundamentals"];
+type View = "welcome" | "vedas101" | "chants" | "fundamentals";
+const VIEWS: View[] = ["welcome", "vedas101", "chants", "fundamentals"];
 
 // "Find your scale" was a side of its own before it became the first
 // module of Fundamentals; an old link or remembered choice lands there.
 const MOVED: Record<string, View> = { scale: "fundamentals" };
 
 /**
- * The portal has three sides: the welcome, the chants, and the fundamentals
- * that teach how to chant them. The choice is
+ * The portal has four sides: the welcome, Vedas 101 (the beginners' first
+ * class), the chants, and the fundamentals that teach how to chant them. The choice is
  * remembered, and is addressable as ?view=chants so a page can link to one side.
  */
 export default function PortalTabs({
   welcome,
+  vedas101,
   chants,
   fundamentals,
 }: {
   welcome: React.ReactNode;
+  vedas101: React.ReactNode;
   chants: React.ReactNode;
   fundamentals: React.ReactNode;
 }) {
@@ -66,6 +68,7 @@ export default function PortalTabs({
           {(
             [
               ["welcome", "Welcome"],
+              ["vedas101", "Vedas 101"],
               ["chants", "Chants"],
               ["fundamentals", "Fundamentals"],
             ] as const
@@ -89,6 +92,7 @@ export default function PortalTabs({
 
       <div className="animate-fade-up">
         {view === "welcome" && welcome}
+        {view === "vedas101" && vedas101}
         {view === "chants" && chants}
         {view === "fundamentals" && fundamentals}
       </div>

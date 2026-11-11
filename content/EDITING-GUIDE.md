@@ -196,3 +196,22 @@ node -e "const d=require('fs').readFileSync('content/chants.json','utf8');const 
 ```
 
 Expected output (after Śivopāsana was added): `U+0331 350`, `U+030D 237`, `U+030E 19`.
+
+## Vedas 101 (`vedas101.json`)
+
+The Vedas 101 tab — the beginners' first class — lives in its own file,
+`content/vedas101.json`. Each entry in `parts` is one page
+(`/vedas-101/<id>`), in the order listed; its `blocks` run top to bottom.
+
+- **Stories** (`"type": "story"`): one paragraph per line in
+  `paragraphs`. A line starting `## ` becomes a small heading inside the
+  story. The page shows the first paragraph; the rest open with *Read the
+  whole story*.
+- **Quizzes** (`"type": "quiz"`): `answer` counts from 0, so in
+  `["True", "False"]` False is `1`. Anything under `explanation` or
+  `note` appears only after the student answers.
+- **Syllable exercise** (`"type": "syllables"`): one list per line, one
+  item per syllable. A syllable starting with a capital letter starts a
+  new word.
+
+Bold and italics work here exactly as in `chants.json`.

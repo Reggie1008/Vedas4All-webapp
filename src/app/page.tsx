@@ -4,6 +4,7 @@ import ChantCard from "@/components/ChantCard";
 import ModuleCard from "@/components/ModuleCard";
 import PortalTabs from "@/components/PortalTabs";
 import Welcome from "@/components/Welcome";
+import Vedas101 from "@/components/Vedas101";
 
 export default function HomePage() {
   return (
@@ -34,6 +35,7 @@ export default function HomePage() {
       <section className="mx-auto max-w-7xl px-4 pb-4 sm:px-6">
         <PortalTabs
           welcome={<Welcome />}
+          vedas101={<Vedas101 />}
           chants={
             <div className="grid grid-cols-1 gap-5 sm:grid-cols-2 lg:grid-cols-3">
               {chants.map((chant, i) => (

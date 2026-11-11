@@ -1,0 +1,435 @@
+{
+  "title": "Vedas 101",
+  "intro": "Where every beginner starts. What the Vedas are, where they came from, the four great truths they hold, and why they belong to everyone — across gender, religion, caste or nationality.",
+  "source": "Vedas4All Beginners Classes 2026 — 1.1 Introduction to the Vedas, with the stories told in class",
+  "parts": [
+    {
+      "id": "vedas4all",
+      "title": "Vedas4All overview",
+      "summary": "Who we are and what we set out to do — and the saint who shared a sacred mantra with everyone.",
+      "blocks": [
+        {
+          "type": "mission",
+          "heading": "Our mission",
+          "label": "Mission statement of Vedas4all NPC (reg no. K2022868207)",
+          "text": "To assist in the service of fostering the Vedas and help in making Vedas available, accessible and understandable for all, across gender, religion, caste, or nationality."
+        },
+        {
+          "type": "story",
+          "heading": "The Om Namo Narayanaya Mantra",
+          "eyebrow": "Story · Ramanujacharya",
+          "paragraphs": [
+            "Ramanujacharya sought to receive the sacred Om Namo Narayanaya mantra from his guru, Gosthipurna. Despite Ramanujacharya’s repeated requests, Gosthipurna initially refused, believing that Ramanujacharya was not yet ready. After being denied eighteen times, Ramanujacharya felt disheartened and wept, thinking he was unworthy.",
+            "Moved by his devotion, Gosthipurna finally relented. He initiated Ramanujacharya into the mantra and warned him not to reveal it to anyone with worldly desires. The mantra, he explained, was so powerful that it could ensure liberation for those who chanted it sincerely.",
+            "## Ramanujacharya shares the mantra",
+            "Despite his guru’s warning, Ramanujacharya was filled with compassion for the suffering people. As he walked near a Vishnu temple in Tirukkotiyur, he gathered a large crowd and shared the mantra. Standing on a temple tower, he called out to them: “Om Namo Narayanaya!”",
+            "The people began chanting, and Ramanujacharya’s act of kindness spread the mantra far and wide, bringing hope and blessings to countless souls.",
+            "## The power of Om Namo Narayanaya",
+            "Om Namo Narayanaya is a powerful tool for spiritual growth. Ramanujacharya’s life exemplifies how this sacred mantra can be used to uplift humanity. Even a thousand years later, his teachings continue to inspire and guide people on their spiritual journey. You can experience its transformative power by participating in our 40-day Project Mantra challenge."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "debunking",
+      "title": "Debunking the Vedas",
+      "summary": "Four things people often believe about the Vedas, put to the test — true or false?",
+      "blocks": [
+        {
+          "type": "quiz",
+          "heading": "True or false?",
+          "question": "Women are not allowed to chant the Vedas",
+          "options": ["True", "False"],
+          "answer": 1,
+          "explanation": {
+            "text": "Woman is the Goddess of Nature. Gayathri which enshrines the essence of the Vedas, is a goddess, venerated as Veda Matha (the mother of the Vedas). It is obvious that feminine birth is estimable, adorable and sublime. The Veda also adores the feminine principle in various ways. **Vedhik rituals and practices accord a high place to women.**",
+            "attribution": "Sri Sathya Sai Baba"
+          }
+        },
+        {
+          "type": "quiz",
+          "question": "Vedas can only be chanted at a particular place and/or time",
+          "options": ["True", "False"],
+          "answer": 1
+        },
+        {
+          "type": "quiz",
+          "question": "Vedas are only relevant/applicable to those of Hindu faith or beliefs",
+          "options": ["True", "False"],
+          "answer": 1,
+          "symbols": true
+        },
+        {
+          "type": "quiz",
+          "question": "Chanting Vedas is a form of selfless service",
+          "options": ["True", "False"],
+          "answer": 0
+        },
+        {
+          "type": "quote",
+          "heading": "A unique time — Kali Yuga",
+          "text": "The welfare of the nation and the prosperity of the world are dependent on the Veda. Every human being must revere the Vedas. Whether everyone knows this or not, **the Vedas pervade everything.** It is the very foundation of life. One can experience immense happiness by merely hearing these Veda mantras being chanted. In fact, that nectarine sweetness is there in the very sound of Veda mantras. **Veda is the very life-breath of every human being.**",
+          "attribution": "Sri Sathya Sai Baba"
+        }
+      ]
+    },
+    {
+      "id": "what-is-veda",
+      "title": "What is Veda",
+      "summary": "What the word itself means — and a beggar who spent thirty years sitting on a treasure.",
+      "blocks": [
+        {
+          "type": "definition",
+          "term": "Veda",
+          "meaning": "knowledge",
+          "root": "Vid",
+          "rootMeaning": "to know",
+          "text": "The term ‘Veda’ means ‘knowledge’. It is derived from the root word ‘Vid’, which means ‘to know’."
+        },
+        {
+          "type": "story",
+          "heading": "The beggar and the treasure",
+          "eyebrow": "Story · Finding the treasure",
+          "paragraphs": [
+            "Today I want to tell you a story of a beggar. This beggar sat on the road for more than thirty years begging for pennies.",
+            "One day a man passed by the beggar… “Spare some change?” asked the beggar.",
+            "The man replied: “I have nothing to give you, but what is this thing you are sitting on?”",
+            "The beggar said: “It’s an old box I’ve been sitting on for a long time.”",
+            "“Have you tried opening it to see what is inside?” the man asked. The beggar replied, “Of course not, there is nothing inside, it is empty.”",
+            "The man insisted the beggar look inside, and to his surprise he discovered an abundance of gold and treasure.",
+            "The beggar had lived almost his entire life begging for pennies, while he sat on a fortune of treasure."
+          ],
+          "lesson": {
+            "heading": "So, what’s the lesson?",
+            "lead": "All of life’s treasures are within.",
+            "paragraphs": [
+              "When you are searching outside yourself, when you are begging life to give you things that are within your reach, you’ll never experience the fullness of life you deserve.",
+              "The Vedas are a storehouse of treasures that explain exactly how we should live our lives. Once we unlock this hidden treasure we unlock the road to Divinity within."
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "id": "four-great-truths",
+      "title": "4 Great Truths",
+      "summary": "The four Mahāvākyas — and the stories from other traditions that echo them.",
+      "blocks": [
+        {
+          "type": "truths",
+          "heading": "The 4 Mahavakyas",
+          "items": [
+            { "sanskrit": "Prajnanam Brahma", "english": "C.I.A", "parallel": "St. Francis of Assisi" },
+            { "sanskrit": "Aham Brahmasmi", "english": "I am Brahman", "parallel": "Hosain Mansoor al Halaj" },
+            { "sanskrit": "Tat Tvam Asi", "english": "That Thou Art", "parallel": "Uddalaka and Shvetaketu" },
+            { "sanskrit": "Ayam Atma Brahma", "english": "This Self is Brahman" }
+          ]
+        },
+        {
+          "type": "story",
+          "heading": "St. Francis and the taming of the wolf",
+          "eyebrow": "1 · Prajnanam Brahma",
+          "paragraphs": [
+            "The story of how St. Francis of Assisi tamed the Wolf of Gubbio is one of the great legends linked with the life of the saint. In this well-known legend, St. Francis goes to the Italian town of Gubbio, where a fierce wolf had been terrorizing the village and even killing some of the people, including children.",
+            "During his visit to Gubbio, Francis goes out to meet the wolf. You can find an account of this event in *The Little Flowers of Saint Francis*, a 14th-century collection of stories about Francis and his companions. According to the story, when the wolf sees St. Francis, he comes charging at the saint with his mouth open, ready to attack.",
+            "St. Francis immediately makes the sign of the cross over him and says, “Come here, Brother Wolf. I command you on behalf of Christ that you do no harm to me or to anyone.” As soon as St. Francis did this, notes *The Little Flowers*, “the fearsome wolf closed his mouth and stopped running; and once the command was given, it came meekly as a lamb, and threw itself at the feet of St. Francis.”",
+            "## Francis cuts a deal with the wolf",
+            "Then St. Francis scolds Brother Wolf for destroying and killing the creatures of God. “The whole town is complaining about you,” Francis tells the wolf gently. “But I want to make peace between you and the people. And so I promise that I will have food given to you regularly, Brother Wolf, by the people of this town so that you will no longer suffer hunger. And I want you, Brother Wolf, to promise that you will never harm any human person or animal.” The wolf showed agreement by simply bowing his head.",
+            "And so Francis asks the people of the town if they will promise to provide food for the wolf regularly. They all say they will. Finally, St. Francis asks the wolf to give a guarantee in front of all of the people that he will no longer inflict harm upon the people of Gubbio or its animals.",
+            "“Then the wolf, lifting his right paw, placed it in the hand of St. Francis. Because of this action… there was such rejoicing and wonder among all the people… that they all began to cry to heaven, praising and blessing God who sent Francis to them who, through his merits, had freed them from the jaws of the cruel beast.”"
+          ]
+        },
+        {
+          "type": "story",
+          "heading": "Mansur al-Hallaj — “Ana al-Haqq”",
+          "eyebrow": "2 · Aham Brahmasmi",
+          "paragraphs": [
+            "Mansur al-Hallaj (858–922 AD) was a Persian Sufi mystic, poet, and teacher whose life and tragic death center around his ecstatic proclamation of divine unity, “Ana al-Haqq” (“I am the Truth” or “I am God”). This phrase is frequently compared to the Upanishadic declaration “Aham Brahmasmi” (“I am the Absolute/Divine”) in the Hindu tradition. His story is one of ultimate spiritual immersion, where the ego is annihilated, and only God remains.",
+            "## Early life and spiritual journey",
+            "Born Abu ’l-Mughith Al-Husayn bin Mansur al-Hallaj in Fars Province, Persia, he was known as al-Hallaj (the wool-carder), a nickname derived from his father’s profession. From a young age, he was deeply spiritual, memorizing the Quran and studying with eminent Sufi masters like Sahl al-Tustari and Amr al-Makki.",
+            "He travelled extensively, including visits to India, where some accounts suggest he was exposed to yogic practices and Indian mysticism. He later performed Hajj (pilgrimage to Mecca) three times, spending a year in fasting and total silence at the mosque.",
+            "## “Ana al-Haqq” and spiritual philosophy",
+            "While in a state of *fana* (annihilation of the ego/self), Hallaj began to express that his individual existence had been replaced by divine presence. He proclaimed, “Ana al-Haqq” (I am the Truth), which was interpreted by many as a blasphemous claim to divinity.",
+            "However, in Sufi terms, this was not a claim that Mansur the human was God, but rather that his ego had died, and God was speaking through him. He stated, “I am He whom I love, and He whom I love is I,” implying that the barrier between the lover and the Beloved had been removed. This mirrors the Vedantic concept of Aham Brahmasmi — realizing the oneness of the individual soul (Atman) with the universal consciousness (Brahman)."
+          ]
+        },
+        {
+          "type": "story",
+          "heading": "Uddalaka and Shvetaketu",
+          "eyebrow": "3 · Tat Tvam Asi",
+          "source": "From the Chandogya Upanishad",
+          "images": ["The river", "The honey", "The salt"],
+          "paragraphs": [
+            "Uddalaka had a son called Shvetaketu. When he was twelve, his father said to him, “It is time for you to find a spiritual teacher. Everyone in this family has studied the holy scriptures and the spiritual way.” So Shvetaketu went to a teacher and studied the scriptures for twelve years. He returned home very proud of his intellectual knowledge. His father observed him and said, “My boy, you seem to have a high opinion of yourself; you are proud of your learning. But did you ask your teacher for the spiritual knowledge that enables you to hear the unheard, think the unthought and know the unknown?”",
+            "“What is that knowledge, Father?” asked Svetaketu. “Just as by knowing a lump of clay, everything that is made of clay can be known, since any differences are only words, and the essential reality is clay. In the same way, by knowing a piece of gold, all that is made of gold can be known, since any differences are only words, and the reality is only gold.”",
+            "Uddalaka responded, “My teachers must not have known this or they would have taught it to me. Father, please teach me this knowledge.”",
+            "“I will,” replied his father. “In the beginning, there was only Being. Some people claim that in the beginning there was nothing at all and that everything has come out of nothing. But how can this be true? How can that which is, come from that which is not? In the beginning there was only one Being, and that Being thought, ‘I want to be many so I will create.’ Out of this creation came the cosmos. There is nothing in the cosmos that doesn’t come from that one Being. Of everything that exists, this Being is the innermost Self. He is the truth, the Self Supreme. And you, Shvetaketu, you — are that!”",
+            "Shvetaketu asked, “Please teach me more about the Self, Father.”",
+            "“Let’s start with sleep. What happens when we sleep? When a person is absorbed in dreamless sleep, he is one with the Self although he doesn’t know it. We say he sleeps but we mean he sleeps in the Self. ‘A tethered bird grows tired from flying in every direction, finding no rest anywhere, and settles down at last on the very same perch on which it is tied. In the same way the mind, tired of wandering around here and there settles down at last in the Self, its life and breath, to which it is bound. All creatures have their source in that Being. He is their home; He is their strength. ‘When a man is dying, speech folds into mind, mind folds into life, life dissolves into light, and his light merges into that one Being. That Being is the seed, the truth, the Self, and you, Shvetaketu, you — are that!”",
+            "“Please tell me more, Father.”",
+            "“My son, bees make honey by gathering nectar from many flowers to make their honey, so no one drop of honey can say that it came exactly from one specific flower. You can’t identify the juice of one particular flower in the honey. And so it is with creatures like us who merge in that Being, whether in sleep or death.",
+            "And as the rivers that flow from the east to the west merge in the sea and become one with it, forgetting that they were ever separate rivers, so all creatures lose their separateness when they merge into pure Being. Whatever creature it may be — tiger, lion, wolf, boar, mosquito, worm — it only becomes aware of a particular life when it is born into it or is awake.",
+            "If you strike at the root of a tree, it bleeds but still lives. If you strike at the trunk, the sap oozes, but the tree lives on. The Self as life fills the tree and supports it; it flourishes in happiness gathering food through its roots. However, if life departs from one branch, that branch withers, and when life leaves the whole tree, the entire tree withers. Remember my son, your body dies, but your Self does not.”",
+            "Uddalaka told Shvetaketu to bring him a piece of fruit from a nearby banyan tree and to break it open. Shvetaketu did and said, “There are seeds inside, all very small.”",
+            "“Now break one of the seeds and tell me what you see.”",
+            "“Nothing, Father.”",
+            "Uddalaka said, “My son, this great banyan tree has grown from a seed so small that you cannot see it. Believe me, an invisible and subtle essence is the Spirit of the whole universe. Now, take this salt and put it in some water and bring it to me tomorrow morning.”",
+            "The next morning Shvetaketu looked for the salt but couldn’t find it because it had dissolved. Uddalaka asked his son to taste the water. “Salty,” he said, adding “the salt will always remain in the water.”",
+            "“That’s right. The salt permeates the water, just like the Self. Even though we cannot see it, the Self is within all things and there is nothing that doesn’t come from Him. This invisible and subtle essence is the Spirit of the whole universe. That is reality. That is truth. And you, Shvetaketu, you — are that!”"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "important-terms",
+      "title": "Some important terms",
+      "summary": "Anantho Vai Vedaha, Apaurushaya, Shruti, Chandas — words you will meet again and again in class.",
+      "blocks": [
+        {
+          "type": "term",
+          "term": "Anantho Vai Vedaha",
+          "gloss": "Vedas are said to be infinite ∞",
+          "quote": {
+            "text": "The Vedas are the most ancient among the world’s scriptures. They are a vast storehouse of wisdom. They enabled man to have an overview of the universe. Historically, they are the earliest known book of knowledge. They are the roots of human culture and striving. All knowledge, all the principles of right living, all qualities are derived from the **Vedas.**",
+            "attribution": "Sri Sathya Sai Baba"
+          }
+        },
+        {
+          "type": "term",
+          "term": "Apaurushaya",
+          "gloss": "Not of human origin",
+          "books": ["Harry Potter", "The Lord of the Rings", "Charlie & The Chocolate Factory", "Cat in the Hat"],
+          "points": [
+            "The Vedas are said to be not of human origin, as they are derived from the Divine source.",
+            "Though the Vedas have presiding Rishis and Rishikas who download them, the Vedas still remain ‘authorless’.",
+            "Hence Vedas are **Apaurushaya**."
+          ]
+        },
+        {
+          "type": "term",
+          "term": "Mantradrashtas",
+          "points": [
+            "They surfed the innernet and could download these eternal sounds/whispers of the Divine based on what they heard AND what they saw — hence they were known as **Mantradrashtas**.",
+            "They passed these verses through a lineage of Guru Shishya (teacher – student).",
+            "It was meticulously kept intact through various recitation styles, the most advanced being the Ghanapatha."
+          ]
+        },
+        {
+          "type": "term",
+          "term": "The Gurukula System",
+          "gloss": "Rishi · Rishika",
+          "points": [
+            "The Vedas were taught and learnt in the Gurukula — the student living and learning with the teacher. Rishis and Rishikas both taught."
+          ]
+        },
+        {
+          "type": "term",
+          "term": "Shruti",
+          "gloss": "That which is heard",
+          "relay": ["Creation", "2026"],
+          "points": [
+            "The Vedas have been passed on by ear, from teacher to student, all the way from creation to 2026."
+          ]
+        },
+        {
+          "type": "metres",
+          "heading": "Chandas",
+          "intro": "Chandas is the metre of a mantra — the number of syllables it is built on. There are seven principal metres.",
+          "items": [
+            { "name": "Gayatri", "syllables": 24 },
+            { "name": "Ushni", "syllables": 28 },
+            { "name": "Anushtubh", "syllables": 32 },
+            { "name": "Brihati", "syllables": 36 },
+            { "name": "Pankti", "syllables": 40 },
+            { "name": "Trishtubh", "syllables": 44 },
+            { "name": "Jagati", "syllables": 48 }
+          ]
+        },
+        {
+          "type": "syllables",
+          "heading": "Exercise — count the syllables",
+          "intro": "Count the syllables in each line, then check. Three lines of eight make twenty-four: this mantra is in the Gayatri metre.",
+          "lines": [
+            ["E", "ka", "Dan", "ta", "ya", "Vidh", "ma", "he"],
+            ["Va", "kra", "tun", "da", "ya", "Dhi", "ma", "he"],
+            ["Tan", "no", "Dhan", "ti", "Pra", "cho", "da", "yat"]
+          ]
+        },
+        {
+          "type": "quiz",
+          "heading": "Quiz",
+          "question": "The Rishi who downloaded the Gayatri Mantra is",
+          "options": ["Valmiki", "Vishwamitra", "Vasishta", "Vyasa"],
+          "answer": 1,
+          "link": { "href": "/chant/gayatri-mantra", "label": "Learn the Gāyatrī Mantra" }
+        }
+      ]
+    },
+    {
+      "id": "four-vedas",
+      "title": "The Four Vedas",
+      "summary": "Rig, Yajur, Sama and Atharvana — what each one holds, and a story of how the Taittireeya Upanishad got its name.",
+      "blocks": [
+        {
+          "type": "vedas",
+          "heading": "RYSA",
+          "intro": "The Vedas were arranged into four by Veda Vyasa. Remember them as **RYSA**.",
+          "items": [
+            {
+              "name": "Rig Veda",
+              "letter": "R",
+              "points": [
+                "Collection of Rks — hence it is called Rig Veda.",
+                "Rig Veda praises the Divine (Suktams).",
+                "First line — *Agnimile purohitam …*",
+                "And the last part of the Rig Veda is known as the Samana Suktam, which lays emphasis on Unity."
+              ]
+            },
+            {
+              "name": "Yajur Veda",
+              "letter": "Y",
+              "points": [
+                "The term Yajur comes from the root word ‘Yaj’, which means ‘to sacrifice’.",
+                "The Yajur Veda has two parts: i) Krishna Yajur Veda and ii) Shukla Yajur Veda.",
+                "The Sri Rudram is derived from the Krishna Yajur Veda."
+              ],
+              "link": { "href": "/chant/sri-rudram", "label": "Śrī Rudram" }
+            },
+            {
+              "name": "Sama Veda",
+              "letter": "S",
+              "points": [
+                "Lord Krishna says in Bhagavad Gita 10.22: `vedānāṁ sāma-vedo 'smi` — “Of the Vedas I am the Sāma-veda.”",
+                "Samaveda has been described as the Veda of Bhakti. Its hymns are used in spiritual ceremonies.",
+                "Sama Veda is the source of music.",
+                "The first 3 Vedas, RYS, are known as Trayee."
+              ]
+            },
+            {
+              "name": "Atharva Veda",
+              "letter": "A",
+              "points": [
+                "The final Veda and ‘earliest’ Veda is the Atharva Veda or Atharvana Veda, and it is the “storehouse of atharvaṇas or the procedures for everyday life”.",
+                "Ganapati Atharva Siersham is from this Veda."
+              ]
+            }
+          ]
+        },
+        {
+          "type": "story",
+          "heading": "Yajnavalkya and the Taittireeya Upanishad",
+          "eyebrow": "Story · Yajur Veda",
+          "source": "Divine Discourse: Vedic Wisdom — from the archives of Sri Sathya Sai Media Centre, Prasanthi Nilayam",
+          "paragraphs": [
+            "One disciple by name Yajnavalkya joined Vysampayana’s Gurukula. He had a keen intellect and could learn his lessons very fast. The guru was also highly pleased with him. People who knew Yajnavalkya began praising him with the result that he developed *ahamkaram* (ego) followed gradually by *alakshyam* (indifference) and *asabhyata* (lack of decorum). Vysampayaan noticed these lapses on the part of Yajnavalkya.",
+            "One day, he called him and told him sternly, “Yajnavalkya! You don’t deserve to stay in this Gurukul any longer. You must leave this place immediately. Before you leave, you must return all that you have learnt from me.” Accordingly, Yajnavalkya, who recognised his own shortcomings, vomited all that he had learnt from his guru. His vomitings were eaten by tittiri birds, and the latter began chanting the Upanishad, which was therefore named as Taittireeya Upanishad."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "universal-message",
+      "title": "Universal message of the Vedas",
+      "summary": "Truth for all people on earth — and four chants whose meaning belongs to everyone.",
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "The Vedas are Eternal Truths. They existed even before the people of this land discovered, practised and experienced them. Just as Western physicists announced the existence of gravitation after their experiments, the ancients of this land demonstrated the innate authenticity of the Vedas through their own experience. Here too, the Veda existed long before it was discovered and put into practice. Newton’s Laws of Gravitation benefited the whole world. They express universal truths applicable to all places and times. They are not confined to Western countries only. So too, **the Veda is Truth, not merely for Bhārat but for all people on earth.**",
+          "attribution": "Sri Sathya Sai Baba"
+        },
+        {
+          "type": "chants",
+          "heading": "Vedas for all!",
+          "intro": "Vedic chants have a deeper universal meaning. Some examples include:",
+          "items": [
+            {
+              "title": "Saha Na Vavatu",
+              "link": { "href": "/chant/saha-na-vavatu", "label": "Learn this chant" },
+              "lines": [
+                { "sanskrit": "sahanā vavatu", "english": "Let us all be TOGETHER" },
+                { "sanskrit": "sahanau bhunaktu", "english": "Let us all be nourished TOGETHER" },
+                { "sanskrit": "sahavīryan karavāvahai", "english": "Let us all work TOGETHER with Great Vigor" },
+                { "sanskrit": "tejasvināvadhītamastu", "english": "May our studies illumine our intellects" },
+                { "sanskrit": "māvidvishāvahai", "english": "May we not contradict (hate) each other" },
+                { "sanskrit": "OM Śantih Śantih Śantih", "english": "OM Peace, Peace, and Peace" }
+              ]
+            },
+            {
+              "title": "Samaana Suktam",
+              "subtitle": "The chant for World Unity & Peace from the Rgveda, called the “Unity” suuktam (Rgveda 10—191)",
+              "text": "This last suuktam of the Rig Veda is the apt summation of the entire Rigveda in just four Riks [shlokas]. The sage of Kanchi has said: “Just as you have a National Anthem to arouse patriotism; this is the perfect ‘Planet-Earth-Anthem’. It enables the individual to think expansively and act as a ‘citizen of the Cosmos’. As a collective, it unites us and en-nobles us to act upon our noble feelings & Divine impulses.”",
+              "lines": [
+                { "english": "Ennobling God enkindled in our unified hearts!" },
+                { "english": "Unite all of us equally with Universal, noble and excellent impulses!" }
+              ]
+            },
+            {
+              "title": "Bhadram Karnebhih",
+              "lines": [
+                { "english": "May our ears listen to auspicious sounds" },
+                { "english": "May our eyes see auspicious sights" },
+                { "english": "May our bodies be strong as steel to serve the Divine" }
+              ]
+            },
+            {
+              "title": "Samasta Lokah",
+              "lines": [
+                { "sanskrit": "sa̱masta lo̱kāḥ | sukhi̱no bhavantu̱ (3)", "english": "May all the beings in all the worlds be happy" }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "quiz",
+          "heading": "Quiz",
+          "question": "‘Veda Poshana’ refers to",
+          "options": ["Power of the Vedas", "Removal of the Vedas", "Fostering the Vedas"],
+          "answer": 2,
+          "note": "Fostering the Vedas is the first line of our mission."
+        }
+      ]
+    },
+    {
+      "id": "power-of-the-vedas",
+      "title": "Power of the Vedas",
+      "summary": "Sound we cannot see, and what it can do — from a mother’s lullaby to rain after drought.",
+      "blocks": [
+        {
+          "type": "quote",
+          "text": "Even if you cannot chant the Vēdas, if you only listen to the sounds with devotion, they will elevate you to a higher level. Though the child does not know the meaning of the lullaby sung by the mother, it is induced to sleep hearing the tune. Similarly, listening to the chanting of the Vēdas with undivided attention, will give you immense benefits. The hymns of the Vēdas constitute the Cosmic sound (*nāda bramhan*) which is highly potent.",
+          "attribution": "Sri Sathya Sai Baba"
+        },
+        {
+          "type": "story",
+          "heading": "Music and plants",
+          "eyebrow": "Vibrations matter",
+          "paragraphs": [
+            "Playing music to plants is a classic school science experiment that explores the relationship between sound vibrations and plant growth. Experiments generally test whether different genres (classical, rock, jazz) or sound vs. silence affects growth rate, height, or biomass.",
+            "## Common experimental results",
+            "**Classical/soothing music:** often shows positive effects, with plants growing slightly faster, taller, or healthier. Some studies suggest higher biomass and better germination.",
+            "**Rock/loud music:** some studies indicate this causes stunted growth or, in some cases, plants growing away from the sound source.",
+            "## Vibrations matter",
+            "Research suggests it is not the “taste” in music, but the sound waves that cause mechanical vibrations. These vibrations can stimulate plant cells, improving nutrient uptake and accelerating growth."
+          ],
+          "lesson": {
+            "lead": "Similarly, when chanting Vedas we are creating a vibration that we may not see. But these vibrations carry powerful transformational impacts."
+          }
+        },
+        {
+          "type": "chain",
+          "heading": "Ati Rudra Maha Yajna",
+          "items": ["Mantras / Havis", "Fire", "Smoke", "Cloud", "Rain", "Crop", "Food", "Thoughts", "Actions", "Habits", "Character"]
+        },
+        {
+          "type": "facts",
+          "items": [
+            { "eyebrow": "California drought", "text": "Unprecedented rainfall in 172 years once ARMY took place in April 2023." },
+            { "eyebrow": "Farmers rejoice!", "text": "ARMY 2017 brought rain in Thiruvannamalai not seen in 47 years." }
+          ],
+          "footnote": "ARMY — the Ati Rudra Maha Yajna.",
+          "link": { "href": "/chant/sri-rudram", "label": "Learn the Śrī Rudram" }
+        }
+      ]
+    }
+  ]
+}
