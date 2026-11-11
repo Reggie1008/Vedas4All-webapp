@@ -12,6 +12,7 @@ import SectionedChant from "@/components/SectionedChant";
 import { SarvadharmaClosing, SarvadharmaIntro } from "@/components/SarvadharmaPanel";
 import ScriptToggleButton from "@/components/ScriptToggleButton";
 import MeaningLanguage from "@/components/MeaningLanguage";
+import InnerMeaning from "@/components/InnerMeaning";
 import TraditionSymbol from "@/components/TraditionSymbol";
 import VersesBlock from "@/components/VersesBlock";
 import WalkthroughButton from "@/components/WalkthroughButton";
@@ -203,6 +204,10 @@ export default async function ChantPage({
           {/* Below the two columns, where the left one has run out: these
               read across the page rather than down one half of it. */}
           <div className="mt-12 space-y-10">
+            {chant.innerMeaning && (
+              <InnerMeaning data={chant.innerMeaning} traditions={traditions} />
+            )}
+
             {chant.quotes && chant.quotes.length > 0 && (
               <section className="grid grid-cols-1 gap-6 lg:grid-cols-2 lg:gap-10">
                 {chant.quotes.map((q, i) => (

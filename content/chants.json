@@ -649,7 +649,8 @@
           }
         ],
         "start": 13,
-        "end": 53
+        "end": 53,
+        "holdings": "oṁ | yo̍'pām [p]uṣpa̱ṁ veda̍ । puṣpa̍vān [p]ra̱jāvān [p]aśu̱mān [bh]a̍vati । ca̱ndramā̱ vā | a̱pām [p]uṣpa̎ṃ । puṣpa̍vān [p]ra̱jāvān [p]aśu̱mān [bh]a̍vati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 1 ॥"
       },
       {
         "devanagari": "अग्निर्वा । अपामायतनं । आयतनवान् भवति । योऽग्नेरायतनं वेद । आयतनवान् भवति । आपो वा । अग्नेरायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ २ ॥",
@@ -678,7 +679,8 @@
           }
         ],
         "start": 54,
-        "end": 92
+        "end": 92,
+        "holdings": "a̱gnirvā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yo̎'[g]nerā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vā | a̱gnerā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 2 ॥"
       },
       {
         "devanagari": "वायुर्वा । अपामायतनं । आयतनवान् भवति । यो वायोरायतनं वेद । आयतनवान् भवति । आपो वै वायोरायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ३ ॥",
@@ -707,7 +709,8 @@
           }
         ],
         "start": 93,
-        "end": 131
+        "end": 131,
+        "holdings": "vā̱yurvā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yo vā̱yorā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vai vā̱yorā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 3 ॥"
       },
       {
         "devanagari": "असौ वै तपन्नपामायतनं । आयतनवान् भवति । योऽमुष्य तपत । आयतनं वेद । आयतनवान् भवति । आपो वा । अमुष्य तपत । आयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ४ ॥",
@@ -736,7 +739,8 @@
           }
         ],
         "start": 132,
-        "end": 182
+        "end": 182,
+        "holdings": "a̱sau vai tapa̍nna̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yo̍'muṣya̱ tapa̍ta । ā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vā | a̱muṣya̱ tapa̍ta । ā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 4 ॥"
       },
       {
         "devanagari": "चन्द्रमा वा । अपामायतनं । आयतनवान् भवति । यश्चन्द्रमस । आयतनं वेद । आयतनवान् भवति । आपो वै चन्द्रमस । आयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ५ ॥",
@@ -765,7 +769,8 @@
           }
         ],
         "start": 183,
-        "end": 223
+        "end": 223,
+        "holdings": "ca̱ndramā̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yaśca̱ndrama̍sa । ā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vai ca̱ndrama̍sa । ā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 5 ॥"
       },
       {
         "devanagari": "नक्षत्राणि वा । अपामायतनं । आयतनवान् भवति । यो नक्षत्राणामायतनं वेद । आयतनवान् भवति । आपो वै नक्षत्राणामायतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ६ ॥",
@@ -794,7 +799,8 @@
           }
         ],
         "start": 224,
-        "end": 261
+        "end": 261,
+        "holdings": "nakṣa̍trāṇi̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yo nakṣa̍trāṇāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vai nakṣa̍trāṇāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 6 ॥"
       },
       {
         "devanagari": "पर्जन्यो वा । अपामायतनं । आयतनवान् भवति । यः पर्जन्यस्यायतनं वेद । आयतनवान् भवति । आपो वै पर्जन्यस्याऽऽयतनं । आयतनवान् भवति । य । एवं वेद । योऽपामायतनं वेद । आयतनवान् भवति ॥ ७ ॥",
@@ -823,7 +829,8 @@
           }
         ],
         "start": 262,
-        "end": 301
+        "end": 301,
+        "holdings": "pa̱rjanyo̱ vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yaḥ pa̱rjanya̍syā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vai pa̱rjanya̍syā̱''yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̍'pāmā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati ॥ 7 ॥"
       },
       {
         "devanagari": "संवत्सरो वा । अपामायतनं । आयतनवान् भवति । यः संवत्सरस्यायतनं वेद । आयतनवान् भवति । आपो वै संवत्सरस्यायतनं । आयतनवान् भवति । य । एवं वेद । योऽप्सु नावं प्रतिष्ठितां वेद । प्रत्येव तिष्ठति ॥ ८ ॥",
@@ -855,7 +862,8 @@
             "meaning": "becomes established in that abode"
           }
         ],
-        "start": 301
+        "start": 301,
+        "holdings": "sa̱ṁva̱tsa̱ro vā | a̱pāmā̱yata̍naṁ । ā̱yata̍navān [bh]avati । yas sa̍ṁvatsa̱rasyā̱yata̍na̱ṁ veda̍ । ā̱yata̍navān [bh]avati । āpo̱ vai sa̍ṁvatsa̱rasyā̱yata̍naṁ । ā̱yata̍navān [bh]avati । ya | e̱vaṁ veda̍ । yo̎'[p]su nāva̱m prati̍ṣṭhitā̱ṁ veda̍ । pratye̱va ti̍ṣṭhati ॥ 8 ॥"
       },
       {
         "devanagari": "ॐ । राजाधिराजाय प्रसह्य साहिने । नमो वयं वैश्रवणाय कुर्महे । स मे कामान्काम कामाय मह्यम् । कामेश्वरो वैश्रवणो ददातु । कुबेराय वैश्रवणाय । महाराजाय नमः ॥",
@@ -878,7 +886,8 @@
             "word": "Namaḥ",
             "meaning": "salutations"
           }
-        ]
+        ],
+        "holdings": "oṃ | rā̱jā̱dhi̱rā̱jāya̍ prasahya sā̱hine̎ । namo̍ va̱yaṁ vai̎ś[r]ava̱ṇāya̍ kurmahe । sa me̱ kāmā̱n [k]āma̱ kāmā̍ya̱ mahyam̎ । kā̱me̱ś[v]a̱ro vai̎ś[r]ava̱ṇo da̍dātu । ku̱be̱rāya̍ vaiś[r]ava̱ṇāya̍ । ma̱hā̱rājāya̱ nama̍ḥ ॥"
       },
       {
         "devanagari": "॥ ॐ शान्तिः॒ शान्तिः॒ शान्तिः॑ ॥",
@@ -979,7 +988,75 @@
       }
     },
     "structure": "This hymn is also the emblem of the Sri Sathya Sai Organisation.",
-    "teachingNote": "The one who understands the flowers (puṣpam) of the waters (āpaḥ), and their relationship to the moon (candramāḥ), reaches the highest abode. Bhagawan Sri Sathya Sai Baba explains that āpaḥ — the waters of life — is Love. Read this way, the hymn says: the one who understands the inner significance of Love, and its relationship to the mind, reaches the highest abode. This is all there is to know — the one illumined by Love attains the highest abode."
+    "teachingNote": "The one who understands the flowers (puṣpam) of the waters (āpaḥ), and their relationship to the moon (candramāḥ), reaches the highest abode. Bhagawan Sri Sathya Sai Baba explains that āpaḥ — the waters of life — is Love. Read this way, the hymn says: the one who understands the inner significance of Love, and its relationship to the mind, reaches the highest abode. This is all there is to know — the one illumined by Love attains the highest abode.",
+    "innerMeaning": {
+      "heading": "The inner meaning",
+      "intro": "There is a deeper spiritual meaning of this beautiful mantra and it is called Mantra Pushpam. Exactly 20 years ago to this month, the speaker had an experience with Bhagawan (in a dream) where the infinitely compassionate Lord had given a much deeper spiritual insight about Mantra Puṣpam as a multifaith prayer. This was shared in an H2H article published by Radiosai.\n\nTaken literally, these meanings appear repetitive and somewhat obscure. However, there is a much deeper spiritual significance underlying these mantras.\n\nThis deeper insight was revealed through a profound inner experience, where Bhagavān appeared seated at the center of a five-petaled flower and instructed the chanting of these mantras. From that point, their inner meaning began to unfold.\n\nThe key lies in understanding the deeper implications of certain words.\n\nThe word puṣpa does not merely mean “flower.” Its root, puṣ, means “to nourish,” “to foster,” “to cause to thrive or blossom.” A flower represents the very essence from which fruit and vitality emerge. Thus, puṣpa can be understood as the essence or core principle of nourishment and growth.\n\nSimilarly, āpaḥ is commonly translated as “water,” but its root conveys “that which pervades, penetrates, and sustains all.” Water nourishes life, pervades all forms, and exists in subtle and expansive states. By this deeper characteristic, āpaḥ also points to something more universal; that which sustains and pervades all existence. In a spiritual sense, this quality aligns closely with love; that which nourishes, pervades, sustains, and connects all. Thus, when interpreted more deeply; puṣpa = essence; āpaḥ = all-pervading love.",
+      "links": [
+        {
+          "label": "The Mantras of Mantrapushpam: Multifaith and Multi-Dimensional — Radiosai H2H, September 2006",
+          "href": "https://archive.sssmediacentre.org/journals/Vol_04/01SEP06/Mantrapushpam.htm"
+        },
+        {
+          "label": "Webinar on the deeper meaning of Mantrapuṣpaṃ",
+          "href": "https://youtu.be/dMDlWkbqD3Q"
+        }
+      ],
+      "stanzas": [
+        {
+          "stanza": 1,
+          "title": "Mindfulness of Love",
+          "text": "Now, the mantra transforms in meaning. The one who knows the essence of love. Such a person, the mantra says, becomes endowed not only with material prosperity but also with spiritual fullness. They do not merely possess abundance; they become that very essence.\n\n“Chandramā vā apāṃ puṣpam”, the moon is the essence of that love. Symbolically, the moon represents the mind. Thus, the teaching suggests: the mind itself arises from, and is sustained by, this all-pervading love.\n\nOne who recognizes the mind as rooted in love and understands love as the underlying essence of all existence, transcends mere intellectual understanding. Such a person becomes established in that truth.\n\nUltimately, these mantras are not about physical waters and flowers, but about realizing: the essence of existence is love, and to know that essence is to become it."
+        },
+        {
+          "stanza": 2,
+          "title": "Love is the abode of Sacrificial Fire",
+          "text": "Agni, symbolic of sacrificial fire, verily is the abode of the Love, and he who knows the abode of sacrificial fire likewise becomes the abode. In multifaith context, this represents Zorastrianism; fire is the primary altar."
+        },
+        {
+          "stanza": 3,
+          "title": "Love is the abode of Prāṇa",
+          "text": "Vāyu, symbolic of life force Prāṇa, verily is the abode of the Love, and he who knows the abode of the prāṇa likewise becomes the abode. Early Chinese philosophers, Mencius (c. 300 BCE) introduced Qi (not to be confused with Tai Chi) as the spiritual force. In modern times, focus on breath (ex., Vipāsana) has become popular. These are spiritual practices not faiths or religions per se."
+        },
+        {
+          "stanza": 4,
+          "title": "Love is lack of ego",
+          "text": "The word asau points to “That”—the higher principle. It is connected here with tāpana—that which burns, purifies, or even annihilates. From tāpana arises tapas.\n\nWhat is tapas? It is not merely austerity in an external sense. True tapas is the burning away of the lower self—the mastery and eventual transcendence of the senses, the body, speech, and reactions. One who is in tapas is deeply aware, not driven unconsciously by sensory impulses.\n\nAt the root of all sensory agitation lies the ego. Therefore, true tapas is ultimately the annihilation of the ego. And what is the foundation of this annihilation? It is love.\n\nThis truth is beautifully reflected in the life of Jesus Christ. The crucifixion is not merely a historical event—it is a profound spiritual symbol of the sacrifice of the ego. Out of pure love for humanity, he bore suffering and accepted the karmic burden of others. The root of that sacrifice was not force, but boundless compassion.\n\nSeen in this light, the mantra aligns deeply with the spirit of Good Friday and Easter. The one who truly sacrifices the ego, out of love, becomes love itself.\n\nThat which “burns”—the inner fire of tapas—is in fact rooted in love. And one who understands this, who realizes the source and purpose of such sacrifice, becomes established in that same love.\n\nWhere there is pure love, there is no ego. And where there is no ego, there is no psychological hurt.\n\nThis is an important spiritual principle: Physical pain may arise, and one must protect the body. But psychological hurt arises only when there is ego. No one can truly hurt another’s inner being; one only feels hurt when one identifies with the ego.\n\nThis is why Jesus Christ could say, “Forgive them, for they know not what they do.” This was not merely compassion—it was profound wisdom. When harm is directed toward one who has no ego, it does not “land.” Instead, it returns to the doer, magnified. Thus, he prayed for their forgiveness—not for himself, but for their sake. He experienced physical pain, but not inner suffering. That is the mark of egolessness.\n\nSuch a state arises only from pure, unconditional love. And one who abides in that love does not merely express it—they become love itself.\n\nAsau Tapannaḥ, that which burns, verily is the abode of the Love, and he who knows the abode of that which is sacrificed likewise becomes the abode. In multifaith context, this represents the cross on which the ego is sacrificed. The word Tapas means that which is sacrificed. Sacrifice of the ego is born from LOVE."
+        },
+        {
+          "stanza": 5,
+          "title": "Love is mindless",
+          "text": "Candra, that crescent moon, verily is the abode of the Love, and he who knows the abode of that minimal mind likewise becomes the abode. The moon in first mantra is full moon. Here it can be interpreted as the moon with in multifaith context, this represents the mind which is minimal, as represented by symbol of Islam.\n\nWhen the mind abides in its source, it is no longer full and active like the full moon. Instead, it is like a crescent moon; subtle, quiet, almost thought-free. This represents a state beyond mental agitation: a mind that has become still.\n\nThis imagery is beautifully symbolized in Shiva, where the crescent moon adorns the head—indicating mastery and transcendence of the mind. At the center of this stillness shines the light of supreme awareness. In another tradition, this state is expressed through the invocation of the Divine as the ineffable “Allah Hu”; a sacred sound used in Sufi practice to dissolve the ego and quiet the mind.\n\nThrough such repetition, thoughts subside, and the mind becomes absorbed in the Divine.\n\nWhen the restless flow of thoughts comes to an end, the glory of the Divine begins to reveal itself. Yet, a subtle trace of mind must remain—just enough to recognize and experience that glory. This is the significance of the crescent: not the absence of mind, but its refinement to the subtlest state.\n\nAcross traditions, these symbols point to the same truth. No religion, in its essence, is lesser or greater than another. The limitation lies not in the scriptures, but in human misunderstanding. When fanaticism drops, true vision arises."
+        },
+        {
+          "stanza": 6,
+          "title": "Nakṣatra",
+          "text": "Nakṣatra means that which is not subject to any decay; omnipresence."
+        },
+        {
+          "stanza": 7,
+          "title": "Parjanya",
+          "text": "Parjanya, that which showers, represents grace. Grace in essence is the shower of love. Grace comes only after all the effort of the mind, the senses, the intellect, everything must be completely put into place."
+        },
+        {
+          "stanza": 8,
+          "title": "Saṃvatsara, and the boat",
+          "text": "Saṃvatsara is that in which everything is flowing. The property of samvatsara is based on dharma. Dharma is the one that creates time. The dharma which is flowing is dharma, rotating creates karma. Wheel of dharma.\n\nThe boat represents Sanātana Dharma in which all the dharmas are seated. There is no special dharma called Hinduism. That in which everything is present is called Sanātana Dharma. The oṃkāra is the praṇava is the unique boat that takes one across this unstable ocean of saṃsāra."
+        }
+      ],
+      "insightsHeading": "Key insights",
+      "insights": [
+        "The mantras are a multifaith prayer. These mantras do not represent any religion whatsoever. In fact, all religions are in these mantras. They belong to humanity. Every human being who knows this essence will emerge great, grand, and holy.",
+        "Puṣpa means the essence. Apāḥ means love. The one who understands the essence of love then the rest of the magic happens. By that love one gets to possess not only the love but also everything related to material physical prosperity and spiritual prosperity.",
+        "The moon symbolizes the mind. The mind is the essence of love, meaning mind is born in love. The one who knows that will be prosperous materially and spiritually. He who knows that mind as the abode of love becomes love itself.",
+        "Tapas means annihilation of senses, controlling the senses. The basis of annihilation of all those, including the root of all those sensual things, is ego. Sacrifice of the ego is born from love. If one is love, one will not have ego. In fact, one will sacrifice one’s ego for the sake of love. There is no I feeling whatsoever.",
+        "The root of sacrifice of the ego on the cross is associated with upliftment of the entire humanity. He took upon the karmic burden. The one who sacrifices himself becomes that love itself. That which burns verily is the abode of love, and he who knows that abode of that which is sacrificed in love becomes the love itself.",
+        "Psychological hurt means one has ego. Nobody can hurt one’s feelings. Only one can hurt one’s feelings. Hurt does not come without ego.",
+        "The crescent moon represents the annihilated mind, the thoughtless mind in its lowest form, with supreme awareness in the center, as in the head of Śiva or the symbol of Islam. When endless thoughts all vanish because of the invocation, one will see the glory of God in fullness, but to know the glory only a little bit of mind must be left.",
+        "The mantra puṣpam is the essence of all faiths. With each of these, the chant of that religion associated, then a song or a bhajan associated with that religion, becomes a complete construct of a beautiful offering of mantra puṣpam, the essence of mantras, essence of all faiths."
+      ],
+      "source": "From the Vedas4All VedaStudy transcript, Mantrapushpam – Multifaith prayers."
+    }
   },
   {
     "id": "sai-gayatri",

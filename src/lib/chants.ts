@@ -102,6 +102,22 @@ export interface FigureParallel {
   source?: string;
 }
 
+/**
+ * A longer teaching on the hymn's inner meaning, stanza by stanza, read
+ * after the chant rather than during it. Mantrapuṣpaṃ carries the VedaStudy
+ * commentary this way.
+ */
+export interface InnerMeaning {
+  heading: string;
+  /** Paragraphs separated by blank lines. */
+  intro?: string;
+  links?: { label: string; href: string }[];
+  stanzas: { stanza: number; title: string; text: string }[];
+  insightsHeading?: string;
+  insights?: string[];
+  source?: string;
+}
+
 export interface Chant {
   id: string;
   title: {
@@ -125,6 +141,7 @@ export interface Chant {
   /** A sustained parallel with one figure, e.g. Durgā Sūktam and Moses. */
   figureParallel?: FigureParallel;
   sarvadharma?: Sarvadharma;
+  innerMeaning?: InnerMeaning;
   /** Present only for chants recited in sections of anuvākas (Śrī Rudram). */
   sections?: ChantSection[];
   audio: {
