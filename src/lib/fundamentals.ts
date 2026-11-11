@@ -33,6 +33,7 @@ export type Block =
   | { type: "recap"; heading: string; intro?: string; stats: { value: string; label: string }[] }
   | { type: "guides"; heading: string; intro?: string; items: { label: string; text?: string; examples?: string[] }[]; footnotes?: string[] }
   | { type: "figures"; heading: string; intro?: string; items: { src: string; alt: string; caption?: string }[]; footnotes?: string[] }
+  | { type: "sounds"; heading: string; intro?: string; items: { iast: string; devanagari: string; guide: string; example: string; audio?: string }[]; footnotes?: string[] }
   | { type: "next"; heading: string; items: { sound: string; label: string; place: string }[] };
 
 export interface Module {
@@ -42,6 +43,8 @@ export interface Module {
   title: string;
   subtitle?: string;
   summary: string;
+  /** Opening words of the lesson itself, shown above its first section. */
+  intro?: string;
   quote?: { text: string; attribution: string };
   blocks: Block[];
   source?: string;

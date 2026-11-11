@@ -1,3 +1,5 @@
+import { existsSync } from "node:fs";
+import { join } from "node:path";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -5,6 +7,7 @@ import { modules, getModuleById, FUNDAMENTALS_ACCENT } from "@/lib/fundamentals"
 import ArticulationChart from "@/components/ArticulationChart";
 import SandhiChart from "@/components/SandhiChart";
 import FontSizeControl from "@/components/FontSizeControl";
+import SoundTile from "@/components/SoundTile";
 import { rich } from "@/lib/richText";
 
 export function generateStaticParams() {
@@ -28,6 +31,15 @@ export async function generateMetadata({
       images: [{ url: "/brand/og-image.png", width: 1200, height: 630 }],
     },
   };
+}
+
+/**
+ * A sound's play button appears only once its recording is in /public.
+ * Checked when the page is built, so dropping the file in is all it takes
+ * — and a tile never offers a button that plays nothing.
+ */
+function recorded(audio?: string): boolean {
+  return Boolean(audio) && existsSync(join(process.cwd(), "public", audio!));
 }
 
 function Heading({ children }: { children: React.ReactNode }) {
@@ -104,6 +116,12 @@ export default async function ModulePage({
               — {m.quote.attribution}
             </footer>
           </blockquote>
+        )}
+
+        {m.intro && (
+          <p className="scalable-text text-pretty font-serif text-xl leading-relaxed text-ink">
+            {rich(m.intro)}
+          </p>
         )}
 
         {m.blocks.map((b, i) => (
@@ -293,6 +311,17 @@ export default async function ModulePage({
                   </div>
                 ))}
               </div>
+            )}
+
+            {b.type === "sounds" && (
+              <>
+                <div className="grid grid-cols-1 gap-2.5 sm:grid-cols-2">
+                  {b.items.map((it, j) => (
+                    <SoundTile key={j} sound={it} hasAudio={recorded(it.audio)} />
+                  ))}
+                </div>
+                <Footnotes items={b.footnotes} />
+              </>
             )}
 
             {b.type === "aspirated" && (

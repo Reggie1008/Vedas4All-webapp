@@ -1,7 +1,114 @@
 [
   {
-    "id": "pronunciation",
+    "id": "vowels",
     "order": 1,
+    "module": "Lesson 1",
+    "title": "Vowels",
+    "summary": "Saṁskṛtaṁ distinguishes between short and long vowels. A bar above a vowel (macron) indicates it is held for twice the duration of the short version.",
+    "intro": "Saṁskṛtaṁ distinguishes between short and long vowels. A bar above a vowel (macron) indicates it is held for twice the duration of the short version.",
+    "blocks": [
+      {
+        "type": "sounds",
+        "heading": "Common vowels",
+        "items": [
+          {
+            "iast": "a",
+            "devanagari": "अ",
+            "guide": "Short 'a' sound",
+            "example": "**u**p, **a**bout",
+            "audio": "/audio/sounds/a.mp3"
+          },
+          {
+            "iast": "ā",
+            "devanagari": "आ",
+            "guide": "Long 'a' sound",
+            "example": "f**a**ther, c**a**r",
+            "audio": "/audio/sounds/aa.mp3"
+          },
+          {
+            "iast": "i",
+            "devanagari": "इ",
+            "guide": "Short 'i' sound",
+            "example": "p**i**n, f**i**ll",
+            "audio": "/audio/sounds/i.mp3"
+          },
+          {
+            "iast": "ī",
+            "devanagari": "ई",
+            "guide": "Long 'ee' sound",
+            "example": "m**ee**t, mach**i**ne",
+            "audio": "/audio/sounds/ii.mp3"
+          },
+          {
+            "iast": "u",
+            "devanagari": "उ",
+            "guide": "Short 'u' sound",
+            "example": "p**u**ll, f**u**ll",
+            "audio": "/audio/sounds/u.mp3"
+          },
+          {
+            "iast": "ū",
+            "devanagari": "ऊ",
+            "guide": "Long 'oo' sound",
+            "example": "b**oo**t, r**u**le",
+            "audio": "/audio/sounds/uu.mp3"
+          },
+          {
+            "iast": "ṛ",
+            "devanagari": "ऋ",
+            "guide": "Vocalic 'r' (short)",
+            "example": "**Ra**re (tongue not touching cerebral area)",
+            "audio": "/audio/sounds/r.mp3"
+          },
+          {
+            "iast": "ṝ",
+            "devanagari": "ॠ",
+            "guide": "Vocalic 'r' (long)",
+            "example": "Ruminant (Longer version of **ṛ**, tongue not touching cerebral area)",
+            "audio": "/audio/sounds/rr.mp3"
+          },
+          {
+            "iast": "ḷ",
+            "devanagari": "ऌ",
+            "guide": "Vocalic 'l'",
+            "example": "No English (rarely used)",
+            "audio": "/audio/sounds/l.mp3"
+          },
+          {
+            "iast": "e",
+            "devanagari": "ए",
+            "guide": "Long 'e' sound",
+            "example": "th**ey**, p**ay**",
+            "audio": "/audio/sounds/e.mp3"
+          },
+          {
+            "iast": "ai",
+            "devanagari": "ऐ",
+            "guide": "Diphthong 'ai'",
+            "example": "m**y**, h**igh**",
+            "audio": "/audio/sounds/ai.mp3"
+          },
+          {
+            "iast": "o",
+            "devanagari": "ओ",
+            "guide": "Long 'o' sound",
+            "example": "g**o**, r**o**pe",
+            "audio": "/audio/sounds/o.mp3"
+          },
+          {
+            "iast": "au",
+            "devanagari": "औ",
+            "guide": "Diphthong 'au'",
+            "example": "h**ow**, n**ow**",
+            "audio": "/audio/sounds/au.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "pronunciation",
+    "order": 2,
     "module": "Module 1",
     "title": "Learning Pronunciations",
     "subtitle": "The Science of Sound",
@@ -330,7 +437,7 @@
   },
   {
     "id": "continuity-anusvara",
-    "order": 2,
+    "order": 3,
     "module": "Module 2",
     "title": "Continuity — Anusvāra",
     "subtitle": "The Science of Sound",
@@ -681,7 +788,7 @@
   },
   {
     "id": "continuity-visarga",
-    "order": 3,
+    "order": 4,
     "module": "Module 3",
     "title": "Continuity — Visarga",
     "subtitle": "The Science of Sound",
@@ -979,7 +1086,7 @@
   },
   {
     "id": "pauses-holdings",
-    "order": 4,
+    "order": 5,
     "module": "Module 4",
     "title": "Discontinuity — Pauses & Holdings",
     "subtitle": "The Science of Sound",
