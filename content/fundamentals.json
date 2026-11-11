@@ -52,7 +52,13 @@
             "guide": "Long 'oo' sound",
             "example": "b**oo**t, r**u**le",
             "audio": "/audio/sounds/uu.mp3"
-          },
+          }
+        ]
+      },
+      {
+        "type": "sounds",
+        "heading": "Other vowels",
+        "items": [
           {
             "iast": "ṛ",
             "devanagari": "ऋ",
