@@ -16,8 +16,14 @@ export interface Verse {
   /** Overrides the positional counter, for booklets that number their
    *  own verses (Sarvadevatā Gāyatrī runs 1-12 then jumps to 18). */
   number?: string;
-  /** Per-stanza translation, where the booklet provides one. */
+  /** Per-stanza translation, where the booklet provides one. Shown as the
+   *  literal meaning when an inner meaning is given too. */
   meaning?: string;
+  /** A short title for what the line is about, e.g. "Purity of word". */
+  theme?: string;
+  /** The inner (spiritual) reading of the line. Paragraphs separated by
+   *  blank lines. */
+  innerMeaning?: string;
   /** Word-by-word glosses for this stanza only. */
   words?: WordMeaning[];
 }
@@ -71,6 +77,12 @@ export interface Anuvaka {
   verses: Verse[];
   audio?: { normal: string; slow?: string; source?: string };
   videoId?: string;
+  /** What this part is about, shown above its text. */
+  theme?: string;
+  /** An introduction to the part. Paragraphs separated by blank lines. */
+  intro?: string;
+  /** Teachings that span several lines, read after the text. */
+  reflections?: { title: string; text: string }[];
 }
 
 /**
@@ -84,6 +96,8 @@ export interface ChantSection {
   note?: string;
   /** What this chant calls its parts. Defaults to "Anuvāka". */
   unit?: string;
+  /** Where the meanings in this section come from. */
+  meaningsSource?: string;
   anuvakas: Anuvaka[];
 }
 

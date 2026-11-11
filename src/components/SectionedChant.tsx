@@ -98,6 +98,10 @@ export default function SectionedChant({
 
       {section.note && <p className="text-xs leading-relaxed text-ink-3">{section.note}</p>}
 
+      {(anuvaka.theme || anuvaka.intro) && (
+        <AnuvakaIntro key={`intro-${section.id}-${anuvaka.n}`} theme={anuvaka.theme} intro={anuvaka.intro} />
+      )}
+
       {/* The selected anuvāka. Each one is its own recording, so the
           provider is keyed to it and resets when the pills change. */}
       <VerseAudioProvider key={`audio-ctx-${section.id}-${anuvaka.n}`}>
@@ -119,11 +123,68 @@ export default function SectionedChant({
         </div>
       </VerseAudioProvider>
 
+      {anuvaka.reflections && anuvaka.reflections.length > 0 && (
+        <section aria-label="Reflections" className="space-y-3">
+          <h3 className="eyebrow">Going deeper</h3>
+          {anuvaka.reflections.map((r, i) => (
+            <details
+              key={`${section.id}-${anuvaka.n}-${i}`}
+              className="group rounded-2xl border border-hairline bg-elevated open:bg-[color-mix(in_srgb,var(--accent)_6%,transparent)]"
+            >
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-3 px-5 py-4 font-serif text-lg leading-snug text-ink [&::-webkit-details-marker]:hidden">
+                {r.title}
+                <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="shrink-0 text-accent-ink transition group-open:rotate-180" aria-hidden>
+                  <path d="M6 9l6 6 6-6" />
+                </svg>
+              </summary>
+              <div className="scalable-text space-y-3 px-5 pb-5 leading-relaxed text-ink-2">
+                {paragraphs(r.text).map((p, j) => (
+                  <p key={j} className="whitespace-pre-line">{p}</p>
+                ))}
+              </div>
+            </details>
+          ))}
+        </section>
+      )}
+
+      {section.meaningsSource && (anuvaka.theme || anuvaka.verses.some((v) => v.meaning || v.words?.length)) && (
+        <p className="text-xs leading-relaxed text-ink-3">Meanings: {section.meaningsSource}</p>
+      )}
+
       <YouTubeEmbed
         key={`video-${section.id}-${anuvaka.n}`}
         videos={anuvaka.videoId ? [{ id: anuvaka.videoId, label: anuvaka.label }] : []}
         thumbnail={thumbnail}
       />
+    </div>
+  );
+}
+
+function paragraphs(text: string): string[] {
+  return text.split(/\n\s*\n/);
+}
+
+/** What the anuvāka is about. Long introductions open on their first
+ *  paragraph so the chant text stays close to the top. */
+function AnuvakaIntro({ theme, intro }: { theme?: string; intro?: string }) {
+  const [first, ...rest] = intro ? paragraphs(intro) : [];
+  return (
+    <div className="rounded-2xl border border-[color-mix(in_srgb,var(--accent)_35%,transparent)] bg-[color-mix(in_srgb,var(--accent)_7%,transparent)] px-5 py-4">
+      {theme && <p className="font-serif text-xl leading-snug text-ink">{theme}</p>}
+      {first && <p className={`scalable-text leading-relaxed text-ink-2 ${theme ? "mt-2" : ""}`}>{first}</p>}
+      {rest.length > 0 && (
+        <details className="group mt-2">
+          <summary className="inline-flex cursor-pointer list-none items-center gap-1 text-xs font-semibold text-accent-ink [&::-webkit-details-marker]:hidden">
+            <span className="group-open:hidden">Read more</span>
+            <span className="hidden group-open:inline">Show less</span>
+          </summary>
+          <div className="scalable-text mt-2 space-y-2.5 leading-relaxed text-ink-2">
+            {rest.map((p, i) => (
+              <p key={i}>{p}</p>
+            ))}
+          </div>
+        </details>
+      )}
     </div>
   );
 }

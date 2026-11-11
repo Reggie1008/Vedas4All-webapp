@@ -31,7 +31,7 @@ export default function VersesBlock({
   }, []);
 
   // Only offer the expand affordance where there is stanza-level content.
-  const hasDetail = verses.some((v) => v.meaning || v.words?.length);
+  const hasDetail = verses.some((v) => v.meaning || v.innerMeaning || v.words?.length);
   // The rectangles need saying once, at the foot of the lines they mark.
   const hasHoldings = verses.some((v) => v.holdings);
 
@@ -67,7 +67,10 @@ export default function VersesBlock({
 
       {verses.map((verse, i) => {
         const here = traditions?.[i] ?? [];
-        const detail = verse.meaning || verse.words?.length || here.length ? verse : null;
+        const detail =
+          verse.meaning || verse.innerMeaning || verse.words?.length || here.length ? verse : null;
+        // With an inner reading alongside, the plain translation is named as the literal one.
+        const twoReadings = Boolean(verse.innerMeaning);
         const isOpen = open === i;
         const isSounding = sounding === i;
         const canPlay = timed && verse.start !== undefined;
@@ -211,8 +214,14 @@ export default function VersesBlock({
 
             {detail && isOpen && (
               <div className="animate-fade-up border-t border-hairline bg-[color-mix(in_srgb,var(--accent)_7%,transparent)] px-5 py-5 sm:px-7">
+                {verse.theme && (
+                  <p className="mb-3 font-serif text-lg leading-snug text-ink">{rich(verse.theme)}</p>
+                )}
                 {verse.meaning && (
-                  <p className="scalable-text leading-relaxed text-ink-2">{rich(verse.meaning)}</p>
+                  <div>
+                    {twoReadings && <h3 className="eyebrow mb-1.5">Literal meaning</h3>}
+                    <Paragraphs text={verse.meaning} />
+                  </div>
                 )}
                 {here.map((e, j) => (
                   <div key={j} className="mt-4 border-t border-hairline pt-4 first:mt-0 first:border-0 first:pt-0">
@@ -255,7 +264,7 @@ export default function VersesBlock({
                 ))}
 
                 {verse.words && verse.words.length > 0 && (
-                  <dl className="mt-4 grid grid-cols-1 gap-x-6 gap-y-1.5 sm:grid-cols-2">
+                  <dl className={`grid grid-cols-1 gap-x-6 gap-y-1.5 sm:grid-cols-2 ${verse.meaning || verse.theme || here.length ? "mt-4" : ""}`}>
                     {verse.words.map((w, j) => (
                       <div key={j} className="flex flex-wrap items-baseline gap-x-2">
                         <dt className="font-serif text-sm font-semibold text-ink">
@@ -265,6 +274,13 @@ export default function VersesBlock({
                       </div>
                     ))}
                   </dl>
+                )}
+
+                {verse.innerMeaning && (
+                  <div className={verse.meaning || verse.words?.length ? "mt-5 border-t border-hairline pt-4" : ""}>
+                    <h3 className="eyebrow mb-1.5">Inner meaning</h3>
+                    <Paragraphs text={verse.innerMeaning} />
+                  </div>
                 )}
               </div>
             )}
@@ -292,5 +308,16 @@ export default function VersesBlock({
     )}
     {capture && <TimingCapture verses={verses} />}
     </>
+  );
+}
+
+/** Prose fields may hold several paragraphs, separated by blank lines. */
+function Paragraphs({ text }: { text: string }) {
+  return (
+    <div className="scalable-text space-y-2.5 leading-relaxed text-ink-2">
+      {text.split(/\n\s*\n/).map((para, i) => (
+        <p key={i}>{rich(para)}</p>
+      ))}
+    </div>
   );
 }
