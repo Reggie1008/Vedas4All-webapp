@@ -1,7 +1,20 @@
 [
   {
-    "id": "vowels",
+    "id": "find-your-scale",
     "order": 1,
+    "module": "Module 1",
+    "title": "Find your scale",
+    "summary": "Veda chanting is pitched against a single base note rather than a melody. Chant one line in your normal voice and find which note you are on.",
+    "blocks": [
+      {
+        "type": "scale",
+        "heading": ""
+      }
+    ]
+  },
+  {
+    "id": "vowels",
+    "order": 2,
     "module": "Lesson 1",
     "title": "Vowels",
     "summary": "Saṁskṛtaṁ distinguishes between short and long vowels. A bar above a vowel (macron) indicates it is held for twice the duration of the short version.",
@@ -114,8 +127,8 @@
   },
   {
     "id": "pronunciation",
-    "order": 2,
-    "module": "Module 1",
+    "order": 3,
+    "module": "Module 2",
     "title": "Learning Pronunciations",
     "subtitle": "The Science of Sound",
     "summary": "The fifty mother sounds, where each one is formed in the mouth, and why the difference matters.",
@@ -443,8 +456,8 @@
   },
   {
     "id": "continuity-anusvara",
-    "order": 3,
-    "module": "Module 2",
+    "order": 4,
+    "module": "Module 3",
     "title": "Continuity — Anusvāra",
     "subtitle": "The Science of Sound",
     "summary": "The dot that is never itself. How ṁ takes the colour of whatever sound follows it, and why chanting flows because of it.",
@@ -452,7 +465,7 @@
       {
         "type": "recap",
         "heading": "Where we left off",
-        "intro": "Module 1 laid out the fifty mother sounds and gave every one of them a place in the mouth. Those same five places are what this module turns on.",
+        "intro": "Module 2 laid out the fifty mother sounds and gave every one of them a place in the mouth. Those same five places are what this module turns on.",
         "stats": [
           {
             "value": "14",
@@ -794,8 +807,8 @@
   },
   {
     "id": "continuity-visarga",
-    "order": 4,
-    "module": "Module 3",
+    "order": 5,
+    "module": "Module 4",
     "title": "Continuity — Visarga",
     "subtitle": "The Science of Sound",
     "summary": "The breath that is sent forth. How ḥ is pronounced, reshaped, or dropped altogether depending on what follows it.",
@@ -1092,8 +1105,8 @@
   },
   {
     "id": "pauses-holdings",
-    "order": 5,
-    "module": "Module 4",
+    "order": 6,
+    "module": "Module 5",
     "title": "Discontinuity — Pauses & Holdings",
     "subtitle": "The Science of Sound",
     "summary": "Where to stop, where never to stop, and how long to hold a sound — what keeps a group chanting as one voice.",
@@ -1239,7 +1252,7 @@
       {
         "type": "figures",
         "heading": "Counting syllables",
-        "intro": "Sixteen syllables — **Anuṣṭup chandas**. The green boxes mark the syllables; the blue superscripts are the anusvāra changes from Module 2, carried into a real verse.",
+        "intro": "Sixteen syllables — **Anuṣṭup chandas**. The green boxes mark the syllables; the blue superscripts are the anusvāra changes from Module 3, carried into a real verse.",
         "items": [
           {
             "src": "/fundamentals/syllables-suklambara.webp",

@@ -184,7 +184,7 @@ Two rules:
    its mark. `[s]uva̍ḥ` is right; `[s]uva[̍]ḥ` is not.
 
 Leave `holdings` out entirely and the line draws with no rectangles. A
-legend and a link to Module 4 appear under any chant that uses them.
+legend and a link to Module 5 appear under any chant that uses them.
 
 ## Checking your work
 

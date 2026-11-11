@@ -8,6 +8,7 @@ import ArticulationChart from "@/components/ArticulationChart";
 import SandhiChart from "@/components/SandhiChart";
 import FontSizeControl from "@/components/FontSizeControl";
 import SoundTile from "@/components/SoundTile";
+import FindYourScale from "@/components/FindYourScale";
 import { rich } from "@/lib/richText";
 
 export function generateStaticParams() {
@@ -126,7 +127,7 @@ export default async function ModulePage({
 
         {m.blocks.map((b, i) => (
           <section key={i} className="scalable-text">
-            <Heading>{b.heading}</Heading>
+            {b.heading && <Heading>{b.heading}</Heading>}
 
             {"intro" in b && b.intro && (
               <p className="mb-5 leading-relaxed text-ink-2">{rich(b.intro)}</p>
@@ -312,6 +313,8 @@ export default async function ModulePage({
                 ))}
               </div>
             )}
+
+            {b.type === "scale" && <FindYourScale />}
 
             {b.type === "sounds" && (
               <>

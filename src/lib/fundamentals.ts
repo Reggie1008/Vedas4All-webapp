@@ -34,6 +34,8 @@ export type Block =
   | { type: "guides"; heading: string; intro?: string; items: { label: string; text?: string; examples?: string[] }[]; footnotes?: string[] }
   | { type: "figures"; heading: string; intro?: string; items: { src: string; alt: string; caption?: string }[]; footnotes?: string[] }
   | { type: "sounds"; heading: string; intro?: string; items: { iast: string; devanagari: string; guide: string; example: string; audio?: string }[]; footnotes?: string[] }
+  /** The listening tool that names the note a student chants on. */
+  | { type: "scale"; heading: string }
   | { type: "next"; heading: string; items: { sound: string; label: string; place: string }[] };
 
 export interface Module {

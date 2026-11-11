@@ -2,36 +2,40 @@
 
 import { useEffect, useState } from "react";
 
-type View = "welcome" | "chants" | "fundamentals" | "scale";
-const VIEWS: View[] = ["welcome", "chants", "fundamentals", "scale"];
+type View = "welcome" | "chants" | "fundamentals";
+const VIEWS: View[] = ["welcome", "chants", "fundamentals"];
+
+// "Find your scale" was a side of its own before it became the first
+// module of Fundamentals; an old link or remembered choice lands there.
+const MOVED: Record<string, View> = { scale: "fundamentals" };
 
 /**
- * The portal has four sides: the welcome, the chants, the fundamentals that
- * teach how to chant them, and the base note to chant them on. The choice is
+ * The portal has three sides: the welcome, the chants, and the fundamentals
+ * that teach how to chant them. The choice is
  * remembered, and is addressable as ?view=chants so a page can link to one side.
  */
 export default function PortalTabs({
   welcome,
   chants,
   fundamentals,
-  scale,
 }: {
   welcome: React.ReactNode;
   chants: React.ReactNode;
   fundamentals: React.ReactNode;
-  scale: React.ReactNode;
 }) {
   // Someone arriving for the first time should meet the welcome.
   const [view, setView] = useState<View>("welcome");
 
   useEffect(() => {
-    const wanted = new URLSearchParams(window.location.search).get("view");
+    const asked = new URLSearchParams(window.location.search).get("view");
+    const wanted = asked && (MOVED[asked] ?? asked);
     if (wanted && (VIEWS as string[]).includes(wanted)) {
       setView(wanted as View);
       return;
     }
     try {
-      const stored = localStorage.getItem("v4a-view");
+      const kept = localStorage.getItem("v4a-view");
+      const stored = kept && (MOVED[kept] ?? kept);
       if (stored && (VIEWS as string[]).includes(stored)) setView(stored as View);
     } catch {
       /* storage blocked — the default stands */
@@ -64,7 +68,6 @@ export default function PortalTabs({
               ["welcome", "Welcome"],
               ["chants", "Chants"],
               ["fundamentals", "Fundamentals"],
-              ["scale", "Find your scale"],
             ] as const
           ).map(([id, label]) => (
             <button
@@ -88,7 +91,6 @@ export default function PortalTabs({
         {view === "welcome" && welcome}
         {view === "chants" && chants}
         {view === "fundamentals" && fundamentals}
-        {view === "scale" && scale}
       </div>
     </>
   );

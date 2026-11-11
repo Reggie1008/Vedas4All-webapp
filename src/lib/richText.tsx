@@ -85,7 +85,7 @@ export function prose(
  * Holdings, drawn the way the teaching decks draw them: a rectangle
  * round the held sound. A short holding follows a short vowel and gets a
  * thin rectangle; a long holding follows a long vowel and gets a thick
- * one. See Fundamentals, Module 4 — Discontinuity: Pauses & Holdings.
+ * one. See Fundamentals, Module 5 — Discontinuity: Pauses & Holdings.
  *
  * A verse carries the marked-up copy of its own line in `holdings`:
  *

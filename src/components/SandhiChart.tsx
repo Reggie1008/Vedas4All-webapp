@@ -6,7 +6,7 @@ import type { SandhiGroup } from "@/lib/fundamentals";
 /**
  * Both continuity decks teach the same move: a sound meets another sound
  * and changes to match where that sound is made. The places are the ones
- * Module 1 already introduced, so this selector deliberately mirrors
+ * Module 2 already introduced, so this selector deliberately mirrors
  * ArticulationChart — the reader is walking back into a room they know.
  */
 export default function SandhiChart({ groups }: { groups: SandhiGroup[] }) {
