@@ -2451,82 +2451,98 @@
               {
                 "devanagari": "",
                 "iast": "॥ oṁ | namo bhagavate̍ rudrā̱ya ॥",
-                "number": ""
+                "number": "",
+                "holdings": "॥ oṁ | {n}amo bhagavate̍ ru[d]rā̱ya ॥"
               },
               {
                 "devanagari": "",
                 "iast": "oṁ | nama̍ste rudra ma̱nyava̍ | u̱tota̱ | iṣa̍ve̱ nama̍ḥ । nama̍ste | astu̱ dhanva̍ne bā̱hubhyā̍mu̱ta te̱ nama̍ḥ",
-                "number": "1"
+                "number": "1",
+                "holdings": "oṁ | {n}ama̍s[t]e ru[d]ra ma̱n[y]ava̍ | u̱tota̱ | iṣa̍ve̱ nama̍ḥ । nama̍s[t]e | as[t]u̱ dhan[v]a̍ne bā̱hu[bh]yā̍mu̱ta te̱ nama̍ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "yā ta̱ | iṣu̍ś śi̱vata̍mā śi̱vam ba̱bhūva̍ te̱ dhanu̍ḥ । śi̱vā śa̍ra̱vyā̍ yā tava̱ tayā̍ no rudra mṛḍaya",
-                "number": "2"
+                "number": "2",
+                "holdings": "yā ta̱ | iṣu̍ś [ś]i̱vata̍mā śi̱vam [b]a̱bhūva̍ te̱ dhanu̍ḥ । śi̱vā śa̍ra̱[v]yā̍ yā tava̱ tayā̍ no ru[d]ra mṛḍaya"
               },
               {
                 "devanagari": "",
                 "iast": "yā te̍ rudra śi̱vā ta̱nūragho̱rā'pā̍pakāśinī । tayā̍ nasta̱nuvā̱ śanta̍mayā̱ giri̍śantā̱bhi cā̍kaśīḥ",
-                "number": "3"
+                "number": "3",
+                "holdings": "yā te̍ ru[d]ra śi̱vā ta̱nūragho̱rā'pā̍pakāśinī । tayā̍ nas[t]a̱nuvā̱ śan[t]a̍mayā̱ giri̍śan[t]ā̱bhi cā̍kaśīḥ"
               },
               {
                 "devanagari": "",
                 "iast": "yāmiṣu̍ṅ giriśanta̱ haste̱ bibha̱rṣyasta̍ve । śi̱vāṅ gi̍ritra̱ tāṅ ku̍ru̱ mā hi̍gṁsī̱ḥ(f) puru̍ṣa̱ñ jaga̍t",
-                "number": "4"
+                "number": "4",
+                "holdings": "yāmiṣu̍ṅ [g]iriśan[t]a̱ has[t]e̱ bibha̱rṣ[y]as[t]a̍ve । śi̱vāṅ {g}i̍ri[t]ra̱ tāṅ {k}u̍ru̱ mā hi̍gṁ[s]ī̱ḥ(f) {p}uru̍ṣa̱ñ [j]aga̍t"
               },
               {
                 "devanagari": "",
                 "iast": "śi̱vena̱ vaca̍sā tvā̱ giri̱śācchā̍ vadāmasi । yathā̍ na̱s sarva̱mijjaga̍daya̱kṣmagṁ su̱manā̱ | asa̍t",
-                "number": "5"
+                "number": "5",
+                "holdings": "śi̱vena̱ vaca̍sā {t}vā̱ giri̱śā{c}chā̍ vadāmasi । yathā̍ na̱s [s]ar[v]a̱mi[j]jaga̍daya̱[k]ṣmagṁ [s]u̱manā̱ | asa̍t"
               },
               {
                 "devanagari": "",
                 "iast": "adhya̍vocadadhiva̱ktā pra̍tha̱mo daivyo̍ bhi̱ṣak । ahī̍gśca̱ sarvā̎ñ ja̱mbhaya̱nth sarvā̎śca yātu dhā̱nya̍ḥ",
-                "number": "6"
+                "number": "6",
+                "holdings": "a[dh]ya̍vocadadhiva̱[k]tā {p}ra̍tha̱mo dai{v}yo̍ bhi̱ṣak । ahī̍g{ś}ca̱ sar[v]ā̎ñ {j}a̱m[bh]aya̱n[th] sar[v]ā̎ś{c}a yātu dhā̱n{y}a̍ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "a̱sau yastā̱mro | a̍ru̱ṇa | u̱ta ba̱bhrus su̍ma̱ṅgala̍ḥ । ye ce̱māgṁ ru̱drā | a̱bhito̍ di̱kṣu śri̱tās sa̍hasra̱śo'vai̍ṣā̱gṁ heḍa̍ | īmahe",
-                "number": "7"
+                "number": "7",
+                "holdings": "a̱sau yas[t]ā̱m{r}o | a̍ru̱ṇa | u̱ta ba̱[bh]rus [s]u̍ma̱ṅ[g]ala̍ḥ । ye ce̱māgṁ {r}u̱[d]rā | a̱bhito̍ di̱[k]ṣu [ś]ri̱tās {s}a̍has[r]a̱śo'vai̍ṣā̱gṁ {h}eḍa̍ | īmahe"
               },
               {
                 "devanagari": "",
                 "iast": "a̱sau yo̍'va̱sarpa̍ti̱ nīla̍grīvo̱ vilo̍hitaḥ । u̱taina̍ṅ go̱pā | a̍dṛśa̱nnadṛ̍śannudahā̱rya̍ḥ । u̱taina̱ṁu viśvā̍ bhū̱tāni̱ sa dṛ̱ṣṭo mṛ̍ḍayāti naḥ",
-                "number": "8"
+                "number": "8",
+                "holdings": "a̱sau yo̍'va̱sar[p]a̍ti̱ nīla̍[g]rīvo̱ vilo̍hitaḥ । u̱taina̍ṅ [g]o̱pā | a̍dṛśa̱[n]nadṛ̍śa[n]nudahā̱r{y}a̍ḥ । u̱taina̱ṁu [v]iś[v]ā̍ bhū̱tāni̱ sa dṛ̱ṣ[ṭ]o mṛ̍ḍayāti naḥ"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ | astu̱ nīla̍grīvāya sahasrā̱kṣāya̍ mī̱ḍhuṣe̎ । atho̱ ye | a̍sya̱ satvā̍no̱'han tebhyo̍'kara̱n nama̍ḥ",
-                "number": "9"
+                "number": "9",
+                "holdings": "namo̍ | as[t]u̱ nīla̍[g]rīvāya sahas[r]ā̱{k}ṣāya̍ mī̱ḍhuṣe̎ । atho̱ ye | a̍s[y]a̱ sa[t]vā̍no̱'han [t]e{bh}yo̍'kara̱n [n]ama̍ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "pramu̍ñca̱ dhanva̍na̱stvamu̱bhayo̱rārtni̍yo̱rjyām । yāśca̍ te̱ hasta̱ | iṣa̍va̱ḥ(f) parā̱ tā bha̍gavo vapa",
-                "number": "10"
+                "number": "10",
+                "holdings": "pramu̍ñ[c]a̱ dhan[v]a̍na̱s[t]vamu̱bhayo̱rār{t}ni̍yo̱r{j}yām । yāś{c}a̍ te̱ has[t]a̱ | iṣa̍va̱ḥ(f) [p]arā̱ tā bha̍gavo vapa"
               },
               {
                 "devanagari": "",
                 "iast": "a̱va̱tatya̱ dhanu̱stvagṁ saha̍srākṣa̱ śate̍ṣudhe । ni̱śīrya̍ śa̱lyānā̱m mukhā̍ śi̱vo na̍s su̱manā̍ bhava",
-                "number": "11"
+                "number": "11",
+                "holdings": "a̱va̱ta[t]ya̱ dhanu̱s[t]vagṁ [s]aha̍s[r]ā{k}ṣa̱ śate̍ṣudhe । ni̱śīr{y}a̍ śa̱l[y]ānā̱m {m}ukhā̍ śi̱vo na̍s [s]u̱manā̍ bhava"
               },
               {
                 "devanagari": "",
                 "iast": "vijya̱n dhanu̍ḥ kapa̱rdino̱ viśa̍lyo̱ bāṇa̍vāgṁ u̱ta । ane̍śanna̱syeṣa̍va | ā̱bhura̍sya niṣa̱ṅgathi̍ḥ",
-                "number": "12"
+                "number": "12",
+                "holdings": "vi[j]ya̱n [dh]anu̍ḥ [k]apa̱r[d]ino̱ viśa̍[l]yo̱ bāṇa̍vāgṁ u̱ta । ane̍śa[n]na̱s[y]eṣa̍va | ā̱bhura̍s[y]a niṣa̱ṅ[g]athi̍ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "yā te̍ he̱tirmī̍ḍhuṣṭama̱ haste̍ ba̱bhūva̍ te̱ dhanu̍ḥ । tayā̱'smān vi̱śvata̱stvama̍ya̱kṣmayā̱ pari̍bbhuja",
-                "number": "13"
+                "number": "13",
+                "holdings": "yā te̍ he̱tir[m]ī̍ḍhuṣ[ṭ]ama̱ has[t]e̍ ba̱bhūva̍ te̱ dhanu̍ḥ । tayā̱'s{m}ān {v}i̱ś[v]ata̱s[t]vama̍ya̱[k]ṣmayā̱ pari̍[b]bhuja"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ste | a̱stvāyu̍dhā̱yānā̍tatāya dhṛ̱ṣṇave̎ । u̱bhābhyā̍mu̱ta te̱ namo̍ bā̱hubhyā̱n tava̱ dhanva̍ne",
-                "number": "14"
+                "number": "14",
+                "holdings": "nama̍s[t]e | a̱s[t]vāyu̍dhā̱yānā̍tatāya dhṛ̱ṣ[ṇ]ave̎ । u̱bhā{bh}yā̍mu̱ta te̱ namo̍ bā̱hu[bh]yā̱n {t}ava̱ dhan[v]a̍ne"
               },
               {
                 "devanagari": "",
                 "iast": "pari̍ te̱ dhanva̍no he̱tira̱smān vṛ̍ṇaktu vi̱śvata̍ḥ । atho̱ ya | i̍ṣu̱dhistavā̱re | a̱smannidhe̍hi̱ tam",
-                "number": "15"
+                "number": "15",
+                "holdings": "pari̍ te̱ dhan[v]a̍no he̱tira̱s[m]ān {v}ṛ̍ṇa[k]tu vi̱ś[v]ata̍ḥ । atho̱ ya | i̍ṣu̱dhis[t]avā̱re | a̱s[m]a[n]nidhe̍hi̱ tam"
               },
               {
                 "devanagari": "",
@@ -2536,7 +2552,8 @@
               {
                 "devanagari": "",
                 "iast": "nama̍ste | astu bhagavan viśveśva̱rāya̍ mahāde̱vāya̍ tryamba̱kāya̍ tripurānta̱kāya̍ trikāgnikā̱lāya̍ kālāgni ru̱drāya̍ nīlaka̱ṇṭhāya̍ mṛtyuñja̱yāya̍ sarveśva̱rāya̍ sadāśi̱vāya̍ śrīmanmahāde̱vāya̱ nama̍ḥ ॥",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s[t]e | as[t]u bhagavan [v]iś[v]eś{v}a̱rāya̍ mahāde̱vāya̍ [t]ryam[b]a̱kāya̍ [t]ripurān{t}a̱kāya̍ [t]rikā{g}nikā̱lāya̍ kālā{g}ni ru̱[d]rāya̍ nīlaka̱ṇ[ṭh]āya̍ mṛ[t]yuñ[j]a̱yāya̍ sar[v]eś{v}a̱rāya̍ sadāśi̱vāya̍ [ś]rīman[m]ahāde̱vāya̱ nama̍ḥ ॥"
               }
             ],
             "audio": {
@@ -2553,67 +2570,80 @@
               {
                 "devanagari": "",
                 "iast": "namo̱ hira̍ṇyabāhave senā̱nye̍ di̱śāñ ca̱ pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ hira̍ṇ[y]abāhave senā̱n{y}e̍ di̱śāñ {c}a̱ pata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vṛ̱kṣebhyo̱ hari̍keśebhyaḥ(f) paśū̱nām pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ vṛ̱[k]ṣe{bh}yo̱ hari̍keśe{bh}yaḥ(f) [p]aśū̱nām {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sa̱spiñja̍rāya̱ tviṣī̍mate pathī̱nām pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]a̱s[p]iñ[j]a̍rāya̱ [t]viṣī̍mate pathī̱nām {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ babhlu̱śāya̍ vivyā̱dhine'nnā̍nā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ba[bh]lu̱śāya̍ vi[v]yā̱dhine'{n}nā̍nā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ hari̍keśāyopavī̱tine̍ pu̱ṣṭānā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ hari̍keśāyopavī̱tine̍ pu̱ṣ[ṭ]ānā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ bha̱vasya̍ he̱tyai jaga̍tā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ bha̱vas[y]a̍ he̱{t}yai jaga̍tā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ru̱drāyā̍tatā̱vine̱ kṣetrā̍ṇā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ru̱[d]rāyā̍tatā̱vine̱ {k}ṣe{t}rā̍ṇā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sū̱tāyāha̍ntyāya̱ vanā̍nā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]ū̱tāyāha̍n[t]yāya̱ vanā̍nā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ rohi̍tāya stha̱pata̍ye vṛ̱kṣāṇā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ rohi̍tāya [s]tha̱pata̍ye vṛ̱[k]ṣāṇā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ma̱ntriṇe̍ vāṇi̱jāya̱ kakṣā̍ṇā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ma̱n[t]riṇe̍ vāṇi̱jāya̱ ka[k]ṣā̍ṇā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ bhuva̱ntaye̍ vārivaskṛ̱tāyauṣa̍dhīnā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ bhuva̱n[t]aye̍ vārivas[k]ṛ̱tāyauṣa̍dhīnā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | u̱ccairgho̍ṣāyā''kra̱ndaya̍te pattī̱nām pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | u̱[c]cair{gh}o̍ṣāyā''{k}ra̱n[d]aya̍te pa[t]tī̱nām {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kṛtsnavī̱tāya̱ dhāva̍te̱ sattva̍nā̱m pata̍ye̱ nama̍ḥ",
-                "number": "2"
+                "number": "2",
+                "holdings": "nama̍ḥ [k]ṛ[t]snavī̱tāya̱ dhāva̍te̱ sa[t]tva̍nā̱m {p}ata̍ye̱ nama̍ḥ"
               }
             ],
             "audio": {
@@ -2630,87 +2660,104 @@
               {
                 "devanagari": "",
                 "iast": "nama̱s saha̍mānāya nivyā̱dhina̍ | āvyā̱dhinī̍nā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [s]aha̍mānāya ni[v]yā̱dhina̍ | ā{v}yā̱dhinī̍nā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kaku̱bhāya̍ niṣa̱ṅgiṇe̎ ste̱nānā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]aku̱bhāya̍ niṣa̱ṅ[g]iṇe̎ {s}te̱nānā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ niṣa̱ṅgiṇa̍ | iṣudhi̱mate̱ taska̍rāṇā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ niṣa̱ṅ[g]iṇa̍ | iṣudhi̱mate̱ tas[k]a̍rāṇā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ vañca̍te pari̱vañca̍te stāyū̱nām pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ vañ[c]a̍te pari̱vañ[c]a̍te {s}tāyū̱nām {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ nice̱rave̍ parica̱rāyāra̍ṇyānā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ nice̱rave̍ parica̱rāyāra̍ṇ[y]ānā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sṛkā̱vibhyo̱ jighā̍gṁsadbhyo muṣṇa̱tām pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]ṛkā̱vi[bh]yo̱ jighā̍gṁ{s}a[d]bhyo muṣ[ṇ]a̱tām {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍'si̱madbhyo̱ nakta̱ñ cara̍dbhyaḥ(f) prakṛ̱ntānā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍'si̱ma[d]bhyo̱ na[k]ta̱ñ [c]ara̍[d]bhyaḥ(f) [p]rakṛ̱n[t]ānā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | uṣṇī̱ṣiṇe̍ girica̱rāya̍ kulu̱ñcānā̱m pata̍ye̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | uṣ[ṇ]ī̱ṣiṇe̍ girica̱rāya̍ kulu̱ñ[c]ānā̱m {p}ata̍ye̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ | iṣu̍madbhyo dhanvā̱vibhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ | iṣu̍ma[d]bhyo dhan[v]ā̱vi[bh]ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ātanvā̱nebhya̍ḥ(f) prati̱dadhā̍nebhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ātan[v]ā̱ne{bh}ya̍ḥ(f) [p]rati̱dadhā̍ne{bh}yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ā̱yaccha̍dbhyo visṛ̱jadbhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ā̱ya[c]cha̍[d]bhyo visṛ̱ja[d]bhya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo'sya̍dbhyo̱ vidhya̍dbhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo's{y}a̍[d]bhyo̱ vi[dh]ya̍[d]bhyaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ | āsī̍nebhya̱ś śayā̍nebhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ | āsī̍ne{bh}ya̱ś [ś]ayā̍ne{bh}yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sva̱padbhyo̱ jāgra̍dbhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]va̱pa[d]bhyo̱ jā{g}ra̍[d]bhyaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s tiṣṭha̍dbhyo̱ dhāva̍dbhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [t]iṣ[ṭh]a̍[d]bhyo̱ dhāva̍[d]bhyaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sa̱bhābhya̍s sa̱bhāpa̍tibhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]a̱bhā{bh}ya̍s [s]a̱bhāpa̍ti[bh]yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ | aśve̱bhyo'śva̍patibhyaśca vo̱ nama̍ḥ",
-                "number": "3"
+                "number": "3",
+                "holdings": "namo̱ | aś[v]e̱{bh}yo'ś{v}a̍pati[bh]yaś[c]a vo̱ nama̍ḥ"
               }
             ],
             "audio": {
@@ -2727,87 +2774,104 @@
               {
                 "devanagari": "",
                 "iast": "nama̍ | āvyā̱dhinī̎bhyo vi̱vidhya̍ntībhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ā{v}yā̱dhinī̎{bh}yo vi̱vi[dh]ya̍n[t]ī{bh}yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ | uga̍ṇābhyastṛgṁha̱tībhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ | uga̍ṇā{bh}yas[t]ṛgṁ[h]a̱tī{bh}ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ gṛ̱tsebhyo̍ gṛ̱tsapa̍tibhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ gṛ̱[t]se{bh}yo̍ gṛ̱[t]sapa̍ti[bh]yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ vrāte̎bhyo̱ vrāta̍patibhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ {v}rāte̎{bh}yo̱ {v}rāta̍pati[bh]yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ga̱ṇebhyo̍ ga̱ṇapa̍tibhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ga̱ṇe{bh}yo̍ ga̱ṇapa̍ti[bh]yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ virū̍pebhyo vi̱śvarū̍pebhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ virū̍pe{bh}yo vi̱ś[v]arū̍pe{bh}yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ma̱hadbhya̍ḥ:a kṣulla̱kebhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ma̱ha[d]bhya̍ḥ:a [k]ṣu[l]la̱ke{bh}ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ra̱thibhyo̍'ra̱thebhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ra̱thi[bh]yo̍'ra̱the{bh}ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ rathe̎bhyo̱ ratha̍patibhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ rathe̎{bh}yo̱ ratha̍pati[bh]yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s senā̎bhyas senā̱nibhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [s]enā̎{bh}yas [s]enā̱ni[bh]ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ:a kṣa̱ttṛbhya̍s saṅgrahī̱tṛbhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ:a [k]ṣa̱[t]tṛ[bh]ya̍s [s]aṅ[g]rahī̱tṛ[bh]ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s takṣa̍bhyo rathakā̱rebhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [t]a[k]ṣa̍[bh]yo rathakā̱re{bh}ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ḥ kulā̍lebhyaḥ ka̱rmāre̎bhyaśca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ḥ [k]ulā̍le{bh}yaḥ [k]a̱r[m]āre̎{bh}yaś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pu̱ñjiṣṭe̎bhyo niṣā̱debhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]u̱ñ[j]iṣ[ṭ]e̎{bh}yo niṣā̱de{bh}ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | iṣu̱kṛdbhyo̍ dhanva̱kṛdbhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | iṣu̱kṛ[d]bhyo̍ dhan[v]a̱kṛ[d]bhya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ mṛga̱yubhya̍ś śva̱nibhya̍śca vo̱ namo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ mṛga̱yu[bh]ya̍ś [ś]va̱ni[bh]ya̍ś[c]a vo̱ namo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ś śvabhya̱ś śvapa̍tibhyaśca vo̱ nama̍ḥ",
-                "number": "4"
+                "number": "4",
+                "holdings": "nama̱ś [ś]va[bh]ya̱ś [ś]vapa̍ti[bh]yaś[c]a vo̱ nama̍ḥ"
               }
             ],
             "audio": {
@@ -2824,57 +2888,68 @@
               {
                 "devanagari": "",
                 "iast": "namo̍ bha̱vāya̍ ca ru̱drāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ bha̱vāya̍ ca ru̱[d]rāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śa̱rvāya̍ ca paśu̱pata̍ye ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ś [ś]a̱r[v]āya̍ ca paśu̱pata̍ye ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ nīla̍grīvāya ca śiti̱kaṇṭhā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ nīla̍[g]rīvāya ca śiti̱kaṇ[ṭh]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kapa̱rdine̍ ca̱ vyu̍ptakeśāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]apa̱r[d]ine̍ ca̱ [v]yu̍[p]takeśāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sahasrā̱kṣāya̍ ca śa̱tadha̍nvane ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]ahas[r]ā̱{k}ṣāya̍ ca śa̱tadha̍n[v]ane ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ giri̱śāya̍ ca śipivi̱ṣṭāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ giri̱śāya̍ ca śipivi̱ṣ[ṭ]āya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ mī̱ḍhuṣṭa̍māya̱ ceṣu̍mate ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ mī̱ḍhuṣ[ṭ]a̍māya̱ ceṣu̍mate ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̎ hra̱svāya̍ ca vāma̱nāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̎ {h}ra̱s[v]āya̍ ca vāma̱nāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ bṛha̱te ca̱ varṣī̍yase ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ bṛha̱te ca̱ var[ṣ]ī̍yase ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vṛ̱ddhāya̍ ca saṁ̱uvṛdhva̍ne ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ vṛ̱[d]dhāya̍ ca saṁ̱u[v]ṛ[dh]va̍ne ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ | agri̍yāya ca pratha̱māya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ | a[g]ri̍yāya ca [p]ratha̱māya̍ ca̱"
               },
               {
                 "devanagari": "",
@@ -2884,17 +2959,20 @@
               {
                 "devanagari": "",
                 "iast": "nama̱ś śīghri̍yāya ca̱ śībhyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ś [ś]ī{gh}ri̍yāya ca̱ śī{bh}yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ū̱rmyā̍ya cāvasva̱nyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ū̱r{m}yā̍ya cāvas[v]a̱n[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s srota̱syā̍ya ca̱ dvīpyā̍ya ca",
-                "number": "5"
+                "number": "5",
+                "holdings": "nama̍s [s]rota̱s[y]ā̍ya ca̱ [d]vī{p}yā̍ya ca"
               }
             ],
             "audio": {
@@ -2911,52 +2989,62 @@
               {
                 "devanagari": "",
                 "iast": "namo̎ jye̱ṣṭhāya̍ ca kani̱ṣṭhāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̎ {j}ye̱ṣ{ṭh}āya̍ ca kani̱ṣ[ṭh]āya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pūrva̱jāya̍ cāpara̱jāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]ūr{v}a̱jāya̍ cāpara̱jāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ madhya̱māya̍ cāpaga̱lbhāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ma[dh]ya̱māya̍ cāpaga̱[l]bhāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ jagha̱nyā̍ya ca̱ budhni̍yāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ jagha̱n[y]ā̍ya ca̱ bu[dh]ni̍yāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s so̱bhyā̍ya ca pratisa̱ryā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]o̱{bh}yā̍ya ca [p]ratisa̱r[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ yāmyā̍ya ca̱ kṣemyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ yām{y}ā̍ya ca̱ [k]ṣem{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | urva̱ryā̍ya ca̱ khalyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ur[v]a̱r[y]ā̍ya ca̱ kha[l]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ś ślokyā̍ya cāvasā̱nyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ś [ś]lo{k}yā̍ya cāvasā̱n{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ vanyā̍ya ca̱ kakṣyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ van[y]ā̍ya ca̱ ka[k]ṣyā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śra̱vāya̍ ca pratiśra̱vāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ś [ś]ra̱vāya̍ ca [p]ratiś[r]a̱vāya̍ ca̱"
               },
               {
                 "devanagari": "",
@@ -2966,22 +3054,26 @@
               {
                 "devanagari": "",
                 "iast": "nama̱ś śūrā̍ya cāvabhinda̱te ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ś [ś]ūrā̍ya cāvabhin[d]a̱te ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ va̱rmiṇe̍ ca varū̱thine̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ va̱r[m]iṇe̍ ca varū̱thine̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ bi̱lmine̍ ca kava̱cine̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ bi̱[l]mine̍ ca kava̱cine̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śru̱tāya̍ ca śrutase̱nāya̍ ca",
-                "number": "6"
+                "number": "6",
+                "holdings": "nama̍ś [ś]ru̱tāya̍ ca [ś]rutase̱nāya̍ ca"
               }
             ],
             "audio": {
@@ -2998,82 +3090,98 @@
               {
                 "devanagari": "",
                 "iast": "namo̍ dundu̱bhyā̍ya cāhana̱nyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ dun[d]u̱[bh]yā̍ya cāhana̱n[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ dhṛ̱ṣṇave̍ ca pramṛ̱śāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ dhṛ̱ṣ[ṇ]ave̍ ca [p]ramṛ̱śāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ dū̱tāya̍ ca̱ prahi̍tāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ dū̱tāya̍ ca̱ [p]rahi̍tāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ niṣa̱ṅgiṇe̍ ceṣudhi̱mate̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ niṣa̱ṅ[g]iṇe̍ ceṣudhi̱mate̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s tī̱kṣṇeṣa̍ve cāyu̱dhine̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [t]ī̱{k}ṣṇeṣa̍ve cāyu̱dhine̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s svāyu̱dhāya̍ ca su̱dhanva̍ne ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [s]vāyu̱dhāya̍ ca su̱dhan[v]a̍ne ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s srutyā̍ya ca̱ pathyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [s]ru[t]yā̍ya ca̱ pa[th]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kā̱ṭyā̍ya ca nī̱pyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]ā̱{ṭ}yā̍ya ca nī̱{p}yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s sūdyā̍ya ca sara̱syā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [s]ū{d}yā̍ya ca sara̱s[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ nā̱dyāya̍ ca vaiśa̱ntāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ nā̱{d}yāya̍ ca vaiśa̱n[t]āya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ḥ kūpyā̍ya cāva̱ṭyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ḥ [k]ū{p}yā̍ya cāva̱[ṭ]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ varṣyā̍ya cāva̱rṣyāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ varṣ[y]ā̍ya cāva̱rṣ[y]āya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ me̱ghyā̍ya ca vidyu̱tyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ me̱{gh}yā̍ya ca vi[d]yu̱[t]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ī̱dhriyā̍ya cāta̱pyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ī̱{dh}riyā̍ya cāta̱[p]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ vātyā̍ya ca̱ reṣmi̍yāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ vā{t}yā̍ya ca̱ reṣ{m}i̍yāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vāsta̱vyā̍ya ca vāstu̱pāya̍ ca",
-                "number": "7"
+                "number": "7",
+                "holdings": "namo̍ vās{t}a̱[v]yā̍ya ca vās{t}u̱pāya̍ ca"
               }
             ],
             "audio": {
@@ -3095,82 +3203,98 @@
               {
                 "devanagari": "",
                 "iast": "nama̱s somā̍ya ca ru̱drāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [s]omā̍ya ca ru̱[d]rāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s tā̱mrāya̍ cāru̱ṇāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [t]ā̱m{r}āya̍ cāru̱ṇāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śa̱ṅgāya̍ ca paśu̱pata̍ye ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ś [ś]a̱ṅ[g]āya̍ ca paśu̱pata̍ye ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | u̱grāya̍ ca bhī̱māya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | u̱[g]rāya̍ ca bhī̱māya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ | agreva̱dhāya̍ ca dūreva̱dhāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ | a[g]reva̱dhāya̍ ca dūreva̱dhāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ha̱ntre ca̱ hanī̍yase ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ ha̱n[t]re ca̱ hanī̍yase ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vṛ̱kṣebhyo̱ hari̍keśebhyo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ vṛ̱[k]ṣe{bh}yo̱ hari̍keśe{bh}yo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s tā̱rāya̱ nama̍ś śa̱mbhave̍ ca mayo̱bhave̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍s [t]ā̱rāya̱ nama̍ś [ś]a̱m[bh]ave̍ ca mayo̱bhave̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śaṅka̱rāya̍ ca mayaska̱rāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ś [ś]aṅ[k]a̱rāya̍ ca mayas[k]a̱rāya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ś śi̱vāya̍ ca śi̱vata̍rāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ś [ś]i̱vāya̍ ca śi̱vata̍rāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s tīrthyā̍ya ca̱ kūlyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [t]īr{th}yā̍ya ca̱ kū{l}yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pā̱ryā̍ya cāvā̱ryā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]ā̱r{y}ā̍ya cāvā̱r{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pra̱tara̍ṇāya co̱ttara̍ṇāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]ra̱tara̍ṇāya co̱{t}tara̍ṇāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ātā̱ryā̍ya cālā̱dyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ātā̱r{y}ā̍ya cālā̱{d}yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ś śaṣpyā̍ya ca̱ phenyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ś [ś]aṣ[p]yā̍ya ca̱ phen{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍s sika̱tyā̍ya ca pravā̱hyā̍ya ca",
-                "number": "8"
+                "number": "8",
+                "holdings": "nama̍s [s]ika̱[t]yā̍ya ca [p]ravā̱h{y}ā̍ya ca"
               }
             ],
             "audio": {
@@ -3187,87 +3311,104 @@
               {
                 "devanagari": "",
                 "iast": "nama̍ | iri̱ṇyā̍ya ca prapa̱thyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | iri̱ṇ[y]ā̍ya ca [p]rapa̱[th]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kigṁśi̱lāya̍ ca̱ kṣaya̍ṇāya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]igṁ[ś]i̱lāya̍ ca̱ [k]ṣaya̍ṇāya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kapa̱rdine̍ ca pula̱staye̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]apa̱r[d]ine̍ ca pula̱s[t]aye̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ goṣṭhyā̍ya ca̱ gṛhyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ goṣ{ṭh}yā̍ya ca̱ gṛh[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱s talpyā̍ya ca̱ gehyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱s [t]a[l]pyā̍ya ca̱ geh{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ kā̱ṭyā̍ya ca gahvare̱ṣṭhāya̍ ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ [k]ā̱{ṭ}yā̍ya ca gah[v]are̱ṣ{ṭh}āya̍ ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̎ hrada̱yyā̍ya ca nive̱ṣpyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̎ {h}rada̱[y]yā̍ya ca nive̱ṣ{p}yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pāgṁsa̱vyā̍ya ca raja̱syā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]āgṁ{s}a̱[v]yā̍ya ca raja̱s[y]ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̱ś śuṣkyā̍ya ca hari̱tyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̱ś [ś]uṣ[k]yā̍ya ca hari̱[t]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̱ lopyā̍ya cola̱pyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̱ lo{p}yā̍ya cola̱[p]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ū̱rvyā̍ya ca sū̱rmyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ū̱r{v}yā̍ya ca sū̱rm{y}ā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ḥ(f) pa̱rṇyā̍ya ca parṇaśa̱dyā̍ya ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ḥ(f) [p]a̱rṇ[y]ā̍ya ca par[ṇ]aśa̱[d]yā̍ya ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍'pagu̱ramā̍ṇāya cābhighna̱te ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍'pagu̱ramā̍ṇāya cābhi[gh]na̱te ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ākkhida̱te ca̍ prakkhida̱te ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "nama̍ | ā{k}khida̱te ca̍ [p]ra[k]khida̱te ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vaḥ kiri̱kebhyo̍ de̱vānā̱gṁ hṛda̍yebhyo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ vaḥ [k]iri̱ke{bh}yo̍ de̱vānā̱gṁ {h}ṛda̍ye{bh}yo̱"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ vikṣīṇa̱kebhyo̱ namo̍ vicinva̱tkebhyo̱",
-                "number": ""
+                "number": "",
+                "holdings": "namo̍ vi[k]ṣīṇa̱ke{bh}yo̱ namo̍ vicin[v]a̱[t]ke{bh}yo̱"
               },
               {
                 "devanagari": "",
                 "iast": "nama̍ | ānirha̱tebhyo̱ nama̍ | āmīva̱tkebhya̍ḥ",
-                "number": "9"
+                "number": "9",
+                "holdings": "nama̍ | ānir[h]a̱te{bh}yo̱ nama̍ | āmīva̱[t]ke{bh}ya̍ḥ"
               }
             ],
             "audio": {
@@ -3284,62 +3425,74 @@
               {
                 "devanagari": "",
                 "iast": "drāpe̱ | andha̍saspate̱ dari̍dra̱nnīla̍lohita । e̱ṣām puru̍ṣāṇāme̱ṣām pa̍śū̱nām mā bhermā'ro̱ mo | e̍ṣā̱ṅ kiñca̱nāma̍mat",
-                "number": "1"
+                "number": "1",
+                "holdings": "drāpe̱ | an[dh]a̍sas[p]ate̱ dari̍[d]ra̱[n]nīla̍lohita । e̱ṣām {p}uru̍ṣāṇāme̱ṣām {p}a̍śū̱nām {m}ā bher{m}ā'ro̱ mo | e̍ṣā̱ṅ {k}iñ[c]a̱nāma̍mat"
               },
               {
                 "devanagari": "",
                 "iast": "yā te̍ rudra śi̱vā ta̱nūś śi̱vā vi̱śvāha̍bheṣajī । śi̱vā ru̱drasya̍ bheṣa̱jī tayā̍ no mṛḍa jī̱vase̎",
-                "number": "2"
+                "number": "2",
+                "holdings": "yā te̍ ru[d]ra śi̱vā ta̱nūś {ś}i̱vā vi̱ś[v]āha̍bheṣajī । śi̱vā ru̱[d]ras[y]a̍ bheṣa̱jī tayā̍ no mṛḍa jī̱vase̎"
               },
               {
                 "devanagari": "",
                 "iast": "i̱māgṁ ru̱drāya̍ ta̱vase̍ kapa̱rdine̎ kṣa̱yadvī̍rāya̱ prabha̍rāmahe ma̱tim । yathā̍ na̱ś śamasa̍d dvi̱pade̱ catu̍ṣpade̱ viśva̍m pu̱ṣṭaṅ grāme̍ | a̱sminnanā̍turam",
-                "number": "3"
+                "number": "3",
+                "holdings": "i̱māgṁ {r}u̱[d]rāya̍ ta̱vase̍ kapa̱r[d]ine̎ {k}ṣa̱ya[d]vī̍rāya̱ [p]rabha̍rāmahe ma̱tim । yathā̍ na̱ś [ś]amasa̍[d] dvi̱pade̱ catu̍ṣ[p]ade̱ viś[v]a̍m [p]u̱ṣ[ṭ]aṅ [g]rāme̍ | a̱s[m]i[n]nanā̍turam"
               },
               {
                 "devanagari": "",
                 "iast": "mṛ̱ḍā no̍ rudro̱ta no̱ maya̍skṛdhi kṣa̱yadvī̍rāya̱ nama̍sā vidhema te । yacchañ ca̱ yośca̱ manu̍rāya̱je pi̱tā tada̍śyāma̱ tava̍ rudra̱ praṇī̍tau",
-                "number": "4"
+                "number": "4",
+                "holdings": "mṛ̱ḍā no̍ ru[d]ro̱ta no̱ maya̍s[k]ṛdhi [k]ṣa̱ya[d]vī̍rāya̱ nama̍sā vidhema te । ya[c]chañ [c]a̱ yoś{c}a̱ manu̍rāya̱je pi̱tā tada̍ś[y]āma̱ tava̍ ru[d]ra̱ [p]raṇī̍tau"
               },
               {
                 "devanagari": "",
                 "iast": "mā no̍ ma̱hānta̍mu̱ta mā no̍ | arbha̱kam mā na̱ | ukṣa̍ntamu̱ta mā na̍ | ukṣi̱tam । mā no̍ vadhīḥ(f) pi̱tara̱m mota mā̱tara̍m pri̱yā mā na̍sta̱nuvo̍ rudra rīriṣaḥ",
-                "number": "5"
+                "number": "5",
+                "holdings": "mā no̍ ma̱hān{t}a̍mu̱ta mā no̍ | ar[bh]a̱kam [m]ā na̱ | u[k]ṣa̍n[t]amu̱ta mā na̍ | u[k]ṣi̱tam । mā no̍ vadhīḥ(f) {p}i̱tara̱m [m]ota mā̱tara̍m [p]ri̱yā mā na̍s[t]a̱nuvo̍ ru[d]ra rīriṣaḥ"
               },
               {
                 "devanagari": "",
                 "iast": "mā na̍sto̱ke tana̍ye̱ mā na̱ | āyu̍ṣi̱ mā no̱ goṣu̱ mā no̱ | aśve̍ṣu rīriṣaḥ । vī̱rān mā no̍ rudra bhāmi̱to'va̍dhīrha̱viṣma̍nto̱ nama̍sā vidhema te",
-                "number": "6"
+                "number": "6",
+                "holdings": "mā na̍s[t]o̱ke tana̍ye̱ mā na̱ | āyu̍ṣi̱ mā no̱ goṣu̱ mā no̱ | aś[v]e̍ṣu rīriṣaḥ । vī̱rān {m}ā no̍ ru[d]ra bhāmi̱to'va̍dhīr{h}a̱viṣ[m]a̍n[t]o̱ nama̍sā vidhema te"
               },
               {
                 "devanagari": "",
                 "iast": "ā̱rātte̍ go̱ghna | u̱ta pū̍ruṣa̱ghne kṣa̱yadvī̍rāya su̱mnama̱sme te̍ | astu । rakṣā̍ ca no̱ | adhi̍ ca deva brū̱hyadhā̍ ca na̱ś śarma̍ yaccha dvi̱barhā̎ḥ",
-                "number": "7"
+                "number": "7",
+                "holdings": "ā̱rā{t}te̍ go̱{gh}na | u̱ta pū̍ruṣa̱[gh]ne {k}ṣa̱ya[d]vī̍rāya su̱m[n]ama̱s[m]e te̍ | as[t]u । ra[k]ṣā̍ ca no̱ | adhi̍ ca deva [b]rū̱h{y}adhā̍ ca na̱ś [ś]ar[m]a̍ ya[c]cha [d]vi̱bar[h]ā̎ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "stu̱hi śru̱taṅ ga̍rta̱sada̱ṁi yuvā̍nam mṛ̱gan na bhī̱mamu̍paha̱tnumu̱gram । mṛ̱ḍā ja̍ri̱tre ru̍dra̱ stavā̍no | a̱nyante̍ | a̱sman niva̍pantu̱ senā̎ḥ",
-                "number": "8"
+                "number": "8",
+                "holdings": "stu̱hi [ś]ru̱taṅ [g]a̍r[t]a̱sada̱ṁi [y]uvā̍nam [m]ṛ̱gan [n]a bhī̱mamu̍paha̱[t]numu̱[g]ram । mṛ̱ḍā ja̍ri̱[t]re ru̍[d]ra̱ [s]tavā̍no | a̱n[y]an[t]e̍ | a̱s[m]a[n] niva̍pan[t]u̱ senā̎ḥ"
               },
               {
                 "devanagari": "",
                 "iast": "pari̍ ṇo ru̱drasya̍ he̱tirvṛ̍ṇaktu̱ pari̍ tve̱ṣasya̍ durma̱tira̍ghā̱yoḥ । ava̍ sthi̱rā ma̱ghava̍dbhyastanuṣva̱ mīḍhva̍sto̱kāya̱ tana̍yāya mṛḍaya",
-                "number": "9"
+                "number": "9",
+                "holdings": "pari̍ ṇo ru̱[d]ras[y]a̍ he̱tir[v]ṛ̍ṇa[k]tu̱ pari̍ [t]ve̱ṣas[y]a̍ dur[m]a̱tira̍ghā̱yoḥ । ava̍ [s]thi̱rā ma̱ghava̍[d]bhyas[t]anuṣ[v]a̱ mī{ḍh}va̍s[t]o̱kāya̱ tana̍yāya mṛḍaya"
               },
               {
                 "devanagari": "",
                 "iast": "mīḍhu̍ṣṭama̱ śiva̍tama śi̱vo na̍s su̱manā̍ bhava । pa̱ra̱me vṛ̱kṣa | āyu̍dhan ni̱dhāya̱ kṛtti̱ṁu vasā̍na̱ | āca̍ra̱ pinā̍ka̱m bibhra̱dāga̍hi",
-                "number": "10"
+                "number": "10",
+                "holdings": "mīḍhu̍ṣ[ṭ]ama̱ śiva̍tama śi̱vo na̍s [s]u̱manā̍ bhava । pa̱ra̱me vṛ̱[k]ṣa | āyu̍dhan [n]i̱dhāya̱ kṛ[t]ti̱ṁu [v]asā̍na̱ | āca̍ra̱ pinā̍ka̱m [b]i[bh]ra̱dāga̍hi"
               },
               {
                 "devanagari": "",
                 "iast": "viki̍rida̱ vilo̍hita̱ nama̍ste | astu bhagavaḥ । yāste̍ sa̱hasra̍gṁ he̱tayo̱'nyama̱smanniva̍pantu̱ tāḥ",
-                "number": "11"
+                "number": "11",
+                "holdings": "viki̍rida̱ vilo̍hita̱ nama̍s[t]e | as[t]u bhagavaḥ । yās{t}e̍ sa̱has[r]a̍gṁ [h]e̱tayo̱'n{y}ama̱s[m]a[n]niva̍pan[t]u̱ tāḥ"
               },
               {
                 "devanagari": "",
                 "iast": "sa̱hasrā̍ṇi sahasra̱dhā bā̍hu̱vostava̍ he̱taya̍ḥ । tāsā̱mīśā̍no bhagavaḥ(f) parā̱cīnā̱ mukhā̍ kṛdhi",
-                "number": "12"
+                "number": "12",
+                "holdings": "sa̱has[r]ā̍ṇi sahas[r]a̱dhā bā̍hu̱vos{t}ava̍ he̱taya̍ḥ । tāsā̱mīśā̍no bhagavaḥ(f) [p]arā̱cīnā̱ mukhā̍ kṛdhi"
               }
             ],
             "audio": {
@@ -3356,22 +3509,26 @@
               {
                 "devanagari": "",
                 "iast": "sa̱hasrā̍ṇi sahasra̱śo ye ru̱drā | adhi̱ bhūmyā̎m । teṣā̍gṁ sahasrayoja̱ne'va̱dhanvā̍ni tanmasi",
-                "number": "1"
+                "number": "1",
+                "holdings": "sa̱has[r]ā̍ṇi sahas[r]a̱śo ye ru̱[d]rā | adhi̱ bhūm{y}ā̎m । teṣā̍gṁ {s}ahas[r]ayoja̱ne'va̱dhan[v]ā̍ni tan[m]asi"
               },
               {
                 "devanagari": "",
                 "iast": "a̱sminma̍ha̱tya̍rṇa̱ve̎'ntari̍kṣe bha̱vā | adhi̍ ॥(teṣā̍gṁ) 2 nīla̍grīvāś śiti̱kaṇṭhā̎ś śa̱rvā | a̱dhaḥ:a kṣa̍māca̱rāḥ ॥(teṣā̍gṁ) 3 nīla̍grīvāś śiti̱kaṇṭhā̱ diva̍gṁ ru̱drā | upa̍śritāḥ ॥(teṣā̍gṁ) 4 ye vṛ̱kṣeṣu̍ sa̱spiñja̍rā̱ nīla̍grīvā̱ vilo̍hitāḥ ॥(teṣā̍gṁ) 5 ye bhū̱tānā̱madhi̍patayo viśi̱khāsa̍ḥ kapa̱rdina̍ḥ ॥(teṣā̍gṁ) 6 ye | anne̍ṣu vi̱vidhya̍nti̱ pātre̍ṣu̱ piba̍to̱ janān̍ ॥(teṣā̍gṁ) 7 ye pa̱thām pa̍thi̱rakṣa̍ya | ailabṛ̱dā ya̱vyudha̍ḥ ॥(teṣā̍gṁ) 8 ye tī̱rthāni̍ pra̱cara̍nti sṛ̱kāva̍nto niṣa̱ṅgiṇa̍ḥ ॥(teṣā̍gṁ) 9 ya | e̱tāva̍ntaśca̱ bhūyā̍gṁsaśca̱ diśo̍ ru̱drā vi̍tasthi̱re । teṣā̍gṁ sahasrayoja̱ne'va̱dhanvā̍ni tanmasi",
-                "number": "10"
+                "number": "10",
+                "holdings": "a̱s[m]in[m]a̍ha̱[t]ya̍r[ṇ]a̱ve̎'n{t}ari̍[k]ṣe bha̱vā | adhi̍ ॥(teṣā̍gṁ) 2 nīla̍[g]rīvāś {ś}iti̱kaṇ[ṭh]ā̎ś {ś}a̱r[v]ā | a̱dhaḥ:a [k]ṣa̍māca̱rāḥ ॥(teṣā̍gṁ) 3 nīla̍[g]rīvāś {ś}iti̱kaṇ[ṭh]ā̱ diva̍gṁ [r]u̱[d]rā | upa̍ś[r]itāḥ ॥(teṣā̍gṁ) 4 ye vṛ̱[k]ṣeṣu̍ sa̱s[p]iñ[j]a̍rā̱ nīla̍[g]rīvā̱ vilo̍hitāḥ ॥(teṣā̍gṁ) 5 ye bhū̱tānā̱madhi̍patayo viśi̱khāsa̍ḥ [k]apa̱r[d]ina̍ḥ ॥(teṣā̍gṁ) 6 ye | a[n]ne̍ṣu vi̱vi[dh]ya̍n[t]i̱ pā{t}re̍ṣu̱ piba̍to̱ janān̍ ॥(teṣā̍gṁ) 7 ye pa̱thām {p}a̍thi̱ra[k]ṣa̍ya | ailabṛ̱dā ya̱[v]yudha̍ḥ ॥(teṣā̍gṁ) 8 ye tī̱r{th}āni̍ [p]ra̱cara̍n[t]i sṛ̱kāva̍n[t]o niṣa̱ṅ[g]iṇa̍ḥ ॥(teṣā̍gṁ) 9 ya | e̱tāva̍n[t]aś[c]a̱ bhūyā̍gṁ{s}aś[c]a̱ diśo̍ ru̱[d]rā vi̍tas[th]i̱re । teṣā̍gṁ {s}ahas[r]ayoja̱ne'va̱dhan[v]ā̍ni tan[m]asi"
               },
               {
                 "devanagari": "",
                 "iast": "namo̍ ru̱drebhyo̱ ye pṛ̍thi̱vyāṁi ye̎'ntari̍kṣe̱ ye di̱vi yeṣā̱manna̱ṁu vāto̍ va̱rṣamiṣa̍va̱stebhyo̱ daśa̱ prācī̱rdaśa̍ dakṣi̱ṇā daśa̍ pra̱tīcī̱r daśo-dī̍cī̱r daśo̱-rdhvā-stebhyo̱ nama̱ste no̍ mṛḍayantu̱ te yan dvi̱ṣmo yaśca̍ no̱ dveṣṭi̱ taṁu vo̱ jambhe̍ dadhāmi",
-                "number": "11"
+                "number": "11",
+                "holdings": "namo̍ ru̱[d]re{bh}yo̱ ye pṛ̍thi̱[v]yāṁi {y}e̎'n{t}ari̍[k]ṣe̱ ye di̱vi yeṣā̱ma[n]na̱ṁu [v]āto̍ va̱r[ṣ]amiṣa̍va̱s[t]e{bh}yo̱ daśa̱ [p]rācī̱r{d}aśa̍ da[k]ṣi̱ṇā daśa̍ [p]ra̱tīcī̱r {d}aśo-dī̍cī̱r {d}aśo̱-r{dh}vā-s{t}e{bh}yo̱ nama̱s[t]e no̍ mṛḍayan[t]u̱ te yan [d]vi̱ṣ[m]o yaś[c]a̍ no̱ {d}veṣ[ṭ]i̱ taṁu [v]o̱ jam[bh]e̍ dadhāmi"
               },
               {
                 "devanagari": "",
                 "iast": "śrīrudrapraśnasyopasaṃhāra trya̍mbakaṁi yajāmahe suga̱ndhim pu̍ṣṭi̱vardha̍nam । u̱rvā̱ru̱kami̍va̱ bandha̍nānmṛ̱tyormu̍kṣīya̱ mā'mṛtā̎t ॥ yo ru̱dro | a̱gnau yo | a̱psu ya | oṣa̍dhīṣu̱ yo ru̱dro viśvā̱ bhuva̍nā vi̱veśa̱ tasmai̍ ru̱drāya̱ namo̍ | astu ॥ ye te̍ sa̱hasra̍ma̱yuta̱m pāśā̱ mṛtyo̱ martyā̍ya̱ hanta̍ve । tān ya̱jñasya̍ mā̱yayā̱ sarvā̱nava̍ yajāmahe । mṛ̱tyave̱ svāhā̍ mṛ̱tyave̱ svāhā̎ ॥ oṁ | namo bhagavate rudrāya viṣṇave mṛtyu̍rme pā̱hi । prāṇānāṅ granthirasi rudro mā̍ viśā̱ntakaḥ । tenānnenā̎pyāya̱sva । namo rudrāya viṣṇave mṛtyu̍rme pā̱hi । tamu̍ ṣṭu̱hi̱ yas svi̱ṣus su̱dhanvā̱ yo viśva̍sya̱ kṣaya̍ti bheṣa̱jasya̍ । yakṣvā̎ma̱he sau̎mana̱sāya̍ ru̱dran namo̎bhirde̱vamasu̍ran duvasya ॥ a̱yam me̱ hasto̱ bhaga̍vāna̱yam me̱ bhaga̍vattaraḥ । a̱yam me̎ vi̱śvabhe̎ṣajo̱'yagṁ śi̱vābhi̍marśanaḥ ॥",
-                "number": ""
+                "number": "",
+                "holdings": "śrīrudrapraśnasyopasaṃhāra trya̍m[b]akaṁi [y]ajāmahe suga̱n[dh]im [p]u̍ṣ[ṭ]i̱var[dh]a̍nam । u̱r[v]ā̱ru̱kami̍va̱ ban[dh]a̍nān{m}ṛ̱[t]yor{m}u̍[k]ṣīya̱ mā'mṛtā̎t ॥ yo ru̱[d]ro | a̱[g]nau yo | a̱[p]su ya | oṣa̍dhīṣu̱ yo ru̱[d]ro viś[v]ā̱ bhuva̍nā vi̱veśa̱ tas[m]ai̍ ru̱[d]rāya̱ namo̍ | as[t]u ॥ ye te̍ sa̱has[r]a̍ma̱yuta̱m [p]āśā̱ mṛ[t]yo̱ mar[t]yā̍ya̱ han[t]a̍ve । tān {y}a̱[j]ñas[y]a̍ mā̱yayā̱ sar[v]ā̱nava̍ yajāmahe । mṛ̱[t]yave̱ {s}vāhā̍ mṛ̱[t]yave̱ {s}vāhā̎ ॥ oṁ | {n}amo bhagavate ru[d]rāya viṣ[ṇ]ave mṛ[t]yu̍r[m]e pā̱hi । prāṇānāṅ {g}ran[th]irasi ru[d]ro mā̍ viśā̱n{t}akaḥ । tenā{n}nenā̎{p}yāya̱s[v]a । {n}amo ru[d]rāya viṣ[ṇ]ave mṛ[t]yu̍r[m]e pā̱hi । tamu̍ [ṣ]ṭu̱hi̱ yas [s]vi̱ṣus [s]u̱dhan[v]ā̱ yo viś[v]a̍s[y]a̱ [k]ṣaya̍ti bheṣa̱jas[y]a̍ । ya[k]ṣvā̎ma̱he sau̎mana̱sāya̍ ru̱[d]ran [n]amo̎bhir[d]e̱vamasu̍ran [d]uvas[y]a ॥ a̱yam [m]e̱ has[t]o̱ bhaga̍vāna̱yam [m]e̱ bhaga̍va[t]taraḥ । a̱yam [m]e̎ vi̱ś[v]abhe̎ṣajo̱'yagṁ [ś]i̱vābhi̍mar[ś]anaḥ ॥"
               },
               {
                 "devanagari": "",
@@ -3400,102 +3557,122 @@
               {
                 "devanagari": "",
                 "iast": "oṁ agnā̍viṣṇū sa̱joṣa̍se̱mā va̍rdhantu vā̱ṅ gira̍ḥ ।",
-                "number": ""
+                "number": "",
+                "holdings": "oṁ a[g]nā̍viṣ[ṇ]ū sa̱joṣa̍se̱mā va̍r[dh]an[t]u vā̱ṅ {g}ira̍ḥ ।"
               },
               {
                 "devanagari": "",
                 "iast": "dyu̱mnair vāje̍bhi̱rā-ga̍tam ॥",
-                "number": ""
+                "number": "",
+                "holdings": "dyu̱m[n]air {v}āje̍bhi̱rā-ga̍tam ॥"
               },
               {
                 "devanagari": "",
                 "iast": "vāja̍śca me prasa̱vaśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "vāja̍ś[c]a me {p}rasa̱vaś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "praya̍tiśca me̱ prasi̍tiśca me",
-                "number": ""
+                "number": "",
+                "holdings": "{p}raya̍tiś[c]a me̱ {p}rasi̍tiś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "dhī̱tiśca̍ me̱ kratu̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "dhī̱tiś[c]a̍ me̱ {k}ratu̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "svara̍śca me̱ śloka̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "{s}vara̍ś[c]a me̱ {ś}loka̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "śrā̱vaśca̍ me̱ śruti̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{ś}rā̱vaś[c]a̍ me̱ {ś}ruti̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "jyoti̍śca me̱ suva̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "{j}yoti̍ś[c]a me̱ suva̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "prā̱ṇaśca̍ me'pā̱naśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "{p}rā̱ṇaś[c]a̍ me'pā̱naś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "vyā̱naśca̱ me'su̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "{v}yā̱naś[c]a̱ me'su̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ci̱ttañ ca̍ ma̱ | ādhī̍tañ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ci̱[t]tañ [c]a̍ ma̱ | ādhī̍tañ [c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vākca̍ me̱ mana̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "vā{k}ca̍ me̱ mana̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "cakṣu̍śca me̱ śrotra̍ñ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ca[k]ṣu̍ś[c]a me̱ {ś}ro{t}ra̍ñ [c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "dakṣa̍śca me̱ bala̍ñ ca ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "da[k]ṣa̍ś[c]a me̱ bala̍ñ [c]a ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "oja̍śca me̱ saha̍śca ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "oja̍ś[c]a me̱ saha̍ś[c]a ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "āyu̍śca me ja̱rā ca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "āyu̍ś[c]a me ja̱rā ca̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "ā̱tmā ca̍ me ta̱nūśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ā̱{t}mā ca̍ me ta̱nūś{c}a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "śarma̍ ca me̱ varma̍ ca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "śar[m]a̍ ca me̱ var[m]a̍ ca̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'ṅgā̍ni ca me̱'sthāni̍ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "'ṅ{g}ā̍ni ca me̱'s{th}āni̍ ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "parū̍gṁṣi ca me̱ śarī̍rāṇi ca me",
-                "number": "1"
+                "number": "1",
+                "holdings": "parū̍gṁ{ṣ}i ca me̱ śarī̍rāṇi ca me"
               }
             ],
             "audio": {
@@ -3512,17 +3689,20 @@
               {
                 "devanagari": "",
                 "iast": "jyaiṣṭhya̍ñ ca ma̱ | ādhi̍patyañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "jyaiṣ{ṭh}ya̍ñ [c]a ma̱ | ādhi̍pa[t]yañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ma̱nyuśca̍ me̱ bhāma̍śca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "ma̱n[y]uś[c]a̍ me̱ bhāma̍ś[c]a̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'ma̍śca̱ me'mbha̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "'ma̍ś[c]a̱ me'm{bh}a̍ś[c]a me"
               },
               {
                 "devanagari": "",
@@ -3532,77 +3712,92 @@
               {
                 "devanagari": "",
                 "iast": "vari̱mā ca̍ me prathi̱mā ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "vari̱mā ca̍ me {p}rathi̱mā ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "va̱rṣmā ca̍ me drāghu̱yā ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "va̱rṣ[m]ā ca̍ me {d}rāghu̱yā ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "vṛ̱ddhañ ca̍ me̱ vṛddhi̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "vṛ̱[d]dhañ [c]a̍ me̱ vṛ[d]dhi̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "sa̱tyañ ca̍ me śra̱ddhā ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "sa̱[t]yañ [c]a̍ me {ś}ra̱[d]dhā ca̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "jaga̍cca me̱ dhana̍ñ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "jaga̍[c]ca me̱ dhana̍ñ [c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vaśa̍śca me̱ tviṣi̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "vaśa̍ś[c]a me̱ {t}viṣi̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "krī̱ḍā ca̍ me̱ moda̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "{k}rī̱ḍā ca̍ me̱ moda̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "jā̱tañ ca̍ me jani̱ṣyamā̍ṇañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "jā̱tañ [c]a̍ me jani̱ṣ[y]amā̍ṇañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "sū̱ktañ ca̍ me sukṛ̱tañ ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "sū̱{k}tañ [c]a̍ me sukṛ̱tañ [c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "vi̱ttañ ca̍ me̱ vedya̍ñ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "vi̱[t]tañ [c]a̍ me̱ ve{d}ya̍ñ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "bhū̱tañ ca̍ me bhavi̱ṣyacca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "bhū̱tañ [c]a̍ me bhavi̱ṣ[y]a[c]ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "su̱gañ ca̍ me su̱patha̍ñ ca ma |",
-                "number": ""
+                "number": "",
+                "holdings": "su̱gañ [c]a̍ me su̱patha̍ñ [c]a ma |"
               },
               {
                 "devanagari": "",
                 "iast": "ṛ̱ddhañ ca̍ ma̱ | ṛddhi̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "ṛ̱[d]dhañ [c]a̍ ma̱ | ṛ[d]dhi̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "kḷ̱ptañ ca̍ me̱ kḷpti̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "kḷ̱[p]tañ [c]a̍ me̱ kḷ[p]ti̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ma̱tiśca̍ me suma̱tiśca̍ me",
-                "number": "2"
+                "number": "2",
+                "holdings": "ma̱tiś[c]a̍ me suma̱tiś[c]a̍ me"
               }
             ],
             "audio": {
@@ -3619,92 +3814,110 @@
               {
                 "devanagari": "",
                 "iast": "śañ ca̍ me̱ maya̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "śañ [c]a̍ me̱ maya̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pri̱yañ ca̍ me'nukā̱maśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{p}ri̱yañ [c]a̍ me'nukā̱maś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "kāma̍śca me saumana̱saśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "kāma̍ś[c]a me saumana̱saś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "bha̱drañ ca̍ me̱ śreya̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "bha̱[d]rañ [c]a̍ me̱ {ś}reya̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vasya̍śca me̱ yaśa̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "vas[y]a̍ś[c]a me̱ yaśa̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "bhaga̍śca me̱ dravi̍ṇañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "bhaga̍ś[c]a me̱ {d}ravi̍ṇañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ya̱ntā ca̍ me dha̱rtā ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ya̱n[t]ā ca̍ me dha̱r[t]ā ca̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "kṣema̍śca me̱ dhṛti̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{k}ṣema̍ś[c]a me̱ dhṛti̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "viśva̍ñ ca me̱ maha̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "viś[v]a̍ñ [c]a me̱ maha̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "sa̱mvicca̍ me̱ jñātra̍ñ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "sa̱m[v]i[c]ca̍ me̱ {j}ñā{t}ra̍ñ [c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sūśca̍ me pra̱sūśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "sūś{c}a̍ me {p}ra̱sūś{c}a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sīra̍ñ ca me la̱yaśca̍ ma",
-                "number": ""
+                "number": "",
+                "holdings": "sīra̍ñ [c]a me la̱yaś[c]a̍ ma"
               },
               {
                 "devanagari": "",
                 "iast": "ṛ̱tañ ca̍ me̱'mṛta̍ñ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "ṛ̱tañ [c]a̍ me̱'mṛta̍ñ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "'ya̱kṣmañ ca̱ me'nā̍mayacca me",
-                "number": ""
+                "number": "",
+                "holdings": "'ya̱[k]ṣmañ [c]a̱ me'nā̍maya[c]ca me"
               },
               {
                 "devanagari": "",
                 "iast": "jī̱vātu̍śca me dīrghāyu̱tvañ ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "jī̱vātu̍ś[c]a me dīr{gh}āyu̱[t]vañ [c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "'nami̱trañ ca̱ me'bha̍yañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "'nami̱[t]rañ [c]a̱ me'bha̍yañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "su̱gañ ca̍ me̱ śaya̍nañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "su̱gañ [c]a̍ me̱ śaya̍nañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "sū̱ṣā ca̍ me su̱dina̍ñ ca me",
-                "number": "3"
+                "number": "3",
+                "holdings": "sū̱ṣā ca̍ me su̱dina̍ñ [c]a me"
               }
             ],
             "audio": {
@@ -3721,97 +3934,116 @@
               {
                 "devanagari": "",
                 "iast": "ūrkca̍ me sū̱nṛtā̍ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ūr{k}ca̍ me sū̱nṛtā̍ ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "paya̍śca me̱ rasa̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "paya̍ś[c]a me̱ rasa̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ghṛ̱tañ ca̍ me̱ madhu̍ ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ghṛ̱tañ [c]a̍ me̱ madhu̍ ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sagdhi̍śca me̱ sapī̍tiśca me",
-                "number": ""
+                "number": "",
+                "holdings": "sa[g]dhi̍ś[c]a me̱ sapī̍tiś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "kṛ̱ṣiśca̍ me̱ vṛṣṭi̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "kṛ̱ṣiś[c]a̍ me̱ vṛṣ[ṭ]i̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "jaitra̍ñ ca ma̱ | audbhi̍dyañ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "jai{t}ra̍ñ [c]a ma̱ | au{d}bhi̍[d]yañ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ra̱yiśca̍ me̱ rāya̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "ra̱yiś[c]a̍ me̱ rāya̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pu̱ṣṭañ ca̍ me̱ puṣṭi̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "pu̱ṣ[ṭ]añ [c]a̍ me̱ puṣ[ṭ]i̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "vi̱bhu ca̍ me pra̱bhu ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "vi̱bhu ca̍ me {p}ra̱bhu ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "ba̱hu ca̍ me̱ bhūya̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "ba̱hu ca̍ me̱ bhūya̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pū̱rṇañ ca̍ me pū̱rṇata̍rañ ca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "pū̱r{ṇ}añ [c]a̍ me pū̱r{ṇ}ata̍rañ [c]a̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'kṣi̍tiśca me̱ kūya̍vāśca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "'{k}ṣi̍tiś[c]a me̱ kūya̍vāś{c}a̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'nna̍ñ ca̱ me'kṣu̍cca me",
-                "number": ""
+                "number": "",
+                "holdings": "'{n}na̍ñ [c]a̱ me'{k}ṣu̍[c]ca me"
               },
               {
                 "devanagari": "",
                 "iast": "vrī̱haya̍śca me̱ yavā̎śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{v}rī̱haya̍ś[c]a me̱ yavā̎ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "māṣā̎śca me̱ tilā̎śca me",
-                "number": ""
+                "number": "",
+                "holdings": "māṣā̎ś{c}a me̱ tilā̎ś{c}a me"
               },
               {
                 "devanagari": "",
                 "iast": "mu̱dgāśca̍ me kha̱lvā̎śca me",
-                "number": ""
+                "number": "",
+                "holdings": "mu̱[d]gāś{c}a̍ me kha̱[l]vā̎ś{c}a me"
               },
               {
                 "devanagari": "",
                 "iast": "go̱dhūmā̎śca me ma̱surā̎śca me",
-                "number": ""
+                "number": "",
+                "holdings": "go̱dhūmā̎ś{c}a me ma̱surā̎ś{c}a me"
               },
               {
                 "devanagari": "",
                 "iast": "pri̱yaṅga̍vaśca̱ me'ṇa̍vaśca me",
-                "number": ""
+                "number": "",
+                "holdings": "{p}ri̱yaṅ[g]a̍vaś[c]a̱ me'ṇa̍vaś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "śyā̱mākā̎śca me nī̱vārā̎śca me",
-                "number": "4"
+                "number": "4",
+                "holdings": "{ś}yā̱mākā̎ś{c}a me nī̱vārā̎ś{c}a me"
               }
             ],
             "audio": {
@@ -3828,82 +4060,98 @@
               {
                 "devanagari": "",
                 "iast": "aśmā̍ ca me̱ mṛtti̍kā ca me",
-                "number": ""
+                "number": "",
+                "holdings": "aś[m]ā̍ ca me̱ mṛ[t]ti̍kā ca me"
               },
               {
                 "devanagari": "",
                 "iast": "gi̱raya̍śca me̱ parva̍tāśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "gi̱raya̍ś[c]a me̱ par[v]a̍tāś{c}a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sika̍tāśca me̱ vana̱spata̍yaśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "sika̍tāś{c}a me̱ vana̱s[p]ata̍yaś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "hira̍ṇyañ ca̱ me'ya̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "hira̍ṇ[y]añ [c]a̱ me'ya̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sīsa̍ñ ca me̱ trapu̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "sīsa̍ñ [c]a me̱ {t}rapu̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "śyā̱mañ ca̍ me lo̱hañ ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{ś}yā̱mañ [c]a̍ me lo̱hañ [c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'gniśca̍ ma̱ | āpa̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "'{g}niś[c]a̍ ma̱ | āpa̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "vī̱rudha̍śca ma̱ | oṣa̍dhayaśca me",
-                "number": ""
+                "number": "",
+                "holdings": "vī̱rudha̍ś[c]a ma̱ | oṣa̍dhayaś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "kṛṣṭapa̱cyañ ca̍ me'kṛṣṭapa̱cyañ ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "kṛṣ[ṭ]apa̱c[y]añ [c]a̍ me'kṛṣ[ṭ]apa̱c[y]añ [c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "grā̱myāśca̍ me pa̱śava̍ | āra̱ṇyāśca̍ ya̱jñena̍ kalpantāṁu",
-                "number": ""
+                "number": "",
+                "holdings": "{g}rā̱m{y}āś{c}a̍ me pa̱śava̍ | āra̱ṇ[y]āś{c}a̍ ya̱[j]ñena̍ ka[l]pan[t]āṁu"
               },
               {
                 "devanagari": "",
                 "iast": "vi̱ttañ ca̍ me̱ vitti̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "vi̱[t]tañ [c]a̍ me̱ vi[t]ti̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "bhū̱tañ ca̍ me̱ bhūti̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "bhū̱tañ [c]a̍ me̱ bhūti̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vasu̍ ca me vasa̱tiśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "vasu̍ ca me vasa̱tiś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "karma̍ ca me̱ śakti̍śca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "kar[m]a̍ ca me̱ śa[k]ti̍ś[c]a̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'rtha̍śca ma̱ | ema̍śca ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "'r{th}a̍ś[c]a ma̱ | ema̍ś[c]a ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "iti̍śca me̱ gati̍śca me",
-                "number": "5"
+                "number": "5",
+                "holdings": "iti̍ś[c]a me̱ gati̍ś[c]a me"
               }
             ],
             "audio": {
@@ -3920,102 +4168,122 @@
               {
                 "devanagari": "",
                 "iast": "a̱gniśca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "a̱[g]niś[c]a̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "soma̍śca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "soma̍ś[c]a ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "savi̱tā ca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "savi̱tā ca̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sara̍svatī ca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "sara̍s[v]atī ca ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pū̱ṣā ca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "pū̱ṣā ca̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "bṛha̱spati̍śca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "bṛha̱s[p]ati̍ś[c]a ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "mi̱traśca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "mi̱[t]raś[c]a̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "varu̍ṇaśca ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "varu̍ṇaś[c]a ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "tvaṣṭā̍ ca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "{t}vaṣ[ṭ]ā̍ ca ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "dhā̱tā ca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "dhā̱tā ca̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "viṣṇu̍śca ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "viṣ[ṇ]u̍ś[c]a ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'śvinau̍ ca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "'ś{v}inau̍ ca ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ma̱ruta̍śca ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ma̱ruta̍ś[c]a ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "viśve̍ ca me de̱vā | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "viś[v]e̍ ca me de̱vā | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pṛthi̱vī ca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "pṛthi̱vī ca̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'ntari̍kṣañ ca ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "'n{t}ari̍[k]ṣañ [c]a ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "dyauśca̍ ma̱ | indra̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{d}yauś{c}a̍ ma̱ | in[d]ra̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "diśa̍śca ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "diśa̍ś[c]a ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "mū̱rddhā ca̍ ma̱ | indra̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "mū̱r{d}dhā ca̍ ma̱ | in[d]ra̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "pra̱jāpa̍tiśca ma̱ | indra̍śca me",
-                "number": "6"
+                "number": "6",
+                "holdings": "{p}ra̱jāpa̍tiś[c]a ma̱ | in[d]ra̍ś[c]a me"
               }
             ],
             "audio": {
@@ -4032,72 +4300,86 @@
               {
                 "devanagari": "",
                 "iast": "a̱gṁśuśca̍ me ra̱śmiśca̱ me",
-                "number": ""
+                "number": "",
+                "holdings": "a̱gṁ[ś]uś[c]a̍ me ra̱ś[m]iś[c]a̱ me"
               },
               {
                 "devanagari": "",
                 "iast": "'dā̎bhyaśca̱ me'dhi̍patiśca ma |",
-                "number": ""
+                "number": "",
+                "holdings": "'dā̎{bh}yaś[c]a̱ me'dhi̍patiś[c]a ma |"
               },
               {
                 "devanagari": "",
                 "iast": "upā̱gṁśuśca̍ me'ntaryā̱maśca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "upā̱gṁ{ś}uś[c]a̍ me'n{t}ar[y]ā̱maś[c]a̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "aindravāya̱vaśca̍ me maitrāvaru̱ṇaśca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "ain{d}ravāya̱vaś[c]a̍ me mai{t}rāvaru̱ṇaś[c]a̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "āśvi̱naśca̍ me pratipra̱sthāna̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "āś{v}i̱naś[c]a̍ me {p}rati[p]ra̱s[th]āna̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "śu̱kraśca̍ me ma̱nthī ca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "śu̱[k]raś[c]a̍ me ma̱n[th]ī ca̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "āgraya̱ṇaśca̍ me vaiśvade̱vaśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "ā{g}raya̱ṇaś[c]a̍ me vaiś{v}ade̱vaś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "dhru̱vaśca̍ me vaiśvāna̱raśca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "{dh}ru̱vaś[c]a̍ me vaiś{v}āna̱raś[c]a̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "ṛtugra̱hāśca̍ me'tigrā̱hyā̎śca ma |",
-                "number": ""
+                "number": "",
+                "holdings": "ṛtu[g]ra̱hāś[c]a̍ me'ti[g]rā̱h{y}ā̎ś[c]a ma |"
               },
               {
                 "devanagari": "",
                 "iast": "aindrā̱gnaśca̍ me vaiśvade̱vaśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "ain{d}rā̱{g}naś[c]a̍ me vaiś{v}ade̱vaś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "marutva̱tīyā̎śca me māhe̱ndraśca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "maru[t]va̱tīyā̎ś{c}a me māhe̱n{d}raś[c]a̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "ādi̱tyaśca̍ me sāvi̱traśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "ādi̱[t]yaś[c]a̍ me sāvi̱[t]raś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "sārasva̱taśca̍ me pau̱ṣṇaśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "sāras[v]a̱taś[c]a̍ me pau̱ṣ{ṇ}aś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "pātnīva̱taśca̍ me hāriyoja̱naśca̍ me",
-                "number": "7"
+                "number": "7",
+                "holdings": "pā{t}nīva̱taś[c]a̍ me hāriyoja̱naś[c]a̍ me"
               }
             ],
             "audio": {
@@ -4114,57 +4396,68 @@
               {
                 "devanagari": "",
                 "iast": "i̱dhmaśca̍ me ba̱rhiśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "i̱[dh]maś[c]a̍ me ba̱r[h]iś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vedi̍śca me̱ dhiṣṇi̍yāśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "vedi̍ś[c]a me̱ dhiṣ[ṇ]i̍yāś{c}a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sruca̍śca me cama̱sāśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{s}ruca̍ś[c]a me cama̱sāś{c}a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "grāvā̍ṇaśca me̱ svara̍vaśca ma |",
-                "number": ""
+                "number": "",
+                "holdings": "{g}rāvā̍ṇaś[c]a me̱ {s}vara̍vaś[c]a ma |"
               },
               {
                 "devanagari": "",
                 "iast": "upara̱vāśca̍ me'dhi̱ṣava̍ṇe ca me",
-                "number": ""
+                "number": "",
+                "holdings": "upara̱vāś{c}a̍ me'dhi̱ṣava̍ṇe ca me"
               },
               {
                 "devanagari": "",
                 "iast": "droṇakala̱śaśca̍ me vāya̱vyā̍ni ca me",
-                "number": ""
+                "number": "",
+                "holdings": "{d}roṇakala̱śaś[c]a̍ me vāya̱[v]yā̍ni ca me"
               },
               {
                 "devanagari": "",
                 "iast": "pūta̱bhṛcca̍ ma | ādhava̱nīya̍śca ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "pūta̱bhṛ[c]ca̍ ma | ādhava̱nīya̍ś[c]a ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "āgnī̎dhrañ ca me havi̱rdhāna̍ñ ca me",
-                "number": ""
+                "number": "",
+                "holdings": "ā{g}nī̎{dh}rañ [c]a me havi̱r[dh]āna̍ñ [c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "gṛ̱hāśca̍ me̱ sada̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "gṛ̱hāś{c}a̍ me̱ sada̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "puro̱ḍāśā̎śca me paca̱tāśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "puro̱ḍāśā̎ś[c]a me paca̱tāś{c}a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "'vabhṛ̱thaśca̍ me svagākā̱raśca̍ me",
-                "number": "8"
+                "number": "8",
+                "holdings": "'vabhṛ̱thaś[c]a̍ me {s}vagākā̱raś[c]a̍ me"
               }
             ],
             "audio": {
@@ -4181,67 +4474,80 @@
               {
                 "devanagari": "",
                 "iast": "a̱gniśca̍ me gha̱rmaśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "a̱[g]niś[c]a̍ me gha̱r[m]aś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'rkaśca̍ me̱ sūrya̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "'r{k}aś[c]a̍ me̱ sūr{y}a̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "prā̱ṇaśca̍ me'śvame̱dhaśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "{p}rā̱ṇaś[c]a̍ me'ś{v}ame̱dhaś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "pṛthi̱vī ca̱ me'di̍tiśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "pṛthi̱vī ca̱ me'di̍tiś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "diti̍śca me̱ dyauśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "diti̍ś[c]a me̱ {d}yauś{c}a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "śakva̍rīra̱ṅgula̍yo̱ diśa̍śca me",
-                "number": ""
+                "number": "",
+                "holdings": "śa[k]va̍rīra̱ṅ[g]ula̍yo̱ diśa̍ś[c]a me"
               },
               {
                 "devanagari": "",
                 "iast": "ya̱jñena̍ kalpantā̱mṛkca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ya̱[j]ñena̍ ka[l]pan[t]ā̱mṛ[k]ca̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "sāma̍ ca me̱ stoma̍śca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "sāma̍ ca me̱ {s}toma̍ś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "yaju̍śca me dī̱kṣā ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "yaju̍ś[c]a me dī̱{k}ṣā ca̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "tapa̍śca ma | ṛ̱tuśca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "tapa̍ś[c]a ma | ṛ̱tuś[c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "vra̱tañ ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "{v}ra̱tañ [c]a̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "'horā̱trayo̎rvṛ̱ṣṭyā bṛ̍hadrathanta̱re ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "'horā̱{t}rayo̎r{v}ṛ̱ṣ[ṭ]yā bṛ̍ha[d]rathan[t]a̱re ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "ya̱jñena̍ kalpetām",
-                "number": "9"
+                "number": "9",
+                "holdings": "ya̱[j]ñena̍ ka[l]petām"
               }
             ],
             "audio": {
@@ -4258,82 +4564,98 @@
               {
                 "devanagari": "",
                 "iast": "garbhā̎śca me va̱tsāśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "gar[bh]ā̎ś{c}a me va̱[t]sāś{c}a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "tryavi̍śca me trya̱vī ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "{t}ryavi̍ś[c]a me {t}rya̱vī ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "ditya̱vāṭ ca̍ me dityau̱hī ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "di[t]ya̱vāṭ {c}a̍ me di[t]yau̱hī ca̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "pañcā̍viśca me pañcā̱vī ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "pañ[c]ā̍viś[c]a me pañ[c]ā̱vī ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "triva̱tsaśca̍ me triva̱tsā ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "{t}riva̱[t]saś[c]a̍ me {t}riva̱[t]sā ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "turya̱vāṭ ca̍ me turyau̱hī ca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "tur[y]a̱vāṭ {c}a̍ me tur[y]au̱hī ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "paṣṭha̱vācca̍ me paṣṭhau̱hī ca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "paṣ[ṭh]a̱vā{c}ca̍ me paṣ[ṭh]au̱hī ca̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "u̱kṣā ca̍ me va̱śā ca̍ ma |",
-                "number": ""
+                "number": "",
+                "holdings": "u̱[k]ṣā ca̍ me va̱śā ca̍ ma |"
               },
               {
                 "devanagari": "",
                 "iast": "ṛṣa̱bhaśca̍ me ve̱hacca̍ me",
-                "number": ""
+                "number": "",
+                "holdings": "ṛṣa̱bhaś[c]a̍ me ve̱ha[c]ca̍ me"
               },
               {
                 "devanagari": "",
                 "iast": "'na̱ḍvāñca̍ me dhe̱nuśca̍ ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "'na̱[ḍ]vāñ{c}a̍ me dhe̱nuś[c]a̍ ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "āyu̍rya̱jñena̍ kalpatām",
-                "number": ""
+                "number": "",
+                "holdings": "āyu̍r[y]a̱[j]ñena̍ ka[l]patām"
               },
               {
                 "devanagari": "",
                 "iast": "prā̱ṇo ya̱jñena̍ kalpatāmapā̱no ya̱jñena̍ kalpatāṁu",
-                "number": ""
+                "number": "",
+                "holdings": "{p}rā̱ṇo ya̱[j]ñena̍ ka[l]patāmapā̱no ya̱[j]ñena̍ ka[l]patāṁu"
               },
               {
                 "devanagari": "",
                 "iast": "vyā̱no ya̱jñena̍ kalpatā̱ñ cakṣu̍rya̱jñena̍ kalpatā̱g",
-                "number": ""
+                "number": "",
+                "holdings": "{v}yā̱no ya̱[j]ñena̍ ka[l]patā̱ñ {c}a[k]ṣu̍r[y]a̱[j]ñena̍ ka[l]patā̱g"
               },
               {
                 "devanagari": "",
                 "iast": "śrotra̍ṁi ya̱jñena̍ kalpatā̱m mano̍ ya̱jñena̍ kalpatā̱ṁu",
-                "number": ""
+                "number": "",
+                "holdings": "{ś}ro{t}ra̍ṁi [y]a̱[j]ñena̍ ka[l]patā̱m {m}ano̍ ya̱[j]ñena̍ ka[l]patā̱ṁu"
               },
               {
                 "devanagari": "",
                 "iast": "vāgya̱jñena̍ kalpatāmā̱tmā ya̱jñena̍ kalpatāṁi",
-                "number": ""
+                "number": "",
+                "holdings": "{v}ā{g}ya̱[j]ñena̍ ka[l]patāmā̱{t}mā ya̱[j]ñena̍ ka[l]patāṁi"
               },
               {
                 "devanagari": "",
                 "iast": "ya̱jño ya̱jñena̍ kalpatām",
-                "number": "10"
+                "number": "10",
+                "holdings": "{y}a̱[j]ño ya̱[j]ñena̍ ka[l]patām"
               }
             ],
             "audio": {
@@ -4350,12 +4672,14 @@
               {
                 "devanagari": "",
                 "iast": "ekā̍ ca me ti̱sraśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ekā̍ ca me ti̱s[r]aś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "pañca̍ ca me sa̱pta ca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "pañ[c]a̍ ca me sa̱[p]ta ca̍ me̱"
               },
               {
                 "devanagari": "",
@@ -4365,82 +4689,98 @@
               {
                 "devanagari": "",
                 "iast": "trayo̍daśa ca me̱ pañca̍daśa ca me",
-                "number": ""
+                "number": "",
+                "holdings": "{t}rayo̍daśa ca me̱ pañ[c]a̍daśa ca me"
               },
               {
                 "devanagari": "",
                 "iast": "sa̱ptada̍śa ca me̱ nava̍daśa ca ma̱ |",
-                "number": ""
+                "number": "",
+                "holdings": "sa̱[p]tada̍śa ca me̱ nava̍daśa ca ma̱ |"
               },
               {
                 "devanagari": "",
                 "iast": "eka̍vigṁśatiśca me̱ trayo̍vigṁśatiśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "eka̍vigṁ[ś]atiś[c]a me̱ {t}rayo̍vigṁ[ś]atiś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "pañca̍vigṁśatiśca me sa̱ptavi̍gṁśatiśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "pañ[c]a̍vigṁ[ś]atiś[c]a me sa̱[p]tavi̍gṁ[ś]atiś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "nava̍vigṁśatiśca ma̱ | eka̍trigṁśacca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "nava̍vigṁ[ś]atiś[c]a ma̱ | eka̍[t]rigṁ[ś]a[c]ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "traya̍strigṁśacca me̱ cata̍sraśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "{t}raya̍s[t]rigṁ[ś]a[c]ca me̱ cata̍s[r]aś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'ṣṭau ca̍ me̱ dvāda̍śa ca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "'ṣ{ṭ}au ca̍ me̱ {d}vāda̍śa ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "ṣoḍa̍śa ca me vigṁśa̱tiśca̍ me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ṣoḍa̍śa ca me vigṁ[ś]a̱tiś[c]a̍ me̱"
               },
               {
                 "devanagari": "",
                 "iast": "catu̍rvigṁśatiśca me̱'ṣṭāvi̍gṁśatiśca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "catu̍r[v]igṁ[ś]atiś[c]a me̱'ṣ{ṭ}āvi̍gṁ[ś]atiś[c]a me̱"
               },
               {
                 "devanagari": "",
                 "iast": "dvātri̍gṁśacca me̱ ṣaṭtri̍gṁśacca me",
-                "number": ""
+                "number": "",
+                "holdings": "{d}vā{t}ri̍gṁ[ś]a[c]ca me̱ ṣa[ṭ]tri̍gṁ[ś]a[c]ca me"
               },
               {
                 "devanagari": "",
                 "iast": "catvāri̱gṁśacca̍ me̱ catu̍ścatvārigṁśacca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "ca[t]vāri̱gṁ[ś]a[c]ca̍ me̱ catu̍ś[c]a[t]vārigṁ[ś]a[c]ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "'ṣṭāca̍tvārigṁśacca me̱",
-                "number": ""
+                "number": "",
+                "holdings": "'ṣ{ṭ}āca̍[t]vārigṁ[ś]a[c]ca me̱"
               },
               {
                 "devanagari": "",
                 "iast": "vāja̍śca prasa̱vaścā̍pi̱jaśca̱",
-                "number": ""
+                "number": "",
+                "holdings": "vāja̍ś[c]a [p]rasa̱vaś[c]ā̍pi̱jaś[c]a̱"
               },
               {
                 "devanagari": "",
                 "iast": "kratu̍śca̱ suva̍śca mū̱rdhā ca̱",
-                "number": ""
+                "number": "",
+                "holdings": "[k]ratu̍ś[c]a̱ suva̍ś[c]a mū̱r{dh}ā ca̱"
               },
               {
                 "devanagari": "",
                 "iast": "vyaśñi̍yaścāntyāya̱naścāntya̍śca",
-                "number": ""
+                "number": "",
+                "holdings": "[v]yaś[ñ]i̍yaś[c]ān{t}yāya̱naś[c]ān{t}ya̍ś[c]a"
               },
               {
                 "devanagari": "",
                 "iast": "bhauva̱naśca̱ bhuva̍na̱ścādhi̍patiśca",
-                "number": "11"
+                "number": "11",
+                "holdings": "bhauva̱naś[c]a̱ bhuva̍na̱ś[c]ādhi̍patiś[c]a"
               },
               {
                 "devanagari": "",
@@ -4450,47 +4790,56 @@
               {
                 "devanagari": "",
                 "iast": "oṁ iḍā̍ deva̱hūr manu̍r yajña̱nīr bṛha̱spati̍ru-kthāma̱dāni̍",
-                "number": ""
+                "number": "",
+                "holdings": "oṁ iḍā̍ deva̱hūr {m}anu̍r [y]a[j]ña̱nīr {b}ṛha̱s[p]ati̍ru-[k]thāma̱dāni̍"
               },
               {
                 "devanagari": "",
                 "iast": "śagṁsiṣa̱d viśve̍de̱vās sū̎kta̱vāca̱ḥ(f)",
-                "number": ""
+                "number": "",
+                "holdings": "śagṁ[s]iṣa̱[d] viś[v]e̍de̱vās {s}ū̎{k}ta̱vāca̱ḥ(f)"
               },
               {
                 "devanagari": "",
                 "iast": "pṛthi̍vi māta̱rmā mā̍ higṁsī̱r",
-                "number": ""
+                "number": "",
+                "holdings": "[p]ṛthi̍vi māta̱r[m]ā mā̍ higṁ[s]ī̱r"
               },
               {
                 "devanagari": "",
                 "iast": "madhu̍ maniṣye̱ madhu̍ janiṣye̱",
-                "number": ""
+                "number": "",
+                "holdings": "{m}adhu̍ maniṣ[y]e̱ madhu̍ janiṣ[y]e̱"
               },
               {
                 "devanagari": "",
                 "iast": "madhu̍ vakṣyāmi̱ madhu̍ vadiṣyāmi̱",
-                "number": ""
+                "number": "",
+                "holdings": "madhu̍ va[k]ṣyāmi̱ madhu̍ vadiṣ[y]āmi̱"
               },
               {
                 "devanagari": "",
                 "iast": "madhu̍matīn de̱vebhyo̱ vāca̍mudyāsagṁ",
-                "number": ""
+                "number": "",
+                "holdings": "madhu̍matīn {d}e̱ve{bh}yo̱ vāca̍mu[d]yāsagṁ"
               },
               {
                 "devanagari": "",
                 "iast": "śuśrū̱ṣeṇyā̎m manu̱ṣye̎bhya̱s",
-                "number": ""
+                "number": "",
+                "holdings": "[ś]uś[r]ū̱ṣeṇ{y}ā̎m {m}anu̱ṣ[y]e̎{bh}ya̱s"
               },
               {
                 "devanagari": "",
                 "iast": "tam mā̍ de̱vā | a̍vantu śo̱bhāyai̍ pi̱taro'nu̍madantu ॥",
-                "number": ""
+                "number": "",
+                "holdings": "[t]am [m]ā̍ de̱vā | a̍van[t]u śo̱bhāyai̍ pi̱taro'nu̍madan[t]u ॥"
               },
               {
                 "devanagari": "",
                 "iast": "oṁ śānti̱ś śānti̱ś śānti̍ḥ ॥",
-                "number": ""
+                "number": "",
+                "holdings": "oṁ śān{t}i̱ś [ś]ān{t}i̱ś [ś]ān{t}i̍ḥ ॥"
               }
             ],
             "audio": {
@@ -4503,7 +4852,7 @@
         ]
       }
     ],
-    "overview": "Śrī Rudram is the central hymn to Rudra in the Kṛṣṇa Yajur Veda. Its first half, the Namakam, is named for the word namaḥ — salutations — which recurs throughout as Rudra is saluted in every form and in every place. Its second half, the Chamakam, is named for the phrase ca me — and for me — in which each verse asks that some good be granted.",
+    "overview": "In every religion, God is revered as light (Fire). In fact, in every religion fire finds a place in rituals as it is the symbol of God. Yajna (which means Sacred Fire Ceremony) is the most ancient form of worship from time immemorial. Vedas invoke fire to offer worship to various Gods. Zorathustra worshipped Ahura Mazda as fire which is the main altar in every Zorathustran temple. Moses witnessed God as fire in Mount Sinai and the Jews worship their God as a pillar of fire. The Christians declare that their God is a consuming fire. In the Bible (John 9:5) it is said, \"While I am in the world, I am the light of the world.\" \"God is light.\" Fire symbolizes the brilliance of the Lord. Fire stands purification, sacrifice, effulgence and illumination. Fire is symbolic of the supreme wisdom and the sacrificial offering is symbolic of transformation from changing to the changeless.\n\nThe Vedas are the oldest scriptures of mankind. Vedas refer to the supreme effulgence, the very basis of the entire cosmos and creation, a pillar of fire that pervades the entire cosmos without a beginning or end, as Rudra. Hence, the source of creation is the divine energy and effulgence referred to as Siva and extolled in the Vedas by a specific hymn as Sri Rudram. Sri Rudram is the centre piece of the entire Vedas and appears in the fourth kaanda of the Thaittireeya Samhita of Yajur Veda. According to Sanatana Dharma, this supreme hymn Sri Rudram has the power to attract divine positive energy (which means Siva), for the benefit of the practitioner, his or her household, the world, and the universe at large. All Vedic hymns, particularly Sri Rudram, stands out for the majesty of diction and the sweetness and vibrations of the sound heals the body and mind.\n\nSri Rudram, the Vedic homage to Lord Rudra is remarkable for its phonetic grandeur and universality of approach to the Divine. ‘Rudra’ in fact is not a sectarian deity, but the Supreme Being, who is omnipresent and manifests in different forms for the sake of divine spiritual aspirants. Changeless and formless, Siva is in essence the self in our hearts, infinite, and all pervasive. Sri Rudram declares that Rudra is in the fire, in the water, and in the herbs, and has entered into creation. According to Sri Sankara Bhagavadpada, Siva is of measureless majesty and unequal splendor, who is the refuge of the saintly souls and who is a source of great solace. He is smaller than the smallest and yet greater than the greatest!\n\nSri Rudram conists of 11 chapters (Anuvakams) of Namakam and Camakam. Namakam extols the divine light of creator reflected in the creation. Camakam is prayer that invokes the grace of the divine in various material and spiritual powers which are in turn offered to the Supreme Being in surrender and sacrifice. Chanting Sri Rudram purifies the individual at all levels including the body, mind, and the intellect. Purification of the self leads to unity with the creation and creator, and ultimately realizing the divinity within ourselves and the entire creation.\n\nThe positive energy and light of Sri Rudram is invoked by two most powerful rituals; a) Yajna or homa or sacred fire, b) abhisheka, an offering that includes worship using holy waters and other liquids such as milk, honey, etc. Doing these rituals along with the chanting of the divine mantras amplifies the power of the mantras several thousand fold. For example, chanting Sri Rudram while offering into the sacred fire is believed to amplify the energy of the mantra at least 100,000 fold.",
     "structure": "Eleven anuvākas in each half, chanted in sequence. Classes usually work through one anuvāka at a time, which is how the anuvākas are presented here.",
     "wordMeanings": [
       {
